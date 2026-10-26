@@ -435,3 +435,4 @@
 1623	UPLOADED	Kala Khatta Episode 2
 3324	UPLOADED	Jamai Raja Episode 6
 3325	SKIPPED	Love Bites Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%201.mp4
+3326	SKIPPED	Love Bites Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%202.mp4
