@@ -41,3 +41,4 @@
 3008	SKIPPED	Maya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Maya/Maya%20Episode%201.mp4
 1540	UPLOADED	Tauba Tauba Episode 1
 3009	UPLOADED	Plan B Episode 4
+3010	UPLOADED	Plan B Episode 3
