@@ -382,3 +382,4 @@
 3279	SKIPPED	Rajni Kaand Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E3.mp4
 3280	SKIPPED	Rajni Kaand Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E4.mp4
 3281	SKIPPED	Rajni Kaand S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E1.mp4
+3282	SKIPPED	Rajni Kaand S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E2.mp4
