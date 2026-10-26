@@ -389,3 +389,4 @@
 3285	UPLOADED	Chadar Badli Episode 4
 1615	UPLOADED	Khul Ja Sim Sim Episode 6
 3286	UPLOADED	Chadar Badli Episode 3
+3287	UPLOADED	Chadar Badli Episode 2
