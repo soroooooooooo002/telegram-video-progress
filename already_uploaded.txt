@@ -430,3 +430,4 @@
 3320	UPLOADED	Jamai Raja Episode 2
 3321	UPLOADED	Jamai Raja Episode 3
 1622	UPLOADED	Kala Khatta Episode 5
+3322	UPLOADED	Jamai Raja Episode 4
