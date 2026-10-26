@@ -144,3 +144,4 @@
 3062	UPLOADED	Paheli Episode 2
 1590	UPLOADED	Riti Riwaj Haldi Episode 1
 1591	UPLOADED	Promotion Episode 2
+1592	UPLOADED	Promotion Episode 1
