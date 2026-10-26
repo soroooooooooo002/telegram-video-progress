@@ -130,3 +130,4 @@
 3059	SKIPPED	Aakarshan Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aakarshan/Aakarshan%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1579	UPLOADED	Riti Riwaj Water Wives Episode 2
 1580	UPLOADED	Riti Riwaj Water Wives Episode 1
+1581	UPLOADED	Riti Riwaj Tijarat Episode 3
