@@ -339,3 +339,4 @@
 1600	UPLOADED	Naye Padosi Episode 1
 3249	UPLOADED	Shudh Shakahari Episode 1
 1601	UPLOADED	Naye Padosi Episode 2
+3250	UPLOADED	Shudh Shakahari Episode 2
