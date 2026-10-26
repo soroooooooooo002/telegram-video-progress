@@ -55,3 +55,4 @@
 1545	UPLOADED	Tapan Episode 2
 3017	UPLOADED	Power Episode 1
 1546	UPLOADED	Siskiyaan Episode 1
+3018	UPLOADED	Power Episode 2
