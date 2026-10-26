@@ -360,3 +360,4 @@
 3264	SKIPPED	Maid For Each Other	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bulbul%20Play/Single/Maid%20For%20Each%20Other.mp4
 3265	UPLOADED	Dagabaaz Episode 2
 3266	UPLOADED	Dagabaaz Episode 1
+3267	UPLOADED	Dagabaaz Episode 3
