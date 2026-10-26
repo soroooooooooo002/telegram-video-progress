@@ -156,3 +156,4 @@
 3067	SKIPPED	Barkha Bhabhi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%201.mp4
 3068	SKIPPED	Barkha Bhabhi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%202.mp4
 3069	SKIPPED	Barkha Bhabhi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%203.mp4
+3070	SKIPPED	Jungle Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
