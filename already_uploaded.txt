@@ -194,3 +194,4 @@
 3105	UPLOADED	Jane Anjane Mein 6 Episode 2
 3106	UPLOADED	Jane Anjane Mein 6 Episode 1
 3107	SKIPPED	Haveli Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3108	SKIPPED	Haveli Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FHaveli-C1%2FHaveli%20E2.mp4
