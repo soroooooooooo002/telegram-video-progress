@@ -335,3 +335,4 @@
 3247	SKIPPED	L Lag Gaye Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/L%20Lag%20Gaye/L%20Lag%20Gaye%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1598	UPLOADED	Numbari Episode 1
 1599	UPLOADED	Naye Padosi Episode 3
+3248	UPLOADED	L Lag Gaye Episode 6
