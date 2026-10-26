@@ -184,3 +184,4 @@
 3095	SKIPPED	Double Trouble Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3096	SKIPPED	Jawani Ki Lassi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Saathi/Jawani%20Ki%20Lassi/Jawani%20Ki%20Lassi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3097	UPLOADED	Jane Anjane Mein 7 Episode 5
+3098	UPLOADED	Jane Anjane Mein 7 Episode 4
