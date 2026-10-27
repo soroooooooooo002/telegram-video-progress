@@ -651,3 +651,4 @@
 3833	SKIPPED	V3 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Imaxx%20TV/V3/V3%20Episode%204.mp4
 3834	SKIPPED	V3 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Imaxx%20TV/V3/V3%20Episode%203.mp4
 3835	SKIPPED	V3 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Imaxx%20TV/V3/V3%20Episode%202.mp4
+3427	UPLOADED	Giddh Bhoj Episode 1
