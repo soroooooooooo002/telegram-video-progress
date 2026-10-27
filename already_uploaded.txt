@@ -1013,3 +1013,4 @@
 3553	SKIPPED	Jor Ka Jhatka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jor%20Ka%20Jhatka/Jor%20Ka%20Jhatka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3554	SKIPPED	Phere Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Phere/Phere%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3555	UPLOADED	Imaan Dol Jayega Episode 9
+3556	UPLOADED	Imaan Dol Jayega Episode 7
