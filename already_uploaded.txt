@@ -554,7 +554,6 @@
 1110	UPLOADED	Rangeen Tailor Episode 5
 1656	UPLOADED	Gaon Ki Garmi 3 Episode 7
 1111	UPLOADED	Rangeen Tailor Episode 4
-4015	UPLOADED	Farebi Yaar Episode 5
 1112	UPLOADED	Rangeen Tailor Episode 3
 3803	UPLOADED	Adhuri Pyaas Episode 2
 1657	UPLOADED	Gaon Ki Garmi 3 Episode 8
@@ -1259,3 +1258,4 @@
 4012	UPLOADED	Farebi Yaar Episode 2
 4013	UPLOADED	Farebi Yaar Episode 3
 4014	UPLOADED	Farebi Yaar Episode 4
+4015	UPLOADED	Farebi Yaar Episode 5
