@@ -1343,3 +1343,4 @@
 1292	UPLOADED	Gore Gore Gaal Episode 2
 4078	SKIPPED	Firangi Thakurain Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Firangi%20Thakurain%20S01E01%20To%202%20%28XSeries.IN%29.mp4
 4079	SKIPPED	Complementary Massage Episode 1 To 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Complementary%20Massage%20S01E01%20To%203%20%28XSeries.IN%29.mp4
+4080	SKIPPED	Laila Season 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Laila%20%282022%29/Laila%20S1%20Full%20Video%20%28XSeries.IN%29.mp4
