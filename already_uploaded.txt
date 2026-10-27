@@ -818,3 +818,4 @@
 3469	UPLOADED	Bali Umar Episode 1
 3470	SKIPPED	Anju Or Manju Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Anju%20Or%20Manju/Anju%20Or%20Manju%20Episode%204.mp4
 3471	SKIPPED	Anju Or Manju Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Anju%20Or%20Manju/Anju%20Or%20Manju%20Episode%203.mp4
+3472	SKIPPED	Anju Or Manju Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Anju%20Or%20Manju/Anju%20Or%20Manju%20Episode%202.mp4
