@@ -705,3 +705,4 @@
 3441	SKIPPED	Karzdaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E1.mp4
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
 1145	UPLOADED	Rangili Ragini Episode 1
+1146	SKIPPED	Casting Couch Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%202.mp4
