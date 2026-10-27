@@ -662,3 +662,4 @@
 3839	SKIPPED	Dulhan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%202.mp4
 3840	SKIPPED	Dulhan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%203.mp4
 3841	SKIPPED	Dulhan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%204.mp4
+1126	UPLOADED	Jaan Bujh Kar Episode 3
