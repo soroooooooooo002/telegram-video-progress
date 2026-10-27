@@ -543,7 +543,6 @@
 3394	UPLOADED	Blackmail Episode 2 Digi Movieplex
 1107	UPLOADED	Rangeen Tailor Episode 8
 1654	UPLOADED	Gaon Ki Garmi 4 Episode 1
-4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
 4016	UPLOADED	Farebi Yaar Episode 6
 4017	UPLOADED	Farebi Yaar Episode 7
@@ -567,3 +566,4 @@
 4011	UPLOADED	Farebi Yaar Episode 1
 4012	UPLOADED	Farebi Yaar Episode 2
 4013	UPLOADED	Farebi Yaar Episode 3
+4014	UPLOADED	Farebi Yaar Episode 4
