@@ -1191,3 +1191,4 @@
 3958	SKIPPED	SX Girls Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%202.mp4
 1263	UPLOADED	Shararati Saas Episode 5
 3699	UPLOADED	PathShala S3 Episode 4
+3959	UPLOADED	Rivaaz Episode 1
