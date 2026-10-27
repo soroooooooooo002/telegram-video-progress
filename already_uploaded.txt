@@ -546,7 +546,6 @@
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
 1655	UPLOADED	Gaon Ki Garmi 4 Episode 2
 1109	UPLOADED	Rangeen Tailor Episode 6
-4000	UPLOADED	Desi Kisse Woh Din Episode 1
 4001	UPLOADED	Desi Kisse Woh Din Episode 2
 4002	UPLOADED	Desi Kisse Woh Din Episode 3
 4003	UPLOADED	Desi Kisse Woh Din Episode 4
@@ -570,3 +569,4 @@
 1110	UPLOADED	Rangeen Tailor Episode 5
 1656	UPLOADED	Gaon Ki Garmi 3 Episode 7
 1111	UPLOADED	Rangeen Tailor Episode 4
+4000	UPLOADED	Desi Kisse Woh Din Episode 1
