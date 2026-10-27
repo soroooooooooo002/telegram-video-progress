@@ -530,3 +530,4 @@
 3384	UPLOADED	Dr Lily Episode 3
 1105	SKIPPED	Rangeen Tailor Episode 10	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3385	UPLOADED	Dr Lily Episode 4
+3386	UPLOADED	De De Pyar De Episode 1
