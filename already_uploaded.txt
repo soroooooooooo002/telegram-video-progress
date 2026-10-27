@@ -578,3 +578,4 @@
 3802	SKIPPED	Jalebi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%201.mp4
 3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
 3399	UPLOADED	Jee Bhar Ke Episode 1
+3400	UPLOADED	Jee Bhar Ke Episode 2
