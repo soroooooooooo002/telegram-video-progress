@@ -1253,3 +1253,4 @@
 3991	SKIPPED	Chull Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E9.mp4
 3992	SKIPPED	Chull Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E8.mp4
 3993	SKIPPED	Chull Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E7.mp4
+3994	SKIPPED	Chull Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E6.mp4
