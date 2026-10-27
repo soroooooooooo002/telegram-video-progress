@@ -1243,3 +1243,4 @@
 1277	UPLOADED	Damdar Ladoo Episode 2
 3717	UPLOADED	Jalebi S4 Episode 1
 3983	UPLOADED	Honey Trap Episode 5
+3984	SKIPPED	Betaab Ishq Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E1.mp4
