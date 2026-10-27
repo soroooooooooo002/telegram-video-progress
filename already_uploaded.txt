@@ -1430,3 +1430,4 @@
 1309	UPLOADED	Daan Episode 4
 3759	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 5
 3760	SKIPPED	Khat Kabbadi Barkha Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%201.mp4
+3761	SKIPPED	Khat Kabbadi Barkha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%202.mp4
