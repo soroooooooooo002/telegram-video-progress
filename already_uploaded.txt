@@ -1179,3 +1179,4 @@
 1259	SKIPPED	Jungle Raj Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Jungle%20Raj/Jungle%20Raj%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1260	UPLOADED	Jungle Raj Episode 1
 3953	UPLOADED	Chatur Naar Episode 1
+3696	UPLOADED	PathShala S3 Episode 7
