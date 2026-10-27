@@ -1220,3 +1220,4 @@
 3973	SKIPPED	ChutzPah Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E2.mp4
 3974	SKIPPED	Aao Kare Gutur Gu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E1.mp4
 3710	UPLOADED	Jalebi S4 Episode 8
+1271	UPLOADED	Kajri Episode 2
