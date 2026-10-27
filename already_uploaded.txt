@@ -991,3 +991,4 @@
 3539	SKIPPED	Hawas IBA Movies Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Hawas/Hawas%20Episode%204.mp4
 3540	SKIPPED	Hawas IBA Movies Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Hawas/Hawas%20Episode%203.mp4
 3541	SKIPPED	Hawas IBA Movies Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Hawas/Hawas%20Episode%202.mp4
+3542	SKIPPED	Hawas IBA Movies Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Hawas/Hawas%20Episode%201.mp4
