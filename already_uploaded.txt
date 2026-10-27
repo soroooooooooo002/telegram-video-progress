@@ -619,3 +619,4 @@
 3810	UPLOADED	Ding Dong Episode 1
 3422	UPLOADED	Khanjarpur Episode 5
 3423	SKIPPED	GuptRog Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4
+3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
