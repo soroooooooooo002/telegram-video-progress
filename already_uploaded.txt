@@ -1194,3 +1194,4 @@
 3959	UPLOADED	Rivaaz Episode 1
 1264	UPLOADED	Shararati Saas Episode 4
 3700	UPLOADED	PathShala S3 Episode 3
+3960	UPLOADED	Rivaaz Episode 2
