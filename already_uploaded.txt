@@ -718,3 +718,4 @@
 1156	SKIPPED	Khichdi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Khichdi/Khichdi%20Episode%201.mp4
 1157	SKIPPED	Khichdi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Khichdi/Khichdi%20Episode%202.mp4
 1158	SKIPPED	Do Haseena Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%201.mp4
+1159	SKIPPED	Do Haseena Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%202.mp4
