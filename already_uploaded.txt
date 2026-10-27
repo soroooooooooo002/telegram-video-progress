@@ -1456,3 +1456,4 @@
 1315	SKIPPED	Jawaani Jaaneman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%202.mp4
 1316	SKIPPED	Jawaani Jaaneman Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%203.mp4
 1317	SKIPPED	Jawaani Jaaneman Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%201.mp4
+1318	UPLOADED	Inspiration Episode 3
