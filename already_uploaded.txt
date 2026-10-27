@@ -971,3 +971,4 @@
 3925	SKIPPED	Chitthi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E5.mp4
 3926	SKIPPED	Chitthi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E2.mp4
 3927	SKIPPED	Chitthi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E3.mp4
+3928	SKIPPED	Chitthi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E1.mp4
