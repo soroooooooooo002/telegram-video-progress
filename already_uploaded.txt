@@ -596,3 +596,4 @@
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
 1114	UPLOADED	Rangeen Tailor Episode 1
 3804	UPLOADED	Adhuri Pyaas Episode 1
+3416	UPLOADED	Secret Superstar Episode 4
