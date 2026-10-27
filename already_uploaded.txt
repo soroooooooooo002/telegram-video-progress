@@ -997,3 +997,4 @@
 3545	SKIPPED	Utha Patak Jugnu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%203.mp4
 3546	SKIPPED	Utha Patak Jugnu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%204.mp4
 3547	SKIPPED	Utha Patak Jugnu Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%205.mp4
+3548	SKIPPED	Haseen Raatein Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saathi/Haseen%20Raatein/Haseen%20Raatein%20Episode%201.mp4
