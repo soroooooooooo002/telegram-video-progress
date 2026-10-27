@@ -722,3 +722,4 @@
 1160	SKIPPED	Do Haseena Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%203.mp4
 1161	SKIPPED	Do Haseena Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%204.mp4
 3849	UPLOADED	Phooljhadi Episode 1
+3442	UPLOADED	Yeh Hai Sanak Episode 6
