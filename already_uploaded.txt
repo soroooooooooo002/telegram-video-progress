@@ -621,3 +621,4 @@
 3423	SKIPPED	GuptRog Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 1121	UPLOADED	Savita Mami Episode 4
+3811	UPLOADED	Paying Guest Episode 1
