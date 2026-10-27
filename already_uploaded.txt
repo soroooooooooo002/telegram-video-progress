@@ -813,3 +813,4 @@
 1189	SKIPPED	Ghutan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E1.mp4
 1190	SKIPPED	Ghutan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E3.mp4
 1191	SKIPPED	Ghutan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E4.mp4
+1192	SKIPPED	Ghutan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E5.mp4
