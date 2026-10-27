@@ -532,7 +532,7 @@
 3386	UPLOADED	De De Pyar De Episode 1
 1100	UPLOADED	Pehredaaar Again Episode 5
 1101	UPLOADED	Pehredaaar Again Episode 4
-3389	UPLOADED	De De Pyar De Episode 4
 3387	UPLOADED	De De Pyar De Episode 2
 3390	UPLOADED	De De Pyar De Episode 5
 3388	UPLOADED	De De Pyar De Episode 3
+3389	UPLOADED	De De Pyar De Episode 4
