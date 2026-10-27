@@ -696,3 +696,4 @@
 1142	SKIPPED	Miss Briganza Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Miss%20Briganza%20S01E01%20To%202%20%28XSeries.IN%29.mp4
 1143	SKIPPED	Idhar Udhar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Idhar%20Udhar/Idhar%20Udhar%20E1.mp4
 1144	SKIPPED	Idhar Udhar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Idhar%20Udhar/Idhar%20Udhar%20E2.mp4
+3435	UPLOADED	Aunty Ka PG Episode 2
