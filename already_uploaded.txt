@@ -1376,3 +1376,4 @@
 1301	SKIPPED	Kiraedaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%203.mp4
 1302	SKIPPED	Kiraedaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%204.mp4
 3739	UPLOADED	Tomatino Episode 2
+1303	UPLOADED	Paglet S3 Episode 4
