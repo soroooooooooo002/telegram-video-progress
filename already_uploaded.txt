@@ -1389,3 +1389,4 @@
 3748	SKIPPED	Koi Jaye Toh Le Aaye Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Koi%20Jaye%20Toh%20Le%20Aaye-C2/Koi%20Jaye%20Toh%20Le%20Aaye%20Episode%202.mp4
 3749	SKIPPED	Saya E Ishq	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Single/Saya%20e%20Ishq.mp4
 3750	SKIPPED	Haseen Raatein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saathi/Haseen%20Raatein/Haseen%20Raatein%20Episode%202.mp4
+3751	SKIPPED	Chanda Aur Chandini Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Chanda%20Aur%20Chandini/Chanda%20Aur%20Chandini%20Episode%201.mp4
