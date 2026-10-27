@@ -693,3 +693,4 @@
 3848	UPLOADED	Bai No 1 Episode 6
 1140	UPLOADED	Badhai Lo Episode 1
 1141	SKIPPED	Bekhudi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E3.mp4
+1142	SKIPPED	Miss Briganza Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Miss%20Briganza%20S01E01%20To%202%20%28XSeries.IN%29.mp4
