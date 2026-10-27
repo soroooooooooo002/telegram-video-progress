@@ -1090,3 +1090,4 @@
 3628	SKIPPED	Dulhe Raja Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Dulhe%20Raja/Dulhe%20Raja%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3945	UPLOADED	Chakori Episode 3
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
+3629	UPLOADED	Dulhe Raja Episode 4
