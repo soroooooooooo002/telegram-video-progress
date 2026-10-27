@@ -1341,3 +1341,4 @@
 4075	SKIPPED	Bachelor Party Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%201.mp4
 4076	SKIPPED	Bachelor Party Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%202.mp4
 1292	UPLOADED	Gore Gore Gaal Episode 2
+4078	SKIPPED	Firangi Thakurain Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Firangi%20Thakurain%20S01E01%20To%202%20%28XSeries.IN%29.mp4
