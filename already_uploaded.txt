@@ -571,3 +571,4 @@
 4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
 3800	SKIPPED	Jalebi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%203.mp4
+3801	SKIPPED	Jalebi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%202.mp4
