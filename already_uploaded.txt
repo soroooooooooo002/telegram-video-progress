@@ -1091,3 +1091,4 @@
 3945	UPLOADED	Chakori Episode 3
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 3629	UPLOADED	Dulhe Raja Episode 4
+3630	SKIPPED	Guard Babu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Guard%20Babu/Guard%20Babu%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
