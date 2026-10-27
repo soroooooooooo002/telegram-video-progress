@@ -732,3 +732,4 @@
 1164	UPLOADED	X Class Episode 3
 3444	UPLOADED	Yeh Hai Sanak Episode 4
 3852	UPLOADED	Meri Seal Todo Episode 2
+3853	SKIPPED	Chintu Ki Masti Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Chintu%20Ki%20Masti/Chintu%20Ki%20Masti%202.mp4
