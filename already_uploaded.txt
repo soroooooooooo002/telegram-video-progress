@@ -1057,3 +1057,4 @@
 3596	UPLOADED	Akalmand Junglee Episode 3
 1238	SKIPPED	Karan Arjun Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1239	SKIPPED	Karan Arjun Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3598	UPLOADED	Akalmand Junglee Episode 1
