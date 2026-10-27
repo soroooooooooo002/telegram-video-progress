@@ -1166,3 +1166,4 @@
 3950	SKIPPED	Ghutan Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Movie%20Zoo/Ghutan/Ghutan%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3692	UPLOADED	Mangalik Episode 1
 3951	UPLOADED	Ghutan Episode 3
+1253	UPLOADED	Bully Aur Bulbul Episode 4
