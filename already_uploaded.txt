@@ -1417,3 +1417,4 @@
 4118	SKIPPED	Ek Phool Do Maali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Ek%20Phool%20Do%20Maali/Ek%20Phool%20Do%20Maali%20E1.mp4
 4119	SKIPPED	Mardana Sasur Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Mardana%20Sasur%20%282023%29/Mardana%20Sasur%20%20S01E01%20%28XSeries.IN%29.mp4
 4120	SKIPPED	Mardana Sasur Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Mardana%20Sasur%20%282023%29/Mardana%20Sasur%20%20S01E02%20%28XSeries.IN%29.mp4
+4121	SKIPPED	Kitab Ka Raaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20S01E01%28XSeries.IN%29.mp4
