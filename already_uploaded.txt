@@ -669,3 +669,4 @@
 3430	UPLOADED	Ek Phool Teen Mali Episode 1
 1663	UPLOADED	Gaon Ki Garmi 3 Episode 2
 1128	UPLOADED	Jaan Bujh Kar Episode 1
+1129	SKIPPED	ShortCut Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Shortcut/Shortcut%20Episode%206.mp4
