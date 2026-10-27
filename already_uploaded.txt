@@ -1387,3 +1387,4 @@
 3746	SKIPPED	Koi Jaye Toh Le Aaye Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Koi%20Jaye%20Toh%20Le%20Aaye-C2/Koi%20Jaye%20Toh%20Le%20Aaye%20Episode%206.mp4
 3747	SKIPPED	Koi Jaye Toh Le Aaye Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Koi%20Jaye%20Toh%20Le%20Aaye-C2/Koi%20Jaye%20Toh%20Le%20Aaye%20Episode%205.mp4
 3748	SKIPPED	Koi Jaye Toh Le Aaye Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Koi%20Jaye%20Toh%20Le%20Aaye-C2/Koi%20Jaye%20Toh%20Le%20Aaye%20Episode%202.mp4
+3749	SKIPPED	Saya E Ishq	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Single/Saya%20e%20Ishq.mp4
