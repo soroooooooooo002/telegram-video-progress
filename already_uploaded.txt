@@ -974,3 +974,4 @@
 3928	SKIPPED	Chitthi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E1.mp4
 3530	UPLOADED	Robotina Episode 3
 1232	UPLOADED	Mera Pyaar Pan Nahi Episode 5
+3929	UPLOADED	Chitthi Episode 7
