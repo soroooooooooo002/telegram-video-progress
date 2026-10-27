@@ -1054,3 +1054,4 @@
 3594	UPLOADED	Akalmand Junglee Episode 5
 3595	UPLOADED	Akalmand Junglee Episode 4
 1236	SKIPPED	Mera Pyaar Pan Nahi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3596	UPLOADED	Akalmand Junglee Episode 3
