@@ -868,3 +868,4 @@
 3497	UPLOADED	Woodpecker Episode 1
 1683	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 2
 1203	UPLOADED	Utha Patak S3 Episode 4
+1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
