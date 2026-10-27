@@ -1206,3 +1206,4 @@
 3963	UPLOADED	Rivaaz Episode 5
 3704	UPLOADED	PathShala S2 Episode 3
 1268	UPLOADED	Kajri Episode 5
+1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
