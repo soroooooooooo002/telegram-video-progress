@@ -705,7 +705,6 @@
 1178	UPLOADED	Pyaar Idhar Udhar Episode 5
 3465	UPLOADED	Bali Umar Episode 5
 1179	UPLOADED	Pyaar Idhar Udhar Episode 6
-3870	UPLOADED	Thand Ka Maza Episode 3
 3466	UPLOADED	Bali Umar Episode 4
 1180	UPLOADED	Prem Game Episode 1
 3871	UPLOADED	Thand Ka Maza Episode 2
@@ -1801,3 +1800,4 @@
 4206	SKIPPED	Walkman Episode 4	Request was unsuccessful 6 time(s)
 4207	SKIPPED	Walkman Episode 3	Request was unsuccessful 6 time(s)
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
+3870	SKIPPED	Thand Ka Maza Episode 3	Request was unsuccessful 6 time(s)
