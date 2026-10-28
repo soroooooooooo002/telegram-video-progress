@@ -1572,3 +1572,4 @@
 3800	SKIPPED	Jalebi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%203.mp4
 3801	SKIPPED	Jalebi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%202.mp4
 4151	UPLOADED	Lag Ja Gale Episode 6
+1392	UPLOADED	Tadka Episode 7
