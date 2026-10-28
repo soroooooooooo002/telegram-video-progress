@@ -1773,7 +1773,6 @@
 5079	UPLOADED	D Code Episode 3
 5080	UPLOADED	D Code Episode 2
 1485	UPLOADED	Utha Le Jaunga Episode 1
-1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 5081	UPLOADED	D Code Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
 5082	UPLOADED	Cyanide Episode 5
@@ -1982,3 +1981,4 @@
 1538	UPLOADED	Shaukiya Episode 3
 5148	UPLOADED	Bhasudi Episode 3
 3929	UPLOADED	Chitthi Episode 7
+1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
