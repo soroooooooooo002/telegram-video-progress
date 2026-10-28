@@ -664,7 +664,6 @@
 1668	UPLOADED	Flat 69 Episode 2
 3445	UPLOADED	Yeh Hai Sanak Episode 3
 1166	UPLOADED	X Class Episode 5
-3858	SKIPPED	Dream Girl Bull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Dream%20Girl/Dream%20Girl%20E1.mp4
 3859	SKIPPED	Dream Girl Bull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Dream%20Girl/Dream%20Girl%20E2.mp4
 3446	UPLOADED	Yeh Hai Sanak Episode 2
 1167	UPLOADED	X Class Episode 6
@@ -1703,3 +1702,4 @@
 3855	UPLOADED	Mastram Ki Sundari Episode 2
 3856	SKIPPED	Gol Gappe Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Gol%20Gappe/Gol%20Gappe%20Episode%201.mp4
 3857	SKIPPED	Golgappe Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Gol%20Gappe/Gol%20Gappe%20Episode%202.mp4
+3858	SKIPPED	Dream Girl Bull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Dream%20Girl/Dream%20Girl%20E1.mp4
