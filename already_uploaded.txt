@@ -1780,7 +1780,6 @@
 1465	UPLOADED	Lene Ke Dene Episode 3
 1466	UPLOADED	Lene Ke Dene Episode 1
 5066	UPLOADED	Dekhi Andekhi Episode 1
-1689	UPLOADED	Desi Kisse Khud Khushi Episode 1
 1467	UPLOADED	Dekho Magar Pyar Se Episode 1
 5067	UPLOADED	De Dana Dan Episode 6
 1690	UPLOADED	Damaad Ji Episode 2
@@ -1938,3 +1937,4 @@
 3916	SKIPPED	Couple Party Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Couple%20Party/Couple%20Party%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3917	SKIPPED	Couple Party Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Couple%20Party/Couple%20Party%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5110	UPLOADED	Chehraa Episode 1
+1689	UPLOADED	Desi Kisse Khud Khushi Episode 1
