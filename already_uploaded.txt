@@ -1687,7 +1687,6 @@
 1445	UPLOADED	Chidiya Episode 3
 5050	UPLOADED	Devar Ji Episode 2
 1446	UPLOADED	Chidiya Episode 4
-1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 5051	UPLOADED	Devar Ji Episode 1
 3863	UPLOADED	Yaar Pyaar Gaddar Episode 2
 4198	UPLOADED	Wanna Have A Good Time Episode 1
@@ -1878,3 +1877,4 @@
 1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
 5080	UPLOADED	D Code Episode 2
 1485	UPLOADED	Utha Le Jaunga Episode 1
+1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
