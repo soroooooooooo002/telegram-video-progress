@@ -824,7 +824,6 @@
 3523	UPLOADED	Flavour Episode 2
 1225	UPLOADED	Padosan Episode 3
 3524	UPLOADED	Jawani Ka Nuksha Episode 1
-3912	UPLOADED	Daakhila Episode 2
 1226	UPLOADED	Padosan Episode 2
 3525	UPLOADED	Jawani Ka Nuksha Episode 2
 3913	UPLOADED	Daakhila Episode 6
@@ -1912,3 +1911,4 @@
 5095	UPLOADED	Choodiwala Episode 3
 1495	UPLOADED	Payal Episode 6
 5096	UPLOADED	Choodiwala Episode 2
+3912	UPLOADED	Daakhila Episode 2
