@@ -1561,7 +1561,6 @@
 1409	UPLOADED	Shatir Episode 7
 5016	UPLOADED	Dunali 2 Episode 4
 1410	UPLOADED	Daal Chawal Episode 1
-1691	UPLOADED	Damaad Ji Episode 1
 3837	UPLOADED	Aunty Ka PG Episode 4
 3838	SKIPPED	Dulhan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%201.mp4
 3839	SKIPPED	Dulhan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%202.mp4
@@ -1849,3 +1848,4 @@
 5067	UPLOADED	De Dana Dan Episode 6
 1690	UPLOADED	Damaad Ji Episode 2
 1468	UPLOADED	Mere Angane Mein Episode 7
+1691	UPLOADED	Damaad Ji Episode 1
