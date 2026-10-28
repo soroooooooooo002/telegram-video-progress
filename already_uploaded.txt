@@ -790,7 +790,6 @@
 3509	UPLOADED	Innocent Episode 5
 1214	UPLOADED	Utha Patak S1 Episode 1
 3510	UPLOADED	Innocent Episode 6
-3896	UPLOADED	Kache Rishtey Episode 5
 3511	UPLOADED	Toy Episode 1
 1215	UPLOADED	Raat Ki Raani Episode 5
 3897	UPLOADED	Kache Rishtey Episode 4
@@ -1863,3 +1862,4 @@
 1699	UPLOADED	Chuski Episode 4
 1478	UPLOADED	Mere Angane Mein Episode 6
 5071	UPLOADED	De Dana Dan Episode 2
+3896	UPLOADED	Kache Rishtey Episode 5
