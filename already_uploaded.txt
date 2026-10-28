@@ -1563,3 +1563,4 @@
 4148	SKIPPED	House Arrest Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%203.mp4
 3794	UPLOADED	Kuwari Dulhan Episode 1
 1389	UPLOADED	Tadka Episode 6
+3795	UPLOADED	Kuwari Dulhan Episode 2
