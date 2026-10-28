@@ -1777,7 +1777,6 @@
 5085	UPLOADED	Cyanide Episode 2
 1488	UPLOADED	Mithai Wali Episode 4
 5086	UPLOADED	Cyanide Episode 1
-1710	UPLOADED	Chachi No 1 Episode 2
 1489	UPLOADED	Mithai Wali Episode 1
 5087	UPLOADED	Corporate Episode 7
 1490	UPLOADED	Mithai Wali Episode 3
@@ -1991,3 +1990,4 @@
 1543	SKIPPED	Tapan Episode 4	Failed to upload file part 387.
 4247	UPLOADED	The Last Show Episode 1
 5155	UPLOADED	Auction Episode 1
+1710	UPLOADED	Chachi No 1 Episode 2
