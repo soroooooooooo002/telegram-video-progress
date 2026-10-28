@@ -807,7 +807,6 @@
 1232	UPLOADED	Mera Pyaar Pan Nahi Episode 5
 3531	UPLOADED	Robotina Episode 4
 3532	SKIPPED	Kamam Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Kamam/Kamam%20Episode%204.mp4
-3930	UPLOADED	Chitthi Episode 8
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
 3533	UPLOADED	Kamam Episode 3
 3931	UPLOADED	Chitthi Episode 9
@@ -1987,3 +1986,4 @@
 1708	UPLOADED	Chachi No 1 Episode 4
 5152	UPLOADED	Auction Episode 4
 1541	UPLOADED	Tauba Tauba Episode 2
+3930	UPLOADED	Chitthi Episode 8
