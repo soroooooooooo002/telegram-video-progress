@@ -1655,7 +1655,6 @@
 4189	UPLOADED	Watchman Episode 6
 5038	UPLOADED	Devil Episode 6
 1437	UPLOADED	Chidiya Episode 5
-1701	UPLOADED	Chuski Episode 2
 3860	SKIPPED	Dream Girl Bull Episode 3	Request was unsuccessful 6 time(s)
 4190	SKIPPED	Watchman Episode 5	Request was unsuccessful 6 time(s)
 4191	SKIPPED	Watchman Episode 4	Request was unsuccessful 6 time(s)
@@ -1866,3 +1865,4 @@
 1479	UPLOADED	Mere Angane Mein Episode 4
 5072	UPLOADED	De Dana Dan Episode 1
 1480	UPLOADED	Utha Le Jaunga Episode 5
+1701	UPLOADED	Chuski Episode 2
