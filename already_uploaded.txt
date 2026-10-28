@@ -591,7 +591,6 @@
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 1121	UPLOADED	Savita Mami Episode 4
 3425	UPLOADED	Good Girls Episode 1
-3812	UPLOADED	Paying Guest Episode 2
 1122	UPLOADED	Savita Mami Episode 3
 3426	UPLOADED	Good Girls Episode 2
 3813	UPLOADED	Paying Guest Episode 3
@@ -1598,3 +1597,4 @@
 1686	SKIPPED	Desi Kisse Khud Khushi Episode 5	Download request failed: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out.
 5007	UPLOADED	Dunali Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
+3812	UPLOADED	Paying Guest Episode 2
