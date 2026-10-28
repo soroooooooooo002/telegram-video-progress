@@ -1626,3 +1626,4 @@
 3840	SKIPPED	Dulhan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%203.mp4
 3841	SKIPPED	Dulhan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%204.mp4
 5017	UPLOADED	Dunali 2 Episode 3
+4165	UPLOADED	Taras Episode 6
