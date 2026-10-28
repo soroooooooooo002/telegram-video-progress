@@ -670,7 +670,6 @@
 1669	UPLOADED	Gaon Ki Garmi 2 Episode 1
 3447	UPLOADED	Yeh Hai Sanak Episode 1
 3448	SKIPPED	Phere Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Phere/Phere%20Episode%205.mp4
-3861	UPLOADED	Dream Girl Bull Episode 4
 1169	UPLOADED	Rangeen Kahaniya Episode 2
 3449	UPLOADED	Jenga Episode 4
 1170	UPLOADED	Rangeen Kahaniya Episode 3
@@ -1712,3 +1711,4 @@
 5039	UPLOADED	Devil Episode 5
 4192	SKIPPED	Watchman Episode 3	Request was unsuccessful 6 time(s)
 4193	SKIPPED	Watchman Episode 2	Request was unsuccessful 6 time(s)
+3861	SKIPPED	Dream Girl Bull Episode 4	Request was unsuccessful 6 time(s)
