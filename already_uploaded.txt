@@ -826,7 +826,6 @@
 3524	UPLOADED	Jawani Ka Nuksha Episode 1
 1226	UPLOADED	Padosan Episode 2
 3525	UPLOADED	Jawani Ka Nuksha Episode 2
-3914	UPLOADED	Daakhila Episode 5
 1227	UPLOADED	Padosan Episode 1
 3915	UPLOADED	Daakhila Episode 4
 3526	UPLOADED	Jawani Ka Nuksha Episode 3
@@ -1930,3 +1929,4 @@
 1501	UPLOADED	Payal Episode 2
 1687	UPLOADED	Desi Kisse Khud Khushi Episode 4
 5106	UPLOADED	Chehraa Episode 5
+3914	UPLOADED	Daakhila Episode 5
