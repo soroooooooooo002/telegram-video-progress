@@ -1764,3 +1764,4 @@
 1714	SKIPPED	Blackmail Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Blackmail-C2/Blackmail%20E3.mp4
 1715	SKIPPED	Blackmail Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Blackmail-C2/Blackmail%20E2.mp4
 1716	SKIPPED	Blackmail Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Blackmail-C2/Blackmail%20E1.mp4
+1717	SKIPPED	Bidaai Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai-D1/Bidaai%20Episode%206.mp4
