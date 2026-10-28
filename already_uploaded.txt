@@ -1633,7 +1633,6 @@
 3850	UPLOADED	Phooljhadi Episode 2
 5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 1432	UPLOADED	Kundi Mat Khadkao Raja Episode 4
-1698	UPLOADED	Chuski Episode 3
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
 3851	UPLOADED	Meri Seal Todo Episode 1
 4186	UPLOADED	Watchman Episode 9
@@ -1857,3 +1856,4 @@
 1697	UPLOADED	Chuski Episode 6
 1475	UPLOADED	Mere Angane Mein Episode 2
 5068	UPLOADED	De Dana Dan Episode 5
+1698	UPLOADED	Chuski Episode 3
