@@ -1552,7 +1552,6 @@
 4163	UPLOADED	Ek Baar Aur Episode 2
 1405	UPLOADED	Haseena Maan Jayegi Episode 5
 5014	UPLOADED	Dunali 2 Episode 6
-1690	SKIPPED	Damaad Ji Episode 2	Download timeout: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out. (read timeout=60)
 5015	UPLOADED	Dunali 2 Episode 5
 4164	UPLOADED	Taras Episode 5
 3836	UPLOADED	Aunty Ka PG Episode 3
@@ -1848,3 +1847,4 @@
 1689	UPLOADED	Desi Kisse Khud Khushi Episode 1
 1467	UPLOADED	Dekho Magar Pyar Se Episode 1
 5067	UPLOADED	De Dana Dan Episode 6
+1690	UPLOADED	Damaad Ji Episode 2
