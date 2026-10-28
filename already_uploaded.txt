@@ -1779,7 +1779,6 @@
 1479	UPLOADED	Mere Angane Mein Episode 4
 5072	UPLOADED	De Dana Dan Episode 1
 1480	UPLOADED	Utha Le Jaunga Episode 5
-1701	UPLOADED	Chuski Episode 2
 5073	UPLOADED	Dance Bar Episode 6
 4237	UPLOADED	Tohfa Episode 3
 1702	UPLOADED	Choli Ke Peeche Kya Hai Episode 5
@@ -1966,3 +1965,4 @@
 5132	UPLOADED	Call Center Episode 2
 1528	UPLOADED	Dil To Baccha Hai Episode 3
 5133	UPLOADED	Call Center Episode 10
+1701	UPLOADED	Chuski Episode 2
