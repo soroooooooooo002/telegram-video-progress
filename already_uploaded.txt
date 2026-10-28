@@ -1644,3 +1644,4 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 5022	UPLOADED	Dubey Ji And The Boys Episode 4
 4169	UPLOADED	Taras Episode 1
+4170	SKIPPED	Zaroorat 2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%203.mp4
