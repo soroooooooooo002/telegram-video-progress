@@ -1776,7 +1776,6 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 1473	UPLOADED	Dekho Magar Pyar Se Episode 5
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
-1696	UPLOADED	Chuski Episode 5
 1697	UPLOADED	Chuski Episode 6
 1475	UPLOADED	Mere Angane Mein Episode 2
 5068	UPLOADED	De Dana Dan Episode 5
@@ -1953,3 +1952,4 @@
 1519	UPLOADED	Kaanta Laga Episode 4
 5121	UPLOADED	Chahat Episode 2
 1520	UPLOADED	Kaanta Laga Episode 2
+1696	UPLOADED	Chuski Episode 5
