@@ -571,7 +571,6 @@
 3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
 1114	UPLOADED	Rangeen Tailor Episode 1
-3804	UPLOADED	Adhuri Pyaas Episode 1
 3416	UPLOADED	Secret Superstar Episode 4
 1115	UPLOADED	Ashirwad Episode 4
 1658	UPLOADED	Gaon Ki Garmi 3 Episode 5
@@ -1574,3 +1573,4 @@
 4151	UPLOADED	Lag Ja Gale Episode 6
 1392	UPLOADED	Tadka Episode 7
 4152	UPLOADED	Lag Ja Gale Episode 4
+3804	UPLOADED	Adhuri Pyaas Episode 1
