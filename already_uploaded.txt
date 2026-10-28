@@ -1569,7 +1569,6 @@
 5017	UPLOADED	Dunali 2 Episode 3
 4165	UPLOADED	Taras Episode 6
 1411	UPLOADED	Daal Chawal Episode 3
-1692	UPLOADED	Damaad Ji 2 Episode 4
 5018	UPLOADED	Dunali 2 Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
 4166	UPLOADED	Taras Episode 4
@@ -1850,3 +1849,4 @@
 1468	UPLOADED	Mere Angane Mein Episode 7
 1691	UPLOADED	Damaad Ji Episode 1
 1469	UPLOADED	Dekho Magar Pyar Se Episode 3
+1692	UPLOADED	Damaad Ji 2 Episode 4
