@@ -1783,7 +1783,6 @@
 1467	UPLOADED	Dekho Magar Pyar Se Episode 1
 5067	UPLOADED	De Dana Dan Episode 6
 1468	UPLOADED	Mere Angane Mein Episode 7
-1691	UPLOADED	Damaad Ji Episode 1
 1469	UPLOADED	Dekho Magar Pyar Se Episode 3
 1692	UPLOADED	Damaad Ji 2 Episode 4
 1470	UPLOADED	Dekho Magar Pyar Se Episode 4
@@ -1942,3 +1941,4 @@
 1690	UPLOADED	Damaad Ji Episode 2
 5112	UPLOADED	Cheese Cake Episode 5
 1506	UPLOADED	Nurse Episode 4
+1691	UPLOADED	Damaad Ji Episode 1
