@@ -1704,7 +1704,6 @@
 4200	SKIPPED	Wanna Have A Good Time 2 Episode 1	Request was unsuccessful 6 time(s)
 3865	SKIPPED	Yaar Pyaar Gaddar Episode 4	Request was unsuccessful 6 time(s)
 3866	SKIPPED	Yaar Pyaar Gaddar Episode 5	Request was unsuccessful 6 time(s)
-1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 3867	SKIPPED	Yaar Pyaar Gaddar Episode 7	Request was unsuccessful 6 time(s)
 4201	SKIPPED	Walkman Episode 9	Request was unsuccessful 6 time(s)
 4202	SKIPPED	Walkman Episode 8	Request was unsuccessful 6 time(s)
@@ -1920,3 +1919,4 @@
 5099	UPLOADED	Choked Episode 5
 5100	UPLOADED	Choked Episode 4
 1498	UPLOADED	Nurse Episode 6
+1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
