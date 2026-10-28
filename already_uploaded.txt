@@ -1820,3 +1820,4 @@
 4223	SKIPPED	Virgin Boys Episode 2	Request was unsuccessful 6 time(s)
 3886	SKIPPED	Nehle Pe Dehla Episode 8	Request was unsuccessful 6 time(s)
 4224	SKIPPED	Virgin Boys Episode 1	Request was unsuccessful 6 time(s)
+4225	SKIPPED	Trapped Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Trapped%20/Trapped%20Episode%202.mp4
