@@ -16,7 +16,6 @@
 3014	UPLOADED	Two Sister Episode 3
 3015	UPLOADED	Two Sister Episode 2
 3016	UPLOADED	Two Sister Episode 1
-1545	UPLOADED	Tapan Episode 2
 3017	UPLOADED	Power Episode 1
 1546	UPLOADED	Siskiyaan Episode 1
 3018	UPLOADED	Power Episode 2
@@ -1993,3 +1992,4 @@
 1544	UPLOADED	Tapan Episode 1
 5156	UPLOADED	Assi Nabbe Poore Sau Episode 8
 5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
+1545	UPLOADED	Tapan Episode 2
