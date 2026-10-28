@@ -1489,7 +1489,6 @@
 3807	SKIPPED	Ding Dong Episode 6	Request was unsuccessful 6 time(s)
 5002	UPLOADED	Dunali Episode 9
 4155	UPLOADED	Balam Pichkari Episode 1
-1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
 5003	UPLOADED	Dunali Episode 8
 3808	UPLOADED	Ding Dong Episode 4
 1396	UPLOADED	Tadka Episode 1
@@ -1921,3 +1920,4 @@
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 5101	UPLOADED	Choked Episode 3
 3913	UPLOADED	Daakhila Episode 6
+1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
