@@ -598,7 +598,6 @@
 1123	UPLOADED	Savita Mami Episode 2
 3427	UPLOADED	Giddh Bhoj Episode 1
 1124	UPLOADED	Savita Mami Episode 1
-3836	UPLOADED	Aunty Ka PG Episode 3
 3428	UPLOADED	Giddh Bhoj Episode 2
 1125	UPLOADED	Jaan Bujh Kar Episode 4
 1662	UPLOADED	Gaon Ki Garmi 3 Episode 1
@@ -1618,3 +1617,4 @@
 1690	SKIPPED	Damaad Ji Episode 2	Download timeout: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out. (read timeout=60)
 5015	UPLOADED	Dunali 2 Episode 5
 4164	UPLOADED	Taras Episode 5
+3836	UPLOADED	Aunty Ka PG Episode 3
