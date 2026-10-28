@@ -577,7 +577,6 @@
 1116	UPLOADED	Ashirwad Episode 3
 3417	UPLOADED	Secret Superstar Episode 3
 1117	UPLOADED	Ashirwad Episode 2
-3806	UPLOADED	Ding Dong Episode 3
 1118	UPLOADED	Ashirwad Episode 1
 3418	UPLOADED	Khanjarpur Episode 1
 3807	UPLOADED	Ding Dong Episode 6
@@ -1579,3 +1578,4 @@
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 1394	UPLOADED	Raju Ban Gaya Gentleman Episode 6
 4154	UPLOADED	Lag Ja Gale Episode 1
+3806	UPLOADED	Ding Dong Episode 3
