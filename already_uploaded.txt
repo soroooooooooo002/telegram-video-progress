@@ -1773,7 +1773,6 @@
 3895	SKIPPED	Kache Rishtey Episode 6	Request was unsuccessful 6 time(s)
 1458	UPLOADED	Lag Ja Gale Episode 3
 4236	SKIPPED	Tohfa Episode 4	Request was unsuccessful 6 time(s)
-1688	UPLOADED	Desi Kisse Khud Khushi Episode 3
 5065	UPLOADED	Dekhi Andekhi Episode 2
 1459	UPLOADED	Ansh Episode 1
 1460	UPLOADED	Lene Ke Dene Episode 6
@@ -1932,3 +1931,4 @@
 3914	UPLOADED	Daakhila Episode 5
 1502	UPLOADED	Payal Episode 4
 5107	UPLOADED	Chehraa Episode 4
+1688	UPLOADED	Desi Kisse Khud Khushi Episode 3
