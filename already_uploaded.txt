@@ -1516,7 +1516,6 @@
 4153	UPLOADED	Lag Ja Gale Episode 2
 3805	UPLOADED	Ding Dong Episode 5
 5000	UPLOADED	Estate Manager Episode 2
-1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 1394	UPLOADED	Raju Ban Gaya Gentleman Episode 6
 4154	UPLOADED	Lag Ja Gale Episode 1
 3806	UPLOADED	Ding Dong Episode 3
@@ -1791,3 +1790,4 @@
 4200	SKIPPED	Wanna Have A Good Time 2 Episode 1	Request was unsuccessful 6 time(s)
 3865	SKIPPED	Yaar Pyaar Gaddar Episode 4	Request was unsuccessful 6 time(s)
 3866	SKIPPED	Yaar Pyaar Gaddar Episode 5	Request was unsuccessful 6 time(s)
+1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
