@@ -684,7 +684,6 @@
 3458	SKIPPED	Bhabhi Ka Bhaukal Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhabhi%20Ka%20Bhaukal/Bhabhi%20Ka%20Bhaukal%20Episode%203.mp4
 3459	SKIPPED	Bhabhi Ka Bhaukal Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhabhi%20Ka%20Bhaukal/Bhabhi%20Ka%20Bhaukal%20Episode%202.mp4
 3460	SKIPPED	Bhabhi Ka Bhaukal Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhabhi%20Ka%20Bhaukal/Bhabhi%20Ka%20Bhaukal%20Episode%201.mp4
-3863	UPLOADED	Yaar Pyaar Gaddar Episode 2
 1171	UPLOADED	Rangeen Kahaniya Episode 4
 1172	UPLOADED	Rangeen Kahaniya Episode 5
 3864	UPLOADED	Yaar Pyaar Gaddar Episode 3
@@ -1743,3 +1742,4 @@
 1446	UPLOADED	Chidiya Episode 4
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 5051	UPLOADED	Devar Ji Episode 1
+3863	UPLOADED	Yaar Pyaar Gaddar Episode 2
