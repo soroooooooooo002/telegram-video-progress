@@ -709,7 +709,6 @@
 1180	UPLOADED	Prem Game Episode 1
 1181	UPLOADED	Prem Game Episode 2
 3467	UPLOADED	Bali Umar Episode 3
-3872	UPLOADED	Thand Ka Maza Episode 6
 1182	UPLOADED	Prem Game Episode 3
 1678	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 8
 3468	UPLOADED	Bali Umar Episode 2
@@ -1804,3 +1803,4 @@
 4209	SKIPPED	Walkman Episode 1	Request was unsuccessful 6 time(s)
 4210	SKIPPED	Virgin Suspect Episode 7	Request was unsuccessful 6 time(s)
 3871	SKIPPED	Thand Ka Maza Episode 2	Request was unsuccessful 6 time(s)
+3872	SKIPPED	Thand Ka Maza Episode 6	Request was unsuccessful 6 time(s)
