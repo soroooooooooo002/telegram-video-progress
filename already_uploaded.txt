@@ -621,7 +621,6 @@
 1138	UPLOADED	Badhai Lo Episode 3
 3433	UPLOADED	Double Kaand Episode 2
 1665	UPLOADED	Gaon Ki Garmi 2 Episode 5
-3847	UPLOADED	Bai No 1 Episode 5
 1139	UPLOADED	Badhai Lo Episode 2
 3434	UPLOADED	Aunty Ka PG Episode 1
 3848	UPLOADED	Bai No 1 Episode 6
@@ -1669,3 +1668,4 @@
 1423	UPLOADED	Kundi Mat Khadkao Raja Episode 5
 4178	UPLOADED	Woodpecker Episode 8
 1424	UPLOADED	Kundi Mat Khadkao Raja Episode 6
+3847	UPLOADED	Bai No 1 Episode 5
