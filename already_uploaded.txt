@@ -1,5 +1,4 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
-1537	UPLOADED	Shaukiya Episode 2
 1538	UPLOADED	Shaukiya Episode 3
 3000	UPLOADED	Raat Ranii Episode 1
 3001	SKIPPED	Mr Pappu Uddas Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Mr%20Pappu%20uddas/Mr%20Pappu%20uddas%20Episode%202.mp4
@@ -1979,3 +1978,4 @@
 5145	UPLOADED	Bhasudi Episode 6
 1536	UPLOADED	Kya Khoob Lagti Ho Episode 4
 5146	UPLOADED	Bhasudi Episode 5
+1537	UPLOADED	Shaukiya Episode 2
