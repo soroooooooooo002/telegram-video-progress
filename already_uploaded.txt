@@ -699,7 +699,6 @@
 1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 3463	UPLOADED	Bhabhi 123 Episode 2
 1176	UPLOADED	Pyaar Idhar Udhar Episode 3
-3868	UPLOADED	Yaar Pyaar Gaddar Episode 6
 1177	UPLOADED	Pyaar Idhar Udhar Episode 4
 3464	UPLOADED	Bhabhi 123 Episode 1
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
@@ -1793,3 +1792,4 @@
 3867	SKIPPED	Yaar Pyaar Gaddar Episode 7	Request was unsuccessful 6 time(s)
 4201	SKIPPED	Walkman Episode 9	Request was unsuccessful 6 time(s)
 4202	SKIPPED	Walkman Episode 8	Request was unsuccessful 6 time(s)
+3868	SKIPPED	Yaar Pyaar Gaddar Episode 6	Request was unsuccessful 6 time(s)
