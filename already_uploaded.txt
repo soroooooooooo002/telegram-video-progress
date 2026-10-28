@@ -1781,7 +1781,6 @@
 4238	UPLOADED	Tohfa Episode 2
 1492	UPLOADED	Mithai Wali Episode 5
 3898	UPLOADED	Kache Rishtey Episode 2
-1738	SKIPPED	Anniversary Gift Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anniversary%20Gift-D1/Anniversary%20Gift%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1739	SKIPPED	Anniversary Gift Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anniversary%20Gift-D1/Anniversary%20Gift%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1740	SKIPPED	Anari Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1741	SKIPPED	Anari Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
@@ -1997,3 +1996,4 @@
 1735	SKIPPED	Badan Episode 11	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Badan-D1/Badan%20Episode%2011.mp4
 1736	SKIPPED	Badan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Badan-D1/Badan%20Episode%202.mp4
 1737	SKIPPED	Anniversary Gift Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Anniversary%20Gift-D1/Anniversary%20Gift%20Episode%203.mp4
+1738	SKIPPED	Anniversary Gift Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Anniversary%20Gift-D1/Anniversary%20Gift%20Episode%202.mp4
