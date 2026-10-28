@@ -1671,7 +1671,6 @@
 5040	UPLOADED	Devil Episode 4
 1439	UPLOADED	Chidiya Episode 7
 5041	UPLOADED	Devil Episode 3
-1703	UPLOADED	Choli Ke Peeche Kya Hai Episode 6
 5042	UPLOADED	Devil Episode 2
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
 5043	UPLOADED	Devil Episode 1
@@ -1870,3 +1869,4 @@
 1702	UPLOADED	Choli Ke Peeche Kya Hai Episode 5
 5074	UPLOADED	Dance Bar Episode 5
 5075	UPLOADED	Dance Bar Episode 4
+1703	UPLOADED	Choli Ke Peeche Kya Hai Episode 6
