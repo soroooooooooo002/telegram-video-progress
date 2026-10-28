@@ -1698,7 +1698,6 @@
 1449	UPLOADED	Raat Baaki Baat Baaki Episode 3
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 1450	UPLOADED	Raat Baaki Baat Baaki Episode 4
-1712	UPLOADED	Caretaker Episode 2
 5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
 1451	UPLOADED	Ansh Episode 7
 1713	UPLOADED	Caretaker Episode 1
@@ -1893,3 +1892,4 @@
 1711	UPLOADED	Chachi No 1 Episode 1
 5089	UPLOADED	Corporate Episode 5
 1491	UPLOADED	Mithai Wali Episode 2
+1712	UPLOADED	Caretaker Episode 2
