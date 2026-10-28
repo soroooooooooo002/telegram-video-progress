@@ -1645,7 +1645,6 @@
 5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
 1435	UPLOADED	Chaashni Episode 3
 4188	UPLOADED	Watchman Episode 7
-1700	UPLOADED	Chuski Episode 1
 5037	UPLOADED	Dil Sambhal Ja Zara Episode 1
 1436	UPLOADED	Chaashni Episode 4
 3855	UPLOADED	Mastram Ki Sundari Episode 2
@@ -1863,3 +1862,4 @@
 1478	UPLOADED	Mere Angane Mein Episode 6
 5071	UPLOADED	De Dana Dan Episode 2
 3896	UPLOADED	Kache Rishtey Episode 5
+1700	UPLOADED	Chuski Episode 1
