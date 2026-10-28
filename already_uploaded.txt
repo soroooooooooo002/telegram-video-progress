@@ -1683,7 +1683,6 @@
 5047	UPLOADED	Devar Ji Episode 6
 1444	UPLOADED	Chidiya Episode 2
 5048	UPLOADED	Devar Ji Episode 4
-1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
 5049	UPLOADED	Devar Ji Episode 3
 1445	UPLOADED	Chidiya Episode 3
 5050	UPLOADED	Devar Ji Episode 2
@@ -1876,3 +1875,4 @@
 1705	UPLOADED	Choli Ke Peeche Kya Hai Episode 4
 1484	UPLOADED	Utha Le Jaunga Episode 4
 5079	UPLOADED	D Code Episode 3
+1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
