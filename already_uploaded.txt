@@ -1700,7 +1700,6 @@
 1450	UPLOADED	Raat Baaki Baat Baaki Episode 4
 5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
 1451	UPLOADED	Ansh Episode 7
-1724	SKIPPED	Bidaai 2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%204.mp4
 1725	SKIPPED	Bidaai 2 Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%205.mp4
 1726	SKIPPED	Bidaai 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%201.mp4
 1727	SKIPPED	Bidaai 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%202.mp4
@@ -1896,3 +1895,4 @@
 1721	SKIPPED	Bidaai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai-D1/Bidaai%20Episode%202.mp4
 1722	SKIPPED	Bidaai 2 Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Bidaai%202-D1/Bidaai%202%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1723	SKIPPED	Bidaai 2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Bidaai%202-D1/Bidaai%202%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
+1724	SKIPPED	Bidaai 2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Bidaai%202-D1/Bidaai%202%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
