@@ -666,7 +666,6 @@
 1166	UPLOADED	X Class Episode 5
 3446	UPLOADED	Yeh Hai Sanak Episode 2
 1167	UPLOADED	X Class Episode 6
-3860	UPLOADED	Dream Girl Bull Episode 3
 1168	UPLOADED	Rangeen Kahaniya Episode 1
 1669	UPLOADED	Gaon Ki Garmi 2 Episode 1
 3447	UPLOADED	Yeh Hai Sanak Episode 1
@@ -1707,3 +1706,4 @@
 5038	UPLOADED	Devil Episode 6
 1437	UPLOADED	Chidiya Episode 5
 1701	UPLOADED	Chuski Episode 2
+3860	SKIPPED	Dream Girl Bull Episode 3	Request was unsuccessful 6 time(s)
