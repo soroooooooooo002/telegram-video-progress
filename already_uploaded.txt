@@ -1779,3 +1779,4 @@
 1729	SKIPPED	Bekaboo Dil Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bekaboo%20Dil-D1/Bekaboo%20Dil%20Episode%201.mp4
 1730	SKIPPED	Bekaboo Dil Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bekaboo%20Dil-D1/Bekaboo%20Dil%20Episode%202.mp4
 1731	SKIPPED	Badan Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Badan-D1/Badan%20Episode%209.mp4
+1732	SKIPPED	Badan Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Badan-D1/Badan%20Episode%206.mp4
