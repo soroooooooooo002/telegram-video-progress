@@ -1,4 +1,3 @@
-1512	UPLOADED	Kaanta Laga Episode 6
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
 1514	UPLOADED	Aah Se Aaha Tak Episode 3
 1515	UPLOADED	Aah Se Aaha Tak Episode 1
@@ -1948,3 +1947,4 @@
 5116	UPLOADED	Cheese Cake Episode 1
 4241	UPLOADED	The Producer Episode 1
 1693	UPLOADED	Damaad Ji 2 Episode 3
+1512	UPLOADED	Kaanta Laga Episode 6
