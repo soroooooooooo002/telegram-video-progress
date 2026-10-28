@@ -653,7 +653,6 @@
 1159	SKIPPED	Do Haseena Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%202.mp4
 1160	SKIPPED	Do Haseena Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%203.mp4
 1161	SKIPPED	Do Haseena Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%204.mp4
-3849	UPLOADED	Phooljhadi Episode 1
 3442	UPLOADED	Yeh Hai Sanak Episode 6
 1162	UPLOADED	X Class Episode 1
 3850	UPLOADED	Phooljhadi Episode 2
@@ -1681,3 +1680,4 @@
 4182	UPLOADED	Woodpecker Episode 4
 5030	UPLOADED	Dishkiyaoon Episode 2
 1429	UPLOADED	Kundi Mat Khadkao Raja Episode 1
+3849	UPLOADED	Phooljhadi Episode 1
