@@ -1776,7 +1776,6 @@
 1487	UPLOADED	Utha Le Jaunga Episode 6
 5084	UPLOADED	Cyanide Episode 3
 3897	UPLOADED	Kache Rishtey Episode 4
-1709	UPLOADED	Chachi No 1 Episode 3
 5085	UPLOADED	Cyanide Episode 2
 1488	UPLOADED	Mithai Wali Episode 4
 5086	UPLOADED	Cyanide Episode 1
@@ -1988,3 +1987,4 @@
 1541	UPLOADED	Tauba Tauba Episode 2
 3930	UPLOADED	Chitthi Episode 8
 5153	UPLOADED	Auction Episode 3
+1709	UPLOADED	Chachi No 1 Episode 3
