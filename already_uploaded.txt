@@ -749,7 +749,6 @@
 3486	SKIPPED	Chowkidar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%205.mp4
 1198	UPLOADED	Utha Patak S3 Episode 9
 1681	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 4
-3880	UPLOADED	Nehle Pe Dehla Episode 7
 3487	UPLOADED	Zeher Episode 1
 1199	UPLOADED	Utha Patak S3 Episode 8
 3488	UPLOADED	Zeher Episode 2
@@ -1813,3 +1812,4 @@
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
 1686	UPLOADED	Desi Kisse Khud Khushi Episode 5
+3880	SKIPPED	Nehle Pe Dehla Episode 7	Request was unsuccessful 6 time(s)
