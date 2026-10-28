@@ -1,5 +1,4 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
-1528	UPLOADED	Dil To Baccha Hai Episode 3
 1529	UPLOADED	Ek Baar Aur Episode 6
 1530	UPLOADED	Dil To Baccha Hai Episode 1
 1531	UPLOADED	Dil To Baccha Hai Episode 2
@@ -1965,3 +1964,4 @@
 3921	UPLOADED	Couple Party Episode 4
 1700	UPLOADED	Chuski Episode 1
 5132	UPLOADED	Call Center Episode 2
+1528	UPLOADED	Dil To Baccha Hai Episode 3
