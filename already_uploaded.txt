@@ -1777,7 +1777,6 @@
 1478	UPLOADED	Mere Angane Mein Episode 6
 5071	UPLOADED	De Dana Dan Episode 2
 3896	UPLOADED	Kache Rishtey Episode 5
-1700	UPLOADED	Chuski Episode 1
 1479	UPLOADED	Mere Angane Mein Episode 4
 5072	UPLOADED	De Dana Dan Episode 1
 1480	UPLOADED	Utha Le Jaunga Episode 5
@@ -1964,3 +1963,4 @@
 5131	UPLOADED	Call Center Episode 3
 1527	UPLOADED	Ek Baar Aur Episode 5
 3921	UPLOADED	Couple Party Episode 4
+1700	UPLOADED	Chuski Episode 1
