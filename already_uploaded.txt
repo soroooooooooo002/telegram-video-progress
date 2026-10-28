@@ -1638,7 +1638,6 @@
 4186	UPLOADED	Watchman Episode 9
 1433	UPLOADED	Chaashni Episode 1
 5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
-1699	UPLOADED	Chuski Episode 4
 1434	UPLOADED	Chaashni Episode 2
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3852	UPLOADED	Meri Seal Todo Episode 2
@@ -1861,3 +1860,4 @@
 5069	UPLOADED	De Dana Dan Episode 4
 5070	UPLOADED	De Dana Dan Episode 3
 1477	UPLOADED	Mere Angane Mein Episode 1
+1699	UPLOADED	Chuski Episode 4
