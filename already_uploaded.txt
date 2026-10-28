@@ -1,5 +1,4 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
-1520	UPLOADED	Kaanta Laga Episode 2
 1521	UPLOADED	Kaanta Laga Episode 1
 1522	UPLOADED	Dil To Baccha Hai Episode 5
 1523	UPLOADED	Dil To Baccha Hai Episode 4
@@ -1953,3 +1952,4 @@
 5120	UPLOADED	Chahat Episode 3
 1519	UPLOADED	Kaanta Laga Episode 4
 5121	UPLOADED	Chahat Episode 2
+1520	UPLOADED	Kaanta Laga Episode 2
