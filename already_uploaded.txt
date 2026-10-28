@@ -1776,7 +1776,6 @@
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
 1475	UPLOADED	Mere Angane Mein Episode 2
 5068	UPLOADED	De Dana Dan Episode 5
-1698	UPLOADED	Chuski Episode 3
 1476	UPLOADED	Mere Angane Mein Episode 3
 5069	UPLOADED	De Dana Dan Episode 4
 5070	UPLOADED	De Dana Dan Episode 3
@@ -1958,3 +1957,4 @@
 5125	UPLOADED	Call Center Episode 9
 1522	UPLOADED	Dil To Baccha Hai Episode 5
 5126	UPLOADED	Call Center Episode 8
+1698	UPLOADED	Chuski Episode 3
