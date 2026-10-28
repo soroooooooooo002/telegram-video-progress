@@ -596,7 +596,6 @@
 3813	UPLOADED	Paying Guest Episode 3
 1661	UPLOADED	Gaon Ki Garmi 3 Episode 4
 1123	UPLOADED	Savita Mami Episode 2
-3818	UPLOADED	Yogini Episode 3
 3819	SKIPPED	Garbhdaan Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Garbhdaan/Garbhdaan%20Episode%206.mp4
 3820	SKIPPED	Garbhdaan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Garbhdaan/Garbhdaan%20Episode%205.mp4
 3821	SKIPPED	Garbhdaan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Garbhdaan/Garbhdaan%20Episode%204.mp4
@@ -1611,3 +1610,4 @@
 5012	UPLOADED	Dunali 2 Episode 8
 4162	UPLOADED	Jinnie Jaaz XXX Suhagrat ki video | Desi Suhagrat
 1688	SKIPPED	Desi Kisse Khud Khushi Episode 3	Download request failed: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out.
+3818	UPLOADED	Yogini Episode 3
