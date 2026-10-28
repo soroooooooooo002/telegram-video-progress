@@ -11,7 +11,6 @@
 3009	UPLOADED	Plan B Episode 4
 3010	UPLOADED	Plan B Episode 3
 3011	UPLOADED	Plan B Episode 2
-1542	UPLOADED	Tapan Episode 3
 3012	UPLOADED	Plan B Episode 1
 3013	UPLOADED	Two Sister Episode 4
 1543	UPLOADED	Tapan Episode 4
@@ -1988,3 +1987,4 @@
 3930	UPLOADED	Chitthi Episode 8
 5153	UPLOADED	Auction Episode 3
 1709	UPLOADED	Chachi No 1 Episode 3
+1542	UPLOADED	Tapan Episode 3
