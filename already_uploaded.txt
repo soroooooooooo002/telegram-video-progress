@@ -13,7 +13,6 @@
 3011	UPLOADED	Plan B Episode 2
 3012	UPLOADED	Plan B Episode 1
 3013	UPLOADED	Two Sister Episode 4
-1543	UPLOADED	Tapan Episode 4
 3014	UPLOADED	Two Sister Episode 3
 1544	UPLOADED	Tapan Episode 1
 3015	UPLOADED	Two Sister Episode 2
@@ -1989,3 +1988,4 @@
 1709	UPLOADED	Chachi No 1 Episode 3
 1542	UPLOADED	Tapan Episode 3
 5154	UPLOADED	Auction Episode 2
+1543	SKIPPED	Tapan Episode 4	Failed to upload file part 387.
