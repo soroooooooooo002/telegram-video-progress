@@ -1773,3 +1773,4 @@
 1723	SKIPPED	Bidaai 2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%206.mp4
 1724	SKIPPED	Bidaai 2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%204.mp4
 1725	SKIPPED	Bidaai 2 Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%205.mp4
+1726	SKIPPED	Bidaai 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Bidaai%202-D1/Bidaai%202%20Episode%201.mp4
