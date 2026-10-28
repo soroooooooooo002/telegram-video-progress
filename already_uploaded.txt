@@ -1531,7 +1531,6 @@
 4161	UPLOADED	Balam Pichkari Episode 7
 5012	UPLOADED	Dunali 2 Episode 8
 4162	UPLOADED	Jinnie Jaaz XXX Suhagrat ki video | Desi Suhagrat
-1688	SKIPPED	Desi Kisse Khud Khushi Episode 3	Download request failed: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out.
 3818	UPLOADED	Yogini Episode 3
 3819	SKIPPED	Garbhdaan Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Garbhdaan/Garbhdaan%20Episode%206.mp4
 3820	SKIPPED	Garbhdaan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Garbhdaan/Garbhdaan%20Episode%205.mp4
@@ -1836,3 +1835,4 @@
 3895	SKIPPED	Kache Rishtey Episode 6	Request was unsuccessful 6 time(s)
 1458	UPLOADED	Lag Ja Gale Episode 3
 4236	SKIPPED	Tohfa Episode 4	Request was unsuccessful 6 time(s)
+1688	UPLOADED	Desi Kisse Khud Khushi Episode 3
