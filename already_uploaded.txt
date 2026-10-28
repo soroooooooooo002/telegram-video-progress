@@ -583,7 +583,6 @@
 3419	UPLOADED	Khanjarpur Episode 2
 1119	UPLOADED	Savita Mami Episode 6
 3420	UPLOADED	Khanjarpur Episode 3
-3809	UPLOADED	Ding Dong Episode 2
 1120	UPLOADED	Savita Mami Episode 5
 3421	UPLOADED	Khanjarpur Episode 4
 1660	UPLOADED	Gaon Ki Garmi 3 Episode 3
@@ -1588,3 +1587,4 @@
 1396	UPLOADED	Tadka Episode 1
 4156	UPLOADED	Balam Pichkari Episode 4
 5004	UPLOADED	Dunali Episode 7
+3809	UPLOADED	Ding Dong Episode 2
