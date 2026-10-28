@@ -848,7 +848,6 @@
 1205	UPLOADED	Utha Patak S3 Episode 10
 3499	UPLOADED	Woodpecker Episode 3
 1206	UPLOADED	Utha Patak S3 Episode 1
-1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 3886	UPLOADED	Nehle Pe Dehla Episode 8
 3500	UPLOADED	Woodpecker Episode 4
 3887	UPLOADED	Len Den Episode 5
@@ -1577,3 +1576,4 @@
 4153	UPLOADED	Lag Ja Gale Episode 2
 3805	UPLOADED	Ding Dong Episode 5
 5000	UPLOADED	Estate Manager Episode 2
+1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
