@@ -1575,7 +1575,6 @@
 5019	UPLOADED	Dunali 2 Episode 10
 3842	UPLOADED	Bai No 1 Episode 1
 1413	UPLOADED	Biwi Ka Khat Episode 5
-1693	UPLOADED	Damaad Ji 2 Episode 3
 4167	UPLOADED	Taras Episode 3
 5020	UPLOADED	Dunali 2 Episode 1
 1694	UPLOADED	Damaad Ji 2 Episode 1
@@ -1852,3 +1851,4 @@
 1692	UPLOADED	Damaad Ji 2 Episode 4
 1470	UPLOADED	Dekho Magar Pyar Se Episode 4
 1471	UPLOADED	Dekho Magar Pyar Se Episode 2
+1693	UPLOADED	Damaad Ji 2 Episode 3
