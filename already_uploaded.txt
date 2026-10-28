@@ -732,7 +732,6 @@
 3475	SKIPPED	Saiyaan Ji Khatiya Pe Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saavan/Saiyaan%20Ji%20Khatiya%20Pe/Saiyaan%20Ji%20Khatiya%20Pe%20Episode%201.mp4
 1679	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 5
 1194	UPLOADED	Viral Rani Episode 4
-3875	UPLOADED	Thand Ka Maza Episode 7
 3476	UPLOADED	My Yoga Teacher Episode 2
 3876	UPLOADED	Thand Ka Maza Episode 8
 1195	UPLOADED	Viral Rani Episode 3
@@ -1810,3 +1809,4 @@
 4215	SKIPPED	Virgin Suspect Episode 2	Request was unsuccessful 6 time(s)
 5060	UPLOADED	Dekhi Andekhi Episode 6
 4216	SKIPPED	Virgin Suspect Episode 1	Request was unsuccessful 6 time(s)
+3875	SKIPPED	Thand Ka Maza Episode 7	Request was unsuccessful 6 time(s)
