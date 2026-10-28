@@ -658,7 +658,6 @@
 1667	UPLOADED	Gaon Ki Garmi 2 Episode 3
 1163	UPLOADED	X Class Episode 2
 3443	UPLOADED	Yeh Hai Sanak Episode 5
-3851	UPLOADED	Meri Seal Todo Episode 1
 1164	UPLOADED	X Class Episode 3
 3444	UPLOADED	Yeh Hai Sanak Episode 4
 3852	UPLOADED	Meri Seal Todo Episode 2
@@ -1691,3 +1690,4 @@
 1432	UPLOADED	Kundi Mat Khadkao Raja Episode 4
 1698	UPLOADED	Chuski Episode 3
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
+3851	UPLOADED	Meri Seal Todo Episode 1
