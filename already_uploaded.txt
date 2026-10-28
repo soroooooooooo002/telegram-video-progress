@@ -1528,7 +1528,6 @@
 5006	UPLOADED	Dunali Episode 5
 4158	UPLOADED	Balam Pichkari Episode 2
 1399	UPLOADED	Tadka Episode 4
-1686	SKIPPED	Desi Kisse Khud Khushi Episode 5	Download request failed: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out.
 5007	UPLOADED	Dunali Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
 3812	UPLOADED	Paying Guest Episode 2
@@ -1813,3 +1812,4 @@
 5061	UPLOADED	Dekhi Andekhi Episode 7
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
+1686	UPLOADED	Desi Kisse Khud Khushi Episode 5
