@@ -1595,7 +1595,6 @@
 5024	UPLOADED	Dubey Ji And The Boys Episode 2
 4174	UPLOADED	Wrong Turn Episode 4
 1418	UPLOADED	Tere Mere Beech Mein Episode 2
-1697	UPLOADED	Chuski Episode 6
 5025	UPLOADED	Dubey Ji And The Boys Episode 1
 3845	UPLOADED	Bai No 1 Episode 4
 4175	UPLOADED	Wrong Turn Episode 3
@@ -1855,3 +1854,4 @@
 1473	UPLOADED	Dekho Magar Pyar Se Episode 5
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
 1696	UPLOADED	Chuski Episode 5
+1697	UPLOADED	Chuski Episode 6
