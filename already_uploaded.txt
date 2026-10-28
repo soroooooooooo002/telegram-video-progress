@@ -590,7 +590,6 @@
 3423	SKIPPED	GuptRog Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 1121	UPLOADED	Savita Mami Episode 4
-3811	UPLOADED	Paying Guest Episode 1
 3425	UPLOADED	Good Girls Episode 1
 3812	UPLOADED	Paying Guest Episode 2
 1122	UPLOADED	Savita Mami Episode 3
@@ -1592,3 +1591,4 @@
 5005	UPLOADED	Dunali Episode 6
 3810	UPLOADED	Ding Dong Episode 1
 1398	UPLOADED	Tadka Episode 3
+3811	UPLOADED	Paying Guest Episode 1
