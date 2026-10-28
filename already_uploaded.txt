@@ -1526,3 +1526,4 @@
 1371	UPLOADED	Yamma Yamma Episode 8
 3783	UPLOADED	Patang Paseena Episode 2
 1373	UPLOADED	Yamma Yamma Episode 7
+1374	UPLOADED	Yamma Yamma Episode 6
