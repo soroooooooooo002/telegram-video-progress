@@ -994,7 +994,6 @@
 1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
 1270	UPLOADED	Kajri Episode 3
-3973	SKIPPED	ChutzPah Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E2.mp4
 3974	SKIPPED	Aao Kare Gutur Gu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E1.mp4
 3710	UPLOADED	Jalebi S4 Episode 8
 1271	UPLOADED	Kajri Episode 2
@@ -2523,3 +2522,4 @@
 3970	SKIPPED	Ghar Ki Rani Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghar%20Ki%20Rani/Ghar%20Ki%20Rani%20E1.mp4
 3971	SKIPPED	What The F Part 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/What%20The%20F%21%21%21/What%20The%20F%21%21%21%20Part%202.mp4
 3972	SKIPPED	Rasmalai Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rasmalai/Rasmalai%20E4.mp4
+3973	SKIPPED	ChutzPah Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E2.mp4
