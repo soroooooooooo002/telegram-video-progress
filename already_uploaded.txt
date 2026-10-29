@@ -3080,3 +3080,4 @@
 2903	SKIPPED	Chausar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2904	UPLOADED	Sarpanch Episode 3
 2905	UPLOADED	Sarpanch Episode 2
+2906	UPLOADED	Sarpanch Episode 1
