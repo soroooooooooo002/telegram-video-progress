@@ -2955,3 +2955,4 @@
 4344	UPLOADED	Singardaan Episode 3
 5693	UPLOADED	Napunsak Pati Episode 3
 5694	SKIPPED	Napunsak Pati Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Napunsak%20Pati/Napunsak%20Pati%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5695	SKIPPED	Panty Chor Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Panty%20Chor/Panty%20Chor%20E2.mp4
