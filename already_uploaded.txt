@@ -2262,3 +2262,4 @@
 1775	SKIPPED	Babuji Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/BabuJi/Babuji%20E5.mp4
 1776	SKIPPED	Babuji Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/BabuJi/Babuji%20E6.mp4
 1777	SKIPPED	Babuji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/BabuJi/Babuji%20E2.mp4
+1778	SKIPPED	Babuji Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/BabuJi/Babuji%20E4.mp4
