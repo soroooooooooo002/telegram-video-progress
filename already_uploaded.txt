@@ -2132,3 +2132,4 @@
 5274	SKIPPED	Bubblepur Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E5.mp4
 5275	SKIPPED	Blind Kotha Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Blind%20Kotha/Blind%20Kotha%20E1.mp4
 5276	SKIPPED	Bubblepur Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E6.mp4
+5277	SKIPPED	Blind Kotha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Blind%20Kotha/Blind%20Kotha%20E2.mp4
