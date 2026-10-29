@@ -42,7 +42,6 @@
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
-3170	SKIPPED	Choli Ke Piche Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3171	SKIPPED	Choli Ke Piche Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3172	SKIPPED	Choli Ke Piche Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3173	SKIPPED	Choli Ke Piche Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3190,3 +3189,4 @@
 4356	UPLOADED	Secret Ingredient Episode 5
 688	UPLOADED	Vashikaran Episode 1
 5792	SKIPPED	Sambhog Yatra	Request was unsuccessful 6 time(s)
+3170	SKIPPED	Choli Ke Piche Episode 1	Request was unsuccessful 6 time(s)
