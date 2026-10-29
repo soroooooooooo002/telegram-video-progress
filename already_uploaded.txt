@@ -2169,3 +2169,4 @@
 2530	SKIPPED	Ghapa Ghap Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%203.mp4
 2531	SKIPPED	Ghapa Ghap Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%202.mp4
 2532	SKIPPED	Ghapa Ghap Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%201.mp4
+2533	SKIPPED	Fruit Juice Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%206.mp4
