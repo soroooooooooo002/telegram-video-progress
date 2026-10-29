@@ -41,7 +41,6 @@
 1594	UPLOADED	Numbari Episode 5
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
-3091	SKIPPED	Double Trouble Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3092	SKIPPED	Double Trouble Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3093	SKIPPED	Double Trouble Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3094	SKIPPED	Double Trouble Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3183,3 +3182,4 @@
 3088	SKIPPED	Double Trouble Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E8.mp4
 3089	SKIPPED	Double Trouble Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E7.mp4
 3090	SKIPPED	Double Trouble Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E6.mp4
+3091	SKIPPED	Double Trouble Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E5.mp4
