@@ -2318,3 +2318,4 @@
 2587	SKIPPED	Dhoka Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dhoka/Dhoka%20Episode%201.mp4
 2588	SKIPPED	Cricket Affairs Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Cricket%20Affairs/Cricket%20Affairs%20Episode%202.mp4
 2589	SKIPPED	Cricket Affairs Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Cricket%20Affairs/Cricket%20Affairs%20Episode%201.mp4
+2590	SKIPPED	Bewafa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Bewafa/Bewafa%20Episode%202.mp4
