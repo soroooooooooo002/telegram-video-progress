@@ -2179,3 +2179,4 @@
 2540	SKIPPED	Bhutesh Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%204.mp4
 2541	SKIPPED	Bhutesh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%203.mp4
 2542	SKIPPED	Bhutesh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%202.mp4
+2543	SKIPPED	Bhutesh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%201.mp4
