@@ -2580,3 +2580,4 @@
 4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
 4045	SKIPPED	Shatir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E4.mp4
 4317	UPLOADED	Sona Episode 6
+1851	UPLOADED	Mona 69 Episode 1
