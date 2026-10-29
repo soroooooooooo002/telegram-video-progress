@@ -2269,3 +2269,4 @@
 1782	SKIPPED	Antarvasna Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Antarvasna/Antarvasna%20E5.mp4
 1783	SKIPPED	Antarvasna Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Antarvasna/Antarvasna%20E3.mp4
 1784	SKIPPED	Antarvasna Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Antarvasna/Antarvasna%20E1.mp4
+1785	SKIPPED	Antarvasna Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Antarvasna/Antarvasna%20E2.mp4
