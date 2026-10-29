@@ -2092,3 +2092,4 @@
 5233	SKIPPED	Gulab Jamun Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamun%20E1.mp4
 5234	SKIPPED	Gulab Jamun Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamunn%20E2.mp4
 5235	SKIPPED	Golden Silver Episode1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E1.mp4
+5236	SKIPPED	Golden Silver Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E3.mp4
