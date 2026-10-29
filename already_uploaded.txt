@@ -2405,3 +2405,4 @@
 1820	SKIPPED	Chumbak Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%2010.mp4
 1821	SKIPPED	Chumbak Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%209.mp4
 1822	SKIPPED	Chumbak Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%206.mp4
+1823	SKIPPED	Chumbak Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%207.mp4
