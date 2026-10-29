@@ -2349,3 +2349,4 @@
 4285	SKIPPED	Takk Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%201.mp4
 4286	SKIPPED	Takk Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%202.mp4
 4287	UPLOADED	Sweet Lie Episode 3
+2602	UPLOADED	Julie I Love You Episode 4
