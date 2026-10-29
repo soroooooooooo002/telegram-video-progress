@@ -988,7 +988,6 @@
 3701	UPLOADED	PathShala S3 Episode 2
 1266	UPLOADED	Shararati Saas Episode 2
 3702	UPLOADED	PathShala S3 Episode 1
-3962	UPLOADED	Rivaaz Episode 4
 3703	UPLOADED	PathShala S2 Episode 4
 1267	UPLOADED	Shararati Saas Episode 1
 3963	UPLOADED	Rivaaz Episode 5
@@ -2429,3 +2428,4 @@
 2616	UPLOADED	Sasur Ki Nayee Dulhan Episode 5
 4301	UPLOADED	Sursuri Li Episode 1
 5342	UPLOADED	Khiladi Bhaiya Episode 7
+3962	UPLOADED	Rivaaz Episode 4
