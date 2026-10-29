@@ -3083,3 +3083,4 @@
 2906	UPLOADED	Sarpanch Episode 1
 2907	UPLOADED	Ehsaas Episode 6
 659	UPLOADED	F Se Fantasy Episode 7
+660	SKIPPED	F Se Fantasy Episode 6	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/F%20Se%20Fantasy/F%20Se%20Fantasy%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
