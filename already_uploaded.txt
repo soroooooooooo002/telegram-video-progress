@@ -2300,3 +2300,4 @@
 1795	UPLOADED	Bunty Babli Episode 4
 3946	UPLOADED	Chakori Episode 2
 2571	UPLOADED	Mastram Ki Sundari Episode 1
+2572	SKIPPED	Shak Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Shak/Shak%20Episode%202.mp4
