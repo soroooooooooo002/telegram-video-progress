@@ -2016,3 +2016,4 @@
 5173	SKIPPED	Gehra Rishta Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%202.mp4
 5174	SKIPPED	Gehra Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%201.mp4
 5175	SKIPPED	Tuition Teacher Episode 3 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuition%20Teacher%20S01E03%20%28XSeries.IN%29.mp4
+5176	SKIPPED	Tuition Teacher Episode 2 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E02%20%28XSeries.IN%29.mp4
