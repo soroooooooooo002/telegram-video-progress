@@ -993,7 +993,6 @@
 3704	UPLOADED	PathShala S2 Episode 3
 1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
-3964	UPLOADED	Rivaaz Episode 6
 1270	UPLOADED	Kajri Episode 3
 3965	UPLOADED	Rivaaz Episode 7
 3966	SKIPPED	Paiso Se Sukh	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mastram/Paiso%20Se%20Sukh.mp4
@@ -2435,3 +2434,4 @@
 2618	UPLOADED	Sasur Ki Nayee Dulhan Episode 3
 4303	UPLOADED	Sunny Winter Episode 5
 4304	UPLOADED	Sunny Winter Episode 3
+3964	UPLOADED	Rivaaz Episode 6
