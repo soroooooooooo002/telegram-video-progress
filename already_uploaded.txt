@@ -984,7 +984,6 @@
 3699	UPLOADED	PathShala S3 Episode 4
 1264	UPLOADED	Shararati Saas Episode 4
 3700	UPLOADED	PathShala S3 Episode 3
-3960	UPLOADED	Rivaaz Episode 2
 1265	UPLOADED	Shararati Saas Episode 3
 3701	UPLOADED	PathShala S3 Episode 2
 3961	UPLOADED	Rivaaz Episode 3
@@ -2419,3 +2418,4 @@
 1830	UPLOADED	Utha Patak S3 Episode 12
 4297	UPLOADED	Sursuri Li Episode 2
 4298	UPLOADED	Sursuri Li Episode 12
+3960	UPLOADED	Rivaaz Episode 2
