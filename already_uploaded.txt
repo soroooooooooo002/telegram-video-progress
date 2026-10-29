@@ -2106,3 +2106,4 @@
 5247	SKIPPED	Compromise Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Compromise/Compromise%20E1.mp4
 5248	SKIPPED	Compromise Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Compromise/Compromise%20E2.mp4
 5249	SKIPPED	Clash Of Swack Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Clash%20Of%20Swackk/Clash%20Of%20Swackk%20E1.mp4
+5250	SKIPPED	ChutzPah Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E1.mp4
