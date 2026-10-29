@@ -2150,3 +2150,4 @@
 5293	SKIPPED	Aao Kare Gutur Gu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E3.mp4
 1746	UPLOADED	Anari Episode 4
 5294	SKIPPED	Aao Kare Gutur Gu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E4.mp4
+4256	UPLOADED	The Bull Of Dalal Street Episode 8
