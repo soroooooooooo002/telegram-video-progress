@@ -2608,3 +2608,4 @@
 4325	SKIPPED	Slip Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%203.mp4
 4326	SKIPPED	Slip Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%202.mp4
 4327	SKIPPED	Slip Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%201.mp4
+600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
