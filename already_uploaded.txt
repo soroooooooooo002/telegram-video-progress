@@ -2273,3 +2273,4 @@
 1786	SKIPPED	Anokha Rishta Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Anokha%20Rishta/Anokha%20Rishta%20E7.mp4
 1787	SKIPPED	Anokha Rishta Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Anokha%20Rishta/Anokha%20Rishta%20E5.mp4
 1788	SKIPPED	Anokha Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Anokha%20Rishta/Anokha%20Rishta%20E1.mp4
+1789	SKIPPED	Shatir Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E1.mp4
