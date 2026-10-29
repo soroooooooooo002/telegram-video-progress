@@ -41,7 +41,6 @@
 1594	UPLOADED	Numbari Episode 5
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
-3132	SKIPPED	Kaneez Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E9.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3133	SKIPPED	Haseen Maut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3134	SKIPPED	Haseen Maut Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3135	SKIPPED	Haseen Maut Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3185,3 +3184,4 @@
 3129	SKIPPED	Kaneez Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E6.mp4
 3130	SKIPPED	Kaneez Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E7.mp4
 3131	SKIPPED	Kaneez Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E8.mp4
+3132	SKIPPED	Kaneez Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E9.mp4
