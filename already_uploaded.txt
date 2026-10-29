@@ -978,7 +978,6 @@
 3696	UPLOADED	PathShala S3 Episode 7
 3697	UPLOADED	PathShala S3 Episode 6
 1261	UPLOADED	Size Does Not Matter Episode 2
-3954	UPLOADED	Chatur Naar Episode 4
 3698	UPLOADED	PathShala S3 Episode 5
 1262	UPLOADED	Size Does Not Matter Episode 1
 3955	UPLOADED	Chatur Naar Episode 3
@@ -2388,3 +2387,4 @@
 5337	UPLOADED	Khiladi Bhaiya Episode 1
 2612	UPLOADED	Shararati Mami Episode 1
 4294	UPLOADED	Sursuri Li Episode 5
+3954	UPLOADED	Chatur Naar Episode 4
