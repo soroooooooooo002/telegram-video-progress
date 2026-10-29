@@ -2136,3 +2136,4 @@
 5278	SKIPPED	Bewafaii Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E1.mp4
 5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
+5281	SKIPPED	BehruPriya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E2.mp4
