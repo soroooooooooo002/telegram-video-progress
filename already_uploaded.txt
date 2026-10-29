@@ -2293,3 +2293,4 @@
 2570	SKIPPED	Teacher Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Teacher/Teacher%20Episode%201.mp4
 4276	UPLOADED	Teekhi Chutney Episode 2
 3945	UPLOADED	Chakori Episode 3
+5316	UPLOADED	Gharwali Baharwali Episode 5
