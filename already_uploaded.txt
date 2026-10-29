@@ -2321,3 +2321,4 @@
 2590	SKIPPED	Bewafa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Bewafa/Bewafa%20Episode%202.mp4
 2591	SKIPPED	Bewafa Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Bewafa/Bewafa%20Episode%201.mp4
 2592	SKIPPED	Bepanah Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Bepanah/Bepanah%20Episode%202.mp4
+2593	SKIPPED	Bepanah Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Bepanah/Bepanah%20Episode%201.mp4
