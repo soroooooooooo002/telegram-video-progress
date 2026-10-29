@@ -2436,3 +2436,4 @@
 4304	UPLOADED	Sunny Winter Episode 3
 3964	UPLOADED	Rivaaz Episode 6
 5344	UPLOADED	Khiladi Bhaiya Episode 8
+5345	SKIPPED	Yaddasht Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E7.mp4
