@@ -2241,3 +2241,4 @@
 1767	SKIPPED	Kabhi Ye Kabhi Woh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Kabhi%20Ye%20Kabhi%20Woh/Kabhi%20Ye%20Kabhi%20Woh%20Episode%201.mp4
 1768	SKIPPED	Kabhi Ye Kabhi Woh Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Kabhi%20Ye%20Kabhi%20Woh/Kabhi%20Ye%20Kabhi%20Woh%20Episode%207.mp4
 5307	UPLOADED	Damaadji Lage Raho Episode 3
+1769	UPLOADED	Ghar Ka Call Boy Episode 2
