@@ -2462,3 +2462,4 @@
 5368	SKIPPED	Buddha Pyaar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E5.mp4
 5369	SKIPPED	Buddha Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E2.mp4
 5370	SKIPPED	Bima Babu Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E5.mp4
+5371	SKIPPED	Buddha Pyaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E1.mp4
