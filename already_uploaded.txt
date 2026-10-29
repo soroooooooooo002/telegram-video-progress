@@ -2897,3 +2897,4 @@
 5646	SKIPPED	Prem Leela Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2847	UPLOADED	Obsession Episode 4
 5648	SKIPPED	Bouthan Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Bouthan/Bouthan%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5649	SKIPPED	Bouthan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Bouthan/Bouthan%20E2.mp4
