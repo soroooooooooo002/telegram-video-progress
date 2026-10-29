@@ -2382,3 +2382,4 @@
 1806	UPLOADED	Adhure Hum Episode 7
 5335	SKIPPED	Sindoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Sindoor.mp4
 5336	SKIPPED	Luka Chuppi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Luka%20Chuppi.mp4
+2611	UPLOADED	Shararati Mami Episode 2
