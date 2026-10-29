@@ -41,7 +41,6 @@
 1594	UPLOADED	Numbari Episode 5
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
-3153	SKIPPED	Sehri Bahurani Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3154	SKIPPED	Sehri Bahurani Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3155	SKIPPED	Sehri Bahurani Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3156	SKIPPED	Sehri Bahurani Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3186,3 +3185,4 @@
 3150	SKIPPED	Rakhwala Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Rakhwala/Rakhwala%20Episode%202.mp4
 3151	SKIPPED	Rakhwala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Rakhwala/Rakhwala%20Episode%201.mp4
 3152	SKIPPED	Sehri Bahurani Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%206.mp4
+3153	SKIPPED	Sehri Bahurani Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Sehri%20Bahurani/Sehri%20Bahurani%20Episode%205.mp4
