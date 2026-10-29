@@ -3050,3 +3050,4 @@
 5787	SKIPPED	Bhoganiya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%203%20%282022%29%20XSeries.IN.mp4
 5788	SKIPPED	Bhoganiya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%201%20%282021%29%20XSeries.IN.mp4
 5789	SKIPPED	Bhoganiya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%202%20%282021%29%20XSeries.IN.mp4
+5790	SKIPPED	Pyaasi Devrani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Pyaasi%20Devrani%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
