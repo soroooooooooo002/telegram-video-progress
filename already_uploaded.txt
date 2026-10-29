@@ -2310,3 +2310,4 @@
 2579	SKIPPED	Mami Bhanja Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Mami%20Bhanja/Mami%20Bhanja%20Episode%201.mp4
 2580	SKIPPED	Madhosh Master Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Madhosh%20Master/Madhosh%20Master%20Episode%201.mp4
 2581	SKIPPED	Hotel Girl Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Hotel%20Girl/Hotel%20Girl%20Episode%201.mp4
+2582	SKIPPED	Galat Fehmi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Galat%20Fehmi/Galat%20Fehmi%20Episode%201.mp4
