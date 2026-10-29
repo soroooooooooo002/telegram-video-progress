@@ -1010,7 +1010,6 @@
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
 3717	UPLOADED	Jalebi S4 Episode 1
-3989	SKIPPED	Betaab Ishq Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E6.mp4
 3990	SKIPPED	Betaab Ishq Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E7.mp4
 3991	SKIPPED	Chull Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E9.mp4
 3992	SKIPPED	Chull Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E8.mp4
@@ -2577,3 +2576,4 @@
 3986	SKIPPED	Betaab Ishq Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E3.mp4
 3987	SKIPPED	Betaab Ishq Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E4.mp4
 3988	SKIPPED	Betaab Ishq Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E5.mp4
+3989	SKIPPED	Betaab Ishq Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Betaab%20Ishq/Betaab%20Ishq%20E6.mp4
