@@ -2441,3 +2441,4 @@
 5347	SKIPPED	Yaddasht Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E5.mp4
 5348	SKIPPED	Yaddasht Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E6.mp4
 5349	SKIPPED	Yaddasht Episode 2	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E2.mp4
+5350	SKIPPED	Yaddasht Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E3.mp4
