@@ -967,7 +967,6 @@
 1253	UPLOADED	Bully Aur Bulbul Episode 4
 3693	UPLOADED	Mangalik Episode 2
 3694	UPLOADED	Mangalik Episode 3
-3952	UPLOADED	Chatur Naar Episode 2
 1254	UPLOADED	Bully Aur Bulbul Episode 3
 3695	UPLOADED	Mangalik Episode 4
 1255	UPLOADED	Bully Aur Bulbul Episode 2
@@ -2368,3 +2367,4 @@
 1805	UPLOADED	Adhure Hum Episode 4
 5323	UPLOADED	Anokhi Episode 2
 2610	UPLOADED	Suno Sasur Ji Episode 1
+3952	UPLOADED	Chatur Naar Episode 2
