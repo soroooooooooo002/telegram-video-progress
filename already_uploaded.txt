@@ -2080,3 +2080,4 @@
 5221	SKIPPED	Jal Bin Machali Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jal%20Bin%20Machali/Jal%20Bin%20Machali%20E3.mp4
 5222	SKIPPED	Jal Bin Machali Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jal%20Bin%20Machali/Jal%20Bin%20Machali%20E4.mp4
 5223	SKIPPED	Humraaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E1.mp4
+5224	SKIPPED	Humraaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E2.mp4
