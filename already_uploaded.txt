@@ -2024,3 +2024,4 @@
 2500	SKIPPED	Shanno Chudail S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%202.mp4
 2501	SKIPPED	Shanno Chudail S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%201.mp4
 2502	SKIPPED	Shanno Chudail Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail/Shanno%20Chudail%20Episode%207.mp4
+2503	SKIPPED	Shanno Chudail Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail/Shanno%20Chudail%20Episode%206.mp4
