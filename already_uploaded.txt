@@ -3071,3 +3071,4 @@
 4352	UPLOADED	Secretary Episode 4
 2895	UPLOADED	Sitiyabaaz Episode 3
 2896	SKIPPED	Sitiyabaaz Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/Sitiyabaaz/Sitiyabaaz%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2897	SKIPPED	Sitiyabaaz Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/Sitiyabaaz/Sitiyabaaz%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
