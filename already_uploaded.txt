@@ -2312,3 +2312,4 @@
 2581	SKIPPED	Hotel Girl Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Hotel%20Girl/Hotel%20Girl%20Episode%201.mp4
 2582	SKIPPED	Galat Fehmi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Galat%20Fehmi/Galat%20Fehmi%20Episode%201.mp4
 2583	SKIPPED	Firangi Bahu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Firangi%20Bahu/Firangi%20Bahu%20Episode%201.mp4
+4278	UPLOADED	Tandoor Episode 5
