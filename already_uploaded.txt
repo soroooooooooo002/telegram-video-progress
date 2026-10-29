@@ -2525,3 +2525,4 @@
 3974	SKIPPED	Aao Kare Gutur Gu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E1.mp4
 1836	UPLOADED	Utha Patak S1 Episode 2
 5431	UPLOADED	The Unmarried Women Episode 2
+4307	UPLOADED	Sunny Winter Episode 1
