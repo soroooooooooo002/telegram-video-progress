@@ -2856,3 +2856,4 @@
 5605	SKIPPED	Crazy	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dumba/Single/Crazy.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5606	SKIPPED	The Painter Episode 3	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 4335	UPLOADED	Size Matters 2 Episode 6
+5608	SKIPPED	The Painter Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/The%20Painter/The%20Painter%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
