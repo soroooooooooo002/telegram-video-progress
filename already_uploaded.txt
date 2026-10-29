@@ -3189,3 +3189,4 @@
 3169	SKIPPED	Shraap Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Shraap/Shraap%20Episode%201.mp4
 4356	UPLOADED	Secret Ingredient Episode 5
 688	UPLOADED	Vashikaran Episode 1
+5792	SKIPPED	Sambhog Yatra	Request was unsuccessful 6 time(s)
