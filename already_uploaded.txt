@@ -1,5 +1,4 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
-3003	UPLOADED	Miss Doctor Episode 2
 3004	UPLOADED	Miss Doctor Episode 1
 3005	SKIPPED	Maya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Maya/Maya%20Episode%204.mp4
 3006	SKIPPED	Maya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Maya/Maya%20Episode%203.mp4
@@ -3183,3 +3182,4 @@
 3000	SKIPPED	Raat Ranii Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3001	SKIPPED	Mr Pappu Uddas Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Mr%20Pappu%20uddas/Mr%20Pappu%20uddas%20Episode%202.mp4
 3002	SKIPPED	Mr Pappu Uddas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Mr%20Pappu%20uddas/Mr%20Pappu%20uddas%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3003	SKIPPED	Miss Doctor Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Miss%20Doctor/Miss%20Doctor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
