@@ -2508,3 +2508,4 @@
 5414	SKIPPED	Choti Bahu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Choti%20Bahu/Choti%20Bahu%20E4.mp4
 5415	SKIPPED	Devika Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Devika/Devika%20E1.mp4
 5416	SKIPPED	Choti Bahu Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Choti%20Bahu/Choti%20Bahu%20E7.mp4
+5417	SKIPPED	Choti Bahu Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Choti%20Bahu/Choti%20Bahu%20E6.mp4
