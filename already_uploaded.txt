@@ -2634,3 +2634,4 @@
 614	SKIPPED	Chausar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 615	SKIPPED	Chausar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4331	UPLOADED	Size Matters Episode 1
+2640	SKIPPED	Ladla Devar Episode 3	Request was unsuccessful 6 time(s)
