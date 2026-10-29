@@ -1770,7 +1770,6 @@
 4238	UPLOADED	Tohfa Episode 2
 1492	UPLOADED	Mithai Wali Episode 5
 3898	UPLOADED	Kache Rishtey Episode 2
-1742	SKIPPED	Anari Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1743	SKIPPED	Anari Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1744	SKIPPED	Anari Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1745	SKIPPED	Anari Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
@@ -2018,3 +2017,4 @@
 5177	SKIPPED	Tuition Teacher Episode 1 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E01%20%28XSeries.IN%29.mp4
 1553	UPLOADED	Siskiyaan 4 Episode 2
 3935	SKIPPED	VideoBaaz Episode 4	Request was unsuccessful 6 time(s)
+1742	UPLOADED	Anari Episode 7
