@@ -2483,3 +2483,4 @@
 5389	SKIPPED	Sahara Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Sahara/Sahara%20E2.mp4
 5390	SKIPPED	Sahara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Sahara/Sahara%20E1.mp4
 5391	SKIPPED	Jalan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E4.mp4
+5392	SKIPPED	Jalan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E5.mp4
