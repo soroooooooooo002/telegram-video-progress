@@ -2307,3 +2307,4 @@
 2576	SKIPPED	Nikah Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Nikah/Nikah%20Episode%201.mp4
 2577	SKIPPED	Mami Bhanja Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Mami%20Bhanja/Mami%20Bhanja%20Episode%203.mp4
 2578	SKIPPED	Mami Bhanja Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Mami%20Bhanja/Mami%20Bhanja%20Episode%202.mp4
+2579	SKIPPED	Mami Bhanja Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Mami%20Bhanja/Mami%20Bhanja%20Episode%201.mp4
