@@ -2604,3 +2604,4 @@
 2636	SKIPPED	Bahurani Episode 6	Request was unsuccessful 6 time(s)
 4322	UPLOADED	Sona Episode 1
 4323	SKIPPED	Slip Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%205.mp4
+4324	SKIPPED	Slip Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%204.mp4
