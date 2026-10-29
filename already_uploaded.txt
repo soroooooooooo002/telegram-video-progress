@@ -2138,3 +2138,4 @@
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
 5281	SKIPPED	BehruPriya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E2.mp4
 5282	SKIPPED	BehruPriya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E3.mp4
+5283	SKIPPED	Banni Ka Kissaa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E2.mp4
