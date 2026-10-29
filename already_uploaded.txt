@@ -2,7 +2,6 @@
 1555	UPLOADED	Siskiyaan 3 Episode 6
 1556	UPLOADED	Siskiyaan 3 Episode 4
 1557	UPLOADED	Siskiyaan 3 Episode 5
-3029	UPLOADED	Goan Ki Malai Episode 2
 3030	UPLOADED	Goan Ki Malai Episode 3
 1558	UPLOADED	Siskiyaan 3 Episode 3
 3031	UPLOADED	Goan Ki Malai Episode 4
@@ -3183,3 +3182,4 @@
 3026	SKIPPED	Samagam Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3027	SKIPPED	Samagam Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3028	SKIPPED	Goan Ki Malai Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3029	SKIPPED	Goan Ki Malai Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
