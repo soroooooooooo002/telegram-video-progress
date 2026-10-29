@@ -3061,3 +3061,4 @@
 4349	UPLOADED	Shahad Episode 2
 4350	UPLOADED	Shahad Episode 3
 654	UPLOADED	Obsession S2 Episode 1
+655	SKIPPED	Joggers Park Episode 3	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Joggers%20Park/Joggers%20Park%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
