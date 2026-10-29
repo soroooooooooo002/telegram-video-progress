@@ -1010,7 +1010,6 @@
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
 3717	UPLOADED	Jalebi S4 Episode 1
-3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
 4000	UPLOADED	Desi Kisse Woh Din Episode 1
 4001	UPLOADED	Desi Kisse Woh Din Episode 2
@@ -2577,3 +2576,4 @@
 3995	SKIPPED	Chull Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E5.mp4
 3996	SKIPPED	Chull Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E4.mp4
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
+3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
