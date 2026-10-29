@@ -2117,3 +2117,4 @@
 5259	SKIPPED	Chull Paani Chalka Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Paani%20Chalka/Chull%20Paani%20Chalka%20E2.mp4
 5260	SKIPPED	Chull New Item Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20New%20Item/Chull%20New%20Item%20E1.mp4
 5261	SKIPPED	Chull New Item Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20New%20Item/Chull%20New%20Item%20E2.mp4
+5262	SKIPPED	Chull Loveria Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E1.mp4
