@@ -814,7 +814,6 @@
 3548	SKIPPED	Haseen Raatein Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saathi/Haseen%20Raatein/Haseen%20Raatein%20Episode%201.mp4
 3549	SKIPPED	Khwahish Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bulbul%20Play/Khwahish/Khwahish%20Episode%202.mp4
 3550	UPLOADED	Jor Ka Jhatka Episode 3
-3942	SKIPPED	Damad Ji Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Damad%20Ji/Damad%20Ji%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3943	SKIPPED	Damad Ji Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Damad%20Ji/Damad%20Ji%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3553	SKIPPED	Jor Ka Jhatka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jor%20Ka%20Jhatka/Jor%20Ka%20Jhatka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3554	SKIPPED	Phere Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Phere/Phere%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -2245,3 +2244,4 @@
 4269	UPLOADED	Tere Jaisa Yaar Kaha Episode 5
 2559	UPLOADED	Do Khajur Episode 3
 5308	UPLOADED	Damaadji Lage Raho Episode 2
+3942	UPLOADED	Damad Ji Episode 2
