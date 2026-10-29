@@ -2115,3 +2115,4 @@
 5257	SKIPPED	Chull Room Service Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Room%20Service/Chull%20Room%20Service%20E2.mp4
 5258	SKIPPED	Chull Paani Chalka Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Paani%20Chalka/Chull%20Paani%20Chalka%20E1.mp4
 5259	SKIPPED	Chull Paani Chalka Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Paani%20Chalka/Chull%20Paani%20Chalka%20E2.mp4
+5260	SKIPPED	Chull New Item Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20New%20Item/Chull%20New%20Item%20E1.mp4
