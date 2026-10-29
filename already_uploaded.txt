@@ -892,7 +892,6 @@
 3626	SKIPPED	Dulhe Raja Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Dulhe%20Raja/Dulhe%20Raja%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3627	SKIPPED	Dulhe Raja Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Dulhe%20Raja/Dulhe%20Raja%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3628	SKIPPED	Dulhe Raja Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Dulhe%20Raja/Dulhe%20Raja%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3945	UPLOADED	Chakori Episode 3
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 3629	UPLOADED	Dulhe Raja Episode 4
 3630	SKIPPED	Guard Babu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Guard%20Babu/Guard%20Babu%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -2293,3 +2292,4 @@
 2569	SKIPPED	Teacher Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Teacher/Teacher%20Episode%202.mp4
 2570	SKIPPED	Teacher Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Teacher/Teacher%20Episode%201.mp4
 4276	UPLOADED	Teekhi Chutney Episode 2
+3945	UPLOADED	Chakori Episode 3
