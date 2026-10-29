@@ -982,7 +982,6 @@
 1262	UPLOADED	Size Does Not Matter Episode 1
 1263	UPLOADED	Shararati Saas Episode 5
 3699	UPLOADED	PathShala S3 Episode 4
-3959	UPLOADED	Rivaaz Episode 1
 1264	UPLOADED	Shararati Saas Episode 4
 3700	UPLOADED	PathShala S3 Episode 3
 3960	UPLOADED	Rivaaz Episode 2
@@ -2415,3 +2414,4 @@
 3958	SKIPPED	SX Girls Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%202.mp4
 4296	UPLOADED	Sursuri Li Episode 3
 5339	UPLOADED	Khiladi Bhaiya Episode 4
+3959	UPLOADED	Rivaaz Episode 1
