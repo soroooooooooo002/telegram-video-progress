@@ -3048,3 +3048,4 @@
 5785	SKIPPED	Akele Hum Akele Woh	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Akele%20Hum%20Akele%20Woh.mp4
 5786	SKIPPED	Aunty Ki Ghanti	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Aunty%20Ki%20Ghanti.mp4
 5787	SKIPPED	Bhoganiya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%203%20%282022%29%20XSeries.IN.mp4
+5788	SKIPPED	Bhoganiya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%201%20%282021%29%20XSeries.IN.mp4
