@@ -2354,3 +2354,4 @@
 2604	SKIPPED	Virgin Nimmi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%204.mp4
 2605	SKIPPED	Virgin Nimmi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%203.mp4
 2606	SKIPPED	Virgin Nimmi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%202.mp4
+2607	SKIPPED	Virgin Nimmi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%201.mp4
