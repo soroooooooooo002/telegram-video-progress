@@ -2618,3 +2618,4 @@
 601	SKIPPED	Manchala	Request was unsuccessful 6 time(s)
 4330	UPLOADED	Size Matters Episode 2
 5461	UPLOADED	Pyaar Ke Panchhi Episode 3
+2639	SKIPPED	Ladla Devar Episode 2	Request was unsuccessful 6 time(s)
