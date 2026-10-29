@@ -1012,7 +1012,6 @@
 3717	UPLOADED	Jalebi S4 Episode 1
 4016	UPLOADED	Farebi Yaar Episode 6
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
-4024	UPLOADED	Main Yahan Tu Wahan Episode 3
 4025	UPLOADED	Main Yahan Tu Wahan Episode 4
 4026	UPLOADED	Main Yahan Tu Wahan Episode 1
 4027	UPLOADED	Main Yahan Tu Wahan Episode 2
@@ -2579,3 +2578,4 @@
 1850	UPLOADED	Nathuniya Episode 1
 4022	UPLOADED	Main Yahan Tu Wahan Episode 6
 4023	UPLOADED	Main Yahan Tu Wahan Episode 5
+4024	UPLOADED	Main Yahan Tu Wahan Episode 3
