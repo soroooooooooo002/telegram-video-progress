@@ -2292,3 +2292,4 @@
 2568	SKIPPED	Virasat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Virasat/Virasat%20Episode%201.mp4
 2569	SKIPPED	Teacher Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Teacher/Teacher%20Episode%202.mp4
 2570	SKIPPED	Teacher Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Teacher/Teacher%20Episode%201.mp4
+4276	UPLOADED	Teekhi Chutney Episode 2
