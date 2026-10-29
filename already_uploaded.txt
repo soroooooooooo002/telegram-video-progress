@@ -2156,3 +2156,4 @@
 2517	SKIPPED	Lollipop Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%204.mp4
 2518	SKIPPED	Lollipop Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%203.mp4
 2519	SKIPPED	Lollipop Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%202.mp4
+2520	SKIPPED	Lollipop Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%201.mp4
