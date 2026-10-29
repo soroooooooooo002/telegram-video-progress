@@ -996,7 +996,6 @@
 1270	UPLOADED	Kajri Episode 3
 3710	UPLOADED	Jalebi S4 Episode 8
 1271	UPLOADED	Kajri Episode 2
-3975	UPLOADED	Lallu Ki Mami Episode 3
 3711	UPLOADED	Jalebi S4 Episode 7
 3976	UPLOADED	Lallu Ki Mami Episode 2
 1272	UPLOADED	Kajri Episode 1
@@ -2530,3 +2529,4 @@
 4308	UPLOADED	Sultan Episode 6
 2621	UPLOADED	Raseeya Dakiya Episode 2
 5432	UPLOADED	The Unmarried Women Episode 3
+3975	UPLOADED	Lallu Ki Mami Episode 3
