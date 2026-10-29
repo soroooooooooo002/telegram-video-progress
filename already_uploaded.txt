@@ -1769,7 +1769,6 @@
 4238	UPLOADED	Tohfa Episode 2
 1492	UPLOADED	Mithai Wali Episode 5
 3898	UPLOADED	Kache Rishtey Episode 2
-1744	SKIPPED	Anari Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1745	SKIPPED	Anari Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1746	SKIPPED	Anari Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 3909	SKIPPED	Jabran Episode 3 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -2037,3 +2036,4 @@
 2514	SKIPPED	Main Kaun Hoon Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Main%20Kaun%20Hoon/Main%20Kaun%20Hoon%20Episode%201.mp4
 1743	UPLOADED	Anari Episode 6
 5180	UPLOADED	Nayi Padosan Episode 1
+1744	UPLOADED	Anari Episode 5
