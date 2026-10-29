@@ -2159,3 +2159,4 @@
 2520	SKIPPED	Lollipop Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%201.mp4
 2521	SKIPPED	Laddu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Laddu/Laddu%20Episode%201.mp4
 2522	SKIPPED	Kaam Sukh S2 Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Kaam%20Sukh%20S2/Kaam%20Sukh%20S2%20Episode%207.mp4
+2523	SKIPPED	Kaam Sukh S2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Kaam%20Sukh%20S2/Kaam%20Sukh%20S2%20Episode%206.mp4
