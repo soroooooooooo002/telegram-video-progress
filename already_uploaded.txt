@@ -1772,7 +1772,6 @@
 4238	UPLOADED	Tohfa Episode 2
 1492	UPLOADED	Mithai Wali Episode 5
 3898	UPLOADED	Kache Rishtey Episode 2
-1741	SKIPPED	Anari Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1742	SKIPPED	Anari Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1743	SKIPPED	Anari Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
 1744	SKIPPED	Anari Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Anari/Anari%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))
@@ -2007,3 +2006,4 @@
 4252	UPLOADED	The Choice Episode 3
 5166	UPLOADED	Ashuddhi Episode 2
 1552	UPLOADED	Siskiyaan 4 Episode 3
+1741	UPLOADED	Anari Episode 8
