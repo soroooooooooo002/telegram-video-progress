@@ -2090,3 +2090,4 @@
 5231	SKIPPED	Hum Aapke Fan Hai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Hum%20Aapke%20Fan%20Hai/Hum%20Aapke%20Fan%20Hai%20E1.mp4
 5232	SKIPPED	Hum Aapke Fan Hai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Hum%20Aapke%20Fan%20Hai/Hum%20Aapke%20Fan%20Hai%20E2.mp4
 5233	SKIPPED	Gulab Jamun Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamun%20E1.mp4
+5234	SKIPPED	Gulab Jamun Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamunn%20E2.mp4
