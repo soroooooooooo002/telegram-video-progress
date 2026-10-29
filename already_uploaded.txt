@@ -26,7 +26,6 @@
 3024	UPLOADED	Power Episode 8
 3025	UPLOADED	Samagam Episode 4
 3026	UPLOADED	Samagam Episode 5
-1552	UPLOADED	Siskiyaan 4 Episode 3
 1553	UPLOADED	Siskiyaan 4 Episode 2
 3027	UPLOADED	Samagam Episode 6
 1554	UPLOADED	Siskiyaan 4 Episode 1
@@ -2007,3 +2006,4 @@
 1551	UPLOADED	Siskiyaan 4 Episode 4
 4252	UPLOADED	The Choice Episode 3
 5166	UPLOADED	Ashuddhi Episode 2
+1552	UPLOADED	Siskiyaan 4 Episode 3
