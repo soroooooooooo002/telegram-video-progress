@@ -2621,3 +2621,4 @@
 2639	SKIPPED	Ladla Devar Episode 2	Request was unsuccessful 6 time(s)
 602	SKIPPED	Mona Darling Episode 2	Request was unsuccessful 6 time(s)
 603	SKIPPED	Lila Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Lila/Lila%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+604	SKIPPED	Mona Darling Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Mona%20Darling/Mona%20Darling%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
