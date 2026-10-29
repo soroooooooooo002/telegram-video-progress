@@ -34,7 +34,6 @@
 1587	UPLOADED	Riti Riwaj Love Festival Episode 2
 1588	UPLOADED	Riti Riwaj Love Festival Episode 1
 1589	UPLOADED	Riti Riwaj Haldi Episode 2
-3062	UPLOADED	Paheli Episode 2
 1590	UPLOADED	Riti Riwaj Haldi Episode 1
 1591	UPLOADED	Promotion Episode 2
 1592	UPLOADED	Promotion Episode 1
@@ -3183,3 +3182,4 @@
 3059	SKIPPED	Aakarshan Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aakarshan/Aakarshan%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3060	SKIPPED	Aakarshan Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aakarshan/Aakarshan%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3061	SKIPPED	Paheli Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Paheli/Paheli%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3062	SKIPPED	Paheli Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Paheli/Paheli%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
