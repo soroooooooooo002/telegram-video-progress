@@ -990,7 +990,6 @@
 3702	UPLOADED	PathShala S3 Episode 1
 3703	UPLOADED	PathShala S2 Episode 4
 1267	UPLOADED	Shararati Saas Episode 1
-3963	UPLOADED	Rivaaz Episode 5
 3704	UPLOADED	PathShala S2 Episode 3
 1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
@@ -2431,3 +2430,4 @@
 3962	UPLOADED	Rivaaz Episode 4
 2617	UPLOADED	Sasur Ki Nayee Dulhan Episode 4
 4302	UPLOADED	Sunny Winter Episode 6
+3963	UPLOADED	Rivaaz Episode 5
