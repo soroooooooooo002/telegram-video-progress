@@ -2411,3 +2411,4 @@
 1826	SKIPPED	Chumbak Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%205.mp4
 1827	SKIPPED	Chumbak Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%202.mp4
 1828	SKIPPED	Chumbak Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%201.mp4
+1829	SKIPPED	Graduate With First Class Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Graduate%20With%20First%20Class-D1/Graduate%20With%20First%20Class%20Episode%203.mp4
