@@ -20,7 +20,6 @@
 1573	UPLOADED	Saree Ki Dukaan Episode 1
 1574	UPLOADED	Salahkaar Episode 2
 1575	UPLOADED	Salahkaar Episode 1
-3041	UPLOADED	Nagarvadhu Episode 2
 1576	UPLOADED	Saas Bahu And NRI Episode 3
 1577	UPLOADED	Saas Bahu And NRI Episode 2
 3042	UPLOADED	Nagarvadhu Episode 3
@@ -3183,3 +3182,4 @@
 3038	SKIPPED	Landlord Lele Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3039	SKIPPED	Landlord Lele Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3040	SKIPPED	Nagarvadhu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3041	SKIPPED	Nagarvadhu Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
