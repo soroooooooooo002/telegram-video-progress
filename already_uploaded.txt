@@ -2173,3 +2173,4 @@
 2534	SKIPPED	Fruit Juice Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%205.mp4
 2535	SKIPPED	Fruit Juice Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%204.mp4
 2536	SKIPPED	Fruit Juice Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%203.mp4
+2537	SKIPPED	Fruit Juice Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%202.mp4
