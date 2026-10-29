@@ -2469,3 +2469,4 @@
 5375	SKIPPED	Bima Babu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E4.mp4
 5376	SKIPPED	Bima Babu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E1.mp4
 5377	SKIPPED	Vaidya Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E7.mp4
+5378	SKIPPED	Vaidya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E4.mp4
