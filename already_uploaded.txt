@@ -1012,7 +1012,6 @@
 3717	UPLOADED	Jalebi S4 Episode 1
 4016	UPLOADED	Farebi Yaar Episode 6
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
-4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
 4045	SKIPPED	Shatir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E4.mp4
 1279	UPLOADED	Gore Gore Gaal Episode 1
 3719	UPLOADED	Jalebi S3 Episode 5
@@ -2579,3 +2578,4 @@
 4041	UPLOADED	Rain Basera Episode 8
 4042	UPLOADED	Rain Basera Episode 9
 4043	SKIPPED	Shatir Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E2.mp4
+4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
