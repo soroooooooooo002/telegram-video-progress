@@ -3171,3 +3171,4 @@
 2994	SKIPPED	Gahera Rishtaa Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Gahera%20Rishtaa/Gahera%20Rishtaa%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2995	SKIPPED	Gahera Rishtaa Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Gahera%20Rishtaa/Gahera%20Rishtaa%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4354	UPLOADED	Secretary Episode 2
+679	SKIPPED	X Tape Episode 6	Request was unsuccessful 6 time(s)
