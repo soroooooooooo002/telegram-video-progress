@@ -2248,3 +2248,4 @@
 1770	UPLOADED	Ghar Ka Call Boy Episode 3
 1771	SKIPPED	Galtiyan Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Galtiyan/Galtiyan%20E7.mp4
 4270	UPLOADED	Tere Jaisa Yaar Kaha Episode 4
+1772	UPLOADED	Dosti Episode 4
