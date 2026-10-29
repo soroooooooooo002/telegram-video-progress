@@ -2302,3 +2302,4 @@
 2571	UPLOADED	Mastram Ki Sundari Episode 1
 2572	SKIPPED	Shak Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Shak/Shak%20Episode%202.mp4
 2573	SKIPPED	Shak Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Shak/Shak%20Episode%201.mp4
+2574	SKIPPED	Pyaasi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Pyaasi/Pyaasi%20Episode%201.mp4
