@@ -2021,3 +2021,4 @@
 4253	UPLOADED	The Choice Episode 2
 1554	UPLOADED	Siskiyaan 4 Episode 1
 5179	UPLOADED	Nayi Padosan Episode 2
+2500	SKIPPED	Shanno Chudail S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%202.mp4
