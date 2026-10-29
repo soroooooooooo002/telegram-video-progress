@@ -1016,7 +1016,6 @@
 3719	UPLOADED	Jalebi S3 Episode 5
 1280	UPLOADED	Haseena Maan Jayegi Episode 2
 4049	UPLOADED	Haveli Ki Dulhan Episode 2
-4056	UPLOADED	Haveli Ki Dulhan Episode 9
 3720	UPLOADED	Jalebi S3 Episode 4
 4058	UPLOADED	Imaan Dol Jayega Episode 2
 4059	UPLOADED	Imaan Dol Jayega Episode 3
@@ -2584,3 +2583,4 @@
 4053	UPLOADED	Haveli Ki Dulhan Episode 6
 4054	UPLOADED	Haveli Ki Dulhan Episode 7
 4055	UPLOADED	Haveli Ki Dulhan Episode 8
+4056	UPLOADED	Haveli Ki Dulhan Episode 9
