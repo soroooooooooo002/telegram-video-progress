@@ -2495,3 +2495,4 @@
 5401	SKIPPED	Hawas Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E2.mp4
 5402	SKIPPED	Hawas Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E1.mp4
 5403	SKIPPED	Girvi Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E6.mp4
+5404	SKIPPED	Girvi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E4.mp4
