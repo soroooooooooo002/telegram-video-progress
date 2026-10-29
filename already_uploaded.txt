@@ -41,7 +41,6 @@
 1594	UPLOADED	Numbari Episode 5
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
-3084	SKIPPED	Tadap (Atrangii) Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3085	SKIPPED	Tadap (Atrangii) Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3086	SKIPPED	Tadap (Atrangii) Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3087	SKIPPED	Tadap (Atrangii) Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3183,3 +3182,4 @@
 3081	SKIPPED	Tadap (Atrangii) Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%207.mp4
 3082	SKIPPED	Tadap (Atrangii) Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%206.mp4
 3083	SKIPPED	Tadap (Atrangii) Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%205.mp4
+3084	SKIPPED	Tadap (Atrangii) Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%204.mp4
