@@ -41,7 +41,6 @@
 1594	UPLOADED	Numbari Episode 5
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
-3143	SKIPPED	Gharwali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali/Gharwali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3144	SKIPPED	Gharwali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali/Gharwali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3145	SKIPPED	Gharwali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali/Gharwali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3146	SKIPPED	Rakhwala Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Rakhwala/Rakhwala%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3185,3 +3184,4 @@
 3140	SKIPPED	Gharwali Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Gharwali/Gharwali%20Episode%206.mp4
 3141	SKIPPED	Gharwali Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Gharwali/Gharwali%20Episode%205.mp4
 3142	SKIPPED	Gharwali Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Gharwali/Gharwali%20Episode%204.mp4
+3143	SKIPPED	Gharwali Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Gharwali/Gharwali%20Episode%203.mp4
