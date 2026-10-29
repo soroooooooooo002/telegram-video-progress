@@ -2328,3 +2328,4 @@
 2597	SKIPPED	Aatma Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Aatma/Aatma%20Episode%201.mp4
 2598	SKIPPED	Chal Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%205.mp4
 2599	SKIPPED	Chal Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%204.mp4
+1796	UPLOADED	Bunty Babli Episode 3
