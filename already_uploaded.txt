@@ -2236,3 +2236,4 @@
 1762	UPLOADED	Madhushaala Episode 1
 1763	SKIPPED	KaroNaa Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Karo%20Naa/KaroNaa%20Episode%203.mp4
 1764	SKIPPED	Maalamaal Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/MaalaMaal/MaalaMaal%20Episode%201.mp4
+1765	SKIPPED	KaroNaa Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Karo%20Naa/KaroNaa%20Episode%201.mp4
