@@ -2491,3 +2491,4 @@
 5397	SKIPPED	Hawas Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E7.mp4
 5398	SKIPPED	Hawas Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E4.mp4
 5399	SKIPPED	Hawas Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E5.mp4
+5400	SKIPPED	Hawas Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E3.mp4
