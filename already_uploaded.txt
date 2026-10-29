@@ -2014,3 +2014,4 @@
 5171	SKIPPED	Madam Ji Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%201.mp4
 5172	SKIPPED	Madam Ji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%202.mp4
 5173	SKIPPED	Gehra Rishta Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%202.mp4
+5174	SKIPPED	Gehra Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%201.mp4
