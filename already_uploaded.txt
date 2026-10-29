@@ -813,7 +813,6 @@
 3547	SKIPPED	Utha Patak Jugnu Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%205.mp4
 3548	SKIPPED	Haseen Raatein Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saathi/Haseen%20Raatein/Haseen%20Raatein%20Episode%201.mp4
 3549	SKIPPED	Khwahish Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bulbul%20Play/Khwahish/Khwahish%20Episode%202.mp4
-3938	SKIPPED	Damad Ji Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Damad%20Ji/Damad%20Ji%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3939	SKIPPED	Damad Ji Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Damad%20Ji/Damad%20Ji%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3940	SKIPPED	Damad Ji Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Damad%20Ji/Damad%20Ji%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3550	UPLOADED	Jor Ka Jhatka Episode 3
@@ -2191,3 +2190,4 @@
 5296	UPLOADED	Sasur Ki Dulhan Episode 1
 1748	UPLOADED	Anari Episode 2
 4258	UPLOADED	The Bull Of Dalal Street Episode 6
+3938	UPLOADED	Damad Ji Episode 4
