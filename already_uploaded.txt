@@ -1143,7 +1143,6 @@
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
 1441	UPLOADED	Raat Baaki Baat Baaki Episode 6
 1442	UPLOADED	Raat Baaki Baat Baaki Episode 7
-5045	UPLOADED	Devar Ji Episode 7
 5046	UPLOADED	Devar Ji Episode 5
 1443	UPLOADED	Chidiya Episode 1
 5047	UPLOADED	Devar Ji Episode 6
@@ -3494,3 +3493,4 @@
 5044	UPLOADED	Devar Ji Episode 8
 738	UPLOADED	Paurashpur S3 Episode 1
 4440	UPLOADED	Patra Petika Episode 1
+5045	UPLOADED	Devar Ji Episode 7
