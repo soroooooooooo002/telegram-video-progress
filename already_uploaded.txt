@@ -1096,7 +1096,6 @@
 3842	UPLOADED	Bai No 1 Episode 1
 1413	UPLOADED	Biwi Ka Khat Episode 5
 4167	UPLOADED	Taras Episode 3
-5020	UPLOADED	Dunali 2 Episode 1
 4168	UPLOADED	Taras Episode 2
 5021	UPLOADED	Dubey Ji And The Boys Episode 5
 1414	UPLOADED	Biwi Ka Khat Episode 1
@@ -3459,3 +3458,4 @@
 5019	UPLOADED	Dunali 2 Episode 10
 725	UPLOADED	Pyar Ka Bazaar Episode 4
 3271	UPLOADED	Tailor Kaka Episode 1
+5020	UPLOADED	Dunali 2 Episode 1
