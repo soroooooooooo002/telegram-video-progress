@@ -59,7 +59,6 @@
 1609	UPLOADED	Kissa Episode 2
 1610	UPLOADED	Kissa Episode 3
 1611	UPLOADED	Kissa Episode 1
-3274	UPLOADED	Tailor Kaka Episode 4
 1612	UPLOADED	Khul Ja Sim Sim Episode 7
 3275	UPLOADED	Tailor Kaka Episode 5
 1613	UPLOADED	Khul Ja Sim Sim Episode 8
@@ -3463,3 +3462,4 @@
 4421	UPLOADED	Raat Baaki Hai Episode 6
 5024	UPLOADED	Dubey Ji And The Boys Episode 2
 727	UPLOADED	Pyar Ka Bazaar Episode 2
+3274	UPLOADED	Tailor Kaka Episode 4
