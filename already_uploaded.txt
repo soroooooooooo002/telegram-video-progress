@@ -43,7 +43,6 @@
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
 3188	SKIPPED	Sainyaa Salman S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3211	SKIPPED	Maamiji Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Maamiji/Maamiji%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3212	SKIPPED	Pati Patni and She Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3213	SKIPPED	Pati Patni and She Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3214	SKIPPED	Pati Patni and She Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3289,3 +3288,4 @@
 4394	UPLOADED	Rikshawala Episode 6
 712	UPLOADED	Sapnon Ki Raani Episode 2
 5829	UPLOADED	Guru Dakshina Episode 2
+3211	UPLOADED	Maamiji Episode 2
