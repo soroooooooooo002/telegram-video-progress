@@ -66,7 +66,6 @@
 1616	UPLOADED	Khul Ja Sim Sim Episode 3
 1617	UPLOADED	Khul Ja Sim Sim Episode 4
 1618	UPLOADED	Khul Ja Sim Sim Episode 1
-3300	UPLOADED	Dubai Bhauji Episode 2
 1619	UPLOADED	Khul Ja Sim Sim Episode 2
 3302	UPLOADED	Chumma Chaati Episode 2
 3303	UPLOADED	Chumma Chaati Episode 3
@@ -3487,3 +3486,4 @@
 5040	UPLOADED	Devil Episode 4
 736	UPLOADED	Paurashpur S3 Episode 4
 4436	UPLOADED	Patra Petika Episode 4
+3300	UPLOADED	Dubai Bhauji Episode 2
