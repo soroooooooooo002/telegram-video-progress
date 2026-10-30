@@ -3578,3 +3578,4 @@
 777	SKIPPED	Chalak Buddha S1 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/AKKU/Chalak%20Buddha/Chalak%20Buddha%20Episode%202.mp4
 778	SKIPPED	Chalak Buddha S1 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/AKKU/Chalak%20Buddha/Chalak%20Buddha%20Episode%201.mp4
 5098	UPLOADED	Choked Episode 6
+779	SKIPPED	Biwi Chawanni Saali Rupaiya Episode 3	Request was unsuccessful 6 time(s)
