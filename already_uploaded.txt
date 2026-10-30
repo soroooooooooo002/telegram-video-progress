@@ -43,7 +43,6 @@
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
 3188	SKIPPED	Sainyaa Salman S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3191	SKIPPED	Sainyaa Salman S2 Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3192	SKIPPED	Prem 2020 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3193	SKIPPED	Prem 2020 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3194	SKIPPED	Prem 2020 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3254,3 +3253,4 @@
 5819	UPLOADED	Nain Sukh Episode 8
 703	UPLOADED	Tan Tripti S1 Episode 2
 4378	UPLOADED	Rupay 500 Episode 6
+3191	UPLOADED	Sainyaa Salman S2 Episode 9
