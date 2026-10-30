@@ -1141,7 +1141,6 @@
 4197	SKIPPED	Wanna Have A Good Time Episode 2	Request was unsuccessful 6 time(s)
 1438	UPLOADED	Chidiya Episode 6
 1439	UPLOADED	Chidiya Episode 7
-5042	UPLOADED	Devil Episode 2
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
 5043	UPLOADED	Devil Episode 1
 1441	UPLOADED	Raat Baaki Baat Baaki Episode 6
@@ -3489,3 +3488,4 @@
 5041	UPLOADED	Devil Episode 3
 4437	UPLOADED	Patra Petika Episode 3
 3301	UPLOADED	Chumma Chaati Episode 1
+5042	UPLOADED	Devil Episode 2
