@@ -72,7 +72,6 @@
 3315	SKIPPED	Rose Marlo Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%204.mp4
 1622	UPLOADED	Kala Khatta Episode 5
 1623	UPLOADED	Kala Khatta Episode 2
-3324	UPLOADED	Jamai Raja Episode 6
 3325	SKIPPED	Love Bites Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%201.mp4
 3326	SKIPPED	Love Bites Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%202.mp4
 3327	SKIPPED	Love Bites Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%204.mp4
@@ -3512,3 +3511,4 @@
 4453	UPLOADED	Panchali Episode 5
 5062	UPLOADED	Dekhi Andekhi Episode 4
 4454	UPLOADED	Panchali Episode 4
+3324	UPLOADED	Jamai Raja Episode 6
