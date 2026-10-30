@@ -3398,3 +3398,4 @@
 3238	UPLOADED	Lalach Episode 3
 4402	UPLOADED	Revenge Episode 6
 5936	UPLOADED	Bawarchi Episode 6
+5937	SKIPPED	Yogasan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Yogasan/Yogasan.mp4
