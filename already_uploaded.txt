@@ -1141,7 +1141,6 @@
 4196	SKIPPED	Wanna Have A Good Time Episode 3	Request was unsuccessful 6 time(s)
 4197	SKIPPED	Wanna Have A Good Time Episode 2	Request was unsuccessful 6 time(s)
 1438	UPLOADED	Chidiya Episode 6
-5040	UPLOADED	Devil Episode 4
 1439	UPLOADED	Chidiya Episode 7
 5041	UPLOADED	Devil Episode 3
 5042	UPLOADED	Devil Episode 2
@@ -3485,3 +3484,4 @@
 4434	UPLOADED	Possessed Love Episode 2
 5039	UPLOADED	Devil Episode 5
 4435	UPLOADED	Patra Petika Episode 5
+5040	UPLOADED	Devil Episode 4
