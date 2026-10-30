@@ -1222,7 +1222,6 @@
 4237	UPLOADED	Tohfa Episode 3
 1483	UPLOADED	Utha Le Jaunga Episode 3
 1484	UPLOADED	Utha Le Jaunga Episode 4
-5080	UPLOADED	D Code Episode 2
 1485	UPLOADED	Utha Le Jaunga Episode 1
 5081	UPLOADED	D Code Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
@@ -3537,3 +3536,4 @@
 5079	UPLOADED	D Code Episode 3
 4468	UPLOADED	Online Episode 4
 758	UPLOADED	Lust S2 Episode 2
+5080	UPLOADED	D Code Episode 2
