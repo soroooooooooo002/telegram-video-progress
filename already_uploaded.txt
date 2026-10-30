@@ -3556,3 +3556,4 @@
 766	SKIPPED	Jaal Episode 3	Request was unsuccessful 6 time(s)
 5095	UPLOADED	Choodiwala Episode 3
 3344	UPLOADED	Rocket Episode 2
+767	SKIPPED	Jaal Episode 2	Request was unsuccessful 6 time(s)
