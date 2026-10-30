@@ -1142,7 +1142,6 @@
 1438	UPLOADED	Chidiya Episode 6
 1439	UPLOADED	Chidiya Episode 7
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
-5043	UPLOADED	Devil Episode 1
 1441	UPLOADED	Raat Baaki Baat Baaki Episode 6
 5044	UPLOADED	Devar Ji Episode 8
 1442	UPLOADED	Raat Baaki Baat Baaki Episode 7
@@ -3491,3 +3490,4 @@
 5042	UPLOADED	Devil Episode 2
 737	UPLOADED	Paurashpur S3 Episode 3
 4438	UPLOADED	Patra Petika Episode 2
+5043	UPLOADED	Devil Episode 1
