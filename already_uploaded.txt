@@ -64,7 +64,6 @@
 1614	UPLOADED	Khul Ja Sim Sim Episode 5
 1615	UPLOADED	Khul Ja Sim Sim Episode 6
 1616	UPLOADED	Khul Ja Sim Sim Episode 3
-3290	SKIPPED	Holi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%202.mp4
 3291	SKIPPED	Holi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%203.mp4
 3292	SKIPPED	Holi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%204.mp4
 3293	SKIPPED	Holi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%205.mp4
@@ -3478,3 +3477,4 @@
 733	UPLOADED	Punarjanam Episode 2
 3288	UPLOADED	Chadar Badli Episode 1
 3289	SKIPPED	Holi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%201.mp4
+3290	SKIPPED	Holi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%202.mp4
