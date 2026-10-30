@@ -1222,7 +1222,6 @@
 1479	UPLOADED	Mere Angane Mein Episode 4
 1480	UPLOADED	Utha Le Jaunga Episode 5
 4237	UPLOADED	Tohfa Episode 3
-5074	UPLOADED	Dance Bar Episode 5
 5075	UPLOADED	Dance Bar Episode 4
 5076	UPLOADED	Dance Bar Episode 3
 5077	UPLOADED	Dance Bar Episode 2
@@ -3530,3 +3529,4 @@
 3333	UPLOADED	Teacher Digi Movieplex Episode 2
 5073	UPLOADED	Dance Bar Episode 6
 4463	UPLOADED	Painter Babu Episode 1
+5074	UPLOADED	Dance Bar Episode 5
