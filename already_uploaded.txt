@@ -1218,7 +1218,6 @@
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
 1475	UPLOADED	Mere Angane Mein Episode 2
 1476	UPLOADED	Mere Angane Mein Episode 3
-5070	UPLOADED	De Dana Dan Episode 3
 1477	UPLOADED	Mere Angane Mein Episode 1
 1478	UPLOADED	Mere Angane Mein Episode 6
 5071	UPLOADED	De Dana Dan Episode 2
@@ -3520,3 +3519,4 @@
 4460	UPLOADED	Painter Babu Episode 4
 5069	UPLOADED	De Dana Dan Episode 4
 3331	UPLOADED	Moussami Episode 2
+5070	UPLOADED	De Dana Dan Episode 3
