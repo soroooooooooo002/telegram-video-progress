@@ -3478,3 +3478,4 @@
 3293	SKIPPED	Holi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%205.mp4
 3294	SKIPPED	Holi Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%206.mp4
 3295	SKIPPED	Holi Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%207.mp4
+4431	UPLOADED	Purani Haveli Episode 2
