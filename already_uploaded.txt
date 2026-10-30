@@ -3388,3 +3388,4 @@
 5927	SKIPPED	Bazaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bazaar/Bazaar%20E2.mp4
 5928	SKIPPED	Bazaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bazaar/Bazaar%20E3.mp4
 5929	SKIPPED	Bazaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bazaar/Bazaar%20E1.mp4
+5930	SKIPPED	Triangle Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E1.mp4
