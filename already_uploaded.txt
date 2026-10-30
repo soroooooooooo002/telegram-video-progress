@@ -3249,3 +3249,4 @@
 5817	SKIPPED	Mistake Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20S01E02%20%28XSeries.IN%29.mp4
 5818	SKIPPED	Mistake Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20%20S01E01%20%28XSeries.IN%29.mp4
 702	UPLOADED	Tan Tripti S1 Episode 1
+4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
