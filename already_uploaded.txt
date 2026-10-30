@@ -1094,7 +1094,6 @@
 5018	UPLOADED	Dunali 2 Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
 4166	UPLOADED	Taras Episode 4
-5019	UPLOADED	Dunali 2 Episode 10
 3842	UPLOADED	Bai No 1 Episode 1
 1413	UPLOADED	Biwi Ka Khat Episode 5
 4167	UPLOADED	Taras Episode 3
@@ -3458,3 +3457,4 @@
 3269	UPLOADED	Dagabaaz Episode 5
 3270	UPLOADED	Dagabaaz Episode 6
 4418	UPLOADED	Red Light Episode 3
+5019	UPLOADED	Dunali 2 Episode 10
