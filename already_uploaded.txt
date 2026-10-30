@@ -42,7 +42,6 @@
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
-3176	SKIPPED	Choli Ke Piche Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3177	SKIPPED	Choli Ke Piche Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3178	SKIPPED	Aakhri Sukh Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3179	SKIPPED	Aakhri Sukh Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3210,3 +3209,4 @@
 5799	SKIPPED	Behrupiya	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Behrupiya%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
 5800	SKIPPED	Pink Bra	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Pink.Bra%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
 693	UPLOADED	Tan Tripti S3 Episode 3
+3176	UPLOADED	Choli Ke Piche Episode 7
