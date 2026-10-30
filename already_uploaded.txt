@@ -80,7 +80,6 @@
 1629	UPLOADED	Jane Anjane Mein 5 Episode 3
 1630	UPLOADED	Jane Anjane Mein 5 Episode 2
 1631	UPLOADED	Jane Anjane Mein 5 Episode 1
-3347	UPLOADED	Pyasi Pushpa Episode 1
 3348	UPLOADED	Pyasi Pushpa Episode 2
 1632	UPLOADED	Jane Anjane Mein 4 Episode 2
 3349	UPLOADED	Pyasi Pushpa Episode 3
@@ -3580,3 +3579,4 @@
 5098	UPLOADED	Choked Episode 6
 779	SKIPPED	Biwi Chawanni Saali Rupaiya Episode 3	Request was unsuccessful 6 time(s)
 4490	UPLOADED	Namkeen Episode 3
+3347	UPLOADED	Pyasi Pushpa Episode 1
