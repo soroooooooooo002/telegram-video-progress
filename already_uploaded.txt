@@ -1107,7 +1107,6 @@
 4173	UPLOADED	Wrong Turn Episode 5
 4174	UPLOADED	Wrong Turn Episode 4
 1418	UPLOADED	Tere Mere Beech Mein Episode 2
-5025	UPLOADED	Dubey Ji And The Boys Episode 1
 3845	UPLOADED	Bai No 1 Episode 4
 4175	UPLOADED	Wrong Turn Episode 3
 1419	UPLOADED	Tere Mere Beech Mein Episode 3
@@ -3464,3 +3463,4 @@
 727	UPLOADED	Pyar Ka Bazaar Episode 2
 3274	UPLOADED	Tailor Kaka Episode 4
 4422	UPLOADED	Raat Baaki Hai Episode 5
+5025	UPLOADED	Dubey Ji And The Boys Episode 1
