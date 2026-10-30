@@ -1224,7 +1224,6 @@
 1486	UPLOADED	Utha Le Jaunga Episode 7
 1487	UPLOADED	Utha Le Jaunga Episode 6
 3897	UPLOADED	Kache Rishtey Episode 4
-5085	UPLOADED	Cyanide Episode 2
 1488	UPLOADED	Mithai Wali Episode 4
 5086	UPLOADED	Cyanide Episode 1
 1489	UPLOADED	Mithai Wali Episode 1
@@ -3541,3 +3540,4 @@
 759	UPLOADED	Lust S2 Episode 1
 4471	UPLOADED	Online Episode 1
 5084	UPLOADED	Cyanide Episode 3
+5085	UPLOADED	Cyanide Episode 2
