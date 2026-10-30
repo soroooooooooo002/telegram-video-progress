@@ -3274,3 +3274,4 @@
 5825	SKIPPED	Nain Sukh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Nain%20Sukh/Nain%20Sukh%20E2.mp4
 5826	SKIPPED	Nain Sukh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Nain%20Sukh/Nain%20Sukh%20E1.mp4
 4387	UPLOADED	Robot Episode 5
+708	UPLOADED	Talab Episode 1
