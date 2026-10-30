@@ -3294,3 +3294,4 @@
 3233	SKIPPED	Angel Apartment Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%204.mp4
 3234	SKIPPED	Angel Apartment Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%203.mp4
 5835	SKIPPED	Good Luck Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E7.mp4
+5836	SKIPPED	Good Luck Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E2.mp4
