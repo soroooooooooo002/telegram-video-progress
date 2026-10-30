@@ -75,7 +75,6 @@
 1624	UPLOADED	Kala Khatta Episode 3
 1625	UPLOADED	Jane Anjane Mein Episode 2
 1626	UPLOADED	Kala Khatta Episode 1
-3335	UPLOADED	Teacher Digi Movieplex Episode 4
 3336	UPLOADED	Sachchi Saheli Episode 1
 1627	UPLOADED	Jane Anjane Mein Episode 1
 3337	UPLOADED	Sachchi Saheli Episode 3
@@ -3535,3 +3534,4 @@
 5077	UPLOADED	Dance Bar Episode 2
 5078	UPLOADED	Dance Bar Episode 1
 4467	UPLOADED	Online Episode 5
+3335	UPLOADED	Teacher Digi Movieplex Episode 4
