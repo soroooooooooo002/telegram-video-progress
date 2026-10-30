@@ -3363,3 +3363,4 @@
 5902	SKIPPED	Chui Mui Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chui%20Mui/Chui%20Mui%20E3.mp4
 5903	SKIPPED	Chui Mui Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chui%20Mui/Chui%20Mui%20E1.mp4
 5904	SKIPPED	Chatkara Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E7.mp4
+5905	SKIPPED	Chatkara Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E6.mp4
