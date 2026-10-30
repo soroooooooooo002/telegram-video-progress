@@ -3376,3 +3376,4 @@
 5915	SKIPPED	Bloody Marry Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E3.mp4
 5916	SKIPPED	Bloody Marry Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E2.mp4
 5917	SKIPPED	Bloody Marry Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E1.mp4
+5918	SKIPPED	Bikri Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E7.mp4
