@@ -3573,3 +3573,4 @@
 771	SKIPPED	Chalak Buddha S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Chalak%20Buddha%20S2/Chalak%20Buddha%20S2%20Episode%204.mp4
 772	SKIPPED	Chalak Buddha S2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Chalak%20Buddha%20S2/Chalak%20Buddha%20S2%20Episode%203.mp4
 773	SKIPPED	Chalak Buddha S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Chalak%20Buddha%20S2/Chalak%20Buddha%20S2%20Episode%202.mp4
+774	SKIPPED	Chalak Buddha S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Chalak%20Buddha%20S2/Chalak%20Buddha%20S2%20Episode%201.mp4
