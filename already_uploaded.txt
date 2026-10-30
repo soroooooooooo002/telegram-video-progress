@@ -3415,3 +3415,4 @@
 5951	SKIPPED	Karzdar	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Karzdar/Karzdar.mp4
 5952	SKIPPED	Khwaish	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Khwaish/Khwaish.mp4
 5953	SKIPPED	Galti Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Galti/Galti%20E3.mp4
+5954	SKIPPED	Galti Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Galti/Galti%20E2.mp4
