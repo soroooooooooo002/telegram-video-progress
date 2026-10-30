@@ -1227,7 +1227,6 @@
 1687	UPLOADED	Desi Kisse Khud Khushi Episode 4
 3914	UPLOADED	Daakhila Episode 5
 1502	UPLOADED	Payal Episode 4
-5107	UPLOADED	Chehraa Episode 4
 1688	UPLOADED	Desi Kisse Khud Khushi Episode 3
 5108	UPLOADED	Chehraa Episode 3
 1503	UPLOADED	Payal Episode 7
@@ -3610,3 +3609,4 @@
 5105	UPLOADED	Chehraa Episode 6
 5106	SKIPPED	Chehraa Episode 5	Request was unsuccessful 6 time(s)
 4495	UPLOADED	Namak Episode 4
+5107	UPLOADED	Chehraa Episode 4
