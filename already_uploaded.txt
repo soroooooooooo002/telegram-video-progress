@@ -3550,3 +3550,4 @@
 763	UPLOADED	Jawani Diwani Episode 1
 4476	UPLOADED	Nau Do Gyarah Episode 5
 3341	UPLOADED	Saart Episode 2
+764	SKIPPED	Jaal Episode 5	Download request failed: ('Connection broken: IncompleteRead(115834516 bytes read, 198823174 more expected)', IncompleteRead(115834516 bytes read, 198823174 more expected))
