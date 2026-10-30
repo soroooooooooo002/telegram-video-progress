@@ -3524,3 +3524,4 @@
 5071	UPLOADED	De Dana Dan Episode 2
 4462	UPLOADED	Painter Babu Episode 2
 751	UPLOADED	Rangraliya Mastram Episode 1
+752	SKIPPED	Contract Marriage Episode 2	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Ratri/Contract%20Marriage/Contract%20Marriage%20Episode%202.mp4
