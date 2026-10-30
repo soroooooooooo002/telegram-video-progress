@@ -1222,7 +1222,6 @@
 1484	UPLOADED	Utha Le Jaunga Episode 4
 1485	UPLOADED	Utha Le Jaunga Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
-5083	UPLOADED	Cyanide Episode 4
 1487	UPLOADED	Utha Le Jaunga Episode 6
 5084	UPLOADED	Cyanide Episode 3
 3897	UPLOADED	Kache Rishtey Episode 4
@@ -3539,3 +3538,4 @@
 4470	UPLOADED	Online Episode 2
 5082	UPLOADED	Cyanide Episode 5
 3337	UPLOADED	Sachchi Saheli Episode 3
+5083	UPLOADED	Cyanide Episode 4
