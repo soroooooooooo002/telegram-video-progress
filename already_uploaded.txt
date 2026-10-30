@@ -1230,7 +1230,6 @@
 3911	SKIPPED	Daakhila Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Daakhila/Daakhila%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1493	UPLOADED	Mithai Wali Episode 6
 1494	UPLOADED	Mithai Wali Episode 7
-5095	UPLOADED	Choodiwala Episode 3
 1495	UPLOADED	Payal Episode 6
 5096	UPLOADED	Choodiwala Episode 2
 3912	UPLOADED	Daakhila Episode 2
@@ -3556,3 +3555,4 @@
 5094	UPLOADED	Choodiwala Episode 4
 3343	UPLOADED	Rocket Episode 1
 766	SKIPPED	Jaal Episode 3	Request was unsuccessful 6 time(s)
+5095	UPLOADED	Choodiwala Episode 3
