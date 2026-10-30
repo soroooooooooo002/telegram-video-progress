@@ -42,7 +42,6 @@
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
-3180	SKIPPED	Aakhri Sukh Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3181	SKIPPED	Aakhri Sukh Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3182	SKIPPED	Sainyaa Salman S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3183	SKIPPED	Sainyaa Salman S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3213,3 +3212,4 @@
 3177	UPLOADED	Choli Ke Piche Episode 8
 3178	SKIPPED	Aakhri Sukh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%201.mp4
 3179	SKIPPED	Aakhri Sukh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%202.mp4
+3180	SKIPPED	Aakhri Sukh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%203.mp4
