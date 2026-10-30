@@ -3322,3 +3322,4 @@
 5861	SKIPPED	Badalte Rishte Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E4.mp4
 5862	SKIPPED	Badalte Rishte Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E2.mp4
 5863	SKIPPED	Badalte Rishte Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E1.mp4
+5864	SKIPPED	Ulanghan Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Ulanghan/Ulanghan%20E7.mp4
