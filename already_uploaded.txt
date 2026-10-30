@@ -1143,7 +1143,6 @@
 1443	UPLOADED	Chidiya Episode 1
 1444	UPLOADED	Chidiya Episode 2
 1445	UPLOADED	Chidiya Episode 3
-5050	UPLOADED	Devar Ji Episode 2
 1446	UPLOADED	Chidiya Episode 4
 5051	UPLOADED	Devar Ji Episode 1
 3863	UPLOADED	Yaar Pyaar Gaddar Episode 2
@@ -3499,3 +3498,4 @@
 740	UPLOADED	Vaishya Episode 1
 5049	UPLOADED	Devar Ji Episode 3
 3305	UPLOADED	Chumma Chaati Episode 5
+5050	UPLOADED	Devar Ji Episode 2
