@@ -1208,7 +1208,6 @@
 1464	UPLOADED	Lene Ke Dene Episode 2
 1465	UPLOADED	Lene Ke Dene Episode 3
 1466	UPLOADED	Lene Ke Dene Episode 1
-5066	UPLOADED	Dekhi Andekhi Episode 1
 1467	UPLOADED	Dekho Magar Pyar Se Episode 1
 5067	UPLOADED	De Dana Dan Episode 6
 1468	UPLOADED	Mere Angane Mein Episode 7
@@ -3516,3 +3515,4 @@
 5065	UPLOADED	Dekhi Andekhi Episode 2
 3330	UPLOADED	Moussami Episode 1
 4457	UPLOADED	Panchali Episode 1
+5066	UPLOADED	Dekhi Andekhi Episode 1
