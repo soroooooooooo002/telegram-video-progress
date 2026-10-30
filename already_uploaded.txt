@@ -60,7 +60,6 @@
 1610	UPLOADED	Kissa Episode 3
 1611	UPLOADED	Kissa Episode 1
 1612	UPLOADED	Khul Ja Sim Sim Episode 7
-3275	UPLOADED	Tailor Kaka Episode 5
 1613	UPLOADED	Khul Ja Sim Sim Episode 8
 3276	UPLOADED	Tailor Kaka Episode 6
 3277	SKIPPED	Rajni Kaand Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E1.mp4
@@ -3466,3 +3465,4 @@
 4423	UPLOADED	Raat Baaki Hai Episode 4
 728	UPLOADED	Pyar Ka Bazaar Episode 1
 5026	UPLOADED	Dishkiyaoon Episode 6
+3275	UPLOADED	Tailor Kaka Episode 5
