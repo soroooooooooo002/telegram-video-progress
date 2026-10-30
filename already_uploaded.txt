@@ -3393,3 +3393,4 @@
 5933	SKIPPED	Triangle Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E4.mp4
 5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 3237	UPLOADED	Lalach Episode 2
+4400	UPLOADED	Revenge Episode 8
