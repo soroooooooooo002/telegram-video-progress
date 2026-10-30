@@ -3601,3 +3601,4 @@
 5100	UPLOADED	Choked Episode 4
 3358	UPLOADED	Mera Baap Teri Mausi Episode 2
 799	SKIPPED	Kaam Shastra Episode 3	Request was unsuccessful 6 time(s)
+800	SKIPPED	Kaam Shastra Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Kaam%20Shastra/Kaam%20Shastra%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
