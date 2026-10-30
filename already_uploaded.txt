@@ -3560,3 +3560,4 @@
 4481	SKIPPED	Nancy Episode 4	Request was unsuccessful 6 time(s)
 4482	SKIPPED	Nancy Episode 3	Request was unsuccessful 6 time(s)
 3345	UPLOADED	Rocket Episode 3
+768	SKIPPED	Jaal Episode 1	Request was unsuccessful 6 time(s)
