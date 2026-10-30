@@ -70,7 +70,6 @@
 1620	UPLOADED	Kala Khatta Episode 6
 1621	UPLOADED	Kala Khatta Episode 4
 3315	SKIPPED	Rose Marlo Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%204.mp4
-3321	UPLOADED	Jamai Raja Episode 3
 1622	UPLOADED	Kala Khatta Episode 5
 3322	UPLOADED	Jamai Raja Episode 4
 3323	UPLOADED	Jamai Raja Episode 5
@@ -3507,3 +3506,4 @@
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 5056	SKIPPED	Desi Kisse Jaanch Padtaal Episode 4	Failed to upload file part 177.
 4450	UPLOADED	Paper Episode 3
+3321	UPLOADED	Jamai Raja Episode 3
