@@ -63,7 +63,6 @@
 1613	UPLOADED	Khul Ja Sim Sim Episode 8
 1614	UPLOADED	Khul Ja Sim Sim Episode 5
 1615	UPLOADED	Khul Ja Sim Sim Episode 6
-3287	UPLOADED	Chadar Badli Episode 2
 1616	UPLOADED	Khul Ja Sim Sim Episode 3
 3288	UPLOADED	Chadar Badli Episode 1
 3289	SKIPPED	Holi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%201.mp4
@@ -3475,3 +3474,4 @@
 4428	UPLOADED	Purani Haveli Episode 5
 5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 732	UPLOADED	Punarjanam Episode 3
+3287	UPLOADED	Chadar Badli Episode 2
