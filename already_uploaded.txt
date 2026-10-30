@@ -3382,3 +3382,4 @@
 5921	SKIPPED	Bikri Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E5.mp4
 5922	SKIPPED	Bikri Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E3.mp4
 714	UPLOADED	Sapnon Ki Raani Episode 1
+5924	SKIPPED	Bikri Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E1.mp4
