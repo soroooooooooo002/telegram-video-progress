@@ -75,7 +75,6 @@
 1624	UPLOADED	Kala Khatta Episode 3
 1625	UPLOADED	Jane Anjane Mein Episode 2
 1626	UPLOADED	Kala Khatta Episode 1
-3336	UPLOADED	Sachchi Saheli Episode 1
 1627	UPLOADED	Jane Anjane Mein Episode 1
 3337	UPLOADED	Sachchi Saheli Episode 3
 3338	UPLOADED	Sachchi Saheli Episode 4
@@ -3537,3 +3536,4 @@
 4468	UPLOADED	Online Episode 4
 758	UPLOADED	Lust S2 Episode 2
 5080	UPLOADED	D Code Episode 2
+3336	UPLOADED	Sachchi Saheli Episode 1
