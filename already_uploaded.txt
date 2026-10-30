@@ -47,7 +47,6 @@
 3236	SKIPPED	Lalach Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lalach/Lalach%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1598	UPLOADED	Numbari Episode 1
 1599	UPLOADED	Naye Padosi Episode 3
-3248	UPLOADED	L Lag Gaye Episode 6
 1600	UPLOADED	Naye Padosi Episode 1
 3249	UPLOADED	Shudh Shakahari Episode 1
 1601	UPLOADED	Naye Padosi Episode 2
@@ -3450,3 +3449,4 @@
 721	UPLOADED	Raseeli Raatein Episode 4
 5013	UPLOADED	Dunali 2 Episode 7
 4413	UPLOADED	Relationship Counsellor Episode 2
+3248	UPLOADED	L Lag Gaye Episode 6
