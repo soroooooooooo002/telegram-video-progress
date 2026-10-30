@@ -83,7 +83,6 @@
 1632	UPLOADED	Jane Anjane Mein 4 Episode 2
 1633	UPLOADED	Jane Anjane Mein 4 Episode 1
 1634	UPLOADED	Jane Anjane Mein 3 Episode 1
-3353	UPLOADED	Pyar Ki Tadap Episode 4
 3354	UPLOADED	Online Romance Episode 1
 3355	UPLOADED	Online Romance Episode 2
 1635	UPLOADED	Jane Anjane Mein 3 Episode 2
@@ -3580,3 +3579,4 @@
 3350	SKIPPED	Pyar Ki Tadap Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3351	SKIPPED	Pyar Ki Tadap Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Pyar%20Ki%20Tadap/Pyar%20Ki%20Tadap%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3352	SKIPPED	Pyar Ki Tadap Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Pyar%20Ki%20Tadap/Pyar%20Ki%20Tadap%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3353	SKIPPED	Pyar Ki Tadap Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Pyar%20Ki%20Tadap/Pyar%20Ki%20Tadap%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
