@@ -1219,7 +1219,6 @@
 1476	UPLOADED	Mere Angane Mein Episode 3
 1477	UPLOADED	Mere Angane Mein Episode 1
 1478	UPLOADED	Mere Angane Mein Episode 6
-5071	UPLOADED	De Dana Dan Episode 2
 3896	UPLOADED	Kache Rishtey Episode 5
 1479	UPLOADED	Mere Angane Mein Episode 4
 5072	UPLOADED	De Dana Dan Episode 1
@@ -3522,3 +3521,4 @@
 750	UPLOADED	Rangraliya Mastram Episode 2
 4461	UPLOADED	Painter Babu Episode 3
 3332	UPLOADED	Teacher Digi Movieplex Episode 1
+5071	UPLOADED	De Dana Dan Episode 2
