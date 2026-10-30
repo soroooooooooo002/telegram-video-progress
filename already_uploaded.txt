@@ -3406,3 +3406,4 @@
 5942	SKIPPED	Plan B	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Plan%20B/Plan%20B.mp4
 5943	SKIPPED	Nazar	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Nazar/Nazar.mp4
 5944	SKIPPED	Nayi Naveli Aahaflix	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Nayi%20Naveli/Nayi%20Naveli.mp4
+5945	SKIPPED	Mayajal	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Mayajal/Mayajal.mp4
