@@ -1223,7 +1223,6 @@
 4239	UPLOADED	Tohfa Episode 1
 1500	UPLOADED	Payal Episode 3
 1686	UPLOADED	Desi Kisse Khud Khushi Episode 5
-5105	UPLOADED	Chehraa Episode 6
 1501	UPLOADED	Payal Episode 2
 1687	UPLOADED	Desi Kisse Khud Khushi Episode 4
 5106	UPLOADED	Chehraa Episode 5
@@ -3609,3 +3608,4 @@
 4494	UPLOADED	Namak Episode 5
 805	SKIPPED	Angreji Film Episode 3	Request was unsuccessful 6 time(s)
 3362	UPLOADED	Local Doctor Episode 2
+5105	UPLOADED	Chehraa Episode 6
