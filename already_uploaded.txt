@@ -62,7 +62,6 @@
 1612	UPLOADED	Khul Ja Sim Sim Episode 7
 1613	UPLOADED	Khul Ja Sim Sim Episode 8
 1614	UPLOADED	Khul Ja Sim Sim Episode 5
-3285	UPLOADED	Chadar Badli Episode 4
 1615	UPLOADED	Khul Ja Sim Sim Episode 6
 3286	UPLOADED	Chadar Badli Episode 3
 3287	UPLOADED	Chadar Badli Episode 2
@@ -3471,3 +3470,4 @@
 5029	UPLOADED	Dishkiyaoon Episode 3
 730	UPLOADED	Pyaari Bhabhi Episode 1
 4426	UPLOADED	Raat Baaki Hai Episode 1
+3285	UPLOADED	Chadar Badli Episode 4
