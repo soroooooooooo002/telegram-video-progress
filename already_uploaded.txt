@@ -3247,3 +3247,4 @@
 5815	SKIPPED	Gup Chup NRI Client Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Gup%20Chup%20NRI%20Client/Gup%20Chup%20NRI%20Client%20E3.mp4
 5816	SKIPPED	Gup Chup NRI Client Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Gup%20Chup%20NRI%20Client/Gup%20Chup%20NRI%20Client%20E2.mp4
 5817	SKIPPED	Mistake Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20S01E02%20%28XSeries.IN%29.mp4
+5818	SKIPPED	Mistake Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20%20S01E01%20%28XSeries.IN%29.mp4
