@@ -3332,3 +3332,4 @@
 5871	SKIPPED	Maalik Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E7.mp4
 5872	SKIPPED	Maalik Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E5.mp4
 5873	SKIPPED	Maalik Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E6.mp4
+5874	SKIPPED	Maalik Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E8.mp4
