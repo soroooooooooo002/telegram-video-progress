@@ -1070,7 +1070,6 @@
 5006	UPLOADED	Dunali Episode 5
 4158	UPLOADED	Balam Pichkari Episode 2
 1399	UPLOADED	Tadka Episode 4
-5007	UPLOADED	Dunali Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
 3812	UPLOADED	Paying Guest Episode 2
 5008	UPLOADED	Dunali Episode 3
@@ -3438,3 +3437,4 @@
 5005	UPLOADED	Dunali Episode 6
 4407	UPLOADED	Revenge Episode 1
 3243	UPLOADED	L Lag Gaye Episode 1
+5007	UPLOADED	Dunali Episode 4
