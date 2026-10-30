@@ -1222,7 +1222,6 @@
 1483	UPLOADED	Utha Le Jaunga Episode 3
 1484	UPLOADED	Utha Le Jaunga Episode 4
 1485	UPLOADED	Utha Le Jaunga Episode 1
-5081	UPLOADED	D Code Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
 5082	UPLOADED	Cyanide Episode 5
 5083	UPLOADED	Cyanide Episode 4
@@ -3538,3 +3537,4 @@
 5080	UPLOADED	D Code Episode 2
 3336	UPLOADED	Sachchi Saheli Episode 1
 4469	UPLOADED	Online Episode 3
+5081	UPLOADED	D Code Episode 1
