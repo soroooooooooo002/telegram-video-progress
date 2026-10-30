@@ -43,7 +43,6 @@
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
 3188	SKIPPED	Sainyaa Salman S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3219	SKIPPED	Pinky Darling Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Pinky%20Darling/Pinky%20Darling%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3220	SKIPPED	Prem Jaal Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Prem%20Jaal/Prem%20Jaal%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3221	SKIPPED	Prem Jaal Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Prem%20Jaal/Prem%20Jaal%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3222	SKIPPED	Rakhail Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Rakhail/Rakhail%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3289,3 +3288,4 @@
 3216	SKIPPED	Pati Patni and She Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%201.mp4
 3217	SKIPPED	Pinky Darling Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pinky%20Darling/Pinky%20Darling%20Episode%203.mp4
 3218	SKIPPED	Pinky Darling Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pinky%20Darling/Pinky%20Darling%20Episode%202.mp4
+3219	SKIPPED	Pinky Darling Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pinky%20Darling/Pinky%20Darling%20Episode%201.mp4
