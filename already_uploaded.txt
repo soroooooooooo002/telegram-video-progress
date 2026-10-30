@@ -1127,7 +1127,6 @@
 3851	UPLOADED	Meri Seal Todo Episode 1
 4186	UPLOADED	Watchman Episode 9
 1433	UPLOADED	Chaashni Episode 1
-5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
 1434	UPLOADED	Chaashni Episode 2
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3852	UPLOADED	Meri Seal Todo Episode 2
@@ -3477,3 +3476,4 @@
 4429	UPLOADED	Purani Haveli Episode 4
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
 4430	UPLOADED	Purani Haveli Episode 3
+5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
