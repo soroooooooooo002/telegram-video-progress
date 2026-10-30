@@ -1119,7 +1119,6 @@
 4178	UPLOADED	Woodpecker Episode 8
 1424	UPLOADED	Kundi Mat Khadkao Raja Episode 6
 3847	UPLOADED	Bai No 1 Episode 5
-5027	UPLOADED	Dishkiyaoon Episode 5
 4179	UPLOADED	Woodpecker Episode 7
 1425	UPLOADED	Kundi Mat Khadkao Raja Episode 7
 1426	UPLOADED	Chaashni Episode 5
@@ -3467,3 +3466,4 @@
 5026	UPLOADED	Dishkiyaoon Episode 6
 3275	UPLOADED	Tailor Kaka Episode 5
 4424	UPLOADED	Raat Baaki Hai Episode 2
+5027	UPLOADED	Dishkiyaoon Episode 5
