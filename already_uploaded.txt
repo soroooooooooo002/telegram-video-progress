@@ -3414,3 +3414,4 @@
 5950	SKIPPED	Mard Ko Dard Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Mard%20Ko%20Dard/Mard%20Ko%20Dard%20E1.mp4
 5951	SKIPPED	Karzdar	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Karzdar/Karzdar.mp4
 5952	SKIPPED	Khwaish	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Khwaish/Khwaish.mp4
+5953	SKIPPED	Galti Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Galti/Galti%20E3.mp4
