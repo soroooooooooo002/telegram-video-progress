@@ -1222,7 +1222,6 @@
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 3913	UPLOADED	Daakhila Episode 6
 1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
-5102	UPLOADED	Choked Episode 2
 1499	UPLOADED	Payal Episode 1
 5103	UPLOADED	Choked Episode 1
 4239	UPLOADED	Tohfa Episode 1
@@ -3606,3 +3605,4 @@
 4492	UPLOADED	Namkeen Episode 1
 5101	UPLOADED	Choked Episode 3
 3359	UPLOADED	Mera Baap Teri Mausi Episode 1
+5102	UPLOADED	Choked Episode 2
