@@ -3314,3 +3314,4 @@
 5853	SKIPPED	Dhoka Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Dhoka/Dhoka%20E1.mp4
 5854	SKIPPED	Badalte Rishte Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E10.mp4
 5855	SKIPPED	Badalte Rishte Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E9.mp4
+5856	SKIPPED	Badalte Rishte Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E8.mp4
