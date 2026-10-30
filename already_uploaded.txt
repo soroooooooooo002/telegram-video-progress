@@ -1223,7 +1223,6 @@
 1484	UPLOADED	Utha Le Jaunga Episode 4
 1485	UPLOADED	Utha Le Jaunga Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
-5082	UPLOADED	Cyanide Episode 5
 5083	UPLOADED	Cyanide Episode 4
 1487	UPLOADED	Utha Le Jaunga Episode 6
 5084	UPLOADED	Cyanide Episode 3
@@ -3539,3 +3538,4 @@
 4469	UPLOADED	Online Episode 3
 5081	UPLOADED	D Code Episode 1
 4470	UPLOADED	Online Episode 2
+5082	UPLOADED	Cyanide Episode 5
