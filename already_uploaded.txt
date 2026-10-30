@@ -74,7 +74,6 @@
 1623	UPLOADED	Kala Khatta Episode 2
 1624	UPLOADED	Kala Khatta Episode 3
 1625	UPLOADED	Jane Anjane Mein Episode 2
-3333	UPLOADED	Teacher Digi Movieplex Episode 2
 1626	UPLOADED	Kala Khatta Episode 1
 3334	UPLOADED	Teacher Digi Movieplex Episode 3
 3335	UPLOADED	Teacher Digi Movieplex Episode 4
@@ -3529,3 +3528,4 @@
 755	SKIPPED	No Limit Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/No%20Limit/No%20Limit%20Episode%202.mp4
 756	SKIPPED	No Limit Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/No%20Limit/No%20Limit%20Episode%201.mp4
 5072	UPLOADED	De Dana Dan Episode 1
+3333	UPLOADED	Teacher Digi Movieplex Episode 2
