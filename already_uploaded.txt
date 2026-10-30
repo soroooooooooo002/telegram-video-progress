@@ -81,7 +81,6 @@
 1630	UPLOADED	Jane Anjane Mein 5 Episode 2
 1631	UPLOADED	Jane Anjane Mein 5 Episode 1
 1632	UPLOADED	Jane Anjane Mein 4 Episode 2
-3349	UPLOADED	Pyasi Pushpa Episode 3
 3350	UPLOADED	Pyar Ki Tadap Episode 1
 1633	UPLOADED	Jane Anjane Mein 4 Episode 1
 3351	UPLOADED	Pyar Ki Tadap Episode 3
@@ -3580,3 +3579,4 @@
 4490	UPLOADED	Namkeen Episode 3
 3347	UPLOADED	Pyasi Pushpa Episode 1
 3348	SKIPPED	Pyasi Pushpa Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Pyasi%20Pushpa/Pyasi%20Pushpa%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3349	SKIPPED	Pyasi Pushpa Episode 3	Request was unsuccessful 6 time(s)
