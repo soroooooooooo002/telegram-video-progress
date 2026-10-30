@@ -1141,7 +1141,6 @@
 4197	SKIPPED	Wanna Have A Good Time Episode 2	Request was unsuccessful 6 time(s)
 1438	UPLOADED	Chidiya Episode 6
 1439	UPLOADED	Chidiya Episode 7
-5041	UPLOADED	Devil Episode 3
 5042	UPLOADED	Devil Episode 2
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
 5043	UPLOADED	Devil Episode 1
@@ -3487,3 +3486,4 @@
 736	UPLOADED	Paurashpur S3 Episode 4
 4436	UPLOADED	Patra Petika Episode 4
 3300	UPLOADED	Dubai Bhauji Episode 2
+5041	UPLOADED	Devil Episode 3
