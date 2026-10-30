@@ -1224,7 +1224,6 @@
 1487	UPLOADED	Utha Le Jaunga Episode 6
 3897	UPLOADED	Kache Rishtey Episode 4
 1488	UPLOADED	Mithai Wali Episode 4
-5086	UPLOADED	Cyanide Episode 1
 1489	UPLOADED	Mithai Wali Episode 1
 5087	UPLOADED	Corporate Episode 7
 1490	UPLOADED	Mithai Wali Episode 3
@@ -3543,3 +3542,4 @@
 4472	UPLOADED	Navel Of Love Episode 3
 3338	UPLOADED	Sachchi Saheli Episode 4
 760	UPLOADED	Jawani Diwani Episode 4
+5086	UPLOADED	Cyanide Episode 1
