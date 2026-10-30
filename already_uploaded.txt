@@ -3350,3 +3350,4 @@
 5889	SKIPPED	Swapna Dosh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/Swapna%20Dosh/Swapna%20Dosh%20E2.mp4
 5890	SKIPPED	Swapna Dosh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/Swapna%20Dosh/Swapna%20Dosh%20E1.mp4
 5891	SKIPPED	Promotion Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/Promotion/Promotion%20E5.mp4
+5892	SKIPPED	Promotion Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/Promotion/Promotion%20E6.mp4
