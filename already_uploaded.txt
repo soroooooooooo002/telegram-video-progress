@@ -1230,7 +1230,6 @@
 1494	UPLOADED	Mithai Wali Episode 7
 1495	UPLOADED	Payal Episode 6
 3912	UPLOADED	Daakhila Episode 2
-5097	UPLOADED	Choodiwala Episode 1
 1496	UPLOADED	Payal Episode 5
 5098	UPLOADED	Choked Episode 6
 1497	UPLOADED	Nurse Episode 5
@@ -3561,3 +3560,4 @@
 4482	SKIPPED	Nancy Episode 3	Request was unsuccessful 6 time(s)
 3345	UPLOADED	Rocket Episode 3
 768	SKIPPED	Jaal Episode 1	Request was unsuccessful 6 time(s)
+5097	UPLOADED	Choodiwala Episode 1
