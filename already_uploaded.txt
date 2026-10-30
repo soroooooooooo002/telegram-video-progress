@@ -1137,7 +1137,6 @@
 1448	UPLOADED	Raat Baaki Baat Baaki Episode 2
 1449	UPLOADED	Raat Baaki Baat Baaki Episode 3
 1450	UPLOADED	Raat Baaki Baat Baaki Episode 4
-5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
 1451	UPLOADED	Ansh Episode 7
 5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
 1452	UPLOADED	Ansh Episode 6
@@ -3506,3 +3505,4 @@
 4449	UPLOADED	Paper Episode 4
 3320	UPLOADED	Jamai Raja Episode 2
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
+5056	SKIPPED	Desi Kisse Jaanch Padtaal Episode 4	Failed to upload file part 177.
