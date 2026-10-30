@@ -67,7 +67,6 @@
 1617	UPLOADED	Khul Ja Sim Sim Episode 4
 1618	UPLOADED	Khul Ja Sim Sim Episode 1
 1619	UPLOADED	Khul Ja Sim Sim Episode 2
-3302	UPLOADED	Chumma Chaati Episode 2
 3303	UPLOADED	Chumma Chaati Episode 3
 1620	UPLOADED	Kala Khatta Episode 6
 3304	UPLOADED	Chumma Chaati Episode 4
@@ -3492,3 +3491,4 @@
 4438	UPLOADED	Patra Petika Episode 2
 5043	UPLOADED	Devil Episode 1
 4439	UPLOADED	Paro Episode 7
+3302	UPLOADED	Chumma Chaati Episode 2
