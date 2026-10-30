@@ -70,7 +70,6 @@
 1620	UPLOADED	Kala Khatta Episode 6
 1621	UPLOADED	Kala Khatta Episode 4
 3315	SKIPPED	Rose Marlo Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%204.mp4
-3317	SKIPPED	Rose Marlo Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%207.mp4
 3318	SKIPPED	Rose Marlo Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%208.mp4
 3319	UPLOADED	Jamai Raja Episode 1
 3320	UPLOADED	Jamai Raja Episode 2
@@ -3504,3 +3503,4 @@
 3314	SKIPPED	Rose Marlo Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%205.mp4
 742	UPLOADED	Secret Live
 3316	SKIPPED	Rose Marlo Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%206.mp4
+3317	SKIPPED	Rose Marlo Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%207.mp4
