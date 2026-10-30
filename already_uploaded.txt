@@ -1114,7 +1114,6 @@
 1421	SKIPPED	Ankhiyon Se Goli Maare Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%202.mp4
 1422	SKIPPED	Ankhiyon Se Goli Maare Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%203.mp4
 4176	UPLOADED	Wrong Turn Episode 2
-5026	UPLOADED	Dishkiyaoon Episode 6
 3846	UPLOADED	Bai No 1 Episode 7
 4177	UPLOADED	Wrong Turn Episode 1
 1423	UPLOADED	Kundi Mat Khadkao Raja Episode 5
@@ -3466,3 +3465,4 @@
 5025	UPLOADED	Dubey Ji And The Boys Episode 1
 4423	UPLOADED	Raat Baaki Hai Episode 4
 728	UPLOADED	Pyar Ka Bazaar Episode 1
+5026	UPLOADED	Dishkiyaoon Episode 6
