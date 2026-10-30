@@ -74,7 +74,6 @@
 1623	UPLOADED	Kala Khatta Episode 2
 1624	UPLOADED	Kala Khatta Episode 3
 1625	UPLOADED	Jane Anjane Mein Episode 2
-3332	UPLOADED	Teacher Digi Movieplex Episode 1
 3333	UPLOADED	Teacher Digi Movieplex Episode 2
 1626	UPLOADED	Kala Khatta Episode 1
 3334	UPLOADED	Teacher Digi Movieplex Episode 3
@@ -3522,3 +3521,4 @@
 5070	UPLOADED	De Dana Dan Episode 3
 750	UPLOADED	Rangraliya Mastram Episode 2
 4461	UPLOADED	Painter Babu Episode 3
+3332	UPLOADED	Teacher Digi Movieplex Episode 1
