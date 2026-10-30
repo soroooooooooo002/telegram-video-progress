@@ -42,7 +42,6 @@
 1595	UPLOADED	Numbari Episode 4
 1596	UPLOADED	Numbari Episode 3
 1597	UPLOADED	Numbari Episode 2
-3182	SKIPPED	Sainyaa Salman S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3183	SKIPPED	Sainyaa Salman S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3184	SKIPPED	Sainyaa Salman S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3185	SKIPPED	Sainyaa Salman S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -3216,3 +3215,4 @@
 4365	UPLOADED	Sanskari Episode 5
 5802	UPLOADED	Maanglik Episode 1
 695	UPLOADED	Tan Tripti S3 Episode 2
+3182	UPLOADED	Sainyaa Salman S2 Episode 2
