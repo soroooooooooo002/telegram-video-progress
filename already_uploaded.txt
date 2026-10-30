@@ -1117,7 +1117,6 @@
 3848	UPLOADED	Bai No 1 Episode 6
 1427	UPLOADED	Chaashni Episode 6
 1428	UPLOADED	Chaashni Episode 7
-5029	UPLOADED	Dishkiyaoon Episode 3
 4182	UPLOADED	Woodpecker Episode 4
 5030	UPLOADED	Dishkiyaoon Episode 2
 1429	UPLOADED	Kundi Mat Khadkao Raja Episode 1
@@ -3469,3 +3468,4 @@
 3284	SKIPPED	Rajni Kaand S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E4.mp4
 5028	UPLOADED	Dishkiyaoon Episode 4
 4425	UPLOADED	Raat Baaki Hai Episode 3
+5029	UPLOADED	Dishkiyaoon Episode 3
