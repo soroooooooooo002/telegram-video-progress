@@ -3404,3 +3404,4 @@
 5940	SKIPPED	Soch Ek Kahani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Soch%20Ek%20Kahani/Soch%20Ek%20Kahani.mp4
 5941	SKIPPED	Rahasya	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Rahasya/Rahasya.mp4
 5942	SKIPPED	Plan B	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Plan%20B/Plan%20B.mp4
+5943	SKIPPED	Nazar	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Nazar/Nazar.mp4
