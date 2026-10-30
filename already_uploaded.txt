@@ -1117,7 +1117,6 @@
 1427	UPLOADED	Chaashni Episode 6
 1428	UPLOADED	Chaashni Episode 7
 4182	UPLOADED	Woodpecker Episode 4
-5030	UPLOADED	Dishkiyaoon Episode 2
 1429	UPLOADED	Kundi Mat Khadkao Raja Episode 1
 3849	UPLOADED	Phooljhadi Episode 1
 4183	UPLOADED	Woodpecker Episode 3
@@ -3471,3 +3470,4 @@
 730	UPLOADED	Pyaari Bhabhi Episode 1
 4426	UPLOADED	Raat Baaki Hai Episode 1
 3285	UPLOADED	Chadar Badli Episode 4
+5030	UPLOADED	Dishkiyaoon Episode 2
