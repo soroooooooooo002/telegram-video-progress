@@ -1595,7 +1595,6 @@
 4312	UPLOADED	Sultan Episode 2
 3980	UPLOADED	Honey Trap Episode 2
 2626	UPLOADED	Jadui Palang Episode 2
-5440	SKIPPED	Kaala Til Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Kaala%20Til/Kaala%20Til%20E3.mp4
 5441	SKIPPED	Kaala Til Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Kaala%20Til/Kaala%20Til%20E1.mp4
 5442	SKIPPED	Ghar Aya Mehman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ghar%20Aya%20Mehman/Ghar%20Aya%20Mehman%20E2.mp4
 5443	SKIPPED	Ghar Aya Mehman Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ghar%20Aya%20Mehman/Ghar%20Aya%20Mehman%20E4.mp4
@@ -3788,3 +3787,4 @@
 5437	SKIPPED	Tapish Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Tapish/Tapish%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5438	SKIPPED	Kaala Til Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5439	SKIPPED	Kaala Til Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5440	SKIPPED	Kaala Til Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
