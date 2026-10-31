@@ -1496,7 +1496,6 @@
 2609	UPLOADED	Suno Sasur Ji Episode 2
 4291	UPLOADED	Sursuri Li Episode 8
 1805	UPLOADED	Adhure Hum Episode 4
-5323	UPLOADED	Anokhi Episode 2
 2610	UPLOADED	Suno Sasur Ji Episode 1
 3952	UPLOADED	Chatur Naar Episode 2
 4292	UPLOADED	Sursuri Li Episode 7
@@ -3770,3 +3769,4 @@
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
 5322	SKIPPED	Anokhi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Anokhi/Anokhi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5323	SKIPPED	Anokhi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Anokhi/Anokhi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
