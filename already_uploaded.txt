@@ -1728,7 +1728,6 @@
 4343	UPLOADED	Singardaan Episode 4
 2890	UPLOADED	Raaz Episode 2
 4344	UPLOADED	Singardaan Episode 3
-5772	SKIPPED	Farzi Bhabhi	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Farzi%20Bhabhi.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5773	SKIPPED	Doctor Gupt Rog Visheshak	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Doctor%20-%20Gupt%20Rog%20Visheshak.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5774	SKIPPED	Dukhdayi Saiyan	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Dukhdayi%20Saiyan.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5775	SKIPPED	Dirty Film	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Dirty%20Film.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4115,3 +4114,4 @@
 5769	SKIPPED	Garam Naram	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Garam%20Naram.mp4
 5770	SKIPPED	Geometry Box	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Geometry%20Box.mp4
 5771	SKIPPED	Fraud Saiyyan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Fraud%20Saiyyan.mp4
+5772	SKIPPED	Farzi Bhabhi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Farzi%20Bhabhi.mp4
