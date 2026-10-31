@@ -1557,7 +1557,6 @@
 5399	SKIPPED	Hawas Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E5.mp4
 5400	SKIPPED	Hawas Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E3.mp4
 5401	SKIPPED	Hawas Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E2.mp4
-5411	SKIPPED	Devika Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Devika/Devika%20E4.mp4
 5412	SKIPPED	Devika Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Devika/Devika%20E3.mp4
 5413	SKIPPED	Devika Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Devika/Devika%20E2.mp4
 5414	SKIPPED	Choti Bahu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Choti%20Bahu/Choti%20Bahu%20E4.mp4
@@ -3788,3 +3787,4 @@
 5408	SKIPPED	Girvi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Girvi/Girvi%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5409	SKIPPED	Devika Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Devika/Devika%20E5.mp4
 5410	SKIPPED	Devika Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Devika/Devika%20E6.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5411	SKIPPED	Devika Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Devika/Devika%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
