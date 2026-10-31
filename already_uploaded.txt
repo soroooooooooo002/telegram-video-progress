@@ -263,7 +263,6 @@
 1682	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 3
 1201	UPLOADED	Utha Patak S3 Episode 6
 1202	UPLOADED	Utha Patak S3 Episode 5
-3497	UPLOADED	Woodpecker Episode 1
 1683	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 2
 1203	UPLOADED	Utha Patak S3 Episode 4
 1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
@@ -3769,3 +3768,4 @@
 5319	SKIPPED	Gharwali Baharwali Episode 2	Request was unsuccessful 6 time(s)
 4591	UPLOADED	Laal Mirch Episode 4
 887	SKIPPED	London Dreams Episode 5	Request was unsuccessful 6 time(s)
+3497	SKIPPED	Woodpecker Episode 1	Request was unsuccessful 6 time(s)
