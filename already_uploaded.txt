@@ -116,7 +116,6 @@
 3413	UPLOADED	Time Pass Episode 8
 3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
-1114	UPLOADED	Rangeen Tailor Episode 1
 1115	UPLOADED	Ashirwad Episode 4
 1658	UPLOADED	Gaon Ki Garmi 3 Episode 5
 1116	UPLOADED	Ashirwad Episode 3
@@ -4043,3 +4042,4 @@
 1111	SKIPPED	Rangeen Tailor Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1112	SKIPPED	Rangeen Tailor Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1113	SKIPPED	Rangeen Tailor Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1114	SKIPPED	Rangeen Tailor Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
