@@ -309,7 +309,6 @@
 3920	UPLOADED	Couple Party Episode 5
 1231	UPLOADED	Namkeen Kisse Episode 1
 1232	UPLOADED	Mera Pyaar Pan Nahi Episode 5
-3531	UPLOADED	Robotina Episode 4
 3532	SKIPPED	Kamam Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Kamam/Kamam%20Episode%204.mp4
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
 3533	UPLOADED	Kamam Episode 3
@@ -3787,3 +3786,4 @@
 3528	SKIPPED	Robotina Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3529	SKIPPED	Robotina Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3530	SKIPPED	Robotina Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3531	SKIPPED	Robotina Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
