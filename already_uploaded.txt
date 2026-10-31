@@ -300,7 +300,6 @@
 3520	UPLOADED	Toy Episode 4
 1224	UPLOADED	Padosan Episode 4
 3522	UPLOADED	Flavour Episode 1
-3523	UPLOADED	Flavour Episode 2
 1225	UPLOADED	Padosan Episode 3
 3524	UPLOADED	Jawani Ka Nuksha Episode 1
 1226	UPLOADED	Padosan Episode 2
@@ -3787,3 +3786,4 @@
 5344	SKIPPED	Khiladi Bhaiya Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Khiladi%20Bhaiya/Khiladi%20Bhaiya%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3521	SKIPPED	Toy Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5346	SKIPPED	Yaddasht Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Yaddasht/Yaddasht%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3523	SKIPPED	Flavour Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Prime%20Shots/Flavour/Flavour%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
