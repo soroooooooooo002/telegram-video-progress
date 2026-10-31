@@ -1782,7 +1782,6 @@
 2845	SKIPPED	Silsila Hai Pyaar Ka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Silsila%20Hai%20Pyaar%20Ka/Silsila%20Hai%20Pyaar%20Ka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2847	UPLOADED	Obsession Episode 4
 2849	UPLOADED	Obsession Episode 2
-5654	SKIPPED	Upanyas	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Upanyas.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5655	SKIPPED	Night At A Hotel	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Night%20At%20A%20Hotel.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5656	SKIPPED	Murder	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Murder.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5657	SKIPPED	MMS	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/MMS.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4082,3 +4081,4 @@
 4629	UPLOADED	Khatak Episode 2
 1170	UPLOADED	Rangeen Kahaniya Episode 3
 4630	UPLOADED	Khatak Episode 1
+5654	UPLOADED	Upanyas
