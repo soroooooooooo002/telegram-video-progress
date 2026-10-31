@@ -1603,7 +1603,6 @@
 1847	UPLOADED	Nathuniya Episode 4
 4314	UPLOADED	Soul Reader Episode 1
 2628	UPLOADED	Gulabo Panwali Episode 2
-5452	UPLOADED	Chup Chup Ke Episode 6
 1848	UPLOADED	Nathuniya Episode 3
 4315	UPLOADED	Sona Episode 8
 2629	UPLOADED	Gulabo Panwali Episode 1
@@ -3788,3 +3787,4 @@
 5449	SKIPPED	Ratri Kawach Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Ratri%20Kavach/Ratri%20Kawach%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5450	SKIPPED	Ratri Kawach Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Ratri%20Kavach/Ratri%20Kawach%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5451	SKIPPED	Ratri Kawach Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Ratri%20Kavach/Ratri%20Kawach%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5452	SKIPPED	Chup Chup Ke Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Chup%20Chup%20Ke/Chup%20Chup%20Ke%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
