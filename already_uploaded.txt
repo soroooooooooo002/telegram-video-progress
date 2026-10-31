@@ -1332,7 +1332,6 @@
 4252	UPLOADED	The Choice Episode 3
 1552	UPLOADED	Siskiyaan 4 Episode 3
 1741	UPLOADED	Anari Episode 8
-5169	SKIPPED	Payar My Foot Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Payar%20My%20Foot/Payar%20My%20Foot%20Episode%202.mp4
 5170	SKIPPED	Payar My Foot Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Payar%20My%20Foot/Payar%20My%20Foot%20Episode%201.mp4
 5171	SKIPPED	Madam Ji Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%201.mp4
 5172	SKIPPED	Madam Ji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%202.mp4
@@ -3684,3 +3683,4 @@
 3393	UPLOADED	Blackmail Episode 1 Digi Movieplex
 5167	UPLOADED	Ashuddhi Episode 1
 5168	SKIPPED	Desi Massage Parlour	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Thullu/Desi%20Massage%20Parlour%20Full%20Video%20%28XSeries.IN%29%20%282%29.mp4
+5169	SKIPPED	Payar My Foot Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Payar%20My%20Foot/Payar%20My%20Foot%20Episode%202.mp4
