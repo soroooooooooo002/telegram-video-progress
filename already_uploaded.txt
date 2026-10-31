@@ -1347,7 +1347,6 @@
 3936	UPLOADED	VideoBaaz Episode 5
 1745	UPLOADED	Anari Episode 3
 3937	UPLOADED	VideoBaaz Episode 6
-5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
 5281	SKIPPED	BehruPriya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E2.mp4
 5282	SKIPPED	BehruPriya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E3.mp4
@@ -3709,3 +3708,4 @@
 5276	SKIPPED	Bubblepur Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E6.mp4
 5277	SKIPPED	Blind Kotha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Blind%20Kotha/Blind%20Kotha%20E2.mp4
 5278	SKIPPED	Bewafaii Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E1.mp4
+5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
