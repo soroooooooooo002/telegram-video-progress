@@ -1332,7 +1332,6 @@
 4252	UPLOADED	The Choice Episode 3
 1552	UPLOADED	Siskiyaan 4 Episode 3
 1741	UPLOADED	Anari Episode 8
-5177	SKIPPED	Tuition Teacher Episode 1 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E01%20%28XSeries.IN%29.mp4
 1553	UPLOADED	Siskiyaan 4 Episode 2
 3935	SKIPPED	VideoBaaz Episode 4	Request was unsuccessful 6 time(s)
 1742	UPLOADED	Anari Episode 7
@@ -3684,3 +3683,4 @@
 5174	SKIPPED	Gehra Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%201.mp4
 5175	SKIPPED	Tuition Teacher Episode 3 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuition%20Teacher%20S01E03%20%28XSeries.IN%29.mp4
 5176	SKIPPED	Tuition Teacher Episode 2 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E02%20%28XSeries.IN%29.mp4
+5177	SKIPPED	Tuition Teacher Episode 1 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E01%20%28XSeries.IN%29.mp4
