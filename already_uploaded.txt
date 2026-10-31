@@ -107,7 +107,6 @@
 1104	SKIPPED	Pehredaaar Again Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1100	UPLOADED	Pehredaaar Again Episode 5
 1101	UPLOADED	Pehredaaar Again Episode 4
-3388	UPLOADED	De De Pyar De Episode 3
 3389	UPLOADED	De De Pyar De Episode 4
 3390	UPLOADED	De De Pyar De Episode 5
 3392	UPLOADED	Bunty Babli Episode 2
@@ -3676,3 +3675,4 @@
 4542	UPLOADED	Maa Ka Naka Episode 9
 5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
 823	UPLOADED	Feelings Episode 2
+3388	UPLOADED	De De Pyar De Episode 3
