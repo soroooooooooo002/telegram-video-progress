@@ -294,7 +294,6 @@
 3905	UPLOADED	Jabran Episode 5 Big Shots
 3906	UPLOADED	Jabran Episode 1 Big Shots
 1222	UPLOADED	Qaatil Haseena Episode 2
-3518	UPLOADED	Toy Episode 2
 3907	UPLOADED	Jabran Episode 6 Big Shots
 1223	UPLOADED	Qaatil Haseena Episode 1
 3519	UPLOADED	Toy Episode 3
@@ -3787,3 +3786,4 @@
 3515	SKIPPED	Bachelor Party Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3516	SKIPPED	Bachelor Party Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3517	SKIPPED	Bachelor Party Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3518	SKIPPED	Toy Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
