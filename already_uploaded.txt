@@ -1500,7 +1500,6 @@
 5328	SKIPPED	Malik Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E4.mp4
 5329	SKIPPED	Malik Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E3.mp4
 5330	SKIPPED	Malik Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E1.mp4
-5332	SKIPPED	Sapna Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Sapna/Sapna%20E2.mp4
 5333	SKIPPED	Sapna Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Sapna/Sapna%20E1.mp4
 1806	UPLOADED	Adhure Hum Episode 7
 5335	SKIPPED	Sindoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Sindoor.mp4
@@ -3787,3 +3786,4 @@
 3503	SKIPPED	Woodpecker Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3504	SKIPPED	Woodpecker Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5331	SKIPPED	Sapna Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Sapna/Sapna%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5332	SKIPPED	Sapna Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Sapna/Sapna%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
