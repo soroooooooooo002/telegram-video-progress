@@ -1729,7 +1729,6 @@
 2890	UPLOADED	Raaz Episode 2
 4344	UPLOADED	Singardaan Episode 3
 5775	SKIPPED	Dirty Film	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Dirty%20Film.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5791	SKIPPED	Bhoganiya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%204%20%282023%29%20XSeries.IN.mp4
 4346	UPLOADED	Singardaan Episode 1
 4347	SKIPPED	Shor Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Shor%20/Shor%20Episode%201.mp4
 653	UPLOADED	Obsession S2 Episode 2
@@ -4116,3 +4115,4 @@
 5788	SKIPPED	Bhoganiya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%201%20%282021%29%20XSeries.IN.mp4
 5789	SKIPPED	Bhoganiya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%202%20%282021%29%20XSeries.IN.mp4
 5790	SKIPPED	Pyaasi Devrani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Pyaasi%20Devrani%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
+5791	SKIPPED	Bhoganiya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%204%20%282023%29%20XSeries.IN.mp4
