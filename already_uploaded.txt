@@ -1471,7 +1471,6 @@
 3948	UPLOADED	Ghutan Episode 1
 4281	UPLOADED	Tandoor Episode 2
 2601	UPLOADED	Julie I Love You Episode 5
-5320	UPLOADED	Gharwali Baharwali Episode 1
 1802	UPLOADED	Adhure Hum Episode 3
 3949	UPLOADED	Ghutan Episode 4
 4282	UPLOADED	Tandoor Episode 1
@@ -3769,3 +3768,4 @@
 4591	UPLOADED	Laal Mirch Episode 4
 887	SKIPPED	London Dreams Episode 5	Request was unsuccessful 6 time(s)
 3497	SKIPPED	Woodpecker Episode 1	Request was unsuccessful 6 time(s)
+5320	SKIPPED	Gharwali Baharwali Episode 1	Request was unsuccessful 6 time(s)
