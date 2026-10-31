@@ -282,7 +282,6 @@
 1215	UPLOADED	Raat Ki Raani Episode 5
 1216	UPLOADED	Raat Ki Raani Episode 4
 3899	UPLOADED	Kache Rishtey Episode 3
-3513	UPLOADED	Bachelor Party Episode 1
 1217	UPLOADED	Raat Ki Raani Episode 3
 3900	UPLOADED	Kache Rishtey Episode 1
 1218	UPLOADED	Raat Ki Raani Episode 2
@@ -3787,3 +3786,4 @@
 3510	SKIPPED	Innocent Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3511	SKIPPED	Toy Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3512	SKIPPED	Bachelor Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3513	SKIPPED	Bachelor Party Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
