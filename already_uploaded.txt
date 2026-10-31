@@ -1404,7 +1404,6 @@
 1769	UPLOADED	Ghar Ka Call Boy Episode 2
 4269	UPLOADED	Tere Jaisa Yaar Kaha Episode 5
 2559	UPLOADED	Do Khajur Episode 3
-5308	UPLOADED	Damaadji Lage Raho Episode 2
 3942	UPLOADED	Damad Ji Episode 2
 1770	UPLOADED	Ghar Ka Call Boy Episode 3
 1771	SKIPPED	Galtiyan Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Galtiyan/Galtiyan%20E7.mp4
@@ -3746,3 +3745,4 @@
 5305	SKIPPED	Damaadji Lage Raho Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3466	SKIPPED	Bali Umar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Bali%20Umar/Bali%20Umar%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3467	SKIPPED	Bali Umar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Bali%20Umar/Bali%20Umar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5308	SKIPPED	Damaadji Lage Raho Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
