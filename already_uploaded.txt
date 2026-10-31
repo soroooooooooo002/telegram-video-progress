@@ -154,7 +154,6 @@
 1674	UPLOADED	Doraha Episode 3
 1675	UPLOADED	Doraha Episode 2
 1676	UPLOADED	Doraha Episode 1
-1173	UPLOADED	Rangeen Kahaniya Episode 6
 1174	UPLOADED	Pyaar Idhar Udhar Episode 2
 1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 1176	UPLOADED	Pyaar Idhar Udhar Episode 3
@@ -4084,3 +4083,4 @@
 3614	UPLOADED	Guru Dakshina Episode 6
 1172	UPLOADED	Rangeen Kahaniya Episode 5
 4632	UPLOADED	Khalish Episode 8
+1173	UPLOADED	Rangeen Kahaniya Episode 6
