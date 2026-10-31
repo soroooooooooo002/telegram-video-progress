@@ -3720,3 +3720,4 @@
 3426	SKIPPED	Good Girls Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4569	UPLOADED	Love Bite Episode 6
 836	UPLOADED	Maashuqa Episode 1
+837	SKIPPED	Farebi Ishq Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Mango%20TV/Farebi%20Ishq/Farebi%20Ishq%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
