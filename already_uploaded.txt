@@ -154,7 +154,6 @@
 1674	UPLOADED	Doraha Episode 3
 1675	UPLOADED	Doraha Episode 2
 1676	UPLOADED	Doraha Episode 1
-1177	UPLOADED	Pyaar Idhar Udhar Episode 4
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
 1178	UPLOADED	Pyaar Idhar Udhar Episode 5
 3465	UPLOADED	Bali Umar Episode 5
@@ -4087,3 +4086,4 @@
 3619	UPLOADED	Jenga Episode 2
 5658	UPLOADED	Massage Parlour
 4635	UPLOADED	Khalish Episode 5
+1177	UPLOADED	Pyaar Idhar Udhar Episode 4
