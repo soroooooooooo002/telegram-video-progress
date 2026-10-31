@@ -1413,7 +1413,6 @@
 4271	UPLOADED	Tere Jaisa Yaar Kaha Episode 3
 1773	UPLOADED	Dosti Episode 3
 4272	UPLOADED	Tere Jaisa Yaar Kaha Episode 2
-5310	UPLOADED	Damaadji Lage Raho Episode 1
 5311	SKIPPED	Aakhri Raat Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E3.mp4
 5312	SKIPPED	Aakhri Raat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E2.mp4
 5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
@@ -3746,3 +3745,4 @@
 3467	SKIPPED	Bali Umar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Bali%20Umar/Bali%20Umar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5308	SKIPPED	Damaadji Lage Raho Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5309	SKIPPED	Damaadji Lage Raho Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5310	SKIPPED	Damaadji Lage Raho Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
