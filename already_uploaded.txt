@@ -1280,7 +1280,6 @@
 1538	UPLOADED	Shaukiya Episode 3
 3929	UPLOADED	Chitthi Episode 7
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
-5149	UPLOADED	Bhasudi Episode 2
 1539	UPLOADED	Tauba Tauba Episode 4
 4246	UPLOADED	The Last Show Episode 2
 5150	UPLOADED	Bhasudi Episode 1
@@ -3661,3 +3660,4 @@
 5148	UPLOADED	Bhasudi Episode 3
 4529	UPLOADED	Malai Episode 4
 3384	UPLOADED	Dr Lily Episode 3
+5149	UPLOADED	Bhasudi Episode 2
