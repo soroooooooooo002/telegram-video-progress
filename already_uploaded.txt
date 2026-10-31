@@ -1759,7 +1759,6 @@
 2849	UPLOADED	Obsession Episode 2
 5660	SKIPPED	Jism	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Jism.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5661	SKIPPED	Flat No 108	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Flat%20No%20108.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5662	SKIPPED	Fareb	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Fareb.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5663	SKIPPED	Chattri	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Chattri.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5664	SKIPPED	Black Magic	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Black%20Magic.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5665	SKIPPED	Virgin Bahus Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Virgin%20Bahus/Virgin%20Bahus%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4093,3 +4092,4 @@
 4640	UPLOADED	Kavita Bhabhi Episode 8
 4641	UPLOADED	Kavita Bhabhi Episode 7
 1182	UPLOADED	Prem Game Episode 3
+5662	UPLOADED	Fareb
