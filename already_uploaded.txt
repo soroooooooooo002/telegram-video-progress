@@ -154,7 +154,6 @@
 1674	UPLOADED	Doraha Episode 3
 1675	UPLOADED	Doraha Episode 2
 1676	UPLOADED	Doraha Episode 1
-1174	UPLOADED	Pyaar Idhar Udhar Episode 2
 1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 1176	UPLOADED	Pyaar Idhar Udhar Episode 3
 1177	UPLOADED	Pyaar Idhar Udhar Episode 4
@@ -4085,3 +4084,4 @@
 1173	UPLOADED	Rangeen Kahaniya Episode 6
 5656	UPLOADED	Murder
 4633	UPLOADED	Khalish Episode 7
+1174	UPLOADED	Pyaar Idhar Udhar Episode 2
