@@ -3758,3 +3758,4 @@
 3486	SKIPPED	Chowkidar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%205.mp4
 5315	SKIPPED	Gharwali Baharwali Episode 6	Request was unsuccessful 6 time(s)
 4585	UPLOADED	Lady Finger Episode 1
+4586	SKIPPED	Laal Mirch Episode 9	Request was unsuccessful 6 time(s)
