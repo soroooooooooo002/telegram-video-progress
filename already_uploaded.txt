@@ -163,7 +163,6 @@
 3471	SKIPPED	Anju Or Manju Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Anju%20Or%20Manju/Anju%20Or%20Manju%20Episode%203.mp4
 3473	SKIPPED	Anju Or Manju Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Anju%20Or%20Manju/Anju%20Or%20Manju%20Episode%201.mp4
 1679	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 5
-1194	UPLOADED	Viral Rani Episode 4
 1195	UPLOADED	Viral Rani Episode 3
 1196	UPLOADED	Viral Rani Episode 2
 1680	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 6
@@ -4108,3 +4107,4 @@
 3668	UPLOADED	Dear N Devil Episode 2
 3669	UPLOADED	Dear N Devil Episode 1
 5683	UPLOADED	Napunsak Pati Episode 5
+1194	SKIPPED	Viral Rani Episode 4	Download request failed: ('Connection broken: IncompleteRead(43073172 bytes read, 303009171 more expected)', IncompleteRead(43073172 bytes read, 303009171 more expected))
