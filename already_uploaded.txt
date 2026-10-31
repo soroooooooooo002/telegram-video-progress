@@ -156,7 +156,6 @@
 1676	UPLOADED	Doraha Episode 1
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
 3465	UPLOADED	Bali Umar Episode 5
-1182	UPLOADED	Prem Game Episode 3
 1678	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 8
 3468	UPLOADED	Bali Umar Episode 2
 1183	UPLOADED	Prem Game Episode 4
@@ -4093,3 +4092,4 @@
 3626	UPLOADED	Dulhe Raja Episode 1
 4640	UPLOADED	Kavita Bhabhi Episode 8
 4641	UPLOADED	Kavita Bhabhi Episode 7
+1182	UPLOADED	Prem Game Episode 3
