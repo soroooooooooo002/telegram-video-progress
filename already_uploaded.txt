@@ -1385,7 +1385,6 @@
 4257	UPLOADED	The Bull Of Dalal Street Episode 7
 1747	UPLOADED	Anari Episode 1
 2549	UPLOADED	Pehli Baar Episode 4
-5296	UPLOADED	Sasur Ki Dulhan Episode 1
 1748	UPLOADED	Anari Episode 2
 4258	UPLOADED	The Bull Of Dalal Street Episode 6
 3938	UPLOADED	Damad Ji Episode 4
@@ -3715,3 +3714,4 @@
 3417	UPLOADED	Secret Superstar Episode 3
 834	UPLOADED	Bhabhi Cool Episode 2
 4565	UPLOADED	Love Guru 2 Episode 4
+5296	UPLOADED	Sasur Ki Dulhan Episode 1
