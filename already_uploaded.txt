@@ -1248,7 +1248,6 @@
 1519	UPLOADED	Kaanta Laga Episode 4
 1520	UPLOADED	Kaanta Laga Episode 2
 1696	UPLOADED	Chuski Episode 5
-5122	UPLOADED	Chahat Episode 1
 5123	UPLOADED	Catlady Episode 2
 1521	UPLOADED	Kaanta Laga Episode 1
 5124	UPLOADED	Catlady Episode 1
@@ -3634,3 +3633,4 @@
 4511	UPLOADED	Mohan Chabhiwala Episode 3
 813	UPLOADED	Do Ankhein Chaar Haath Episode 6
 3374	UPLOADED	Joru Ka Gulaam Episode 4
+5122	UPLOADED	Chahat Episode 1
