@@ -133,7 +133,6 @@
 1115	UPLOADED	Ashirwad Episode 4
 1658	UPLOADED	Gaon Ki Garmi 3 Episode 5
 1116	UPLOADED	Ashirwad Episode 3
-3417	UPLOADED	Secret Superstar Episode 3
 1117	UPLOADED	Ashirwad Episode 2
 1118	UPLOADED	Ashirwad Episode 1
 3418	UPLOADED	Khanjarpur Episode 1
@@ -3713,3 +3712,4 @@
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
 5295	UPLOADED	Sasur Ki Dulhan Episode 2
+3417	UPLOADED	Secret Superstar Episode 3
