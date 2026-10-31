@@ -314,7 +314,6 @@
 1236	SKIPPED	Mera Pyaar Pan Nahi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1238	SKIPPED	Karan Arjun Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1239	SKIPPED	Karan Arjun Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3598	UPLOADED	Akalmand Junglee Episode 1
 1241	SKIPPED	Karan Arjun Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3600	SKIPPED	Amrapali S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3601	SKIPPED	Amrapali S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4049,3 +4048,4 @@
 3595	UPLOADED	Akalmand Junglee Episode 4
 3596	UPLOADED	Akalmand Junglee Episode 3
 3597	UPLOADED	Akalmand Junglee Episode 2
+3598	UPLOADED	Akalmand Junglee Episode 1
