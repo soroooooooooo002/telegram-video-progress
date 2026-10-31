@@ -252,7 +252,6 @@
 1679	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 5
 1194	UPLOADED	Viral Rani Episode 4
 1195	UPLOADED	Viral Rani Episode 3
-3477	UPLOADED	My Yoga Teacher Episode 1
 1196	UPLOADED	Viral Rani Episode 2
 1680	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 6
 3478	UPLOADED	Madhuhosh Episode 1
@@ -3746,3 +3745,4 @@
 3474	SKIPPED	Saiyaan Ji Khatiya Pe Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Saavan/Saiyaan%20Ji%20Khatiya%20Pe/Saiyaan%20Ji%20Khatiya%20Pe%20Episode%202.mp4
 3475	SKIPPED	Saiyaan Ji Khatiya Pe Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Saavan/Saiyaan%20Ji%20Khatiya%20Pe/Saiyaan%20Ji%20Khatiya%20Pe%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3476	SKIPPED	My Yoga Teacher Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Sahelii/My%20Yoga%20Teacher/My%20Yoga%20Teacher%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3477	SKIPPED	My Yoga Teacher Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Sahelii/My%20Yoga%20Teacher/My%20Yoga%20Teacher%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
