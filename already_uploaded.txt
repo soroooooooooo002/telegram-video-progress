@@ -139,7 +139,6 @@
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
 1667	UPLOADED	Gaon Ki Garmi 2 Episode 3
 3443	UPLOADED	Yeh Hai Sanak Episode 5
-1164	UPLOADED	X Class Episode 3
 3444	UPLOADED	Yeh Hai Sanak Episode 4
 1165	UPLOADED	X Class Episode 4
 1668	UPLOADED	Flat 69 Episode 2
@@ -4069,3 +4068,4 @@
 5642	UPLOADED	Chachi Kand Episode 2
 4621	UPLOADED	Khidki Episode 6
 3611	UPLOADED	Guru Dakshina Episode 9
+1164	UPLOADED	X Class Episode 3
