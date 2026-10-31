@@ -1784,7 +1784,6 @@
 2844	SKIPPED	Silsila Hai Pyaar Ka Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Silsila%20Hai%20Pyaar%20Ka/Silsila%20Hai%20Pyaar%20Ka%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2845	SKIPPED	Silsila Hai Pyaar Ka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Silsila%20Hai%20Pyaar%20Ka/Silsila%20Hai%20Pyaar%20Ka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2847	UPLOADED	Obsession Episode 4
-5649	SKIPPED	Bouthan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Bouthan/Bouthan%20E2.mp4
 2849	UPLOADED	Obsession Episode 2
 5651	SKIPPED	Babu Ji Ghar Pe Hain Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Babu%20Ji%20Ghar%20Pe%20Hain/Babu%20Ji%20Ghar%20Pe%20Hain%20%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5652	SKIPPED	Babu Ji Ghar Pe Hain Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Babu%20Ji%20Ghar%20Pe%20Hain/Babu%20Ji%20Ghar%20Pe%20Hain%20%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4079,3 +4078,4 @@
 5646	SKIPPED	Prem Leela Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E4.mp4
 5647	SKIPPED	Prem Leela Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E2.mp4
 5648	SKIPPED	Bouthan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Bouthan/Bouthan%20E3.mp4
+5649	SKIPPED	Bouthan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Bouthan/Bouthan%20E2.mp4
