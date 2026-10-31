@@ -137,7 +137,6 @@
 3438	SKIPPED	Karzdaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E4mp4
 3439	SKIPPED	Karzdaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E3.mp4
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
-1146	SKIPPED	Casting Couch Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%202.mp4
 1147	SKIPPED	Casting Couch Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%201.mp4
 1148	SKIPPED	Casting Couch Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%203.mp4
 1149	SKIPPED	Casting Couch Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%204.mp4
@@ -4062,3 +4061,4 @@
 4616	UPLOADED	Khoon Bhari Maang Episode 5
 5640	UPLOADED	Dangerous Date Episode 2
 1145	UPLOADED	Rangili Ragini Episode 1
+1146	SKIPPED	Casting Couch Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%202.mp4
