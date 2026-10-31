@@ -1461,7 +1461,6 @@
 2598	SKIPPED	Chal Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%205.mp4
 2599	SKIPPED	Chal Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%204.mp4
 1796	UPLOADED	Bunty Babli Episode 3
-5318	UPLOADED	Gharwali Baharwali Episode 3
 4279	UPLOADED	Tandoor Episode 4
 3947	UPLOADED	Tala Episode 1
 1797	UPLOADED	Bunty Babli Episode 1
@@ -3764,3 +3763,4 @@
 885	UPLOADED	Generation Gap S2 Episode 5
 5317	SKIPPED	Gharwali Baharwali Episode 4	Request was unsuccessful 6 time(s)
 3495	UPLOADED	Haramkhor Dream Films Episode 1
+5318	SKIPPED	Gharwali Baharwali Episode 3	Request was unsuccessful 6 time(s)
