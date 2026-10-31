@@ -143,7 +143,6 @@
 1668	UPLOADED	Flat 69 Episode 2
 3445	UPLOADED	Yeh Hai Sanak Episode 3
 3446	UPLOADED	Yeh Hai Sanak Episode 2
-1167	UPLOADED	X Class Episode 6
 1168	UPLOADED	Rangeen Kahaniya Episode 1
 1669	UPLOADED	Gaon Ki Garmi 2 Episode 1
 3447	UPLOADED	Yeh Hai Sanak Episode 1
@@ -4074,3 +4073,4 @@
 3612	SKIPPED	Guru Dakshina Episode 8	Failed to upload file part 440.
 1166	UPLOADED	X Class Episode 5
 4625	UPLOADED	Khidki Episode 2
+1167	UPLOADED	X Class Episode 6
