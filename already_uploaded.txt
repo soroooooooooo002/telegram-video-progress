@@ -1289,7 +1289,6 @@
 4247	UPLOADED	The Last Show Episode 1
 1710	UPLOADED	Chachi No 1 Episode 2
 1544	UPLOADED	Tapan Episode 1
-5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
 1545	UPLOADED	Tapan Episode 2
 4248	UPLOADED	The Host Episode 2
 1711	UPLOADED	Chachi No 1 Episode 1
@@ -3675,3 +3674,4 @@
 4541	SKIPPED	Machhli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Machhli%20/Machhli%20Episode%201.mp4
 5156	UPLOADED	Assi Nabbe Poore Sau Episode 8
 4542	UPLOADED	Maa Ka Naka Episode 9
+5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
