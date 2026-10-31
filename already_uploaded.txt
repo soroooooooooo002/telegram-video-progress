@@ -158,7 +158,6 @@
 3465	UPLOADED	Bali Umar Episode 5
 1678	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 8
 3468	UPLOADED	Bali Umar Episode 2
-1184	SKIPPED	Bekhudi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E1.mp4
 1185	SKIPPED	Bekhudi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E2.mp4
 1186	SKIPPED	Bekhudi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E4.mp4
 1187	SKIPPED	Bekhudi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E5.mp4
@@ -4094,3 +4093,4 @@
 3627	UPLOADED	Dulhe Raja Episode 2
 4642	UPLOADED	Kavita Bhabhi Episode 6
 1183	UPLOADED	Prem Game Episode 4
+1184	SKIPPED	Bekhudi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E1.mp4
