@@ -122,7 +122,6 @@
 1657	UPLOADED	Gaon Ki Garmi 3 Episode 8
 3802	SKIPPED	Jalebi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%201.mp4
 1113	UPLOADED	Rangeen Tailor Episode 2
-3404	UPLOADED	Jee Bhar Ke Episode 6
 3405	UPLOADED	Jee Bhar Ke Episode 7
 3406	UPLOADED	Time Pass Episode 1
 3407	UPLOADED	Time Pass Episode 2
@@ -3706,3 +3705,4 @@
 3401	UPLOADED	Jee Bhar Ke Episode 3
 3402	UPLOADED	Jee Bhar Ke Episode 4
 3403	UPLOADED	Jee Bhar Ke Episode 5
+3404	UPLOADED	Jee Bhar Ke Episode 6
