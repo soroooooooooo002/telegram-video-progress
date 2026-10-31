@@ -137,7 +137,6 @@
 3438	SKIPPED	Karzdaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E4mp4
 3439	SKIPPED	Karzdaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E3.mp4
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
-1162	UPLOADED	X Class Episode 1
 1667	UPLOADED	Gaon Ki Garmi 2 Episode 3
 1163	UPLOADED	X Class Episode 2
 3443	UPLOADED	Yeh Hai Sanak Episode 5
@@ -4065,3 +4064,4 @@
 3610	SKIPPED	Amrapali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Amrapali/Amrapali%20Episode%201.mp4
 4618	UPLOADED	Khoon Bhari Maang Episode 3
 5641	UPLOADED	Dangerous Date Episode 1
+1162	UPLOADED	X Class Episode 1
