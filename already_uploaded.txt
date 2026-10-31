@@ -99,7 +99,6 @@
 1647	SKIPPED	Generation Gap Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Generation%20Gap/Generation%20Gap%20Episode%201.mp4
 1648	UPLOADED	Gaon Ki Garmi 4 Episode 7
 1649	UPLOADED	Gaon Ki Garmi Episode 1
-3377	UPLOADED	Jara Dhire Dhire Episode 2
 3378	UPLOADED	Jara Dhire Dhire Episode 4
 1650	UPLOADED	Gaon Ki Garmi 4 Episode 5
 3379	UPLOADED	Gandu Dhar Episode 1
@@ -3642,3 +3641,4 @@
 815	UPLOADED	Do Ankhein Chaar Haath Episode 4
 4517	UPLOADED	MeToo Wolf Of Bollywood Episode 5
 5131	UPLOADED	Call Center Episode 3
+3377	UPLOADED	Jara Dhire Dhire Episode 2
