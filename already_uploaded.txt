@@ -1556,7 +1556,6 @@
 4304	UPLOADED	Sunny Winter Episode 3
 3964	UPLOADED	Rivaaz Episode 6
 5345	SKIPPED	Yaddasht Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E7.mp4
-5346	SKIPPED	Yaddasht Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E4.mp4
 5347	SKIPPED	Yaddasht Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E5.mp4
 5348	SKIPPED	Yaddasht Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E6.mp4
 5349	SKIPPED	Yaddasht Episode 2	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E2.mp4
@@ -3787,3 +3786,4 @@
 3519	SKIPPED	Toy Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5344	SKIPPED	Khiladi Bhaiya Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Khiladi%20Bhaiya/Khiladi%20Bhaiya%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3521	SKIPPED	Toy Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5346	SKIPPED	Yaddasht Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Yaddasht/Yaddasht%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
