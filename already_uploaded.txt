@@ -121,7 +121,6 @@
 3803	UPLOADED	Adhuri Pyaas Episode 2
 1657	UPLOADED	Gaon Ki Garmi 3 Episode 8
 3802	SKIPPED	Jalebi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%201.mp4
-3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
 3399	UPLOADED	Jee Bhar Ke Episode 1
 3400	UPLOADED	Jee Bhar Ke Episode 2
 1113	UPLOADED	Rangeen Tailor Episode 2
@@ -3704,3 +3703,4 @@
 5181	SKIPPED	Blue Night Episode 3	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Sahelii/Blue%20Night/Blue%20Night%20Episode%203.mp4
 4559	UPLOADED	Love Guru Episode 2
 4560	UPLOADED	Love Guru Episode 1
+3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
