@@ -3702,3 +3702,4 @@
 3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
 5180	UPLOADED	Nayi Padosan Episode 1
 5181	SKIPPED	Blue Night Episode 3	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Sahelii/Blue%20Night/Blue%20Night%20Episode%203.mp4
+4559	UPLOADED	Love Guru Episode 2
