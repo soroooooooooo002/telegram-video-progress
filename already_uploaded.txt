@@ -1556,7 +1556,6 @@
 5362	SKIPPED	Buddha Pyaar Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E8.mp4
 5364	SKIPPED	Buddha Pyaar Episode 6	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E6.mp4
 5365	SKIPPED	Buddha Pyaar Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E7.mp4
-5366	SKIPPED	Buddha Pyaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E3.mp4
 5367	SKIPPED	Buddha Pyaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E4.mp4
 5368	SKIPPED	Buddha Pyaar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E5.mp4
 5369	SKIPPED	Buddha Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E2.mp4
@@ -3787,3 +3786,4 @@
 5363	SKIPPED	Buddha Pyaar Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E9.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3540	SKIPPED	Hawas IBA Movies Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Hawas/Hawas%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3541	SKIPPED	Hawas IBA Movies Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Hawas/Hawas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5366	SKIPPED	Buddha Pyaar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
