@@ -101,7 +101,6 @@
 1649	UPLOADED	Gaon Ki Garmi Episode 1
 1650	UPLOADED	Gaon Ki Garmi 4 Episode 5
 1651	UPLOADED	Gaon Ki Garmi 4 Episode 6
-3380	UPLOADED	Gandu Dhar Episode 2
 1652	UPLOADED	Gaon Ki Garmi 4 Episode 3
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
@@ -3651,3 +3650,4 @@
 3379	UPLOADED	Gandu Dhar Episode 1
 4523	UPLOADED	Melting Cheese Episode 1
 5138	UPLOADED	Blue Whale Episode 4
+3380	UPLOADED	Gandu Dhar Episode 2
