@@ -207,7 +207,6 @@
 1168	UPLOADED	Rangeen Kahaniya Episode 1
 1669	UPLOADED	Gaon Ki Garmi 2 Episode 1
 3447	UPLOADED	Yeh Hai Sanak Episode 1
-3448	SKIPPED	Phere Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Phere/Phere%20Episode%205.mp4
 1169	UPLOADED	Rangeen Kahaniya Episode 2
 3449	UPLOADED	Jenga Episode 4
 1170	UPLOADED	Rangeen Kahaniya Episode 3
@@ -3743,3 +3742,4 @@
 861	SKIPPED	Khilona Feel Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feel/Khilona/Khilona%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 862	SKIPPED	Khilona Feel Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feel/Khilona/Khilona%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 863	SKIPPED	Khilona Feel Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feel/Khilona/Khilona%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3448	SKIPPED	Phere Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Phere/Phere%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
