@@ -158,7 +158,6 @@
 3465	UPLOADED	Bali Umar Episode 5
 1678	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 8
 3468	UPLOADED	Bali Umar Episode 2
-1191	SKIPPED	Ghutan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E4.mp4
 1192	SKIPPED	Ghutan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E5.mp4
 1193	SKIPPED	Dirty Entertainer Episodes 1 To 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Dirty%20Entertainer%20S01E01%20%20To%203%20%28XSeries.IN%29.mp4
 3469	UPLOADED	Bali Umar Episode 1
@@ -4094,3 +4093,4 @@
 1188	SKIPPED	Ghutan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E2.mp4
 1189	SKIPPED	Ghutan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E1.mp4
 1190	SKIPPED	Ghutan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E3.mp4
+1191	SKIPPED	Ghutan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Ghutan/Ghutan%20E4.mp4
