@@ -1264,7 +1264,6 @@
 1530	UPLOADED	Dil To Baccha Hai Episode 1
 1702	UPLOADED	Choli Ke Peeche Kya Hai Episode 5
 1531	UPLOADED	Dil To Baccha Hai Episode 2
-5137	UPLOADED	Bribe Episode 1
 1532	UPLOADED	Ek Baar Aur Episode 1
 3922	UPLOADED	Couple Party Episode 8
 1703	UPLOADED	Choli Ke Peeche Kya Hai Episode 6
@@ -3649,3 +3648,4 @@
 5135	UPLOADED	Bribe Episode 3
 5136	UPLOADED	Bribe Episode 2
 4522	UPLOADED	Melting Cheese Episode 2
+5137	UPLOADED	Bribe Episode 1
