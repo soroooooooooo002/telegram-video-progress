@@ -131,7 +131,6 @@
 1132	SKIPPED	ShortCut Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Shortcut/Shortcut%20Episode%203.mp4
 1133	SKIPPED	ShortCut Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Shortcut/Shortcut%20Episode%202.mp4
 3431	UPLOADED	Ek Phool Teen Mali Episode 2
-1136	UPLOADED	Badhai Lo Episode 5
 1664	UPLOADED	Gaon Ki Garmi 2 Episode 4
 1137	UPLOADED	Badhai Lo Episode 4
 1138	UPLOADED	Badhai Lo Episode 3
@@ -4043,3 +4042,4 @@
 3581	SKIPPED	Gold Digger Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Gold%20Digger/Gold%20Digger%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1134	SKIPPED	ShortCut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Shortcut/Shortcut%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1135	SKIPPED	Badhai Lo Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Badhai%20Lo/Badhai%20Lo%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1136	SKIPPED	Badhai Lo Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Badhai%20Lo/Badhai%20Lo%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
