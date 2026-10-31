@@ -3717,3 +3717,4 @@
 4566	UPLOADED	Love Guru 2 Episode 3
 3418	UPLOADED	Khanjarpur Episode 1
 4567	UPLOADED	Love Guru 2 Episode 2
+4568	UPLOADED	Love Guru 2 Episode 1
