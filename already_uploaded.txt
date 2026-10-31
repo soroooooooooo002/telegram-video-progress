@@ -108,7 +108,6 @@
 1100	UPLOADED	Pehredaaar Again Episode 5
 1101	UPLOADED	Pehredaaar Again Episode 4
 3392	UPLOADED	Bunty Babli Episode 2
-3391	UPLOADED	De De Pyar De Episode 6
 3393	UPLOADED	Blackmail Episode 1 Digi Movieplex
 1105	UPLOADED	Rangeen Tailor Episode 10
 1653	UPLOADED	Gaon Ki Garmi 4 Episode 4
@@ -3681,3 +3680,4 @@
 5162	UPLOADED	Assi Nabbe Poore Sau Episode 2
 4546	UPLOADED	Maa Ka Naka Episode 5
 824	UPLOADED	Maashuqa Episode 2
+3391	UPLOADED	De De Pyar De Episode 6
