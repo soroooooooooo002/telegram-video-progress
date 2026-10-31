@@ -132,7 +132,6 @@
 1133	SKIPPED	ShortCut Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Shortcut/Shortcut%20Episode%202.mp4
 3431	UPLOADED	Ek Phool Teen Mali Episode 2
 1664	UPLOADED	Gaon Ki Garmi 2 Episode 4
-1138	UPLOADED	Badhai Lo Episode 3
 1665	UPLOADED	Gaon Ki Garmi 2 Episode 5
 1139	UPLOADED	Badhai Lo Episode 2
 3434	UPLOADED	Aunty Ka PG Episode 1
@@ -4054,3 +4053,4 @@
 4609	SKIPPED	Kirdaar Episode 2	Request was unsuccessful 6 time(s)
 4610	SKIPPED	Kirdaar Episode 1	Request was unsuccessful 6 time(s)
 4611	SKIPPED	Kings Man Episode 3	Request was unsuccessful 6 time(s)
+1138	SKIPPED	Badhai Lo Episode 3	Request was unsuccessful 6 time(s)
