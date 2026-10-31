@@ -261,7 +261,6 @@
 1241	SKIPPED	Karan Arjun Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3609	SKIPPED	Amrapali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
-3662	UPLOADED	Kajali Episode 2
 3663	UPLOADED	Kajali Episode 1
 3664	UPLOADED	Dear N Devil Episode 6
 3665	UPLOADED	Dear N Devil Episode 5
@@ -4107,3 +4106,4 @@
 3659	UPLOADED	Kajali Episode 5
 3660	UPLOADED	Kajali Episode 4
 3661	UPLOADED	Kajali Episode 3
+3662	UPLOADED	Kajali Episode 2
