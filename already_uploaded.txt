@@ -271,7 +271,6 @@
 1207	UPLOADED	Utha Patak S2 Episode 6
 1208	UPLOADED	Utha Patak S2 Episode 5
 1209	UPLOADED	Utha Patak S2 Episode 4
-3503	UPLOADED	Woodpecker Episode 7
 3504	UPLOADED	Woodpecker Episode 8
 1210	UPLOADED	Utha Patak S2 Episode 1
 3505	UPLOADED	Innocent Episode 1
@@ -3787,3 +3786,4 @@
 3500	SKIPPED	Woodpecker Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3501	SKIPPED	Woodpecker Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3502	SKIPPED	Woodpecker Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3503	SKIPPED	Woodpecker Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
