@@ -1490,7 +1490,6 @@
 4289	UPLOADED	Sweet Lie Episode 1
 3950	UPLOADED	Ghutan Episode 2
 2608	UPLOADED	Suno Sasur Ji Episode 3
-5322	UPLOADED	Anokhi Episode 3
 1804	UPLOADED	Adhure Hum Episode 2
 4290	UPLOADED	Sursuri Li Episode 9
 3951	UPLOADED	Ghutan Episode 3
@@ -3770,3 +3769,4 @@
 5320	SKIPPED	Gharwali Baharwali Episode 1	Request was unsuccessful 6 time(s)
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
+5322	SKIPPED	Anokhi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Anokhi/Anokhi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
