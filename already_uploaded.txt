@@ -92,7 +92,6 @@
 1641	UPLOADED	Imli Episode 4
 3369	UPLOADED	Kalpana Episode 4
 1642	UPLOADED	Imli Episode 1
-3370	UPLOADED	Kalpana Episode 3
 3371	UPLOADED	Joru Ka Gulaam Episode 1
 3372	UPLOADED	Joru Ka Gulaam Episode 3
 1643	UPLOADED	Imli Episode 2
@@ -3627,3 +3626,4 @@
 4506	UPLOADED	Mona Home Delivery Episode 1
 811	UPLOADED	Rangeela Episode 1
 5116	UPLOADED	Cheese Cake Episode 1
+3370	UPLOADED	Kalpana Episode 3
