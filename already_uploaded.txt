@@ -261,7 +261,6 @@
 1241	SKIPPED	Karan Arjun Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3609	SKIPPED	Amrapali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
-3637	SKIPPED	Gubare Wali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Gubare%20Wali/Gubare%20Wali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3638	SKIPPED	Gubare Wali Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Gubare%20Wali/Gubare%20Wali%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3639	SKIPPED	Gubare Wali Episode 5	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3640	SKIPPED	Gubare Wali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Gubare%20Wali/Gubare%20Wali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4107,3 +4106,4 @@
 3634	SKIPPED	Guard Babu S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Guard%20Babu%20S2/Guard%20Babu%20S2%20Episode%201.mp4
 3635	SKIPPED	Guard Babu S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Guard%20Babu%20S2/Guard%20Babu%20S2%20Episode%202.mp4
 3636	SKIPPED	Angel Apartment Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%201.mp4
+3637	SKIPPED	Gubare Wali Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Gubare%20Wali/Gubare%20Wali%20Episode%203.mp4
