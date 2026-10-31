@@ -100,7 +100,6 @@
 1648	UPLOADED	Gaon Ki Garmi 4 Episode 7
 1649	UPLOADED	Gaon Ki Garmi Episode 1
 1650	UPLOADED	Gaon Ki Garmi 4 Episode 5
-3379	UPLOADED	Gandu Dhar Episode 1
 1651	UPLOADED	Gaon Ki Garmi 4 Episode 6
 3380	UPLOADED	Gandu Dhar Episode 2
 1652	UPLOADED	Gaon Ki Garmi 4 Episode 3
@@ -3649,3 +3648,4 @@
 5136	UPLOADED	Bribe Episode 2
 4522	UPLOADED	Melting Cheese Episode 2
 5137	UPLOADED	Bribe Episode 1
+3379	UPLOADED	Gandu Dhar Episode 1
