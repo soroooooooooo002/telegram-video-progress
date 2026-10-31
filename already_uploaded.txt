@@ -1557,7 +1557,6 @@
 5374	SKIPPED	Bima Babu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E3.mp4
 5375	SKIPPED	Bima Babu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E4.mp4
 5377	SKIPPED	Vaidya Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E7.mp4
-5392	SKIPPED	Jalan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E5.mp4
 5393	SKIPPED	Jalan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E3.mp4
 5394	SKIPPED	Jalan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E1.mp4
 5395	SKIPPED	Jalan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E2.mp4
@@ -3788,3 +3787,4 @@
 5389	SKIPPED	Sahara Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Sahara/Sahara%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5390	SKIPPED	Sahara Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Sahara/Sahara%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5391	SKIPPED	Jalan Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FJalan-C1%2FJalan%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5392	SKIPPED	Jalan Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FJalan-C1%2FJalan%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
