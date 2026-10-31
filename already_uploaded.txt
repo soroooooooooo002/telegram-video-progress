@@ -103,7 +103,6 @@
 1651	UPLOADED	Gaon Ki Garmi 4 Episode 6
 1652	UPLOADED	Gaon Ki Garmi 4 Episode 3
 1653	UPLOADED	Gaon Ki Garmi 4 Episode 4
-1106	UPLOADED	Rangeen Tailor Episode 9
 1107	UPLOADED	Rangeen Tailor Episode 8
 1654	UPLOADED	Gaon Ki Garmi 4 Episode 1
 1655	UPLOADED	Gaon Ki Garmi 4 Episode 2
@@ -4042,3 +4041,4 @@
 1103	SKIPPED	Pehredaaar Again Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1104	SKIPPED	Pehredaaar Again Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1105	SKIPPED	Rangeen Tailor Episode 10	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%2010.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1106	SKIPPED	Rangeen Tailor Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
