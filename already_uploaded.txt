@@ -154,7 +154,6 @@
 1674	UPLOADED	Doraha Episode 3
 1675	UPLOADED	Doraha Episode 2
 1676	UPLOADED	Doraha Episode 1
-1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 1176	UPLOADED	Pyaar Idhar Udhar Episode 3
 1177	UPLOADED	Pyaar Idhar Udhar Episode 4
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
@@ -4085,3 +4084,4 @@
 3616	SKIPPED	Rangraliya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%203.mp4
 3617	SKIPPED	Rangraliya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%202.mp4
 3618	SKIPPED	Rangraliya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%201.mp4
+1175	UPLOADED	Pyaar Idhar Udhar Episode 1
