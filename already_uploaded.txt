@@ -138,7 +138,6 @@
 3439	SKIPPED	Karzdaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E3.mp4
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
 1667	UPLOADED	Gaon Ki Garmi 2 Episode 3
-1163	UPLOADED	X Class Episode 2
 3443	UPLOADED	Yeh Hai Sanak Episode 5
 1164	UPLOADED	X Class Episode 3
 3444	UPLOADED	Yeh Hai Sanak Episode 4
@@ -4066,3 +4065,4 @@
 5641	UPLOADED	Dangerous Date Episode 1
 1162	UPLOADED	X Class Episode 1
 4619	UPLOADED	Khoon Bhari Maang Episode 2
+1163	UPLOADED	X Class Episode 2
