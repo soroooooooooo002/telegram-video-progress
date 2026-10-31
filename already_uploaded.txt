@@ -3695,3 +3695,4 @@
 4556	UPLOADED	Maa Devrani Beti Jethani Episode 1
 5179	UPLOADED	Nayi Padosan Episode 2
 828	UPLOADED	Dil Banjara Episode 1
+829	SKIPPED	Chatpati Sister Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%203.mp4
