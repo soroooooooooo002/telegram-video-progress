@@ -164,7 +164,6 @@
 1664	UPLOADED	Gaon Ki Garmi 2 Episode 4
 1137	UPLOADED	Badhai Lo Episode 4
 1138	UPLOADED	Badhai Lo Episode 3
-3433	UPLOADED	Double Kaand Episode 2
 1665	UPLOADED	Gaon Ki Garmi 2 Episode 5
 1139	UPLOADED	Badhai Lo Episode 2
 3434	UPLOADED	Aunty Ka PG Episode 1
@@ -3734,3 +3733,4 @@
 3430	SKIPPED	Ek Phool Teen Mali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Ek%20Phool%20Teen%20Mali/Ek%20Phool%20Teen%20Mali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 847	UPLOADED	Pehla Nasha Episode 2
 3432	SKIPPED	Double Kaand Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Double%20Kaand/Double%20Kaand%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3433	SKIPPED	Double Kaand Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Double%20Kaand/Double%20Kaand%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
