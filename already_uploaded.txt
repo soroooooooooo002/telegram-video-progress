@@ -122,7 +122,6 @@
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 3813	UPLOADED	Paying Guest Episode 3
 1661	UPLOADED	Gaon Ki Garmi 3 Episode 4
-1123	UPLOADED	Savita Mami Episode 2
 1124	UPLOADED	Savita Mami Episode 1
 1125	UPLOADED	Jaan Bujh Kar Episode 4
 1662	UPLOADED	Gaon Ki Garmi 3 Episode 1
@@ -4043,3 +4042,4 @@
 1120	SKIPPED	Savita Mami Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Savita%20Mami/Savita%20Mami%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1121	SKIPPED	Savita Mami Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Savita%20Mami/Savita%20Mami%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1122	SKIPPED	Savita Mami Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Savita%20Mami/Savita%20Mami%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1123	SKIPPED	Savita Mami Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Savita%20Mami/Savita%20Mami%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
