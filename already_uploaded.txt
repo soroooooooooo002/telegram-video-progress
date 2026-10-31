@@ -150,7 +150,6 @@
 1662	UPLOADED	Gaon Ki Garmi 3 Episode 1
 1126	UPLOADED	Jaan Bujh Kar Episode 3
 1127	UPLOADED	Jaan Bujh Kar Episode 2
-3430	UPLOADED	Ek Phool Teen Mali Episode 1
 1663	UPLOADED	Gaon Ki Garmi 3 Episode 2
 1128	UPLOADED	Jaan Bujh Kar Episode 1
 1129	SKIPPED	ShortCut Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Shortcut/Shortcut%20Episode%206.mp4
@@ -3732,3 +3731,4 @@
 844	SKIPPED	Shiddat Mohabbat Ki Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Shiddat%20Mohabbat%20Ki-D2/Shiddat%20Mohabbat%20Ki%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 845	UPLOADED	Pehla Nasha Episode 5
 3429	UPLOADED	Giddh Bhoj Episode 3
+3430	SKIPPED	Ek Phool Teen Mali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Ek%20Phool%20Teen%20Mali/Ek%20Phool%20Teen%20Mali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
