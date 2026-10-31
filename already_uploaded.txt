@@ -154,7 +154,6 @@
 1674	UPLOADED	Doraha Episode 3
 1675	UPLOADED	Doraha Episode 2
 1676	UPLOADED	Doraha Episode 1
-1176	UPLOADED	Pyaar Idhar Udhar Episode 3
 1177	UPLOADED	Pyaar Idhar Udhar Episode 4
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
 1178	UPLOADED	Pyaar Idhar Udhar Episode 5
@@ -4086,3 +4085,4 @@
 1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 4634	UPLOADED	Khalish Episode 6
 5657	UPLOADED	MMS
+1176	UPLOADED	Pyaar Idhar Udhar Episode 3
