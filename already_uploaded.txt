@@ -4110,3 +4110,4 @@
 3670	UPLOADED	Birthday Gift Episode 5
 5684	UPLOADED	Napunsak Pati Episode 4
 5685	SKIPPED	Shaatir Mashooqa	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/Shaatir%20Mashooqa.mp4
+5686	SKIPPED	Tuition Teacher Chiku	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/Tuition%20Teacher.mp4
