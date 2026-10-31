@@ -4073,3 +4073,4 @@
 4624	UPLOADED	Khidki Episode 3
 3612	SKIPPED	Guru Dakshina Episode 8	Failed to upload file part 440.
 1166	UPLOADED	X Class Episode 5
+4625	UPLOADED	Khidki Episode 2
