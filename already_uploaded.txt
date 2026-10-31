@@ -3727,3 +3727,4 @@
 3427	UPLOADED	Giddh Bhoj Episode 1
 3428	SKIPPED	Giddh Bhoj Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Giddh%20Bhoj/Giddh%20Bhoj%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5299	UPLOADED	Rangili Dobhan Episode 2
+842	UPLOADED	Besharam Episode 1
