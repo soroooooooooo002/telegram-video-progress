@@ -102,7 +102,6 @@
 1650	UPLOADED	Gaon Ki Garmi 4 Episode 5
 1651	UPLOADED	Gaon Ki Garmi 4 Episode 6
 1652	UPLOADED	Gaon Ki Garmi 4 Episode 3
-1103	SKIPPED	Pehredaaar Again Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1104	SKIPPED	Pehredaaar Again Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1105	UPLOADED	Rangeen Tailor Episode 10
 1653	UPLOADED	Gaon Ki Garmi 4 Episode 4
@@ -4042,3 +4041,4 @@
 1100	SKIPPED	Pehredaaar Again Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1101	SKIPPED	Pehredaaar Again Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1102	SKIPPED	Pehredaaar Again Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1103	SKIPPED	Pehredaaar Again Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Pehredaaar%20Again/Pehredaaar%20Again%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
