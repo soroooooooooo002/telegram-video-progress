@@ -136,7 +136,6 @@
 1117	UPLOADED	Ashirwad Episode 2
 1118	UPLOADED	Ashirwad Episode 1
 1659	UPLOADED	Gaon Ki Garmi 3 Episode 6
-3419	UPLOADED	Khanjarpur Episode 2
 1119	UPLOADED	Savita Mami Episode 6
 3420	UPLOADED	Khanjarpur Episode 3
 1120	UPLOADED	Savita Mami Episode 5
@@ -3718,3 +3717,4 @@
 3418	UPLOADED	Khanjarpur Episode 1
 4567	UPLOADED	Love Guru 2 Episode 2
 4568	UPLOADED	Love Guru 2 Episode 1
+3419	UPLOADED	Khanjarpur Episode 2
