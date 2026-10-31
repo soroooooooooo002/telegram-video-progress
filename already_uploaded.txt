@@ -1557,7 +1557,6 @@
 5399	SKIPPED	Hawas Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E5.mp4
 5400	SKIPPED	Hawas Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E3.mp4
 5401	SKIPPED	Hawas Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E2.mp4
-5404	SKIPPED	Girvi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E4.mp4
 5405	SKIPPED	Girvi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E3.mp4
 5406	SKIPPED	Girvi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E5.mp4
 5407	SKIPPED	Girvi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Girvi/Girvi%20E2.mp4
@@ -3788,3 +3787,4 @@
 3566	SKIPPED	Love in Goa Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Love%20in%20Goa/Love%20in%20Goa%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5402	SKIPPED	Hawas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FHawas-C1%2FHawas%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5403	SKIPPED	Girvi Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Girvi/Girvi%20E6.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5404	SKIPPED	Girvi Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Girvi/Girvi%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
