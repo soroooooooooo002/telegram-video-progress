@@ -1429,7 +1429,6 @@
 3943	UPLOADED	Damad Ji Episode 1
 2562	UPLOADED	Besharam Episode 3
 4274	UPLOADED	Teekhi Chutney Episode 4
-5314	UPLOADED	Gharwali Baharwali Episode 7
 1791	UPLOADED	Kulta Digi Movieplex Episode 1
 1792	UPLOADED	Joru Ka Gulaam Episode 6
 2563	UPLOADED	Besharam Episode 2
@@ -3757,3 +3756,4 @@
 882	UPLOADED	Generation Gap S2 Episode 2
 4583	SKIPPED	Lady Finger Episode 3	Request was unsuccessful 6 time(s)
 4584	SKIPPED	Lady Finger Episode 2	Request was unsuccessful 6 time(s)
+5314	SKIPPED	Gharwali Baharwali Episode 7	Request was unsuccessful 6 time(s)
