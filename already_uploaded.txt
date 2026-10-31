@@ -1557,7 +1557,6 @@
 5374	SKIPPED	Bima Babu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E3.mp4
 5375	SKIPPED	Bima Babu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E4.mp4
 5377	SKIPPED	Vaidya Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E7.mp4
-5380	SKIPPED	Vaidya Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E5.mp4
 5381	SKIPPED	Vaidya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E2.mp4
 5382	SKIPPED	Vaidya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E3.mp4
 5383	SKIPPED	Vaidya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E1.mp4
@@ -3788,3 +3787,4 @@
 3553	SKIPPED	Jor Ka Jhatka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jor%20Ka%20Jhatka/Jor%20Ka%20Jhatka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5378	SKIPPED	Vaidya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FVaidya%2FVaidya%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5379	SKIPPED	Vaidya Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FVaidya%2FVaidya%20E6.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5380	SKIPPED	Vaidya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters%2FVaidya%2FVaidya%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
