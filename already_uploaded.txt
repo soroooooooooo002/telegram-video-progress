@@ -109,7 +109,6 @@
 3803	UPLOADED	Adhuri Pyaas Episode 2
 1657	UPLOADED	Gaon Ki Garmi 3 Episode 8
 3802	SKIPPED	Jalebi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%201.mp4
-1113	UPLOADED	Rangeen Tailor Episode 2
 3409	UPLOADED	Time Pass Episode 4
 3410	UPLOADED	Time Pass Episode 5
 3411	UPLOADED	Time Pass Episode 6
@@ -4043,3 +4042,4 @@
 1110	SKIPPED	Rangeen Tailor Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1111	SKIPPED	Rangeen Tailor Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1112	SKIPPED	Rangeen Tailor Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1113	SKIPPED	Rangeen Tailor Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
