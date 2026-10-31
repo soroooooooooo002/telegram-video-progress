@@ -92,7 +92,6 @@
 1641	UPLOADED	Imli Episode 4
 3369	UPLOADED	Kalpana Episode 4
 1642	UPLOADED	Imli Episode 1
-3372	UPLOADED	Joru Ka Gulaam Episode 3
 1643	UPLOADED	Imli Episode 2
 1644	SKIPPED	Generation Gap Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Generation%20Gap/Generation%20Gap%20Episode%203.mp4
 1645	SKIPPED	Generation Gap Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Generation%20Gap/Generation%20Gap%20Episode%204.mp4
@@ -3629,3 +3628,4 @@
 3371	UPLOADED	Joru Ka Gulaam Episode 1
 4508	UPLOADED	Mohan Chabhiwala Episode 6
 5118	UPLOADED	Chahat Episode 5
+3372	UPLOADED	Joru Ka Gulaam Episode 3
