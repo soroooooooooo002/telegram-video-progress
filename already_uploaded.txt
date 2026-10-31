@@ -1487,7 +1487,6 @@
 2607	SKIPPED	Virgin Nimmi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%201.mp4
 1803	UPLOADED	Adhure Hum Episode 1
 4288	UPLOADED	Sweet Lie Episode 2
-5321	UPLOADED	Anokhi Episode 4
 4289	UPLOADED	Sweet Lie Episode 1
 3950	UPLOADED	Ghutan Episode 2
 2608	UPLOADED	Suno Sasur Ji Episode 3
@@ -3770,3 +3769,4 @@
 3497	SKIPPED	Woodpecker Episode 1	Request was unsuccessful 6 time(s)
 5320	SKIPPED	Gharwali Baharwali Episode 1	Request was unsuccessful 6 time(s)
 4592	UPLOADED	Laal Mirch Episode 3
+5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
