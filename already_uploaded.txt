@@ -141,7 +141,6 @@
 1660	UPLOADED	Gaon Ki Garmi 3 Episode 3
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 1121	UPLOADED	Savita Mami Episode 4
-3425	UPLOADED	Good Girls Episode 1
 1122	UPLOADED	Savita Mami Episode 3
 3426	UPLOADED	Good Girls Episode 2
 3813	UPLOADED	Paying Guest Episode 3
@@ -3718,3 +3717,4 @@
 3422	SKIPPED	Khanjarpur Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Khanjarpur/Khanjarpur%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3423	SKIPPED	GuptRog Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5297	UPLOADED	Sasur Ki Dulhan Episode 3
+3425	SKIPPED	Good Girls Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
