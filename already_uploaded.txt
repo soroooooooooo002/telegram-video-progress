@@ -117,7 +117,6 @@
 3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
 1658	UPLOADED	Gaon Ki Garmi 3 Episode 5
-1118	UPLOADED	Ashirwad Episode 1
 1659	UPLOADED	Gaon Ki Garmi 3 Episode 6
 1119	UPLOADED	Savita Mami Episode 6
 1120	UPLOADED	Savita Mami Episode 5
@@ -4043,3 +4042,4 @@
 1115	SKIPPED	Ashirwad Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Ashirwad/Ashirwad%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1116	SKIPPED	Ashirwad Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Ashirwad/Ashirwad%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1117	SKIPPED	Ashirwad Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Ashirwad/Ashirwad%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1118	SKIPPED	Ashirwad Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Ashirwad/Ashirwad%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
