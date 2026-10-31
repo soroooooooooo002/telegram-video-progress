@@ -156,7 +156,6 @@
 1676	UPLOADED	Doraha Episode 1
 1677	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 7
 3465	UPLOADED	Bali Umar Episode 5
-1179	UPLOADED	Pyaar Idhar Udhar Episode 6
 1180	UPLOADED	Prem Game Episode 1
 1181	UPLOADED	Prem Game Episode 2
 1182	UPLOADED	Prem Game Episode 3
@@ -4089,3 +4088,4 @@
 1178	UPLOADED	Pyaar Idhar Udhar Episode 5
 3622	UPLOADED	Verginity Episode 2
 4637	UPLOADED	Khalish Episode 4
+1179	UPLOADED	Pyaar Idhar Udhar Episode 6
