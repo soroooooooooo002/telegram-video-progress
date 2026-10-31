@@ -1556,7 +1556,6 @@
 5354	SKIPPED	Ranjish Episode 3	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Hunters/Ranjish/Ranjish%20E3.mp4
 5355	SKIPPED	Ranjish Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Ranjish/Ranjish%20E2.mp4
 5356	SKIPPED	Ranjish Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Ranjish/Ranjish%20E4.mp4
-5358	SKIPPED	Kunwari Cheekh Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Kunwari%20Cheekh/Kunwari%20Cheekh%20E4.mp4
 5359	SKIPPED	Kunwari Cheekh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Kunwari%20Cheekh/Kunwari%20Cheekh%20E3.mp4
 5360	SKIPPED	Kunwari Cheekh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Kunwari%20Cheekh/Kunwari%20Cheekh%20E1.mp4
 5361	SKIPPED	Kunwari Cheekh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Kunwari%20Cheekh/Kunwari%20Cheekh%20E2.mp4
@@ -3787,3 +3786,4 @@
 3531	SKIPPED	Robotina Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3532	SKIPPED	Kamam Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Kamam/Kamam%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5357	SKIPPED	Ranjish Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Ranjish/Ranjish%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5358	SKIPPED	Kunwari Cheekh Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Kunwari%20Cheekh/Kunwari%20Cheekh%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
