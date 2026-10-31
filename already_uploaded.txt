@@ -1714,7 +1714,6 @@
 4326	SKIPPED	Slip Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%202.mp4
 4327	SKIPPED	Slip Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%201.mp4
 600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
-5459	UPLOADED	Psycho Saiyaan Episode 2
 2637	SKIPPED	Bahurani Episode 8	Request was unsuccessful 6 time(s)
 4328	UPLOADED	Size Matters Episode 4
 5460	UPLOADED	Psycho Saiyaan Episode 1
@@ -3789,3 +3788,4 @@
 5456	SKIPPED	Chup Chup Ke Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Chup%20Chup%20Ke/Chup%20Chup%20Ke%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5457	SKIPPED	Chup Chup Ke Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Chup%20Chup%20Ke/Chup%20Chup%20Ke%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5458	SKIPPED	Psycho Saiyaan Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Psycho%20Saiyaan/Psycho%20Saiyaan%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5459	SKIPPED	Psycho Saiyaan Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Psycho%20Saiyaan/Psycho%20Saiyaan%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
