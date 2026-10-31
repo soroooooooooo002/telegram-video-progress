@@ -1383,7 +1383,6 @@
 2546	SKIPPED	Bachelor Boy Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bachelor%20Boy/Bachelor%20Boy%20Episode%202.mp4
 2547	SKIPPED	Bachelor Boy Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bachelor%20Boy/Bachelor%20Boy%20Episode%201.mp4
 2548	SKIPPED	Andha Aur Bahra Pyar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Andha%20Aur%20Bahra%20Pyar/Andha%20Aur%20Bahra%20Pyar%20Episode%201.mp4
-5295	UPLOADED	Sasur Ki Dulhan Episode 2
 4257	UPLOADED	The Bull Of Dalal Street Episode 7
 1747	UPLOADED	Anari Episode 1
 2549	UPLOADED	Pehli Baar Episode 4
@@ -3713,3 +3712,4 @@
 833	UPLOADED	Bhabhi Cool Episode 3
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
+5295	UPLOADED	Sasur Ki Dulhan Episode 2
