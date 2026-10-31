@@ -1347,7 +1347,6 @@
 3936	UPLOADED	VideoBaaz Episode 5
 1745	UPLOADED	Anari Episode 3
 3937	UPLOADED	VideoBaaz Episode 6
-5269	SKIPPED	Chhupi Nazar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E4.mp4
 5270	SKIPPED	Bubblepur Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E1.mp4
 5271	SKIPPED	Bubblepur Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E2.mp4
 5272	SKIPPED	Bubblepur Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E3.mp4
@@ -3709,3 +3708,4 @@
 5266	SKIPPED	Chull Dhulai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E2.mp4
 5267	SKIPPED	Chhupi Nazar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E2.mp4
 5268	SKIPPED	Chhupi Nazar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E3.mp4
+5269	SKIPPED	Chhupi Nazar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E4.mp4
