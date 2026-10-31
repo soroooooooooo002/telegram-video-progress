@@ -1728,7 +1728,6 @@
 4343	UPLOADED	Singardaan Episode 4
 2890	UPLOADED	Raaz Episode 2
 4344	UPLOADED	Singardaan Episode 3
-5765	SKIPPED	Haye Daiya	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Haye%20Daiya.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5766	SKIPPED	Hawas Kand	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Hawas%20Kand.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5767	SKIPPED	Gulab Jamun	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Gulab%20Jamun.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5768	SKIPPED	Gore Gore Gaal	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Gore%20Gore%20Gaal.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4115,3 +4114,4 @@
 5762	SKIPPED	Hot Haseena	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Hot%20Haseena.mp4
 5763	SKIPPED	Hisaab Barabar	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Hisaab%20Barabar.mp4
 5764	SKIPPED	Hell Girl	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Hell%20Girl.mp4
+5765	SKIPPED	Haye Daiya	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Haye%20Daiya.mp4
