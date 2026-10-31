@@ -145,7 +145,6 @@
 3813	UPLOADED	Paying Guest Episode 3
 1661	UPLOADED	Gaon Ki Garmi 3 Episode 4
 1123	UPLOADED	Savita Mami Episode 2
-3427	UPLOADED	Giddh Bhoj Episode 1
 1124	UPLOADED	Savita Mami Episode 1
 3428	UPLOADED	Giddh Bhoj Episode 2
 1125	UPLOADED	Jaan Bujh Kar Episode 4
@@ -3727,3 +3726,4 @@
 840	UPLOADED	Bade Achhe Lagte Hai Episode 3
 4572	UPLOADED	Love Bite Episode 3
 841	UPLOADED	Besharam Episode 3
+3427	UPLOADED	Giddh Bhoj Episode 1
