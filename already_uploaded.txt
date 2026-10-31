@@ -3730,3 +3730,4 @@
 842	UPLOADED	Besharam Episode 1
 4573	UPLOADED	Love Bite Episode 2
 843	UPLOADED	Gore Gore Gaal Episode 6
+844	SKIPPED	Shiddat Mohabbat Ki Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Shiddat%20Mohabbat%20Ki-D2/Shiddat%20Mohabbat%20Ki%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
