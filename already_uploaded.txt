@@ -1728,7 +1728,6 @@
 4343	UPLOADED	Singardaan Episode 4
 2890	UPLOADED	Raaz Episode 2
 4344	UPLOADED	Singardaan Episode 3
-5748	SKIPPED	Private Pathshala	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Private%20Pathshala.mp4
 5749	SKIPPED	Paramsukh	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Paramsukh%20-1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5750	SKIPPED	Nigodi	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Nigodi.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5751	SKIPPED	Muniya 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Muniya%202.mp4
@@ -4115,3 +4114,4 @@
 5745	SKIPPED	Ratri Kand	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Ratri%20Kand.mp4
 5746	SKIPPED	Raat Gai Baat Gai	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Raat%20Gai%20Baat%20Gai.mp4
 5747	SKIPPED	Raspaan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Raspaan.mp4
+5748	SKIPPED	Private Pathshala	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Private%20Pathshala.mp4
