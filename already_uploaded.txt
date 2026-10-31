@@ -3698,3 +3698,4 @@
 829	SKIPPED	Chatpati Sister Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%203.mp4
 830	SKIPPED	Chatpati Sister Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%201.mp4
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
+4557	UPLOADED	Love Guru Episode 4
