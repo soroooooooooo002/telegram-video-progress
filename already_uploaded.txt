@@ -2202,7 +2202,6 @@
 3330	UPLOADED	Moussami Episode 1
 4457	UPLOADED	Panchali Episode 1
 4458	UPLOADED	Painter Babu Episode 6
-5068	UPLOADED	De Dana Dan Episode 5
 4459	UPLOADED	Painter Babu Episode 5
 749	UPLOADED	Tadap Pull Episode 1
 4460	UPLOADED	Painter Babu Episode 4
@@ -4265,3 +4264,4 @@
 5067	UPLOADED	De Dana Dan Episode 6
 3784	UPLOADED	Patang Paseena Episode 1
 4781	UPLOADED	Gaachi Episode 2
+5068	UPLOADED	De Dana Dan Episode 5
