@@ -2192,7 +2192,6 @@
 3320	UPLOADED	Jamai Raja Episode 2
 4450	UPLOADED	Paper Episode 3
 3321	UPLOADED	Jamai Raja Episode 3
-5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
 5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 745	UPLOADED	Tadap Pull Episode 5
 4451	UPLOADED	Paper Episode 2
@@ -4255,3 +4254,4 @@
 3777	UPLOADED	Doctor Chaurasiya Episode 3
 5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
 4772	UPLOADED	Garam Masala Episode 2
+5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
