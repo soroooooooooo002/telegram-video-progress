@@ -262,7 +262,6 @@
 1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
 1270	UPLOADED	Kajri Episode 3
-3710	UPLOADED	Jalebi S4 Episode 8
 1271	UPLOADED	Kajri Episode 2
 3711	UPLOADED	Jalebi S4 Episode 7
 1272	UPLOADED	Kajri Episode 1
@@ -4162,3 +4161,4 @@
 4692	UPLOADED	Jhumke Episode 3
 1221	UPLOADED	Qaatil Haseena Episode 3
 4693	UPLOADED	Jhumke Episode 2
+3710	UPLOADED	Jalebi S4 Episode 8
