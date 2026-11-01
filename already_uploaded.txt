@@ -179,7 +179,6 @@
 3904	UPLOADED	Jabran Episode 4 Big Shots
 3905	UPLOADED	Jabran Episode 5 Big Shots
 3906	UPLOADED	Jabran Episode 1 Big Shots
-1222	UPLOADED	Qaatil Haseena Episode 2
 3907	UPLOADED	Jabran Episode 6 Big Shots
 1223	UPLOADED	Qaatil Haseena Episode 1
 3908	UPLOADED	Jabran Episode 2 Big Shots
@@ -4163,3 +4162,4 @@
 4693	UPLOADED	Jhumke Episode 2
 3710	UPLOADED	Jalebi S4 Episode 8
 4694	UPLOADED	Jhumke Episode 1
+1222	UPLOADED	Qaatil Haseena Episode 2
