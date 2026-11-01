@@ -951,7 +951,6 @@
 3951	UPLOADED	Ghutan Episode 3
 4291	UPLOADED	Sursuri Li Episode 8
 1805	UPLOADED	Adhure Hum Episode 4
-2610	UPLOADED	Suno Sasur Ji Episode 1
 3952	UPLOADED	Chatur Naar Episode 2
 4292	UPLOADED	Sursuri Li Episode 7
 5324	UPLOADED	Anokhi Episode 1
@@ -4270,3 +4269,4 @@
 3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Request was unsuccessful 6 time(s)
 5015	UPLOADED	Dunali 2 Episode 5
 612	SKIPPED	Kaand Wali Return Episode 2	Request was unsuccessful 6 time(s)
+2610	SKIPPED	Suno Sasur Ji Episode 1	Request was unsuccessful 6 time(s)
