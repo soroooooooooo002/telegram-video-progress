@@ -1217,7 +1217,6 @@
 2638	SKIPPED	Ladla Devar Episode 1	Request was unsuccessful 6 time(s)
 4330	UPLOADED	Size Matters Episode 2
 2639	SKIPPED	Ladla Devar Episode 2	Request was unsuccessful 6 time(s)
-612	SKIPPED	Kaand Wali Return Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Kaand%20Wali%20Return/Kaand%20Wali%20Return%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 613	SKIPPED	Garam Sukh Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Garam%20Sukh/Garam%20Sukh%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 614	SKIPPED	Chausar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 615	SKIPPED	Chausar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4270,3 +4269,4 @@
 3862	UPLOADED	Yaar Pyaar Gaddar Episode 1
 3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Request was unsuccessful 6 time(s)
 5015	UPLOADED	Dunali 2 Episode 5
+612	SKIPPED	Kaand Wali Return Episode 2	Request was unsuccessful 6 time(s)
