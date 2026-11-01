@@ -2147,7 +2147,6 @@
 4426	UPLOADED	Raat Baaki Hai Episode 1
 3285	UPLOADED	Chadar Badli Episode 4
 4427	UPLOADED	Purani Haveli Episode 6
-5031	UPLOADED	Dishkiyaoon Episode 1
 731	UPLOADED	Punarjanam Episode 4
 3286	UPLOADED	Chadar Badli Episode 3
 4428	UPLOADED	Purani Haveli Episode 5
@@ -4230,3 +4229,4 @@
 5030	UPLOADED	Dishkiyaoon Episode 2
 4751	UPLOADED	Halala Episode 8
 1236	UPLOADED	Mera Pyaar Pan Nahi Episode 1
+5031	UPLOADED	Dishkiyaoon Episode 1
