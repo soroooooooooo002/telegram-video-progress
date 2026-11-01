@@ -262,7 +262,6 @@
 1270	UPLOADED	Kajri Episode 3
 1271	UPLOADED	Kajri Episode 2
 1272	UPLOADED	Kajri Episode 1
-3712	UPLOADED	Jalebi S4 Episode 6
 3713	UPLOADED	Jalebi S4 Episode 5
 1273	UPLOADED	Damdar Ladoo Episode 6
 3714	UPLOADED	Jalebi S4 Episode 4
@@ -4165,3 +4164,4 @@
 3711	UPLOADED	Jalebi S4 Episode 7
 4696	UPLOADED	Jalebi Bai Episode 8
 1223	UPLOADED	Qaatil Haseena Episode 1
+3712	UPLOADED	Jalebi S4 Episode 6
