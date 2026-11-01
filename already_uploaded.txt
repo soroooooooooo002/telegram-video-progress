@@ -471,7 +471,6 @@
 4159	UPLOADED	Balam Pichkari Episode 5
 1401	UPLOADED	Raju Ban Gaya Gentleman Episode 2
 1402	UPLOADED	Raju Ban Gaya Gentleman Episode 3
-3814	SKIPPED	Bhains Ki Vidai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhains%20Ki%20Vidai/Bhains%20Ki%20Vidai%20Episode%202.mp4
 3815	SKIPPED	Bhains Ki Vidai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhains%20Ki%20Vidai/Bhains%20Ki%20Vidai%20Episode%201.mp4
 3816	SKIPPED	Bhains Ki Vidai Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhains%20Ki%20Vidai/Bhains%20Ki%20Vidai%20Episode%203.mp4
 3817	SKIPPED	Bhains Ki Vidai Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Bhains%20Ki%20Vidai/Bhains%20Ki%20Vidai%20Episode%204.mp4
@@ -4270,3 +4269,4 @@
 3811	SKIPPED	Paying Guest Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3812	SKIPPED	Paying Guest Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3813	SKIPPED	Paying Guest Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3814	SKIPPED	Bhains Ki Vidai Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Bhains%20Ki%20Vidai/Bhains%20Ki%20Vidai%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
