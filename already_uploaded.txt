@@ -177,7 +177,6 @@
 3902	UPLOADED	Jabran Episode 7 Big Shots
 3903	UPLOADED	Jabran Episode 8 Big Shots
 3904	UPLOADED	Jabran Episode 4 Big Shots
-1221	UPLOADED	Qaatil Haseena Episode 3
 3905	UPLOADED	Jabran Episode 5 Big Shots
 3906	UPLOADED	Jabran Episode 1 Big Shots
 1222	UPLOADED	Qaatil Haseena Episode 2
@@ -4161,3 +4160,4 @@
 3708	SKIPPED	PathShala Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/PathShala/PathShala%20Episode%202.mp4
 3709	SKIPPED	PathShala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/PathShala/PathShala%20Episode%201.mp4
 4692	UPLOADED	Jhumke Episode 3
+1221	UPLOADED	Qaatil Haseena Episode 3
