@@ -184,7 +184,6 @@
 3520	UPLOADED	Toy Episode 4
 3522	UPLOADED	Flavour Episode 1
 3920	UPLOADED	Couple Party Episode 5
-1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
 3533	UPLOADED	Kamam Episode 3
 1234	UPLOADED	Mera Pyaar Pan Nahi Episode 3
 3534	UPLOADED	Kamam Episode 2
@@ -4204,3 +4203,4 @@
 4727	UPLOADED	Ishqiyapa Episode 3
 5015	UPLOADED	Dunali 2 Episode 5
 3732	UPLOADED	Karaah Episode 2
+1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
