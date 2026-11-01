@@ -2024,7 +2024,6 @@
 4360	SKIPPED	Secret Ingredient Episode 1	Request was unsuccessful 6 time(s)
 3173	SKIPPED	Choli Ke Piche Episode 4	Request was unsuccessful 6 time(s)
 691	SKIPPED	Utha Patak S4 Episode 2	Request was unsuccessful 6 time(s)
-5795	SKIPPED	Gol Gappa	Request was unsuccessful 6 time(s)
 4361	UPLOADED	Sanskari Episode 9
 4362	SKIPPED	Sanskari Episode 8	Request was unsuccessful 6 time(s)
 3174	UPLOADED	Choli Ke Piche Episode 5
@@ -4123,3 +4122,4 @@
 1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
 3686	UPLOADED	Rajneeti Episode 6
 4658	UPLOADED	Kaun Man Episode 1
+5795	UPLOADED	Gol Gappa
