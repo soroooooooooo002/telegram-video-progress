@@ -4176,3 +4176,4 @@
 4705	SKIPPED	Jaghanya Upaay Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%203.mp4
 4706	SKIPPED	Jaghanya Upaay Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%202.mp4
 4707	SKIPPED	Jaghanya Dil Ke Armaan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%202.mp4
+4708	SKIPPED	Jaghanya Upaay Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%201.mp4
