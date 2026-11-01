@@ -423,7 +423,6 @@
 1377	UPLOADED	Yamma Yamma Episode 2
 1378	UPLOADED	Yamma Yamma Episode 1
 4139	UPLOADED	Sarkaaye Lo Khatiya Episode 3
-3784	UPLOADED	Patang Paseena Episode 1
 1379	UPLOADED	Tu Dekh Meri Photo Episode 5
 3785	UPLOADED	Swapna Sundariii Episode 5
 1380	UPLOADED	Tu Dekh Meri Photo Episode 7
@@ -4264,3 +4263,4 @@
 3783	UPLOADED	Patang Paseena Episode 2
 4780	UPLOADED	Gaachi Episode 3
 5067	UPLOADED	De Dana Dan Episode 6
+3784	UPLOADED	Patang Paseena Episode 1
