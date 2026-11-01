@@ -2140,7 +2140,6 @@
 4418	UPLOADED	Red Light Episode 3
 725	UPLOADED	Pyar Ka Bazaar Episode 4
 3271	UPLOADED	Tailor Kaka Episode 1
-5020	UPLOADED	Dunali 2 Episode 1
 4419	UPLOADED	Red Light Episode 1
 5021	UPLOADED	Dubey Ji And The Boys Episode 5
 3272	UPLOADED	Tailor Kaka Episode 2
@@ -4219,3 +4218,4 @@
 5018	UPLOADED	Dunali 2 Episode 2
 4742	UPLOADED	Haveli Episode 8
 5019	UPLOADED	Dunali 2 Episode 10
+5020	UPLOADED	Dunali 2 Episode 1
