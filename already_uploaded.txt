@@ -943,7 +943,6 @@
 1771	SKIPPED	Galtiyan Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Galtiyan/Galtiyan%20E7.mp4
 4270	UPLOADED	Tere Jaisa Yaar Kaha Episode 4
 1772	UPLOADED	Dosti Episode 4
-2560	UPLOADED	Do Khajur Episode 1
 4271	UPLOADED	Tere Jaisa Yaar Kaha Episode 3
 1773	UPLOADED	Dosti Episode 3
 4272	UPLOADED	Tere Jaisa Yaar Kaha Episode 2
@@ -4268,3 +4267,4 @@
 2557	SKIPPED	Do Khajur Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Do%20Khajur/Do%20Khajur%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2558	SKIPPED	Do Khajur Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Do%20Khajur/Do%20Khajur%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2559	SKIPPED	Do Khajur Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Do%20Khajur/Do%20Khajur%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2560	SKIPPED	Do Khajur Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Do%20Khajur/Do%20Khajur%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
