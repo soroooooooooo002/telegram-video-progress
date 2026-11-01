@@ -254,7 +254,6 @@
 1250	SKIPPED	Game Of Love Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Game%20Of%20Love/Game%20Of%20Love%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1251	SKIPPED	Game Of Love Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Game%20Of%20Love/Game%20Of%20Love%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1252	SKIPPED	Game Of Love Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Game%20Of%20Love/Game%20Of%20Love%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3692	UPLOADED	Mangalik Episode 1
 1253	UPLOADED	Bully Aur Bulbul Episode 4
 3693	UPLOADED	Mangalik Episode 2
 3694	UPLOADED	Mangalik Episode 3
@@ -4130,3 +4129,4 @@
 1210	UPLOADED	Utha Patak S2 Episode 1
 5805	UPLOADED	Maal Paani Sexy Sauda Episode 1
 4665	UPLOADED	Kasak Episode 9
+3692	UPLOADED	Mangalik Episode 1
