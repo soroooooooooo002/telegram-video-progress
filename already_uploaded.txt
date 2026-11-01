@@ -2203,7 +2203,6 @@
 4456	UPLOADED	Panchali Episode 2
 3330	UPLOADED	Moussami Episode 1
 4457	UPLOADED	Panchali Episode 1
-5066	UPLOADED	Dekhi Andekhi Episode 1
 4458	UPLOADED	Painter Babu Episode 6
 5067	UPLOADED	De Dana Dan Episode 6
 5068	UPLOADED	De Dana Dan Episode 5
@@ -4263,3 +4262,4 @@
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 4779	UPLOADED	Gaachi Episode 4
 5065	UPLOADED	Dekhi Andekhi Episode 2
+5066	UPLOADED	Dekhi Andekhi Episode 1
