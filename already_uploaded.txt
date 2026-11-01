@@ -2192,7 +2192,6 @@
 745	UPLOADED	Tadap Pull Episode 5
 4451	UPLOADED	Paper Episode 2
 3322	UPLOADED	Jamai Raja Episode 4
-5060	UPLOADED	Dekhi Andekhi Episode 6
 5061	UPLOADED	Dekhi Andekhi Episode 7
 3323	UPLOADED	Jamai Raja Episode 5
 746	UPLOADED	Tadap Pull Episode 4
@@ -4257,3 +4256,4 @@
 4774	UPLOADED	Gandu Episode 2
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 3779	UPLOADED	Patang Paseena Episode 6
+5060	UPLOADED	Dekhi Andekhi Episode 6
