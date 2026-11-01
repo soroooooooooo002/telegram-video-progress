@@ -551,7 +551,6 @@
 3810	UPLOADED	Ding Dong Episode 1
 1398	UPLOADED	Tadka Episode 3
 3811	UPLOADED	Paying Guest Episode 1
-5006	UPLOADED	Dunali Episode 5
 4158	UPLOADED	Balam Pichkari Episode 2
 1399	UPLOADED	Tadka Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
@@ -4196,3 +4195,4 @@
 3723	UPLOADED	Jalebi S3 Episode 1
 4719	UPLOADED	Jaal Episode 4
 5005	UPLOADED	Dunali Episode 6
+5006	UPLOADED	Dunali Episode 5
