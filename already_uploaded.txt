@@ -397,7 +397,6 @@
 1355	UPLOADED	Dil Pe Bojh Episode 7
 4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
 1356	UPLOADED	Dil Pe Bojh Episode 5
-3777	UPLOADED	Doctor Chaurasiya Episode 3
 4134	UPLOADED	Biwi Ka Khat Episode 2
 1357	UPLOADED	Bholi Sajni Episode 4
 3778	UPLOADED	Doctor Chaurasiya Episode 4
@@ -4254,3 +4253,4 @@
 4771	UPLOADED	Garam Masala Episode 3
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 1242	UPLOADED	Haseeno Ka Inteqaam Episode 4
+3777	UPLOADED	Doctor Chaurasiya Episode 3
