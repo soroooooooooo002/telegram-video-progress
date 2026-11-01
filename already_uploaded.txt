@@ -169,7 +169,6 @@
 3487	UPLOADED	Zeher Episode 1
 1682	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 3
 1683	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 2
-1208	UPLOADED	Utha Patak S2 Episode 5
 1209	UPLOADED	Utha Patak S2 Episode 4
 1210	UPLOADED	Utha Patak S2 Episode 1
 3505	UPLOADED	Innocent Episode 1
@@ -4126,3 +4125,4 @@
 3689	UPLOADED	Rajneeti Episode 3
 4661	UPLOADED	Kasturi Episode 4
 5802	UPLOADED	Maanglik Episode 1
+1208	UPLOADED	Utha Patak S2 Episode 5
