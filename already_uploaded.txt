@@ -2206,7 +2206,6 @@
 750	UPLOADED	Rangraliya Mastram Episode 2
 4461	UPLOADED	Painter Babu Episode 3
 3332	UPLOADED	Teacher Digi Movieplex Episode 1
-5071	UPLOADED	De Dana Dan Episode 2
 4462	UPLOADED	Painter Babu Episode 2
 751	UPLOADED	Rangraliya Mastram Episode 1
 752	SKIPPED	Contract Marriage Episode 2	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Ratri/Contract%20Marriage/Contract%20Marriage%20Episode%202.mp4
@@ -4266,3 +4265,4 @@
 1246	UPLOADED	Gili Gili Raat Episode 4
 5070	UPLOADED	De Dana Dan Episode 3
 3786	UPLOADED	Swapna Sundariii Episode 4
+5071	UPLOADED	De Dana Dan Episode 2
