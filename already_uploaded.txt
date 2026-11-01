@@ -175,7 +175,6 @@
 3899	UPLOADED	Kache Rishtey Episode 3
 3900	UPLOADED	Kache Rishtey Episode 1
 3902	UPLOADED	Jabran Episode 7 Big Shots
-1219	UPLOADED	Raat Ki Raani Episode 1
 3903	UPLOADED	Jabran Episode 8 Big Shots
 1220	UPLOADED	Qaatil Haseena Episode 4
 3904	UPLOADED	Jabran Episode 4 Big Shots
@@ -4148,3 +4147,4 @@
 4683	UPLOADED	Kaneez Episode 2
 3704	UPLOADED	PathShala S2 Episode 3
 4684	UPLOADED	Kaneez Episode 1
+1219	UPLOADED	Raat Ki Raani Episode 1
