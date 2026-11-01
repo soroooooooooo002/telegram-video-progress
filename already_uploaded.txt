@@ -515,7 +515,6 @@
 1425	UPLOADED	Kundi Mat Khadkao Raja Episode 7
 1426	UPLOADED	Chaashni Episode 5
 4180	UPLOADED	Woodpecker Episode 6
-3848	UPLOADED	Bai No 1 Episode 6
 1427	UPLOADED	Chaashni Episode 6
 1428	UPLOADED	Chaashni Episode 7
 4182	UPLOADED	Woodpecker Episode 4
@@ -4270,3 +4269,4 @@
 3845	SKIPPED	Bai No 1 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3846	SKIPPED	Bai No 1 Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3847	SKIPPED	Bai No 1 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3848	SKIPPED	Bai No 1 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
