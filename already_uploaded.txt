@@ -170,7 +170,6 @@
 1682	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 3
 1683	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 2
 3505	UPLOADED	Innocent Episode 1
-1211	UPLOADED	Utha Patak S1 Episode 6
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
 1212	UPLOADED	Utha Patak S1 Episode 5
@@ -4131,3 +4130,4 @@
 3692	UPLOADED	Mangalik Episode 1
 4666	UPLOADED	Kasak Episode 8
 5806	UPLOADED	Maal Paani Sexy Sauda Episode 3
+1211	UPLOADED	Utha Patak S1 Episode 6
