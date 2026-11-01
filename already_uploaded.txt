@@ -183,7 +183,6 @@
 3908	UPLOADED	Jabran Episode 2 Big Shots
 3520	UPLOADED	Toy Episode 4
 3522	UPLOADED	Flavour Episode 1
-1225	UPLOADED	Padosan Episode 3
 1226	UPLOADED	Padosan Episode 2
 1227	UPLOADED	Padosan Episode 1
 1228	UPLOADED	Namkeen Kisse Episode 6
@@ -4171,3 +4170,4 @@
 4701	UPLOADED	Jalebi Bai Episode 3
 4702	UPLOADED	Jalebi Bai Episode 2
 5829	UPLOADED	Guru Dakshina Episode 2
+1225	UPLOADED	Padosan Episode 3
