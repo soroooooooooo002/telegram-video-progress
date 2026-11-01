@@ -183,7 +183,6 @@
 3908	UPLOADED	Jabran Episode 2 Big Shots
 3520	UPLOADED	Toy Episode 4
 3522	UPLOADED	Flavour Episode 1
-1227	UPLOADED	Padosan Episode 1
 1228	UPLOADED	Namkeen Kisse Episode 6
 1229	UPLOADED	Namkeen Kisse Episode 5
 1230	UPLOADED	Namkeen Kisse Episode 4
@@ -4189,3 +4188,4 @@
 5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 4712	UPLOADED	Jabran Episode 5
 3719	UPLOADED	Jalebi S3 Episode 5
+1227	UPLOADED	Padosan Episode 1
