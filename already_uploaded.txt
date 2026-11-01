@@ -2062,7 +2062,6 @@
 3200	UPLOADED	Therapy Episode 1
 4389	UPLOADED	Robot Episode 3
 3201	UPLOADED	Vadh Episode 2
-5827	UPLOADED	Guru Dakshina Episode 3
 709	UPLOADED	Talab Episode 2
 4390	UPLOADED	Robot Episode 2
 3202	UPLOADED	Vadh Episode 1
@@ -4164,3 +4163,4 @@
 4694	UPLOADED	Jhumke Episode 1
 1222	UPLOADED	Qaatil Haseena Episode 2
 4695	UPLOADED	Jalebi Bai Episode 9
+5827	UPLOADED	Guru Dakshina Episode 3
