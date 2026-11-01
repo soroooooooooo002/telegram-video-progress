@@ -531,7 +531,6 @@
 1435	UPLOADED	Chaashni Episode 3
 4188	UPLOADED	Watchman Episode 7
 1436	UPLOADED	Chaashni Episode 4
-3855	UPLOADED	Mastram Ki Sundari Episode 2
 3856	SKIPPED	Gol Gappe Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Gol%20Gappe/Gol%20Gappe%20Episode%201.mp4
 3857	SKIPPED	Golgappe Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Gol%20Gappe/Gol%20Gappe%20Episode%202.mp4
 3858	SKIPPED	Dream Girl Bull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Dream%20Girl/Dream%20Girl%20E1.mp4
@@ -4270,3 +4269,4 @@
 3852	SKIPPED	Meri Seal Todo Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Meri%20Seal%20Todo/Meri%20Seal%20Todo%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3853	SKIPPED	Chintu Ki Masti Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Chintu%20Ki%20Masti/Chintu%20Ki%20Masti%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3854	SKIPPED	Chintu Ki Masti Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Chintu%20Ki%20Masti/Chintu%20Ki%20Masti%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3855	SKIPPED	Mastram Ki Sundari Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bumper%20TV/Mastram%20Ki%20Sundari/Mastram%20Ki%20Sundari%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
