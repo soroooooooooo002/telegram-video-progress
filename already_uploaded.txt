@@ -316,7 +316,6 @@
 1303	UPLOADED	Paglet S3 Episode 4
 4098	UPLOADED	Ghanta Ki Baat Episode 1
 1304	UPLOADED	Paglet S3 Episode 2
-3755	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 1
 1305	UPLOADED	Paglet S3 Episode 1
 4100	UPLOADED	Diya Tere Hath Mein Episode 1
 4101	SKIPPED	Seeti Maar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Seeti%20Maar/Seeti%20Maar%20Episode%201.mp4
@@ -4230,3 +4229,4 @@
 4751	UPLOADED	Halala Episode 8
 1236	UPLOADED	Mera Pyaar Pan Nahi Episode 1
 5031	UPLOADED	Dishkiyaoon Episode 1
+3755	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 1
