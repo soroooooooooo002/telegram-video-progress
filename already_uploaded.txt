@@ -2040,7 +2040,6 @@
 698	UPLOADED	Tan Tripti S2 Episode 3
 3186	UPLOADED	Sainyaa Salman S2 Episode 5
 4371	UPLOADED	Sabak Ishq Ka Episode 5
-5809	UPLOADED	Maal Paani Andha Sasur Episode 1
 699	UPLOADED	Tan Tripti S2 Episode 1
 3187	UPLOADED	Sainyaa Salman S2 Episode 7
 4372	UPLOADED	Sabak Ishq Ka Episode 4
@@ -4134,3 +4133,4 @@
 1212	UPLOADED	Utha Patak S1 Episode 5
 5808	UPLOADED	Maal Paani Andha Sasur Episode 3
 4669	UPLOADED	Kasak Episode 5
+5809	UPLOADED	Maal Paani Andha Sasur Episode 1
