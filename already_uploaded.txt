@@ -404,7 +404,6 @@
 4136	SKIPPED	House Arrest Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%206.mp4
 4137	SKIPPED	House Arrest Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%207.mp4
 1359	UPLOADED	Bholi Sajni Episode 2
-3781	UPLOADED	Patang Paseena Episode 4
 4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
 3782	UPLOADED	Patang Paseena Episode 3
 1360	UPLOADED	Bholi Sajni Episode 1
@@ -4261,3 +4260,4 @@
 4776	UPLOADED	Gaachi Episode 7
 5062	UPLOADED	Dekhi Andekhi Episode 4
 4777	UPLOADED	Gaachi Episode 6
+3781	UPLOADED	Patang Paseena Episode 4
