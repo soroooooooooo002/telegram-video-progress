@@ -2166,7 +2166,6 @@
 736	UPLOADED	Paurashpur S3 Episode 4
 4436	UPLOADED	Patra Petika Episode 4
 3300	UPLOADED	Dubai Bhauji Episode 2
-5041	UPLOADED	Devil Episode 3
 4437	UPLOADED	Patra Petika Episode 3
 3301	UPLOADED	Chumma Chaati Episode 1
 5042	UPLOADED	Devil Episode 2
@@ -4241,3 +4240,4 @@
 3765	SKIPPED	Khat Kabbadi Barkha Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%206.mp4
 1238	UPLOADED	Karan Arjun Episode 4
 4760	UPLOADED	Halala Episode 1
+5041	UPLOADED	Devil Episode 3
