@@ -894,7 +894,6 @@
 5286	SKIPPED	Banni Ka Kissaa Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E3.mp4
 1746	UPLOADED	Anari Episode 4
 4256	UPLOADED	The Bull Of Dalal Street Episode 8
-2516	SKIPPED	Lollipop Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%205.mp4
 2517	SKIPPED	Lollipop Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%204.mp4
 2518	SKIPPED	Lollipop Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%203.mp4
 2519	SKIPPED	Lollipop Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%202.mp4
@@ -4267,3 +4266,4 @@
 5004	UPLOADED	Dunali Episode 7
 5005	SKIPPED	Dunali Episode 6	Request was unsuccessful 6 time(s)
 2515	UPLOADED	Manchala Ashiq Episode 1
+2516	SKIPPED	Lollipop Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Lollipop/Lollipop%20Episode%205.mp4
