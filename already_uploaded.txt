@@ -4211,7 +4211,6 @@
 3805	SKIPPED	Ding Dong Episode 5	Request was unsuccessful 6 time(s)
 5004	UPLOADED	Dunali Episode 7
 5005	SKIPPED	Dunali Episode 6	Request was unsuccessful 6 time(s)
-2541	SKIPPED	Bhutesh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%203.mp4
 2542	SKIPPED	Bhutesh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%202.mp4
 2543	SKIPPED	Bhutesh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%201.mp4
 2544	SKIPPED	Bhabhi G Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhabhi%20G/Bhabhi%20G%20Episode%201.mp4
@@ -4267,3 +4266,4 @@
 2538	SKIPPED	Fruit Juice Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2539	SKIPPED	Desi Star Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Desi%20Star/Desi%20Star%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2540	SKIPPED	Bhutesh Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Bhutesh/Bhutesh%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2541	SKIPPED	Bhutesh Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Bhutesh/Bhutesh%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
