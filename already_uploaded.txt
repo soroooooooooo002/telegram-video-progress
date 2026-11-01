@@ -2147,7 +2147,6 @@
 4422	UPLOADED	Raat Baaki Hai Episode 5
 4423	UPLOADED	Raat Baaki Hai Episode 4
 728	UPLOADED	Pyar Ka Bazaar Episode 1
-5026	UPLOADED	Dishkiyaoon Episode 6
 3275	UPLOADED	Tailor Kaka Episode 5
 4424	UPLOADED	Raat Baaki Hai Episode 2
 5027	UPLOADED	Dishkiyaoon Episode 5
@@ -4223,3 +4222,4 @@
 4745	UPLOADED	Haveli Episode 6
 5025	UPLOADED	Dubey Ji And The Boys Episode 1
 4746	UPLOADED	Haveli Episode 4
+5026	UPLOADED	Dishkiyaoon Episode 6
