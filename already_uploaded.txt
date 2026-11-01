@@ -2040,7 +2040,6 @@
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 700	UPLOADED	Tan Tripti S2 Episode 2
 4373	UPLOADED	Sabak Ishq Ka Episode 3
-5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
 4374	UPLOADED	Sabak Ishq Ka Episode 2
 701	UPLOADED	Tan Tripti S1 Episode 3
 3189	UPLOADED	Sainyaa Salman S2 Episode 8
@@ -4138,3 +4137,4 @@
 1214	UPLOADED	Utha Patak S1 Episode 1
 4673	UPLOADED	Kasak Episode 11
 3697	UPLOADED	PathShala S3 Episode 6
+5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
