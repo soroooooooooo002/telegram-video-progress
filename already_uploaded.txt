@@ -951,7 +951,6 @@
 1804	UPLOADED	Adhure Hum Episode 2
 4290	UPLOADED	Sursuri Li Episode 9
 3951	UPLOADED	Ghutan Episode 3
-2609	UPLOADED	Suno Sasur Ji Episode 2
 4291	UPLOADED	Sursuri Li Episode 8
 1805	UPLOADED	Adhure Hum Episode 4
 2610	UPLOADED	Suno Sasur Ji Episode 1
@@ -4270,3 +4269,4 @@
 3861	UPLOADED	Dream Girl Bull Episode 4
 2608	UPLOADED	Suno Sasur Ji Episode 3
 5014	UPLOADED	Dunali 2 Episode 6
+2609	UPLOADED	Suno Sasur Ji Episode 2
