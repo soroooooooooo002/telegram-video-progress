@@ -2176,7 +2176,6 @@
 4442	UPLOADED	Paro Episode 5
 3304	UPLOADED	Chumma Chaati Episode 4
 4443	UPLOADED	Paro Episode 4
-5048	UPLOADED	Devar Ji Episode 4
 740	UPLOADED	Vaishya Episode 1
 5049	UPLOADED	Devar Ji Episode 3
 3305	UPLOADED	Chumma Chaati Episode 5
@@ -4247,3 +4246,4 @@
 4765	UPLOADED	Good Night Episode 1
 4766	SKIPPED	Generation Gap Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Generation%20Gap/Generation%20Gap%20Episode%202.mp4
 5047	UPLOADED	Devar Ji Episode 6
+5048	UPLOADED	Devar Ji Episode 4
