@@ -416,7 +416,6 @@
 1369	UPLOADED	Chhu Le Zara Episode 3
 1370	UPLOADED	Chhu Le Zara Episode 2
 1371	UPLOADED	Yamma Yamma Episode 8
-3783	UPLOADED	Patang Paseena Episode 2
 1373	UPLOADED	Yamma Yamma Episode 7
 1374	UPLOADED	Yamma Yamma Episode 6
 1375	UPLOADED	Yamma Yamma Episode 5
@@ -4263,3 +4262,4 @@
 4779	UPLOADED	Gaachi Episode 4
 5065	UPLOADED	Dekhi Andekhi Episode 2
 5066	UPLOADED	Dekhi Andekhi Episode 1
+3783	UPLOADED	Patang Paseena Episode 2
