@@ -2170,7 +2170,6 @@
 3299	UPLOADED	Dubai Bhauji Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 4434	UPLOADED	Possessed Love Episode 2
-5039	UPLOADED	Devil Episode 5
 4435	UPLOADED	Patra Petika Episode 5
 5040	UPLOADED	Devil Episode 4
 736	UPLOADED	Paurashpur S3 Episode 4
@@ -4239,3 +4238,4 @@
 3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
 5038	UPLOADED	Devil Episode 6
 4758	UPLOADED	Halala Episode 11
+5039	UPLOADED	Devil Episode 5
