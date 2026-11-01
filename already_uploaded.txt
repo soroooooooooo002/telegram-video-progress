@@ -185,7 +185,6 @@
 3522	UPLOADED	Flavour Episode 1
 3920	UPLOADED	Couple Party Episode 5
 3533	UPLOADED	Kamam Episode 3
-1234	UPLOADED	Mera Pyaar Pan Nahi Episode 3
 3534	UPLOADED	Kamam Episode 2
 3537	SKIPPED	Icha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Icha/Icha%20Episode%202.mp4
 3539	SKIPPED	Hawas IBA Movies Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Hawas/Hawas%20Episode%204.mp4
@@ -4220,3 +4219,4 @@
 5019	UPLOADED	Dunali 2 Episode 10
 5020	UPLOADED	Dunali 2 Episode 1
 4743	UPLOADED	Haveli Episode 7
+1234	UPLOADED	Mera Pyaar Pan Nahi Episode 3
