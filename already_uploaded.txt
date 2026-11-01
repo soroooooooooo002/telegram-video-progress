@@ -524,7 +524,6 @@
 4184	UPLOADED	Woodpecker Episode 2
 1431	UPLOADED	Kundi Mat Khadkao Raja Episode 3
 4185	UPLOADED	Woodpecker Episode 1
-3850	UPLOADED	Phooljhadi Episode 2
 1432	UPLOADED	Kundi Mat Khadkao Raja Episode 4
 3851	UPLOADED	Meri Seal Todo Episode 1
 4186	UPLOADED	Watchman Episode 9
@@ -4270,3 +4269,4 @@
 3847	SKIPPED	Bai No 1 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3848	SKIPPED	Bai No 1 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3849	SKIPPED	Phooljhadi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Phooljhadi/Phooljhadi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3850	SKIPPED	Phooljhadi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Chiku/Phooljhadi/Phooljhadi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
