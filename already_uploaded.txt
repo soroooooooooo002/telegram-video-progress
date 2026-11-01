@@ -969,7 +969,6 @@
 4274	UPLOADED	Teekhi Chutney Episode 4
 1791	UPLOADED	Kulta Digi Movieplex Episode 1
 1792	UPLOADED	Joru Ka Gulaam Episode 6
-2563	UPLOADED	Besharam Episode 2
 3944	UPLOADED	Chakori Episode 1
 4275	UPLOADED	Teekhi Chutney Episode 3
 2564	UPLOADED	Besharam Episode 1
@@ -4269,3 +4268,4 @@
 2560	SKIPPED	Do Khajur Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Do%20Khajur/Do%20Khajur%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2561	SKIPPED	Besharam Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Besharam/Besharam%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2562	SKIPPED	Besharam Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Besharam/Besharam%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2563	SKIPPED	Besharam Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Besharam/Besharam%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
