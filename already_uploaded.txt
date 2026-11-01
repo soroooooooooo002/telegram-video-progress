@@ -2038,7 +2038,6 @@
 697	UPLOADED	Tan Tripti S3 Episode 1
 4369	UPLOADED	Sanskari Episode 1
 3185	UPLOADED	Sainyaa Salman S2 Episode 3
-5807	UPLOADED	Maanglik Episode 4
 4370	UPLOADED	Sabak Ishq Ka Episode 6
 698	UPLOADED	Tan Tripti S2 Episode 3
 5808	UPLOADED	Maal Paani Andha Sasur Episode 3
@@ -4132,3 +4131,4 @@
 1211	UPLOADED	Utha Patak S1 Episode 6
 4667	UPLOADED	Kasak Episode 7
 3693	UPLOADED	Mangalik Episode 2
+5807	UPLOADED	Maanglik Episode 4
