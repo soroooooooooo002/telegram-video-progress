@@ -2101,7 +2101,6 @@
 5863	SKIPPED	Badalte Rishte Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E1.mp4
 4399	UPLOADED	Rikshawala Episode 1
 714	UPLOADED	Sapnon Ki Raani Episode 1
-5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 3237	UPLOADED	Lalach Episode 2
 4400	UPLOADED	Revenge Episode 8
 4401	UPLOADED	Revenge Episode 7
@@ -4188,3 +4187,4 @@
 5931	SKIPPED	Triangle Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E2.mp4
 5932	SKIPPED	Triangle Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E3.mp4
 5933	SKIPPED	Triangle Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E4.mp4
+5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
