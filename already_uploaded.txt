@@ -118,7 +118,6 @@
 1659	UPLOADED	Gaon Ki Garmi 3 Episode 6
 1660	UPLOADED	Gaon Ki Garmi 3 Episode 3
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
-3813	UPLOADED	Paying Guest Episode 3
 1661	UPLOADED	Gaon Ki Garmi 3 Episode 4
 1662	UPLOADED	Gaon Ki Garmi 3 Episode 1
 1127	UPLOADED	Jaan Bujh Kar Episode 2
@@ -4270,3 +4269,4 @@
 3810	SKIPPED	Ding Dong Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Ding%20Dong/Ding%20Dong%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3811	SKIPPED	Paying Guest Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3812	SKIPPED	Paying Guest Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3813	SKIPPED	Paying Guest Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
