@@ -4174,3 +4174,4 @@
 3716	UPLOADED	Jalebi S4 Episode 2
 4704	UPLOADED	Jalebi Bai Episode 1
 4705	SKIPPED	Jaghanya Upaay Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%203.mp4
+4706	SKIPPED	Jaghanya Upaay Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%202.mp4
