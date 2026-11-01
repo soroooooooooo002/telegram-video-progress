@@ -2100,7 +2100,6 @@
 5860	SKIPPED	Badalte Rishte Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E5.mp4
 5863	SKIPPED	Badalte Rishte Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E1.mp4
 4399	UPLOADED	Rikshawala Episode 1
-5917	SKIPPED	Bloody Marry Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E1.mp4
 5918	SKIPPED	Bikri Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E7.mp4
 5919	SKIPPED	Bikri Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E6.mp4
 5920	SKIPPED	Bikri Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E2.mp4
@@ -4187,3 +4186,4 @@
 5914	SKIPPED	Bloody Marry Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E4.mp4
 5915	SKIPPED	Bloody Marry Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E3.mp4
 5916	SKIPPED	Bloody Marry Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E2.mp4
+5917	SKIPPED	Bloody Marry Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E1.mp4
