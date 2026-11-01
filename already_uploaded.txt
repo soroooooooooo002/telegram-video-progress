@@ -2148,7 +2148,6 @@
 728	UPLOADED	Pyar Ka Bazaar Episode 1
 3275	UPLOADED	Tailor Kaka Episode 5
 4424	UPLOADED	Raat Baaki Hai Episode 2
-5027	UPLOADED	Dishkiyaoon Episode 5
 729	UPLOADED	Pyaari Bhabhi Episode 2
 3276	UPLOADED	Tailor Kaka Episode 6
 3277	SKIPPED	Rajni Kaand Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E1.mp4
@@ -4225,3 +4224,4 @@
 3737	UPLOADED	Sajani Episode 2
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
 4747	UPLOADED	Haveli Episode 2
+5027	UPLOADED	Dishkiyaoon Episode 5
