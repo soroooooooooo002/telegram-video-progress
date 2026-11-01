@@ -4019,7 +4019,6 @@
 3721	UPLOADED	Jalebi S3 Episode 3
 4716	UPLOADED	Jabran Episode 1
 1229	UPLOADED	Namkeen Kisse Episode 5
-5002	UPLOADED	Dunali Episode 9
 3722	UPLOADED	Jalebi S3 Episode 2
 4717	UPLOADED	Jaal Episode 6
 5003	UPLOADED	Dunali Episode 8
@@ -4267,3 +4266,4 @@
 5001	SKIPPED	Estate Manager Episode 1	Request was unsuccessful 6 time(s)
 3804	SKIPPED	Adhuri Pyaas Episode 1	Request was unsuccessful 6 time(s)
 600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
+5002	UPLOADED	Dunali Episode 9
