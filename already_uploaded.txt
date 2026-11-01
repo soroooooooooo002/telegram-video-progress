@@ -173,7 +173,6 @@
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
 3899	UPLOADED	Kache Rishtey Episode 3
-1217	UPLOADED	Raat Ki Raani Episode 3
 3900	UPLOADED	Kache Rishtey Episode 1
 1218	UPLOADED	Raat Ki Raani Episode 2
 3902	UPLOADED	Jabran Episode 7 Big Shots
@@ -4142,3 +4141,4 @@
 4678	UPLOADED	Kaneez Episode 7
 3701	UPLOADED	PathShala S3 Episode 2
 5819	UPLOADED	Nain Sukh Episode 8
+1217	UPLOADED	Raat Ki Raani Episode 3
