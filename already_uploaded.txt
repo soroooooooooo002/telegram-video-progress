@@ -469,7 +469,6 @@
 4158	UPLOADED	Balam Pichkari Episode 2
 1399	UPLOADED	Tadka Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
-3812	UPLOADED	Paying Guest Episode 2
 4159	UPLOADED	Balam Pichkari Episode 5
 1401	UPLOADED	Raju Ban Gaya Gentleman Episode 2
 1402	UPLOADED	Raju Ban Gaya Gentleman Episode 3
@@ -4270,3 +4269,4 @@
 3809	SKIPPED	Ding Dong Episode 2	Request was unsuccessful 6 time(s)
 3810	SKIPPED	Ding Dong Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Ding%20Dong/Ding%20Dong%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3811	SKIPPED	Paying Guest Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3812	SKIPPED	Paying Guest Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Paying%20Guest/Paying%20Guest%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
