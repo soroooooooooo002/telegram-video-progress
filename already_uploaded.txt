@@ -4019,7 +4019,6 @@
 1228	UPLOADED	Namkeen Kisse Episode 6
 4715	UPLOADED	Jabran Episode 2
 3721	UPLOADED	Jalebi S3 Episode 3
-5001	UPLOADED	Estate Manager Episode 1
 4716	UPLOADED	Jabran Episode 1
 1229	UPLOADED	Namkeen Kisse Episode 5
 5002	UPLOADED	Dunali Episode 9
@@ -4267,3 +4266,4 @@
 2514	SKIPPED	Main Kaun Hoon Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Main%20Kaun%20Hoon/Main%20Kaun%20Hoon%20Episode%201.mp4
 3803	SKIPPED	Adhuri Pyaas Episode 2	Request was unsuccessful 6 time(s)
 5000	UPLOADED	Estate Manager Episode 2
+5001	SKIPPED	Estate Manager Episode 1	Request was unsuccessful 6 time(s)
