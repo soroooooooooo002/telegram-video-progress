@@ -501,7 +501,6 @@
 4173	UPLOADED	Wrong Turn Episode 5
 4174	UPLOADED	Wrong Turn Episode 4
 1418	UPLOADED	Tere Mere Beech Mein Episode 2
-3845	UPLOADED	Bai No 1 Episode 4
 4175	UPLOADED	Wrong Turn Episode 3
 1419	UPLOADED	Tere Mere Beech Mein Episode 3
 1420	SKIPPED	Ankhiyon Se Goli Maare Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%201.mp4
@@ -4270,3 +4269,4 @@
 3842	SKIPPED	Bai No 1 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3843	SKIPPED	Bai No 1 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3844	SKIPPED	Bai No 1 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3845	SKIPPED	Bai No 1 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
