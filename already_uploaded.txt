@@ -167,7 +167,6 @@
 1197	UPLOADED	Viral Rani Episode 1
 1681	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 4
 3487	UPLOADED	Zeher Episode 1
-1200	UPLOADED	Utha Patak S3 Episode 7
 1682	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 3
 1201	UPLOADED	Utha Patak S3 Episode 6
 1202	UPLOADED	Utha Patak S3 Episode 5
@@ -4118,3 +4117,4 @@
 1199	UPLOADED	Utha Patak S3 Episode 8
 4653	UPLOADED	Kaun Man Episode 6
 3682	UPLOADED	Rajneeti Episode 10
+1200	UPLOADED	Utha Patak S3 Episode 7
