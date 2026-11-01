@@ -2169,7 +2169,6 @@
 3301	UPLOADED	Chumma Chaati Episode 1
 737	UPLOADED	Paurashpur S3 Episode 3
 4438	UPLOADED	Patra Petika Episode 2
-5043	UPLOADED	Devil Episode 1
 4439	UPLOADED	Paro Episode 7
 3302	UPLOADED	Chumma Chaati Episode 2
 5044	UPLOADED	Devar Ji Episode 8
@@ -4244,3 +4243,4 @@
 5042	UPLOADED	Devil Episode 2
 3766	UPLOADED	Sainyaa Salman Episode 1
 4763	UPLOADED	Guardian Episode 1
+5043	UPLOADED	Devil Episode 1
