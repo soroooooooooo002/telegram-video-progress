@@ -2168,7 +2168,6 @@
 3300	UPLOADED	Dubai Bhauji Episode 2
 4437	UPLOADED	Patra Petika Episode 3
 3301	UPLOADED	Chumma Chaati Episode 1
-5042	UPLOADED	Devil Episode 2
 737	UPLOADED	Paurashpur S3 Episode 3
 4438	UPLOADED	Patra Petika Episode 2
 5043	UPLOADED	Devil Episode 1
@@ -4243,3 +4242,4 @@
 5041	UPLOADED	Devil Episode 3
 4761	UPLOADED	Guardian Episode 3
 4762	UPLOADED	Guardian Episode 2
+5042	UPLOADED	Devil Episode 2
