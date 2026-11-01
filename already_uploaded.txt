@@ -2167,7 +2167,6 @@
 734	UPLOADED	Punarjanam Episode 1
 4432	UPLOADED	Purani Haveli Episode 1
 4433	UPLOADED	Possessed Love Episode 1
-5038	UPLOADED	Devil Episode 6
 3299	UPLOADED	Dubai Bhauji Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 4434	UPLOADED	Possessed Love Episode 2
@@ -4238,3 +4237,4 @@
 5037	UPLOADED	Dil Sambhal Ja Zara Episode 1
 4757	UPLOADED	Halala Episode 2
 3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
+5038	UPLOADED	Devil Episode 6
