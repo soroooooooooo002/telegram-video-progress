@@ -2102,7 +2102,6 @@
 3237	UPLOADED	Lalach Episode 2
 4400	UPLOADED	Revenge Episode 8
 4401	UPLOADED	Revenge Episode 7
-5935	UPLOADED	Bawarchi Episode 5
 3238	UPLOADED	Lalach Episode 3
 4402	UPLOADED	Revenge Episode 6
 5936	UPLOADED	Bawarchi Episode 6
@@ -4189,3 +4188,4 @@
 4712	UPLOADED	Jabran Episode 5
 3719	UPLOADED	Jalebi S3 Episode 5
 1227	UPLOADED	Padosan Episode 1
+5935	UPLOADED	Bawarchi Episode 5
