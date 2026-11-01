@@ -2103,7 +2103,6 @@
 4401	UPLOADED	Revenge Episode 7
 3238	UPLOADED	Lalach Episode 3
 4402	UPLOADED	Revenge Episode 6
-5964	SKIPPED	Bawarchi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E3.mp4
 5965	SKIPPED	Bawarchi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E2.mp4
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
 5967	SKIPPED	Akelapan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Akelapan/Akelapan.mp4
@@ -4191,3 +4190,4 @@
 5961	SKIPPED	Chaalbaaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Chaalbaaz/Chaalbaaz%20E2.mp4
 5962	SKIPPED	Chaalbaaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Chaalbaaz/Chaalbaaz%20E1.mp4
 5963	SKIPPED	Bawarchi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E4.mp4
+5964	SKIPPED	Bawarchi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E3.mp4
