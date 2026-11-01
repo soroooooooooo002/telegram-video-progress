@@ -255,7 +255,6 @@
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 3673	SKIPPED	Birthday Gift Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Birthday%20Gift/Birthday%20Gift%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1246	UPLOADED	Gili Gili Raat Episode 4
-3685	UPLOADED	Rajneeti Episode 7
 3686	SKIPPED	Rajneeti Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3687	SKIPPED	Rajneeti Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3688	SKIPPED	Rajneeti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4121,3 +4120,4 @@
 4656	UPLOADED	Kaun Man Episode 3
 5793	UPLOADED	Rasmalai
 5794	UPLOADED	Leelavati
+3685	UPLOADED	Rajneeti Episode 7
