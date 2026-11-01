@@ -269,7 +269,6 @@
 1279	UPLOADED	Gore Gore Gaal Episode 1
 1280	UPLOADED	Haseena Maan Jayegi Episode 2
 4049	UPLOADED	Haveli Ki Dulhan Episode 2
-3720	UPLOADED	Jalebi S3 Episode 4
 1281	UPLOADED	Bade Achhe Lagte Hai Episode 4
 3721	UPLOADED	Jalebi S3 Episode 3
 1282	UPLOADED	Bade Achhe Lagte Hai Episode 6
@@ -4190,3 +4189,4 @@
 1227	UPLOADED	Padosan Episode 1
 5935	UPLOADED	Bawarchi Episode 5
 4713	UPLOADED	Jabran Episode 4
+3720	UPLOADED	Jalebi S3 Episode 4
