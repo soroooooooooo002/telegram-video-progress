@@ -894,7 +894,6 @@
 5286	SKIPPED	Banni Ka Kissaa Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E3.mp4
 1746	UPLOADED	Anari Episode 4
 4256	UPLOADED	The Bull Of Dalal Street Episode 8
-2537	SKIPPED	Fruit Juice Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%202.mp4
 2538	SKIPPED	Fruit Juice Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%201.mp4
 2539	SKIPPED	Desi Star Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Desi%20Star/Desi%20Star%20Episode%201.mp4
 2540	SKIPPED	Bhutesh Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Bhutesh/Bhutesh%20Episode%204.mp4
@@ -4267,3 +4266,4 @@
 2534	SKIPPED	Fruit Juice Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%205.mp4
 2535	SKIPPED	Fruit Juice Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%204.mp4
 2536	SKIPPED	Fruit Juice Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%203.mp4
+2537	SKIPPED	Fruit Juice Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Fruit%20Juice/Fruit%20Juice%20Episode%202.mp4
