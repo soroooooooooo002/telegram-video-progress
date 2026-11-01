@@ -2142,7 +2142,6 @@
 726	UPLOADED	Pyar Ka Bazaar Episode 3
 3273	UPLOADED	Tailor Kaka Episode 3
 4421	UPLOADED	Raat Baaki Hai Episode 6
-5024	UPLOADED	Dubey Ji And The Boys Episode 2
 727	UPLOADED	Pyar Ka Bazaar Episode 2
 3274	UPLOADED	Tailor Kaka Episode 4
 4422	UPLOADED	Raat Baaki Hai Episode 5
@@ -4221,3 +4220,4 @@
 4744	UPLOADED	Haveli Episode 5
 5023	UPLOADED	Dubey Ji And The Boys Episode 3
 3736	UPLOADED	Sajani Episode 1
+5024	UPLOADED	Dubey Ji And The Boys Episode 2
