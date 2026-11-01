@@ -4218,3 +4218,4 @@
 4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
 3734	UPLOADED	Sajani Episode 4
 5018	UPLOADED	Dunali 2 Episode 2
+4742	UPLOADED	Haveli Episode 8
