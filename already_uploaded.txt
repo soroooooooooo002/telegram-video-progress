@@ -4207,7 +4207,6 @@
 3800	SKIPPED	Jalebi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%203.mp4
 3801	SKIPPED	Jalebi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%202.mp4
 3802	SKIPPED	Jalebi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Jalebi/Jalebi%20Episode%201.mp4
-2501	SKIPPED	Shanno Chudail S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%201.mp4
 2502	SKIPPED	Shanno Chudail Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail/Shanno%20Chudail%20Episode%207.mp4
 2503	SKIPPED	Shanno Chudail Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail/Shanno%20Chudail%20Episode%206.mp4
 2504	SKIPPED	Shanno Chudail Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail/Shanno%20Chudail%20Episode%205.mp4
@@ -4267,3 +4266,4 @@
 2548	SKIPPED	Andha Aur Bahra Pyar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Andha%20Aur%20Bahra%20Pyar/Andha%20Aur%20Bahra%20Pyar%20Episode%201.mp4
 3806	UPLOADED	Ding Dong Episode 3
 2500	SKIPPED	Shanno Chudail S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%202.mp4
+2501	SKIPPED	Shanno Chudail S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Shanno%20Chudail%20S2/Shanno%20Chudail%20S2%20Episode%201.mp4
