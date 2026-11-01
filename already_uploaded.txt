@@ -2190,7 +2190,6 @@
 3319	UPLOADED	Jamai Raja Episode 1
 4449	UPLOADED	Paper Episode 4
 3320	UPLOADED	Jamai Raja Episode 2
-5056	SKIPPED	Desi Kisse Jaanch Padtaal Episode 4	Failed to upload file part 177.
 4450	UPLOADED	Paper Episode 3
 3321	UPLOADED	Jamai Raja Episode 3
 5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
@@ -4254,3 +4253,4 @@
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 1242	UPLOADED	Haseeno Ka Inteqaam Episode 4
 3777	UPLOADED	Doctor Chaurasiya Episode 3
+5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
