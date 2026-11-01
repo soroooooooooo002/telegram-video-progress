@@ -463,7 +463,6 @@
 4155	UPLOADED	Balam Pichkari Episode 1
 1396	UPLOADED	Tadka Episode 1
 4156	UPLOADED	Balam Pichkari Episode 4
-3809	UPLOADED	Ding Dong Episode 2
 1397	UPLOADED	Tadka Episode 2
 4157	UPLOADED	Balam Pichkari Episode 3
 3810	UPLOADED	Ding Dong Episode 1
@@ -4270,3 +4269,4 @@
 2600	SKIPPED	Julie I Love You Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Julie%20I%20Love%20You/Julie%20I%20Love%20You%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5008	UPLOADED	Dunali Episode 3
 5009	SKIPPED	Dunali Episode 2	Request was unsuccessful 6 time(s)
+3809	SKIPPED	Ding Dong Episode 2	Request was unsuccessful 6 time(s)
