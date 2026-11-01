@@ -217,7 +217,6 @@
 3585	SKIPPED	Gold Digger Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Gold%20Digger/Gold%20Digger%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3609	SKIPPED	Amrapali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3673	SKIPPED	Birthday Gift Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Birthday%20Gift/Birthday%20Gift%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1246	UPLOADED	Gili Gili Raat Episode 4
 3690	SKIPPED	Rajneeti Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1247	UPLOADED	Gili Gili Raat Episode 3
 1248	SKIPPED	Gili Gili Raat Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Gili%20Gili%20Raat/Gili%20Gili%20Raat%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4266,3 +4265,4 @@
 4782	UPLOADED	Gaachi Episode 1
 5069	UPLOADED	De Dana Dan Episode 4
 3785	UPLOADED	Swapna Sundariii Episode 5
+1246	UPLOADED	Gili Gili Raat Episode 4
