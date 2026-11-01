@@ -457,7 +457,6 @@
 4152	UPLOADED	Lag Ja Gale Episode 4
 1393	UPLOADED	Raju Ban Gaya Gentleman Episode 5
 4153	UPLOADED	Lag Ja Gale Episode 2
-3805	UPLOADED	Ding Dong Episode 5
 1394	UPLOADED	Raju Ban Gaya Gentleman Episode 6
 4154	UPLOADED	Lag Ja Gale Episode 1
 3806	UPLOADED	Ding Dong Episode 3
@@ -4267,3 +4266,4 @@
 600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
 5002	UPLOADED	Dunali Episode 9
 5003	SKIPPED	Dunali Episode 8	Request was unsuccessful 6 time(s)
+3805	SKIPPED	Ding Dong Episode 5	Request was unsuccessful 6 time(s)
