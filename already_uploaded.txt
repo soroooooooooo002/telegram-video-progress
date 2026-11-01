@@ -4161,3 +4161,4 @@
 3709	SKIPPED	PathShala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/PathShala/PathShala%20Episode%201.mp4
 4692	UPLOADED	Jhumke Episode 3
 1221	UPLOADED	Qaatil Haseena Episode 3
+4693	UPLOADED	Jhumke Episode 2
