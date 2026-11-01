@@ -586,7 +586,6 @@
 3841	SKIPPED	Dulhan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CineBox%20Prime/Dulhan/Dulhan%20Episode%204.mp4
 4165	UPLOADED	Taras Episode 6
 1411	UPLOADED	Daal Chawal Episode 3
-5018	UPLOADED	Dunali 2 Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
 4166	UPLOADED	Taras Episode 4
 3842	UPLOADED	Bai No 1 Episode 1
@@ -4218,3 +4217,4 @@
 4740	SKIPPED	Hotspot Charr Charr Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%202.mp4
 4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
 3734	UPLOADED	Sajani Episode 4
+5018	UPLOADED	Dunali 2 Episode 2
