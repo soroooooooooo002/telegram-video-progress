@@ -2118,7 +2118,6 @@
 721	UPLOADED	Raseeli Raatein Episode 4
 4413	UPLOADED	Relationship Counsellor Episode 2
 3248	UPLOADED	L Lag Gaye Episode 6
-5014	UPLOADED	Dunali 2 Episode 6
 3249	UPLOADED	Shudh Shakahari Episode 1
 4414	UPLOADED	Relationship Counsellor Episode 1
 722	UPLOADED	Raseeli Raatein Episode 3
@@ -4203,3 +4202,4 @@
 3727	UPLOADED	Jalebi S2 Episode 2
 5013	UPLOADED	Dunali 2 Episode 7
 4726	UPLOADED	Ishqiyapa Episode 4
+5014	UPLOADED	Dunali 2 Episode 6
