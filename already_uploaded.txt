@@ -2103,7 +2103,6 @@
 4401	UPLOADED	Revenge Episode 7
 3238	UPLOADED	Lalach Episode 3
 4402	UPLOADED	Revenge Episode 6
-5937	SKIPPED	Yogasan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Yogasan/Yogasan.mp4
 5938	SKIPPED	Tandoori Night Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Tandoori%20Night/Tandoori%20Night%20E1.mp4
 5939	SKIPPED	Tandoori Night Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Tandoori%20Night/Tandoori%20Night%20E2.mp4
 5940	SKIPPED	Soch Ek Kahani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Soch%20Ek%20Kahani/Soch%20Ek%20Kahani.mp4
@@ -4191,3 +4190,4 @@
 3720	UPLOADED	Jalebi S3 Episode 4
 4714	UPLOADED	Jabran Episode 3
 5936	UPLOADED	Bawarchi Episode 6
+5937	SKIPPED	Yogasan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Yogasan/Yogasan.mp4
