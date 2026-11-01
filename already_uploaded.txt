@@ -487,7 +487,6 @@
 1411	UPLOADED	Daal Chawal Episode 3
 1412	UPLOADED	Daal Chawal Episode 2
 4166	UPLOADED	Taras Episode 4
-3842	UPLOADED	Bai No 1 Episode 1
 1413	UPLOADED	Biwi Ka Khat Episode 5
 4167	UPLOADED	Taras Episode 3
 4168	UPLOADED	Taras Episode 2
@@ -4270,3 +4269,4 @@
 3839	SKIPPED	Dulhan Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CineBox%20Prime/Dulhan/Dulhan%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3840	SKIPPED	Dulhan Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CineBox%20Prime/Dulhan/Dulhan%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3841	SKIPPED	Dulhan Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CineBox%20Prime/Dulhan/Dulhan%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3842	SKIPPED	Bai No 1 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ChillX/Bai%20No%201/Bai%20No%201%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
