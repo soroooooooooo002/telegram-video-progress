@@ -266,7 +266,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-3717	UPLOADED	Jalebi S4 Episode 1
 4016	UPLOADED	Farebi Yaar Episode 6
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
 1279	UPLOADED	Gore Gore Gaal Episode 1
@@ -4178,3 +4177,4 @@
 4707	SKIPPED	Jaghanya Dil Ke Armaan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%202.mp4
 4708	SKIPPED	Jaghanya Upaay Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%201.mp4
 4709	SKIPPED	Jaghanya Dil Ke Armaan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%201.mp4
+3717	UPLOADED	Jalebi S4 Episode 1
