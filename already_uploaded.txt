@@ -913,7 +913,6 @@
 4264	UPLOADED	The Bull Of Dalal Street Episode 10
 1755	UPLOADED	Nadaan Episode 6
 5302	UPLOADED	Ladla Dever Episode 2
-2555	UPLOADED	Malmal Episode 2
 1756	UPLOADED	Nadaan Episode 4
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
 3940	UPLOADED	Damad Ji Episode 6
@@ -4267,3 +4266,4 @@
 2552	SKIPPED	Pehli Baar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Pehli%20Baar/Pehli%20Baar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2553	SKIPPED	Malmal Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Malmal/Malmal%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2554	SKIPPED	Malmal Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Malmal/Malmal%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2555	SKIPPED	Malmal Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Malmal/Malmal%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
