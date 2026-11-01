@@ -2027,7 +2027,6 @@
 692	UPLOADED	Utha Patak S4 Episode 1
 4363	UPLOADED	Sanskari Episode 7
 3175	UPLOADED	Choli Ke Piche Episode 6
-5800	SKIPPED	Pink Bra	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Pink.Bra%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
 693	UPLOADED	Tan Tripti S3 Episode 3
 3176	UPLOADED	Choli Ke Piche Episode 7
 4364	UPLOADED	Sanskari Episode 6
@@ -4124,3 +4123,4 @@
 5797	UPLOADED	Albeli
 5798	SKIPPED	Raspan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Raspan%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
 5799	SKIPPED	Behrupiya	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Behrupiya%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
+5800	SKIPPED	Pink Bra	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Pink.Bra%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
