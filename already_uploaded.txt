@@ -4178,3 +4178,4 @@
 4708	SKIPPED	Jaghanya Upaay Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%201.mp4
 4709	SKIPPED	Jaghanya Dil Ke Armaan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%201.mp4
 3717	UPLOADED	Jalebi S4 Episode 1
+4710	UPLOADED	Jabran Episode 7
