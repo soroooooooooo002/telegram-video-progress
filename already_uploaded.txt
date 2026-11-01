@@ -2149,7 +2149,6 @@
 731	UPLOADED	Punarjanam Episode 4
 3286	UPLOADED	Chadar Badli Episode 3
 4428	UPLOADED	Purani Haveli Episode 5
-5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 732	UPLOADED	Punarjanam Episode 3
 3287	UPLOADED	Chadar Badli Episode 2
 4429	UPLOADED	Purani Haveli Episode 4
@@ -4231,3 +4230,4 @@
 5031	UPLOADED	Dishkiyaoon Episode 1
 3755	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 1
 4752	UPLOADED	Halala Episode 7
+5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
