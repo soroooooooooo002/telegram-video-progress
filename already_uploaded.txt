@@ -4155,3 +4155,4 @@
 4690	SKIPPED	Julie Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%201.mp4
 3705	UPLOADED	PathShala S2 Episode 2
 1220	UPLOADED	Qaatil Haseena Episode 4
+4691	UPLOADED	Jhumke Episode 4
