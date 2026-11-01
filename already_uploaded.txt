@@ -465,7 +465,6 @@
 4156	UPLOADED	Balam Pichkari Episode 4
 1397	UPLOADED	Tadka Episode 2
 4157	UPLOADED	Balam Pichkari Episode 3
-3810	UPLOADED	Ding Dong Episode 1
 1398	UPLOADED	Tadka Episode 3
 3811	UPLOADED	Paying Guest Episode 1
 4158	UPLOADED	Balam Pichkari Episode 2
@@ -4270,3 +4269,4 @@
 5008	UPLOADED	Dunali Episode 3
 5009	SKIPPED	Dunali Episode 2	Request was unsuccessful 6 time(s)
 3809	SKIPPED	Ding Dong Episode 2	Request was unsuccessful 6 time(s)
+3810	SKIPPED	Ding Dong Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Ding%20Dong/Ding%20Dong%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
