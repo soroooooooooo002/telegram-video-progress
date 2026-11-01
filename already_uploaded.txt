@@ -2103,7 +2103,6 @@
 4402	UPLOADED	Revenge Episode 6
 3239	UPLOADED	Lalach Episode 4
 4403	UPLOADED	Revenge Episode 5
-5000	UPLOADED	Estate Manager Episode 2
 3240	UPLOADED	ShilaJeet Episode 1
 4404	UPLOADED	Revenge Episode 4
 5001	UPLOADED	Estate Manager Episode 1
@@ -4192,3 +4191,4 @@
 1228	UPLOADED	Namkeen Kisse Episode 6
 4715	UPLOADED	Jabran Episode 2
 3721	UPLOADED	Jalebi S3 Episode 3
+5000	UPLOADED	Estate Manager Episode 2
