@@ -262,7 +262,6 @@
 1266	UPLOADED	Shararati Saas Episode 2
 3703	UPLOADED	PathShala S2 Episode 4
 1267	UPLOADED	Shararati Saas Episode 1
-3704	UPLOADED	PathShala S2 Episode 3
 1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
 1270	UPLOADED	Kajri Episode 3
@@ -4147,3 +4146,4 @@
 1218	UPLOADED	Raat Ki Raani Episode 2
 4682	UPLOADED	Kaneez Episode 3
 4683	UPLOADED	Kaneez Episode 2
+3704	UPLOADED	PathShala S2 Episode 3
