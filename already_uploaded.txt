@@ -2035,7 +2035,6 @@
 695	UPLOADED	Tan Tripti S3 Episode 2
 3182	UPLOADED	Sainyaa Salman S2 Episode 2
 4366	UPLOADED	Sanskari Episode 4
-5804	UPLOADED	Maanglik Episode 3
 4367	UPLOADED	Sanskari Episode 3
 3183	UPLOADED	Sainyaa Salman S2 Episode 1
 696	UPLOADED	Tan Tripti S2 Episode 4
@@ -4128,3 +4127,4 @@
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
 1209	UPLOADED	Utha Patak S2 Episode 4
 4663	UPLOADED	Kasturi Episode 2
+5804	UPLOADED	Maanglik Episode 3
