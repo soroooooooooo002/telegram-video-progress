@@ -938,7 +938,6 @@
 1801	SKIPPED	Babu Ji Ghar Pe Hain Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Babu%20Ji%20Ghar%20Pe%20Hain/Babu%20Ji%20Ghar%20Pe%20Hain%20%20E2.mp4
 3948	UPLOADED	Ghutan Episode 1
 4281	UPLOADED	Tandoor Episode 2
-2601	UPLOADED	Julie I Love You Episode 5
 1802	UPLOADED	Adhure Hum Episode 3
 3949	UPLOADED	Ghutan Episode 4
 4282	UPLOADED	Tandoor Episode 1
@@ -4270,3 +4269,4 @@
 608	SKIPPED	Kiraye Ki Biwi Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Kiraye%20Ki%20Biwi/Kiraye%20Ki%20Biwi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 609	SKIPPED	Garam Sukh Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Garam%20Sukh/Garam%20Sukh%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 610	SKIPPED	Kaand Wali Return Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Kaand%20Wali%20Return/Kaand%20Wali%20Return%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2601	UPLOADED	Julie I Love You Episode 5
