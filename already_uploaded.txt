@@ -4211,7 +4211,6 @@
 3805	SKIPPED	Ding Dong Episode 5	Request was unsuccessful 6 time(s)
 5004	UPLOADED	Dunali Episode 7
 5005	SKIPPED	Dunali Episode 6	Request was unsuccessful 6 time(s)
-2529	SKIPPED	Ghapa Ghap Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%204.mp4
 2530	SKIPPED	Ghapa Ghap Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%203.mp4
 2531	SKIPPED	Ghapa Ghap Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%202.mp4
 2532	SKIPPED	Ghapa Ghap Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%201.mp4
@@ -4267,3 +4266,4 @@
 2526	SKIPPED	Kaam Sukh S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Kaam%20Sukh%20S2/Kaam%20Sukh%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2527	SKIPPED	Kaam Sukh S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Kaam%20Sukh%20S2/Kaam%20Sukh%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2528	SKIPPED	Kaam Sukh S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Kaam%20Sukh%20S2/Kaam%20Sukh%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2529	SKIPPED	Ghapa Ghap Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Ghapa%20Ghap/Ghapa%20Ghap%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
