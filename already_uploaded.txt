@@ -533,7 +533,6 @@
 1436	UPLOADED	Chaashni Episode 4
 4189	UPLOADED	Watchman Episode 6
 1437	UPLOADED	Chidiya Episode 5
-3860	SKIPPED	Dream Girl Bull Episode 3	Request was unsuccessful 6 time(s)
 4190	SKIPPED	Watchman Episode 5	Request was unsuccessful 6 time(s)
 4191	SKIPPED	Watchman Episode 4	Request was unsuccessful 6 time(s)
 4192	SKIPPED	Watchman Episode 3	Request was unsuccessful 6 time(s)
@@ -4270,3 +4269,4 @@
 610	SKIPPED	Kaand Wali Return Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Kaand%20Wali%20Return/Kaand%20Wali%20Return%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2601	UPLOADED	Julie I Love You Episode 5
 5010	UPLOADED	Dunali Episode 1
+3860	SKIPPED	Dream Girl Bull Episode 3	Request was unsuccessful 6 time(s)
