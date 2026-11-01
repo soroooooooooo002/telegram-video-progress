@@ -977,7 +977,6 @@
 4277	UPLOADED	Teekhi Chutney Episode 1
 1795	UPLOADED	Bunty Babli Episode 4
 3946	UPLOADED	Chakori Episode 2
-2571	UPLOADED	Mastram Ki Sundari Episode 1
 2572	SKIPPED	Shak Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Shak/Shak%20Episode%202.mp4
 2573	SKIPPED	Shak Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Shak/Shak%20Episode%201.mp4
 2574	SKIPPED	Pyaasi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Pyaasi/Pyaasi%20Episode%201.mp4
@@ -4269,3 +4268,4 @@
 2568	SKIPPED	Virasat Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Mango%20TV/Virasat/Virasat%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2569	SKIPPED	Teacher Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Mango%20TV/Teacher/Teacher%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2570	SKIPPED	Teacher Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Mango%20TV/Teacher/Teacher%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2571	SKIPPED	Mastram Ki Sundari Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bumper%20TV/Mastram%20Ki%20Sundari/Mastram%20Ki%20Sundari%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
