@@ -172,7 +172,6 @@
 3505	UPLOADED	Innocent Episode 1
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
-1213	UPLOADED	Utha Patak S1 Episode 3
 1214	UPLOADED	Utha Patak S1 Episode 1
 1215	UPLOADED	Raat Ki Raani Episode 5
 1216	UPLOADED	Raat Ki Raani Episode 4
@@ -4135,3 +4134,4 @@
 5809	UPLOADED	Maal Paani Andha Sasur Episode 1
 4670	UPLOADED	Kasak Episode 4
 3695	UPLOADED	Mangalik Episode 4
+1213	UPLOADED	Utha Patak S1 Episode 3
