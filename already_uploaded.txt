@@ -996,7 +996,6 @@
 4296	UPLOADED	Sursuri Li Episode 3
 5339	UPLOADED	Khiladi Bhaiya Episode 4
 3959	UPLOADED	Rivaaz Episode 1
-2614	UPLOADED	Sasur Ki Nayee Dulhan Episode 7
 1830	UPLOADED	Utha Patak S3 Episode 12
 4297	UPLOADED	Sursuri Li Episode 2
 4298	UPLOADED	Sursuri Li Episode 12
@@ -4270,3 +4269,4 @@
 3867	SKIPPED	Yaar Pyaar Gaddar Episode 7	Request was unsuccessful 6 time(s)
 616	SKIPPED	Chausar Episode 1	Request was unsuccessful 6 time(s)
 5021	UPLOADED	Dubey Ji And The Boys Episode 5
+2614	SKIPPED	Sasur Ki Nayee Dulhan Episode 7	Request was unsuccessful 6 time(s)
