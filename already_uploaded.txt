@@ -3889,7 +3889,6 @@
 4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
 3734	UPLOADED	Sajani Episode 4
 4742	UPLOADED	Haveli Episode 8
-5020	UPLOADED	Dunali 2 Episode 1
 4743	UPLOADED	Haveli Episode 7
 1234	UPLOADED	Mera Pyaar Pan Nahi Episode 3
 5021	UPLOADED	Dubey Ji And The Boys Episode 5
@@ -4270,3 +4269,4 @@
 5019	SKIPPED	Dunali 2 Episode 10	Request was unsuccessful 6 time(s)
 3866	UPLOADED	Yaar Pyaar Gaddar Episode 5
 615	SKIPPED	Chausar Episode 3	Request was unsuccessful 6 time(s)
+5020	UPLOADED	Dunali 2 Episode 1
