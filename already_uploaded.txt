@@ -169,7 +169,6 @@
 3505	UPLOADED	Innocent Episode 1
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
-3908	UPLOADED	Jabran Episode 2 Big Shots
 3520	UPLOADED	Toy Episode 4
 3522	UPLOADED	Flavour Episode 1
 3920	UPLOADED	Couple Party Episode 5
@@ -4283,3 +4282,4 @@
 2701	SKIPPED	Andar Ki Baat Episode 7	Request was unsuccessful 6 time(s)
 5050	UPLOADED	Devar Ji Episode 2
 5051	SKIPPED	Devar Ji Episode 1	Request was unsuccessful 6 time(s)
+3908	SKIPPED	Jabran Episode 2 Big Shots	Request was unsuccessful 6 time(s)
