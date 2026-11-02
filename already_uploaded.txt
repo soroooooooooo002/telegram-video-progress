@@ -3906,7 +3906,6 @@
 3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
 4758	UPLOADED	Halala Episode 11
 4759	UPLOADED	Halala Episode 10
-5040	UPLOADED	Devil Episode 4
 3759	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 5
 3760	SKIPPED	Khat Kabbadi Barkha Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%201.mp4
 3761	SKIPPED	Khat Kabbadi Barkha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%202.mp4
@@ -4274,3 +4273,4 @@
 5037	SKIPPED	Dil Sambhal Ja Zara Episode 1	Request was unsuccessful 6 time(s)
 5038	SKIPPED	Devil Episode 6	Request was unsuccessful 6 time(s)
 5039	SKIPPED	Devil Episode 5	Request was unsuccessful 6 time(s)
+5040	SKIPPED	Devil Episode 4	Request was unsuccessful 6 time(s)
