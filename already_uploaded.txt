@@ -169,7 +169,6 @@
 3505	UPLOADED	Innocent Episode 1
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
-3907	UPLOADED	Jabran Episode 6 Big Shots
 3908	UPLOADED	Jabran Episode 2 Big Shots
 3520	UPLOADED	Toy Episode 4
 3522	UPLOADED	Flavour Episode 1
@@ -4283,3 +4282,4 @@
 630	SKIPPED	Behenchor Episode 1	Request was unsuccessful 6 time(s)
 5048	UPLOADED	Devar Ji Episode 4
 5049	SKIPPED	Devar Ji Episode 3	Request was unsuccessful 6 time(s)
+3907	SKIPPED	Jabran Episode 6 Big Shots	Request was unsuccessful 6 time(s)
