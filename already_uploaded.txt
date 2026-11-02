@@ -1232,7 +1232,6 @@
 5660	SKIPPED	Jism	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Jism.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5661	SKIPPED	Flat No 108	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Flat%20No%20108.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5663	SKIPPED	Chattri	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Chattri.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-626	SKIPPED	Doggy Lover	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Single/Doggy%20Lover.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2865	SKIPPED	Tadap 2 Episode 10	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%2010.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 628	SKIPPED	Behenchor Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Behenchor/Behenchor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4336	UPLOADED	Size Matters 2 Episode 5
@@ -4280,3 +4279,4 @@
 5044	UPLOADED	Devar Ji Episode 8
 624	SKIPPED	Double Date	Request was unsuccessful 6 time(s)
 625	SKIPPED	Double Cross	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalsa%20TV/Double%20Cross.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+626	SKIPPED	Doggy Lover	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Single/Doggy%20Lover.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
