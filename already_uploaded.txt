@@ -3885,7 +3885,6 @@
 4747	UPLOADED	Haveli Episode 2
 3738	UPLOADED	Tomatino Episode 1
 4748	UPLOADED	Haveli Episode 3
-5028	UPLOADED	Dishkiyaoon Episode 4
 4749	UPLOADED	Haveli Episode 1
 5029	UPLOADED	Dishkiyaoon Episode 3
 3740	UPLOADED	Tomatino Episode 3
@@ -4270,3 +4269,4 @@
 2618	SKIPPED	Sasur Ki Nayee Dulhan Episode 3	Request was unsuccessful 6 time(s)
 3872	SKIPPED	Thand Ka Maza Episode 6	Request was unsuccessful 6 time(s)
 619	SKIPPED	Gandi Raat Episode 1	Request was unsuccessful 6 time(s)
+5028	UPLOADED	Dishkiyaoon Episode 4
