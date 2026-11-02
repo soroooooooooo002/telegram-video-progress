@@ -1059,7 +1059,6 @@
 4311	UPLOADED	Sultan Episode 3
 3979	UPLOADED	Honey Trap Episode 1
 1843	UPLOADED	Mona 69 Episode 4
-2625	UPLOADED	Mr Majnu Episode 2
 1844	UPLOADED	Mardana Sasur S2 Episode 6
 4312	UPLOADED	Sultan Episode 2
 3980	UPLOADED	Honey Trap Episode 2
@@ -4274,3 +4273,4 @@
 5040	SKIPPED	Devil Episode 4	Request was unsuccessful 6 time(s)
 5041	SKIPPED	Devil Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
+2625	UPLOADED	Mr Majnu Episode 2
