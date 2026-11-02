@@ -1056,7 +1056,6 @@
 4310	UPLOADED	Sultan Episode 4
 3977	UPLOADED	Lallu Ki Mami Episode 1
 3978	SKIPPED	Agent Laila	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Agent%20Laila/Agent%20Laila.mp4
-2624	UPLOADED	Mr Majnu Episode 3
 1842	UPLOADED	Mona 69 Episode 3
 4311	UPLOADED	Sultan Episode 3
 3979	UPLOADED	Honey Trap Episode 1
@@ -4273,3 +4272,4 @@
 2623	SKIPPED	Mr Majnu Episode 4	Request was unsuccessful 6 time(s)
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
+2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
