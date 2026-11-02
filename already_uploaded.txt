@@ -3886,7 +3886,6 @@
 3736	UPLOADED	Sajani Episode 1
 4745	UPLOADED	Haveli Episode 6
 4746	UPLOADED	Haveli Episode 4
-5026	UPLOADED	Dishkiyaoon Episode 6
 3737	UPLOADED	Sajani Episode 2
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
 4747	UPLOADED	Haveli Episode 2
@@ -4270,3 +4269,4 @@
 5025	SKIPPED	Dubey Ji And The Boys Episode 1	Request was unsuccessful 6 time(s)
 2616	SKIPPED	Sasur Ki Nayee Dulhan Episode 5	Request was unsuccessful 6 time(s)
 3870	SKIPPED	Thand Ka Maza Episode 3	Request was unsuccessful 6 time(s)
+5026	UPLOADED	Dishkiyaoon Episode 6
