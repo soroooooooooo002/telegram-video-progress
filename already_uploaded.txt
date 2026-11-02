@@ -3881,7 +3881,6 @@
 4762	UPLOADED	Guardian Episode 2
 3766	UPLOADED	Sainyaa Salman Episode 1
 4763	UPLOADED	Guardian Episode 1
-5043	UPLOADED	Devil Episode 1
 3767	UPLOADED	Sainyaa Salman Episode 2
 5044	UPLOADED	Devar Ji Episode 8
 1239	UPLOADED	Karan Arjun Episode 3
@@ -4277,3 +4276,4 @@
 3901	SKIPPED	Jabran Episode 9 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3902	SKIPPED	Jabran Episode 7 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3903	SKIPPED	Jabran Episode 8 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5043	UPLOADED	Devil Episode 1
