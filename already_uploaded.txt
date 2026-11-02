@@ -1165,7 +1165,6 @@
 1856	UPLOADED	Mohe Rang De Episode 1
 4321	UPLOADED	Sona Episode 2
 4066	UPLOADED	XXX Suhagrat of Sarika Salunkhe
-2636	SKIPPED	Bahurani Episode 6	Request was unsuccessful 6 time(s)
 4322	UPLOADED	Sona Episode 1
 4323	SKIPPED	Slip Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%205.mp4
 4324	SKIPPED	Slip Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%204.mp4
@@ -4275,3 +4274,4 @@
 2633	SKIPPED	Bahurani Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Bahurani/Bahurani%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2634	SKIPPED	Bahurani Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Bahurani/Bahurani%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2635	SKIPPED	Bahurani Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Bahurani/Bahurani%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2636	SKIPPED	Bahurani Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Bahurani/Bahurani%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
