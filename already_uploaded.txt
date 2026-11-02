@@ -1272,7 +1272,6 @@
 2712	SKIPPED	Roopmati Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Roopmati/Roopmati%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2713	SKIPPED	Roopmati Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Roopmati/Roopmati%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4332	UPLOADED	Size Matters 2 Episode 9
-620	SKIPPED	Gandi Najar Episode 3	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Gandi%20Najar/Gandi%20Najar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2718	SKIPPED	Honeymoon Lodge Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2720	SKIPPED	Honeymoon Lodge Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2725	SKIPPED	Sanki Painter Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sanki%20Painter/Sanki%20Painter%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4272,3 +4271,4 @@
 5031	SKIPPED	Dishkiyaoon Episode 1	Request was unsuccessful 6 time(s)
 2620	SKIPPED	Sasur Ki Nayee Dulhan Episode 1	Request was unsuccessful 6 time(s)
 3874	UPLOADED	Thand Ka Maza Episode 5
+620	UPLOADED	Gandi Najar Episode 3
