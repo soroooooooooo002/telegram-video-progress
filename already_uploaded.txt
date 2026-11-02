@@ -3902,7 +3902,6 @@
 4753	UPLOADED	Halala Episode 6
 3756	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 2
 4754	UPLOADED	Halala Episode 5
-5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
 4755	UPLOADED	Halala Episode 4
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3757	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 3
@@ -4272,3 +4271,4 @@
 2621	SKIPPED	Raseeya Dakiya Episode 2	Request was unsuccessful 6 time(s)
 3876	SKIPPED	Thand Ka Maza Episode 8	Request was unsuccessful 6 time(s)
 2622	SKIPPED	Raseeya Dakiya Episode 1	Request was unsuccessful 6 time(s)
+5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
