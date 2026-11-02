@@ -4273,3 +4273,4 @@
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
+622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
