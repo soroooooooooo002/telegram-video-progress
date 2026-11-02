@@ -625,7 +625,6 @@
 1485	UPLOADED	Utha Le Jaunga Episode 1
 1486	UPLOADED	Utha Le Jaunga Episode 7
 1487	UPLOADED	Utha Le Jaunga Episode 6
-3897	UPLOADED	Kache Rishtey Episode 4
 1488	UPLOADED	Mithai Wali Episode 4
 1489	UPLOADED	Mithai Wali Episode 1
 1490	UPLOADED	Mithai Wali Episode 3
@@ -4276,3 +4275,4 @@
 3894	SKIPPED	Len Den Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3895	SKIPPED	Kache Rishtey Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3896	SKIPPED	Kache Rishtey Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3897	SKIPPED	Kache Rishtey Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
