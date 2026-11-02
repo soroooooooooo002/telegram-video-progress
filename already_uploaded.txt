@@ -1281,7 +1281,6 @@
 2712	SKIPPED	Roopmati Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Roopmati/Roopmati%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2713	SKIPPED	Roopmati Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Roopmati/Roopmati%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4332	UPLOADED	Size Matters 2 Episode 9
-617	SKIPPED	Gandi Raat Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Gandi%20Raat/Gandi%20Raat%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 618	SKIPPED	Gandi Raat Episode 3	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Gandi%20Raat/Gandi%20Raat%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 619	SKIPPED	Gandi Raat Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Gandi%20Raat/Gandi%20Raat%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 620	SKIPPED	Gandi Najar Episode 3	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Gandi%20Najar/Gandi%20Najar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4270,3 +4269,4 @@
 5022	UPLOADED	Dubey Ji And The Boys Episode 4
 5023	SKIPPED	Dubey Ji And The Boys Episode 3	Request was unsuccessful 6 time(s)
 2615	SKIPPED	Sasur Ki Nayee Dulhan Episode 6	Request was unsuccessful 6 time(s)
+617	SKIPPED	Gandi Raat Episode 2	Request was unsuccessful 6 time(s)
