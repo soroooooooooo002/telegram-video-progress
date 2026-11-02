@@ -3886,7 +3886,6 @@
 3737	UPLOADED	Sajani Episode 2
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
 4747	UPLOADED	Haveli Episode 2
-5027	UPLOADED	Dishkiyaoon Episode 5
 3738	UPLOADED	Tomatino Episode 1
 4748	UPLOADED	Haveli Episode 3
 5028	UPLOADED	Dishkiyaoon Episode 4
@@ -4270,3 +4269,4 @@
 618	SKIPPED	Gandi Raat Episode 3	Request was unsuccessful 6 time(s)
 2617	SKIPPED	Sasur Ki Nayee Dulhan Episode 4	Request was unsuccessful 6 time(s)
 3871	SKIPPED	Thand Ka Maza Episode 2	Request was unsuccessful 6 time(s)
+5027	UPLOADED	Dishkiyaoon Episode 5
