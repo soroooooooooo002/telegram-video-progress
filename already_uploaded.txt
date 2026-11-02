@@ -1066,7 +1066,6 @@
 4313	UPLOADED	Sultan Episode 1
 3981	UPLOADED	Honey Trap Episode 3
 1846	UPLOADED	Nathuniya Episode 5
-2627	UPLOADED	Jadui Palang Episode 1
 1847	UPLOADED	Nathuniya Episode 4
 4314	UPLOADED	Soul Reader Episode 1
 2628	UPLOADED	Gulabo Panwali Episode 2
@@ -4274,3 +4273,4 @@
 2625	UPLOADED	Mr Majnu Episode 2
 5042	UPLOADED	Devil Episode 2
 2626	SKIPPED	Jadui Palang Episode 2	Request was unsuccessful 6 time(s)
+2627	SKIPPED	Jadui Palang Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jadui%20Palang/Jadui%20Palang%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
