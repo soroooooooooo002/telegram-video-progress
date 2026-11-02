@@ -577,7 +577,6 @@
 4216	SKIPPED	Virgin Suspect Episode 1	Request was unsuccessful 6 time(s)
 4217	SKIPPED	Virgin Boys Episode 8	Request was unsuccessful 6 time(s)
 4218	SKIPPED	Virgin Boys Episode 7	Request was unsuccessful 6 time(s)
-3881	SKIPPED	Nehle Pe Dehla Episode 2	Request was unsuccessful 6 time(s)
 4220	SKIPPED	Virgin Boys Episode 5	Request was unsuccessful 6 time(s)
 3882	SKIPPED	Nehle Pe Dehla Episode 6	Request was unsuccessful 6 time(s)
 4221	SKIPPED	Virgin Boys Episode 4	Request was unsuccessful 6 time(s)
@@ -4276,3 +4275,4 @@
 2639	SKIPPED	Ladla Devar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Ladla%20Dever/Ladla%20Dever%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 623	SKIPPED	Feel Karo Love	Request was unsuccessful 6 time(s)
 3880	SKIPPED	Nehle Pe Dehla Episode 7	Request was unsuccessful 6 time(s)
+3881	SKIPPED	Nehle Pe Dehla Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
