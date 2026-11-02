@@ -1150,7 +1150,6 @@
 4329	UPLOADED	Size Matters Episode 3
 4330	UPLOADED	Size Matters Episode 2
 4331	UPLOADED	Size Matters Episode 1
-2700	SKIPPED	Andar Ki Baat Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2701	SKIPPED	Andar Ki Baat Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2702	SKIPPED	Andar Ki Baat Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2703	SKIPPED	Andar Ki Baat Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4282,3 +4281,4 @@
 3905	SKIPPED	Jabran Episode 5 Big Shots	Request was unsuccessful 6 time(s)
 5046	UPLOADED	Devar Ji Episode 5
 5047	SKIPPED	Devar Ji Episode 6	Request was unsuccessful 6 time(s)
+2700	SKIPPED	Andar Ki Baat Episode 6	Request was unsuccessful 6 time(s)
