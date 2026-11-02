@@ -3903,7 +3903,6 @@
 4750	UPLOADED	Halala Episode 9
 4751	UPLOADED	Halala Episode 8
 1236	UPLOADED	Mera Pyaar Pan Nahi Episode 1
-5031	UPLOADED	Dishkiyaoon Episode 1
 3755	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 1
 4752	UPLOADED	Halala Episode 7
 5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
@@ -4271,3 +4270,4 @@
 2619	SKIPPED	Sasur Ki Nayee Dulhan Episode 2	Request was unsuccessful 6 time(s)
 3873	SKIPPED	Thand Ka Maza Episode 4	Request was unsuccessful 6 time(s)
 5030	UPLOADED	Dishkiyaoon Episode 2
+5031	SKIPPED	Dishkiyaoon Episode 1	Request was unsuccessful 6 time(s)
