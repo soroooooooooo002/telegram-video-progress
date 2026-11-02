@@ -169,7 +169,6 @@
 3505	UPLOADED	Innocent Episode 1
 3506	UPLOADED	Innocent Episode 2
 3507	UPLOADED	Innocent Episode 3
-3902	UPLOADED	Jabran Episode 7 Big Shots
 3903	UPLOADED	Jabran Episode 8 Big Shots
 3904	UPLOADED	Jabran Episode 4 Big Shots
 3905	UPLOADED	Jabran Episode 5 Big Shots
@@ -4277,3 +4276,4 @@
 3899	SKIPPED	Kache Rishtey Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3900	SKIPPED	Kache Rishtey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3901	SKIPPED	Jabran Episode 9 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3902	SKIPPED	Jabran Episode 7 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
