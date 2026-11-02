@@ -586,7 +586,6 @@
 4226	SKIPPED	Trapped Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Trapped%20/Trapped%20Episode%201.mp4
 4227	SKIPPED	Tota Episode 6	Request was unsuccessful 6 time(s)
 4228	SKIPPED	Tota Episode 5	Request was unsuccessful 6 time(s)
-3888	SKIPPED	Len Den Episode 2	Request was unsuccessful 6 time(s)
 4229	SKIPPED	Tota Episode 4	Request was unsuccessful 6 time(s)
 1457	UPLOADED	Ansh Episode 2
 4230	SKIPPED	Tota Episode 3	Request was unsuccessful 6 time(s)
@@ -4276,3 +4275,4 @@
 3885	SKIPPED	Nehle Pe Dehla Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3886	SKIPPED	Nehle Pe Dehla Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3887	SKIPPED	Len Den Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3888	SKIPPED	Len Den Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
