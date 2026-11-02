@@ -3904,7 +3904,6 @@
 4756	UPLOADED	Halala Episode 3
 4757	UPLOADED	Halala Episode 2
 3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
-5038	UPLOADED	Devil Episode 6
 4758	UPLOADED	Halala Episode 11
 5039	UPLOADED	Devil Episode 5
 4759	UPLOADED	Halala Episode 10
@@ -4274,3 +4273,4 @@
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
 5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
 5037	SKIPPED	Dil Sambhal Ja Zara Episode 1	Request was unsuccessful 6 time(s)
+5038	SKIPPED	Devil Episode 6	Request was unsuccessful 6 time(s)
