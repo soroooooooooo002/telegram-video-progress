@@ -1062,7 +1062,6 @@
 1844	UPLOADED	Mardana Sasur S2 Episode 6
 4312	UPLOADED	Sultan Episode 2
 3980	UPLOADED	Honey Trap Episode 2
-2626	UPLOADED	Jadui Palang Episode 2
 1845	UPLOADED	Nathuniya Episode 6
 4313	UPLOADED	Sultan Episode 1
 3981	UPLOADED	Honey Trap Episode 3
@@ -4274,3 +4273,4 @@
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
 2625	UPLOADED	Mr Majnu Episode 2
 5042	UPLOADED	Devil Episode 2
+2626	SKIPPED	Jadui Palang Episode 2	Request was unsuccessful 6 time(s)
