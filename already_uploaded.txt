@@ -1053,7 +1053,6 @@
 4309	UPLOADED	Sultan Episode 5
 3976	UPLOADED	Lallu Ki Mami Episode 2
 1840	UPLOADED	Phooti Kismat Episode 4
-2623	UPLOADED	Mr Majnu Episode 4
 1841	UPLOADED	Phooti Kismat Episode 3
 4310	UPLOADED	Sultan Episode 4
 3977	UPLOADED	Lallu Ki Mami Episode 1
@@ -4273,3 +4272,4 @@
 5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
 621	SKIPPED	Gandi Najar Episode 2	Request was unsuccessful 6 time(s)
 3877	SKIPPED	Thand Ka Maza Episode 9	Request was unsuccessful 6 time(s)
+2623	SKIPPED	Mr Majnu Episode 4	Request was unsuccessful 6 time(s)
