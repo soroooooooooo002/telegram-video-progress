@@ -3901,7 +3901,6 @@
 4755	UPLOADED	Halala Episode 4
 3757	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 3
 1237	UPLOADED	Karan Arjun Episode 5
-5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
 4756	UPLOADED	Halala Episode 3
 5037	UPLOADED	Dil Sambhal Ja Zara Episode 1
 4757	UPLOADED	Halala Episode 2
@@ -4274,3 +4273,4 @@
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
+5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
