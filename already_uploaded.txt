@@ -1007,7 +1007,6 @@
 4301	UPLOADED	Sursuri Li Episode 1
 5342	UPLOADED	Khiladi Bhaiya Episode 7
 3962	UPLOADED	Rivaaz Episode 4
-2617	UPLOADED	Sasur Ki Nayee Dulhan Episode 4
 4302	UPLOADED	Sunny Winter Episode 6
 3963	UPLOADED	Rivaaz Episode 5
 5343	UPLOADED	Khiladi Bhaiya Episode 6
@@ -4270,3 +4269,4 @@
 3870	SKIPPED	Thand Ka Maza Episode 3	Request was unsuccessful 6 time(s)
 5026	UPLOADED	Dishkiyaoon Episode 6
 618	SKIPPED	Gandi Raat Episode 3	Request was unsuccessful 6 time(s)
+2617	SKIPPED	Sasur Ki Nayee Dulhan Episode 4	Request was unsuccessful 6 time(s)
