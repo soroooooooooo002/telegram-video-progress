@@ -4272,3 +4272,4 @@
 3876	SKIPPED	Thand Ka Maza Episode 8	Request was unsuccessful 6 time(s)
 2622	SKIPPED	Raseeya Dakiya Episode 1	Request was unsuccessful 6 time(s)
 5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
+621	SKIPPED	Gandi Najar Episode 2	Request was unsuccessful 6 time(s)
