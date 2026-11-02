@@ -3915,7 +3915,6 @@
 4760	UPLOADED	Halala Episode 1
 4761	UPLOADED	Guardian Episode 3
 4762	UPLOADED	Guardian Episode 2
-5042	UPLOADED	Devil Episode 2
 3766	UPLOADED	Sainyaa Salman Episode 1
 4763	UPLOADED	Guardian Episode 1
 5043	UPLOADED	Devil Episode 1
@@ -4274,3 +4273,4 @@
 5041	SKIPPED	Devil Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
 2625	UPLOADED	Mr Majnu Episode 2
+5042	UPLOADED	Devil Episode 2
