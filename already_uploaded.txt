@@ -4279,3 +4279,4 @@
 3904	SKIPPED	Jabran Episode 4 Big Shots	Request was unsuccessful 6 time(s)
 5044	UPLOADED	Devar Ji Episode 8
 624	SKIPPED	Double Date	Request was unsuccessful 6 time(s)
+625	SKIPPED	Double Cross	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalsa%20TV/Double%20Cross.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
