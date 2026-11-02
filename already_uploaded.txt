@@ -1049,7 +1049,6 @@
 4307	UPLOADED	Sunny Winter Episode 1
 1837	UPLOADED	Namkeen Kisse Episode 2
 4308	UPLOADED	Sultan Episode 6
-2621	UPLOADED	Raseeya Dakiya Episode 2
 3975	UPLOADED	Lallu Ki Mami Episode 3
 1838	UPLOADED	Namkeen Kisse Episode 3
 1839	SKIPPED	Desires Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Desires/Desires%20Episode%201.mp4
@@ -4272,3 +4271,4 @@
 5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 5033	SKIPPED	Dil Sambhal Ja Zara Episode 5	Request was unsuccessful 6 time(s)
 3875	SKIPPED	Thand Ka Maza Episode 7	Request was unsuccessful 6 time(s)
+2621	SKIPPED	Raseeya Dakiya Episode 2	Request was unsuccessful 6 time(s)
