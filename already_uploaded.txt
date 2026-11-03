@@ -1206,7 +1206,6 @@
 2892	SKIPPED	Rangbaaz Episode 3	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Desi%20Flix/Rangbaaz/Rangbaaz%20Episode%203.mp4
 4349	UPLOADED	Shahad Episode 2
 4350	UPLOADED	Shahad Episode 3
-657	SKIPPED	Joggers Park Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Joggers%20Park/Joggers%20Park%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 658	SKIPPED	F Se Fantasy Episode 8	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/F%20Se%20Fantasy/F%20Se%20Fantasy%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2893	UPLOADED	Rangbaaz Episode 2
 2894	SKIPPED	Rangbaaz Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/Rangbaaz/Rangbaaz%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4315,3 +4314,4 @@
 5107	UPLOADED	Chehraa Episode 4
 5108	UPLOADED	Chehraa Episode 3
 3938	UPLOADED	Damad Ji Episode 4
+657	UPLOADED	Joggers Park Episode 1
