@@ -946,7 +946,6 @@
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
 2926	SKIPPED	Raat Akeli Hai Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2936	SKIPPED	Sonia Ke Kisse Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Sonia%20Ke%20Kisse/Sonia%20Ke%20Kisse%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2937	SKIPPED	Sonia Ke Kisse Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Sonia%20Ke%20Kisse/Sonia%20Ke%20Kisse%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2938	SKIPPED	Japani Malish Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Japani%20Malish/Japani%20Malish%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2939	SKIPPED	Japani Malish Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Japani%20Malish/Japani%20Malish%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4420,3 +4419,4 @@
 5322	UPLOADED	Anokhi Episode 3
 4145	UPLOADED	Tere Mere Beech Mein Episode 5
 712	UPLOADED	Sapnon Ki Raani Episode 2
+2936	UPLOADED	Sonia Ke Kisse Episode 2
