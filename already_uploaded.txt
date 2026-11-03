@@ -1139,7 +1139,6 @@
 4330	UPLOADED	Size Matters Episode 2
 4331	UPLOADED	Size Matters Episode 1
 4332	UPLOADED	Size Matters 2 Episode 9
-2718	SKIPPED	Honeymoon Lodge Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2720	SKIPPED	Honeymoon Lodge Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2725	SKIPPED	Sanki Painter Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sanki%20Painter/Sanki%20Painter%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2726	SKIPPED	Sapna Tiffin Center Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4296,3 +4295,4 @@
 3918	UPLOADED	Couple Party Episode 3
 5068	UPLOADED	De Dana Dan Episode 5
 2717	UPLOADED	Roopmati Episode 1
+2718	SKIPPED	Honeymoon Lodge Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%203.mp4
