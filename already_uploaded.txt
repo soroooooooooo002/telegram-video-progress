@@ -4333,3 +4333,4 @@
 2768	UPLOADED	Ghoonghat Episode 5
 2769	UPLOADED	Ghoonghat Episode 4
 2770	UPLOADED	Ghoonghat Episode 3
+2771	UPLOADED	Ghoonghat Episode 2
