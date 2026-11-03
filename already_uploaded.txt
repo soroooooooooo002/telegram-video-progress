@@ -862,7 +862,6 @@
 1803	UPLOADED	Adhure Hum Episode 1
 4288	UPLOADED	Sweet Lie Episode 2
 4289	UPLOADED	Sweet Lie Episode 1
-3950	UPLOADED	Ghutan Episode 2
 1804	UPLOADED	Adhure Hum Episode 2
 4290	UPLOADED	Sursuri Li Episode 9
 3951	UPLOADED	Ghutan Episode 3
@@ -4342,3 +4341,4 @@
 5146	UPLOADED	Bhasudi Episode 5
 2787	UPLOADED	Deewane Episode 3
 5147	UPLOADED	Bhasudi Episode 4
+3950	UPLOADED	Ghutan Episode 2
