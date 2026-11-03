@@ -264,7 +264,6 @@
 1303	UPLOADED	Paglet S3 Episode 4
 1304	UPLOADED	Paglet S3 Episode 2
 1305	UPLOADED	Paglet S3 Episode 1
-4100	UPLOADED	Diya Tere Hath Mein Episode 1
 4101	SKIPPED	Seeti Maar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Seeti%20Maar/Seeti%20Maar%20Episode%201.mp4
 4102	SKIPPED	Seeti Maar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Seeti%20Maar/Seeti%20Maar%20Episode%204.mp4
 4103	SKIPPED	Seeti Maar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Seeti%20Maar/Seeti%20Maar%20Episode%203.mp4
@@ -4408,3 +4407,4 @@
 4099	UPLOADED	Diya Tere Hath Mein Episode 2
 2891	UPLOADED	Raaz Episode 1
 701	UPLOADED	Tan Tripti S1 Episode 3
+4100	UPLOADED	Diya Tere Hath Mein Episode 1
