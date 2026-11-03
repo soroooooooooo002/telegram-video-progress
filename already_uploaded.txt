@@ -943,7 +943,6 @@
 4435	UPLOADED	Patra Petika Episode 5
 4436	UPLOADED	Patra Petika Episode 4
 4437	UPLOADED	Patra Petika Episode 3
-3301	UPLOADED	Chumma Chaati Episode 1
 737	UPLOADED	Paurashpur S3 Episode 3
 4438	UPLOADED	Patra Petika Episode 2
 4439	UPLOADED	Paro Episode 7
@@ -4429,3 +4428,4 @@
 4248	UPLOADED	The Host Episode 2
 4249	UPLOADED	The Host Episode 1
 4250	UPLOADED	The Devil Inside Episode 2
+3301	UPLOADED	Chumma Chaati Episode 1
