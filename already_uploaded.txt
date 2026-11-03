@@ -894,7 +894,6 @@
 3178	SKIPPED	Aakhri Sukh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%201.mp4
 3179	SKIPPED	Aakhri Sukh Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%202.mp4
 3180	SKIPPED	Aakhri Sukh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%203.mp4
-3181	SKIPPED	Aakhri Sukh Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%204.mp4
 4365	UPLOADED	Sanskari Episode 5
 3182	UPLOADED	Sainyaa Salman S2 Episode 2
 4366	UPLOADED	Sanskari Episode 4
@@ -4423,3 +4422,4 @@
 5500	SKIPPED	Kunvaaree Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Kunvaaree/Kunvaaree%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5501	SKIPPED	Kunvaaree Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Kunvaaree/Kunvaaree%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5502	SKIPPED	Kunvaaree Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Kunvaaree/Kunvaaree%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3181	SKIPPED	Aakhri Sukh Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
