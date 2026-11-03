@@ -778,7 +778,6 @@
 1806	UPLOADED	Adhure Hum Episode 7
 4293	UPLOADED	Sursuri Li Episode 6
 1807	UPLOADED	Adhure Hum Episode 6
-5337	UPLOADED	Khiladi Bhaiya Episode 1
 4294	UPLOADED	Sursuri Li Episode 5
 4295	UPLOADED	Sursuri Li Episode 4
 5338	UPLOADED	Khiladi Bhaiya Episode 2
@@ -4421,3 +4420,4 @@
 4150	UPLOADED	Lag Ja Gale Episode 5
 2939	UPLOADED	Japani Malish Episode 5
 4151	UPLOADED	Lag Ja Gale Episode 6
+5337	UPLOADED	Khiladi Bhaiya Episode 1
