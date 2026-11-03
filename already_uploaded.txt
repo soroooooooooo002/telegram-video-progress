@@ -3826,7 +3826,6 @@
 4773	UPLOADED	Garam Masala Episode 1
 3778	UPLOADED	Doctor Chaurasiya Episode 4
 4774	UPLOADED	Gandu Episode 2
-5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 3779	UPLOADED	Patang Paseena Episode 6
 5060	UPLOADED	Dekhi Andekhi Episode 6
 4775	UPLOADED	Gandu Episode 1
@@ -4288,3 +4287,4 @@
 3912	UPLOADED	Daakhila Episode 2
 5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 635	UPLOADED	Saheb Biwi Aur Gulam Episode 5
+5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
