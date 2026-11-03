@@ -336,7 +336,6 @@
 1376	UPLOADED	Yamma Yamma Episode 4
 1377	UPLOADED	Yamma Yamma Episode 2
 1378	UPLOADED	Yamma Yamma Episode 1
-4139	UPLOADED	Sarkaaye Lo Khatiya Episode 3
 1379	UPLOADED	Tu Dekh Meri Photo Episode 5
 1380	UPLOADED	Tu Dekh Meri Photo Episode 7
 4140	UPLOADED	Sarkaaye Lo Khatiya Episode 2
@@ -4408,3 +4407,4 @@
 4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
 2902	UPLOADED	Chausar Episode 5
 709	UPLOADED	Talab Episode 2
+4139	UPLOADED	Sarkaaye Lo Khatiya Episode 3
