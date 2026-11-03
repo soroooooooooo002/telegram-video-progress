@@ -866,7 +866,6 @@
 4290	UPLOADED	Sursuri Li Episode 9
 4291	UPLOADED	Sursuri Li Episode 8
 1805	UPLOADED	Adhure Hum Episode 4
-3952	UPLOADED	Chatur Naar Episode 2
 4292	UPLOADED	Sursuri Li Episode 7
 5324	UPLOADED	Anokhi Episode 1
 5325	SKIPPED	Diploma In Suhagrat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Diploma%20in%20Suhagrat/Diploma%20in%20Suhagrat%20E2.mp4
@@ -4349,3 +4348,4 @@
 2792	UPLOADED	Kiraayedaar Episode 3
 2793	UPLOADED	Kiraayedaar Episode 2
 2794	UPLOADED	Kiraayedaar Episode 1
+3952	UPLOADED	Chatur Naar Episode 2
