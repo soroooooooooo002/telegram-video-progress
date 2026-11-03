@@ -3835,7 +3835,6 @@
 5067	UPLOADED	De Dana Dan Episode 6
 3784	UPLOADED	Patang Paseena Episode 1
 4781	UPLOADED	Gaachi Episode 2
-5068	UPLOADED	De Dana Dan Episode 5
 4782	UPLOADED	Gaachi Episode 1
 5069	UPLOADED	De Dana Dan Episode 4
 3785	UPLOADED	Swapna Sundariii Episode 5
@@ -4295,3 +4294,4 @@
 3917	UPLOADED	Couple Party Episode 2
 639	UPLOADED	Kambakht Ishq Episode 4
 3918	UPLOADED	Couple Party Episode 3
+5068	UPLOADED	De Dana Dan Episode 5
