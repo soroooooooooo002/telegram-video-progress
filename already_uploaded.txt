@@ -3828,7 +3828,6 @@
 1241	UPLOADED	Karan Arjun Episode 1
 4770	UPLOADED	Garam Masala Episode 4
 3776	UPLOADED	Doctor Chaurasiya Episode 2
-5054	UPLOADED	Desi Kisse Jaanch Padtaal Episode 5
 4771	UPLOADED	Garam Masala Episode 3
 5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 1242	UPLOADED	Haseeno Ka Inteqaam Episode 4
@@ -4285,3 +4284,4 @@
 2703	UPLOADED	Andar Ki Baat Episode 9
 632	UPLOADED	Behaya Episode 1
 3910	UPLOADED	Daakhila Episode 1
+5054	UPLOADED	Desi Kisse Jaanch Padtaal Episode 5
