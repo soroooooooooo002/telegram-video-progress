@@ -903,7 +903,6 @@
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4373	UPLOADED	Sabak Ishq Ka Episode 3
 4374	UPLOADED	Sabak Ishq Ka Episode 2
-3189	UPLOADED	Sainyaa Salman S2 Episode 8
 4375	UPLOADED	Sabak Ishq Ka Episode 1
 4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
 3190	UPLOADED	Sainyaa Salman S2 Episode 10
@@ -4423,3 +4422,4 @@
 3186	SKIPPED	Sainyaa Salman S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3187	SKIPPED	Sainyaa Salman S2 Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3188	SKIPPED	Sainyaa Salman S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3189	SKIPPED	Sainyaa Salman S2 Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
