@@ -932,7 +932,6 @@
 4410	UPLOADED	Relationship Counsellor Episode 5
 4411	UPLOADED	Relationship Counsellor Episode 4
 4412	UPLOADED	Relationship Counsellor Episode 3
-3247	UPLOADED	L Lag Gaye Episode 5
 4413	UPLOADED	Relationship Counsellor Episode 2
 3248	UPLOADED	L Lag Gaye Episode 6
 3249	UPLOADED	Shudh Shakahari Episode 1
@@ -4427,3 +4426,4 @@
 3246	UPLOADED	L Lag Gaye Episode 4
 4236	UPLOADED	Tohfa Episode 4
 4237	UPLOADED	Tohfa Episode 3
+3247	UPLOADED	L Lag Gaye Episode 5
