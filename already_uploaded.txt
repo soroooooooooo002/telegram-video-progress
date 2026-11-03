@@ -857,7 +857,6 @@
 679	SKIPPED	X Tape Episode 6	Request was unsuccessful 6 time(s)
 4355	UPLOADED	Secretary Episode 1
 3101	UPLOADED	Jane Anjane Mein 7 Episode 1
-3105	UPLOADED	Jane Anjane Mein 6 Episode 2
 3106	UPLOADED	Jane Anjane Mein 6 Episode 1
 3107	SKIPPED	Haveli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FHaveli-C1%2FHaveli%20E1.mp4
 3108	SKIPPED	Haveli Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FHaveli-C1%2FHaveli%20E2.mp4
@@ -4423,3 +4422,4 @@
 3102	UPLOADED	Jane Anjane Mein 6 Episode 6
 3103	UPLOADED	Jane Anjane Mein 6 Episode 4
 3104	UPLOADED	Jane Anjane Mein 6 Episode 3
+3105	UPLOADED	Jane Anjane Mein 6 Episode 2
