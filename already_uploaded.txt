@@ -1949,7 +1949,6 @@
 3372	UPLOADED	Joru Ka Gulaam Episode 3
 812	UPLOADED	Do Ankhein Chaar Haath Episode 7
 4509	UPLOADED	Mohan Chabhiwala Episode 5
-5120	UPLOADED	Chahat Episode 3
 3373	UPLOADED	Joru Ka Gulaam Episode 2
 4510	UPLOADED	Mohan Chabhiwala Episode 4
 5121	UPLOADED	Chahat Episode 2
@@ -4318,3 +4317,4 @@
 5119	UPLOADED	Chahat Episode 4
 3941	UPLOADED	Damad Ji Episode 3
 2748	UPLOADED	Tadap Digi Movieplex Episode 1
+5120	UPLOADED	Chahat Episode 3
