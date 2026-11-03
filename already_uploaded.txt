@@ -837,7 +837,6 @@
 4274	UPLOADED	Teekhi Chutney Episode 4
 1791	UPLOADED	Kulta Digi Movieplex Episode 1
 1792	UPLOADED	Joru Ka Gulaam Episode 6
-3944	UPLOADED	Chakori Episode 1
 4275	UPLOADED	Teekhi Chutney Episode 3
 4276	UPLOADED	Teekhi Chutney Episode 2
 3945	UPLOADED	Chakori Episode 3
@@ -4338,3 +4337,4 @@
 5130	UPLOADED	Call Center Episode 4
 668	UPLOADED	Emi Episode 1
 2777	UPLOADED	Naram Garam Episode 2
+3944	UPLOADED	Chakori Episode 1
