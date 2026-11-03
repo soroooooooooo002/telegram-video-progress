@@ -3825,7 +3825,6 @@
 3778	UPLOADED	Doctor Chaurasiya Episode 4
 4774	UPLOADED	Gandu Episode 2
 3779	UPLOADED	Patang Paseena Episode 6
-5060	UPLOADED	Dekhi Andekhi Episode 6
 4775	UPLOADED	Gandu Episode 1
 1244	UPLOADED	Haseeno Ka Inteqaam Episode 2
 5061	UPLOADED	Dekhi Andekhi Episode 7
@@ -4288,3 +4287,4 @@
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 2713	UPLOADED	Roopmati Episode 5
 3913	UPLOADED	Daakhila Episode 6
+5060	UPLOADED	Dekhi Andekhi Episode 6
