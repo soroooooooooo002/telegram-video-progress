@@ -920,7 +920,6 @@
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
 2926	SKIPPED	Raat Akeli Hai Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2945	SKIPPED	Bold Is Gold Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Bold%20Is%20Gold/Bold%20Is%20Gold%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2946	SKIPPED	Bold Is Gold Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Bold%20Is%20Gold/Bold%20Is%20Gold%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2947	SKIPPED	Aamras Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Aamras/Aamras%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2948	SKIPPED	Aamras Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Funtyy/Aamras/Aamras%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4421,3 +4420,4 @@
 2944	UPLOADED	Bold Is Gold Episode 3
 4157	UPLOADED	Balam Pichkari Episode 3
 5342	UPLOADED	Khiladi Bhaiya Episode 7
+2945	UPLOADED	Bold Is Gold Episode 2
