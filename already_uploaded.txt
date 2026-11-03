@@ -944,7 +944,6 @@
 4439	UPLOADED	Paro Episode 7
 4440	UPLOADED	Patra Petika Episode 1
 4441	UPLOADED	Paro Episode 6
-3303	UPLOADED	Chumma Chaati Episode 3
 4442	UPLOADED	Paro Episode 5
 3304	UPLOADED	Chumma Chaati Episode 4
 4443	UPLOADED	Paro Episode 4
@@ -4430,3 +4429,4 @@
 3302	UPLOADED	Chumma Chaati Episode 2
 4255	UPLOADED	The Bull Of Dalal Street Episode 9
 798	UPLOADED	Kaam Shastra Episode 4
+3303	UPLOADED	Chumma Chaati Episode 3
