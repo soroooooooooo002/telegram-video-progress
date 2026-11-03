@@ -4331,3 +4331,4 @@
 2766	SKIPPED	Biwi Ho To Aisi Jugnu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Biwi%20Ho%20To%20Aisi/Biwi%20Ho%20To%20Aisi%20Episode%201.mp4
 2767	SKIPPED	Biwi Ho To Aisi Jugnu Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Biwi%20Ho%20To%20Aisi/Biwi%20Ho%20To%20Aisi%20Episode%202.mp4
 2768	UPLOADED	Ghoonghat Episode 5
+2769	UPLOADED	Ghoonghat Episode 4
