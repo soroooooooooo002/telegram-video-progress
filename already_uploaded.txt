@@ -449,7 +449,6 @@
 1478	UPLOADED	Mere Angane Mein Episode 6
 1479	UPLOADED	Mere Angane Mein Episode 4
 1480	UPLOADED	Utha Le Jaunga Episode 5
-4237	UPLOADED	Tohfa Episode 3
 1483	UPLOADED	Utha Le Jaunga Episode 3
 1484	UPLOADED	Utha Le Jaunga Episode 4
 1485	UPLOADED	Utha Le Jaunga Episode 1
@@ -4427,3 +4426,4 @@
 5625	UPLOADED	Paappi Gudda Episode 2
 3246	UPLOADED	L Lag Gaye Episode 4
 4236	UPLOADED	Tohfa Episode 4
+4237	UPLOADED	Tohfa Episode 3
