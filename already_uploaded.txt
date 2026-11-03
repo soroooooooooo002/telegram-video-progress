@@ -929,7 +929,6 @@
 4412	UPLOADED	Relationship Counsellor Episode 3
 4413	UPLOADED	Relationship Counsellor Episode 2
 4414	UPLOADED	Relationship Counsellor Episode 1
-3250	UPLOADED	Shudh Shakahari Episode 2
 4415	UPLOADED	Red Light Episode 6
 3251	UPLOADED	Shudh Shakahari Episode 3
 4416	UPLOADED	Red Light Episode 5
@@ -4427,3 +4426,4 @@
 5628	SKIPPED	Paap Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Paap/Paap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4242	UPLOADED	The Last Show Episode 6
 3249	UPLOADED	Shudh Shakahari Episode 1
+3250	SKIPPED	Shudh Shakahari Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Shudh%20Shakahari/Shudh%20Shakahari%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
