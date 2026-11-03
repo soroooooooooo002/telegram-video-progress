@@ -929,7 +929,6 @@
 4414	UPLOADED	Relationship Counsellor Episode 1
 4415	UPLOADED	Red Light Episode 6
 4416	UPLOADED	Red Light Episode 5
-3265	UPLOADED	Dagabaaz Episode 2
 3266	UPLOADED	Dagabaaz Episode 1
 3267	UPLOADED	Dagabaaz Episode 3
 3268	UPLOADED	Dagabaaz Episode 4
@@ -4429,3 +4428,4 @@
 3262	SKIPPED	Shraap Mukti Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Shraap%20Mukti/Shraap%20Mukti%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3263	SKIPPED	Shraap Mukti Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Shraap%20Mukti/Shraap%20Mukti%20Episode%203.mp4
 3264	SKIPPED	Maid For Each Other	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bulbul%20Play/Single/Maid%20For%20Each%20Other.mp4
+3265	UPLOADED	Dagabaaz Episode 2
