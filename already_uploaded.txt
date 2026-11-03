@@ -1196,7 +1196,6 @@
 2885	SKIPPED	2 Kamine 2 Nagine Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/2%20Kamine%202%20Nagine/2%20Kamine%202%20Nagine%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4337	UPLOADED	Size Matters 2 Episode 4
 4338	UPLOADED	Size Matters 2 Episode 3
-651	UPLOADED	Obsession S2 Episode 4
 4339	UPLOADED	Size Matters 2 Episode 2
 4340	UPLOADED	Size Matters 2 Episode 1
 2889	UPLOADED	Raaz Episode 3
@@ -4313,3 +4312,4 @@
 5095	UPLOADED	Choodiwala Episode 3
 5096	UPLOADED	Choodiwala Episode 2
 3934	UPLOADED	VideoBaaz Episode 3
+651	UPLOADED	Obsession S2 Episode 4
