@@ -901,7 +901,6 @@
 4369	UPLOADED	Sanskari Episode 1
 4370	UPLOADED	Sabak Ishq Ka Episode 6
 4371	UPLOADED	Sabak Ishq Ka Episode 5
-3187	UPLOADED	Sainyaa Salman S2 Episode 7
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4373	UPLOADED	Sabak Ishq Ka Episode 3
 4374	UPLOADED	Sabak Ishq Ka Episode 2
@@ -4423,3 +4422,4 @@
 4207	UPLOADED	Walkman Episode 3
 3185	UPLOADED	Sainyaa Salman S2 Episode 3
 3186	SKIPPED	Sainyaa Salman S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3187	SKIPPED	Sainyaa Salman S2 Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
