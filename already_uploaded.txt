@@ -957,7 +957,6 @@
 4307	UPLOADED	Sunny Winter Episode 1
 1837	UPLOADED	Namkeen Kisse Episode 2
 4308	UPLOADED	Sultan Episode 6
-3975	UPLOADED	Lallu Ki Mami Episode 3
 1838	UPLOADED	Namkeen Kisse Episode 3
 1839	SKIPPED	Desires Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Desires/Desires%20Episode%201.mp4
 4309	UPLOADED	Sultan Episode 5
@@ -4380,3 +4379,4 @@
 3974	SKIPPED	Aao Kare Gutur Gu Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E1.mp4
 685	UPLOADED	Vashikaran Episode 4
 2844	UPLOADED	Silsila Hai Pyaar Ka Episode 1
+3975	UPLOADED	Lallu Ki Mami Episode 3
