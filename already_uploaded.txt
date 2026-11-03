@@ -1242,7 +1242,6 @@
 4426	UPLOADED	Raat Baaki Hai Episode 1
 3285	UPLOADED	Chadar Badli Episode 4
 4427	UPLOADED	Purani Haveli Episode 6
-731	UPLOADED	Punarjanam Episode 4
 3286	UPLOADED	Chadar Badli Episode 3
 4428	UPLOADED	Purani Haveli Episode 5
 732	UPLOADED	Punarjanam Episode 3
@@ -4422,3 +4421,4 @@
 4181	UPLOADED	Woodpecker Episode 5
 5454	UPLOADED	Chup Chup Ke Episode 3
 4182	UPLOADED	Woodpecker Episode 4
+731	UPLOADED	Punarjanam Episode 4
