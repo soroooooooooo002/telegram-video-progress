@@ -661,7 +661,6 @@
 1694	UPLOADED	Damaad Ji 2 Episode 1
 1516	UPLOADED	Kaanta Laga Episode 5
 1517	SKIPPED	Aah Se Aaha Tak Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Aah%20Se%20Aaha%20Tak/Aah%20Se%20Aaha%20Tak%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3919	SKIPPED	Couple Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Couple%20Party/Couple%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1518	UPLOADED	Kaanta Laga Episode 3
 1519	UPLOADED	Kaanta Laga Episode 4
 1520	UPLOADED	Kaanta Laga Episode 2
@@ -4297,3 +4296,4 @@
 2719	SKIPPED	Honeymoon Lodge Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%202.mp4
 2720	SKIPPED	Honeymoon Lodge Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Honeymoon%20Lodge/Honeymoon%20Lodge%20Episode%201.mp4
 5069	UPLOADED	De Dana Dan Episode 4
+3919	UPLOADED	Couple Party Episode 6
