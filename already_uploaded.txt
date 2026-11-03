@@ -4410,3 +4410,4 @@
 4140	UPLOADED	Sarkaaye Lo Khatiya Episode 2
 2909	UPLOADED	Ehsaas Episode 4
 2911	SKIPPED	Pyaar Tune Kya Kiya Episode 13	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%2013.mp4
+2912	SKIPPED	Pyaar Tune Kya Kiya Episode 12	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%2012.mp4
