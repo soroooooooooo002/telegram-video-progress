@@ -1948,7 +1948,6 @@
 811	UPLOADED	Rangeela Episode 1
 3370	UPLOADED	Kalpana Episode 3
 4507	UPLOADED	Mohan Chabhiwala Episode 7
-5117	UPLOADED	Chahat Episode 6
 3371	UPLOADED	Joru Ka Gulaam Episode 1
 4508	UPLOADED	Mohan Chabhiwala Episode 6
 5118	UPLOADED	Chahat Episode 5
@@ -4318,3 +4317,4 @@
 5116	UPLOADED	Cheese Cake Episode 1
 2746	UPLOADED	Lag Gayi Lottery Episode 3
 662	UPLOADED	F Se Fantasy Episode 4
+5117	UPLOADED	Chahat Episode 6
