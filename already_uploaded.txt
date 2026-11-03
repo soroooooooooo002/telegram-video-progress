@@ -4389,3 +4389,4 @@
 2857	SKIPPED	Chirag Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Chirag/Chirag%20Episode%201.mp4
 5181	UPLOADED	Blue Night Episode 3
 689	UPLOADED	Utha Patak S4 Episode 4
+2858	UPLOADED	Seal S6 Episode 1
