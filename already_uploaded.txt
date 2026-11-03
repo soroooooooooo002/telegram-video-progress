@@ -1203,7 +1203,6 @@
 2905	UPLOADED	Sarpanch Episode 2
 2906	UPLOADED	Sarpanch Episode 1
 2907	UPLOADED	Ehsaas Episode 6
-669	SKIPPED	Emi Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Emi/Emi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 670	SKIPPED	Kanpuriya Episode 9	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Kanpuriya/Kanpuriya%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 671	SKIPPED	Kanpuriya Episode 8	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Kanpuriya/Kanpuriya%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 672	SKIPPED	Kanpuriya Episode 7	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Kanpuriya/Kanpuriya%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4338,3 +4337,4 @@
 2777	UPLOADED	Naram Garam Episode 2
 3944	UPLOADED	Chakori Episode 1
 5131	UPLOADED	Call Center Episode 3
+669	UPLOADED	Emi Episode 2
