@@ -262,7 +262,6 @@
 1302	SKIPPED	Kiraedaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%204.mp4
 3739	UPLOADED	Tomatino Episode 2
 1303	UPLOADED	Paglet S3 Episode 4
-4098	UPLOADED	Ghanta Ki Baat Episode 1
 1304	UPLOADED	Paglet S3 Episode 2
 1305	UPLOADED	Paglet S3 Episode 1
 4100	UPLOADED	Diya Tere Hath Mein Episode 1
@@ -4407,3 +4406,4 @@
 4097	UPLOADED	Ghanta Ki Baat Episode 2
 2889	UPLOADED	Raaz Episode 3
 5306	UPLOADED	Damaadji Lage Raho Episode 5
+4098	UPLOADED	Ghanta Ki Baat Episode 1
