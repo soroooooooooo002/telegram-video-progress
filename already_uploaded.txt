@@ -1267,7 +1267,6 @@
 4384	UPLOADED	Robot Episode 8
 3194	UPLOADED	Prem 2020 Episode 3
 4385	UPLOADED	Robot Episode 7
-707	UPLOADED	Talab Episode 3
 4386	UPLOADED	Robot Episode 6
 4387	UPLOADED	Robot Episode 5
 708	UPLOADED	Talab Episode 1
@@ -4408,3 +4407,4 @@
 5317	UPLOADED	Gharwali Baharwali Episode 4
 2898	UPLOADED	Thoda Tikhee Thoda Spicy Episode 2
 4134	UPLOADED	Biwi Ka Khat Episode 2
+707	UPLOADED	Talab Episode 3
