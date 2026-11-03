@@ -314,7 +314,6 @@
 1354	UPLOADED	Dil Pe Bojh Episode 6
 1355	UPLOADED	Dil Pe Bojh Episode 7
 1356	UPLOADED	Dil Pe Bojh Episode 5
-4134	UPLOADED	Biwi Ka Khat Episode 2
 1357	UPLOADED	Bholi Sajni Episode 4
 1358	UPLOADED	Bholi Sajni Episode 3
 4135	UPLOADED	Biwi Ka Khat Episode 3
@@ -4408,3 +4407,4 @@
 4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
 5317	UPLOADED	Gharwali Baharwali Episode 4
 2898	UPLOADED	Thoda Tikhee Thoda Spicy Episode 2
+4134	UPLOADED	Biwi Ka Khat Episode 2
