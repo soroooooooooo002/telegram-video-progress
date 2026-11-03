@@ -423,7 +423,6 @@
 1453	UPLOADED	Ansh Episode 5
 4205	SKIPPED	Walkman Episode 5	Request was unsuccessful 6 time(s)
 1454	UPLOADED	Lag Ja Gale Episode 7
-4215	SKIPPED	Virgin Suspect Episode 2	Request was unsuccessful 6 time(s)
 4216	SKIPPED	Virgin Suspect Episode 1	Request was unsuccessful 6 time(s)
 4217	SKIPPED	Virgin Boys Episode 8	Request was unsuccessful 6 time(s)
 4218	SKIPPED	Virgin Boys Episode 7	Request was unsuccessful 6 time(s)
@@ -4426,3 +4425,4 @@
 767	SKIPPED	Jaal Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 768	SKIPPED	Jaal Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4214	UPLOADED	Virgin Suspect Episode 3
+4215	UPLOADED	Virgin Suspect Episode 2
