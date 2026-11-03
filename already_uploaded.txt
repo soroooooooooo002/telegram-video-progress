@@ -4359,3 +4359,4 @@
 677	UPLOADED	Kanpuriya Episode 2
 2804	UPLOADED	Panchbali Episode 3
 2805	SKIPPED	Andika Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Andika/Andika%20E2.mp4
+2806	SKIPPED	Andika Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Andika/Andika%20E1.mp4
