@@ -793,7 +793,6 @@
 5304	UPLOADED	Ladla Dever Episode 1
 4266	UPLOADED	The Bull Of Dalal Street Episode 1
 1759	UPLOADED	Nadaan Episode 1
-3941	UPLOADED	Damad Ji Episode 3
 4267	UPLOADED	Tere Jaisa Yaar Kaha Episode 7
 1760	UPLOADED	Madhushaala Episode 4
 1761	UPLOADED	Madhushaala Episode 5
@@ -4318,3 +4317,4 @@
 5118	UPLOADED	Chahat Episode 5
 664	UPLOADED	F Se Fantasy Episode 2
 5119	UPLOADED	Chahat Episode 4
+3941	UPLOADED	Damad Ji Episode 3
