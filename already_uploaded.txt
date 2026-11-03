@@ -775,7 +775,6 @@
 1751	UPLOADED	Samay Yaatra Episode 1
 4261	UPLOADED	The Bull Of Dalal Street Episode 3
 1752	UPLOADED	Naqaab Episode 6
-3939	UPLOADED	Damad Ji Episode 5
 4262	UPLOADED	The Bull Of Dalal Street Episode 2
 5300	UPLOADED	Rangili Dobhan Episode 4
 1753	UPLOADED	Naqaab Episode 5
@@ -4318,3 +4317,4 @@
 5112	UPLOADED	Cheese Cake Episode 5
 2743	UPLOADED	Aaina Episode 2
 659	UPLOADED	F Se Fantasy Episode 7
+3939	UPLOADED	Damad Ji Episode 5
