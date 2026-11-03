@@ -271,7 +271,6 @@
 1310	UPLOADED	Daan Episode 1
 1311	UPLOADED	Talab Episode 2
 1312	UPLOADED	London Dreams Episode 3
-4129	UPLOADED	Biwi Ka Khat Episode 6
 1313	UPLOADED	London Dreams Episode 2
 4130	UPLOADED	Biwi Ka Khat Episode 7
 1314	UPLOADED	London Dreams Episode 1
@@ -4408,3 +4407,4 @@
 5314	UPLOADED	Gharwali Baharwali Episode 7
 4128	UPLOADED	Daal Chawal Episode 4
 704	UPLOADED	Talab Episode 6
+4129	UPLOADED	Biwi Ka Khat Episode 6
