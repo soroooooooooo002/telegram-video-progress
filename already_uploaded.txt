@@ -936,7 +936,6 @@
 3237	UPLOADED	Lalach Episode 2
 4400	UPLOADED	Revenge Episode 8
 4401	UPLOADED	Revenge Episode 7
-3238	UPLOADED	Lalach Episode 3
 4402	UPLOADED	Revenge Episode 6
 3239	UPLOADED	Lalach Episode 4
 4403	UPLOADED	Revenge Episode 5
@@ -4426,3 +4425,4 @@
 784	SKIPPED	Aaiyashi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 785	SKIPPED	Aaiyashi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Aaiyashi/Aaiyashi%20Episode%202.mp4
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3238	UPLOADED	Lalach Episode 3
