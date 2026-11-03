@@ -1273,7 +1273,6 @@
 3200	UPLOADED	Therapy Episode 1
 4389	UPLOADED	Robot Episode 3
 3201	UPLOADED	Vadh Episode 2
-709	UPLOADED	Talab Episode 2
 4390	UPLOADED	Robot Episode 2
 3202	UPLOADED	Vadh Episode 1
 3203	UPLOADED	khoj Episode 1
@@ -4408,3 +4407,4 @@
 5319	UPLOADED	Gharwali Baharwali Episode 2
 4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
 2902	UPLOADED	Chausar Episode 5
+709	UPLOADED	Talab Episode 2
