@@ -4336,3 +4336,4 @@
 2771	UPLOADED	Ghoonghat Episode 2
 2772	UPLOADED	Ghoonghat Episode 1
 2773	UPLOADED	Julia Episode 2
+2774	UPLOADED	Julia Episode 1
