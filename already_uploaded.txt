@@ -1727,7 +1727,6 @@
 4622	UPLOADED	Khidki Episode 5
 1165	UPLOADED	X Class Episode 4
 4623	UPLOADED	Khidki Episode 4
-5643	UPLOADED	Chachi Kand Episode 1
 4624	UPLOADED	Khidki Episode 3
 3612	SKIPPED	Guru Dakshina Episode 8	Failed to upload file part 440.
 1166	UPLOADED	X Class Episode 5
@@ -4430,3 +4429,4 @@
 4263	UPLOADED	The Bull Of Dalal Street Episode 12
 3321	UPLOADED	Jamai Raja Episode 3
 4264	UPLOADED	The Bull Of Dalal Street Episode 10
+5643	UPLOADED	Chachi Kand Episode 1
