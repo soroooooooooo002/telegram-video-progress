@@ -1119,7 +1119,6 @@
 4332	UPLOADED	Size Matters 2 Episode 9
 2728	SKIPPED	Sapna Tiffin Center Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2747	SKIPPED	Lag Gayi Lottery Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lag%20Gayi%20Lottery/Lag%20Gayi%20Lottery%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2748	SKIPPED	Tadap Digi Movieplex Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Tadap/Tadap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4334	UPLOADED	Size Matters 2 Episode 7
 2755	UPLOADED	Naukar No 1 Episode 5
 2757	UPLOADED	Naukar No 1 Episode 3
@@ -4318,3 +4317,4 @@
 664	UPLOADED	F Se Fantasy Episode 2
 5119	UPLOADED	Chahat Episode 4
 3941	UPLOADED	Damad Ji Episode 3
+2748	UPLOADED	Tadap Digi Movieplex Episode 1
