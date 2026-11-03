@@ -805,7 +805,6 @@
 4300	UPLOADED	Sursuri Li Episode 10
 1832	UPLOADED	Utha Patak S3 Episode 3
 4301	UPLOADED	Sursuri Li Episode 1
-5342	UPLOADED	Khiladi Bhaiya Episode 7
 4302	UPLOADED	Sunny Winter Episode 6
 5343	UPLOADED	Khiladi Bhaiya Episode 6
 4303	UPLOADED	Sunny Winter Episode 5
@@ -4421,3 +4420,4 @@
 5341	UPLOADED	Khiladi Bhaiya Episode 3
 2944	UPLOADED	Bold Is Gold Episode 3
 4157	UPLOADED	Balam Pichkari Episode 3
+5342	UPLOADED	Khiladi Bhaiya Episode 7
