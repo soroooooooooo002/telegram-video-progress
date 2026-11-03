@@ -938,7 +938,6 @@
 729	UPLOADED	Pyaari Bhabhi Episode 2
 4425	UPLOADED	Raat Baaki Hai Episode 3
 4426	UPLOADED	Raat Baaki Hai Episode 1
-3285	UPLOADED	Chadar Badli Episode 4
 4427	UPLOADED	Purani Haveli Episode 6
 3286	UPLOADED	Chadar Badli Episode 3
 4428	UPLOADED	Purani Haveli Episode 5
@@ -4429,3 +4428,4 @@
 3282	SKIPPED	Rajni Kaand S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3283	SKIPPED	Rajni Kaand S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3284	SKIPPED	Rajni Kaand S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3285	SKIPPED	Chadar Badli Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Chadar%20Badli/Chadar%20Badli%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
