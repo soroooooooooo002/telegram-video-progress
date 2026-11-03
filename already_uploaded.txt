@@ -956,7 +956,6 @@
 4348	UPLOADED	Shahad Episode 4
 4349	UPLOADED	Shahad Episode 2
 4350	UPLOADED	Shahad Episode 3
-2894	SKIPPED	Rangbaaz Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/Rangbaaz/Rangbaaz%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4351	UPLOADED	Shahad Episode 1
 4352	UPLOADED	Secretary Episode 4
 2895	UPLOADED	Sitiyabaaz Episode 3
@@ -4408,3 +4407,4 @@
 5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
 4126	UPLOADED	Haseena Maan Jayegi Episode 7
 703	UPLOADED	Tan Tripti S1 Episode 2
+2894	UPLOADED	Rangbaaz Episode 1
