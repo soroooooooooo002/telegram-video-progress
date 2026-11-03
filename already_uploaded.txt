@@ -4396,3 +4396,4 @@
 2867	SKIPPED	Tadap 2 Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%208.mp4
 2868	SKIPPED	Tadap 2 Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%207.mp4
 2869	SKIPPED	Tadap 2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%206.mp4
+2870	SKIPPED	Tadap 2 Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%205.mp4
