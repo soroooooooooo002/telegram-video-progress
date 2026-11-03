@@ -1946,7 +1946,6 @@
 4552	UPLOADED	Maa Ka Naka Episode 1
 4553	UPLOADED	Maa Devrani Beti Jethani Episode 4
 825	UPLOADED	Feelings Episode 1
-5178	UPLOADED	Love Sucks
 4554	UPLOADED	Maa Devrani Beti Jethani Episode 3
 3395	UPLOADED	Atithi Kuch Jane Anjane Se Episode 1
 4555	UPLOADED	Maa Devrani Beti Jethani Episode 2
@@ -4380,3 +4379,4 @@
 2844	UPLOADED	Silsila Hai Pyaar Ka Episode 1
 3975	UPLOADED	Lallu Ki Mami Episode 3
 686	UPLOADED	Vashikaran Episode 3
+5178	UPLOADED	Love Sucks
