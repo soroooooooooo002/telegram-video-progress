@@ -1244,7 +1244,6 @@
 3283	SKIPPED	Rajni Kaand S2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E3.mp4
 3284	SKIPPED	Rajni Kaand S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E4.mp4
 4425	UPLOADED	Raat Baaki Hai Episode 3
-730	UPLOADED	Pyaari Bhabhi Episode 1
 4426	UPLOADED	Raat Baaki Hai Episode 1
 3285	UPLOADED	Chadar Badli Episode 4
 4427	UPLOADED	Purani Haveli Episode 6
@@ -4421,3 +4420,4 @@
 2988	UPLOADED	Bhabhi Ka Pyaar Episode 3
 2989	UPLOADED	Bhabhi Ka Pyaar Episode 2
 4180	UPLOADED	Woodpecker Episode 6
+730	UPLOADED	Pyaari Bhabhi Episode 1
