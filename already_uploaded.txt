@@ -881,7 +881,6 @@
 1807	UPLOADED	Adhure Hum Episode 6
 5337	UPLOADED	Khiladi Bhaiya Episode 1
 4294	UPLOADED	Sursuri Li Episode 5
-3954	UPLOADED	Chatur Naar Episode 4
 4295	UPLOADED	Sursuri Li Episode 4
 5338	UPLOADED	Khiladi Bhaiya Episode 2
 1808	UPLOADED	Adhure Hum Episode 8
@@ -4356,3 +4355,4 @@
 2802	SKIPPED	Panchbali Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Panchbali/Panchbali%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2803	SKIPPED	Panchbali Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Panchbali/Panchbali%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3953	UPLOADED	Chatur Naar Episode 1
+3954	SKIPPED	Chatur Naar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Movie%20Zoo/Chatur%20Naar/Chatur%20Naar%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
