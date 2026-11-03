@@ -1063,7 +1063,6 @@
 4440	UPLOADED	Patra Petika Episode 1
 4441	UPLOADED	Paro Episode 6
 3303	UPLOADED	Chumma Chaati Episode 3
-739	UPLOADED	Paurashpur S3 Episode 2
 4442	UPLOADED	Paro Episode 5
 3304	UPLOADED	Chumma Chaati Episode 4
 4443	UPLOADED	Paro Episode 4
@@ -4423,3 +4422,4 @@
 4209	UPLOADED	Walkman Episode 1
 4210	UPLOADED	Virgin Suspect Episode 7
 738	UPLOADED	Paurashpur S3 Episode 1
+739	SKIPPED	Paurashpur S3 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Paurashpur%20S3/Paurashpur%20S3%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
