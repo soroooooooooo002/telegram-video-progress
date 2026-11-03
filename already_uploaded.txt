@@ -696,7 +696,6 @@
 4245	UPLOADED	The Last Show Episode 3
 1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
 1538	UPLOADED	Shaukiya Episode 3
-3929	UPLOADED	Chitthi Episode 7
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 1539	UPLOADED	Tauba Tauba Episode 4
 4246	UPLOADED	The Last Show Episode 2
@@ -4305,3 +4304,4 @@
 5081	UPLOADED	D Code Episode 1
 645	UPLOADED	Saheb Biwi Aur Gulam Episode 4
 5082	UPLOADED	Cyanide Episode 5
+3929	UPLOADED	Chitthi Episode 7
