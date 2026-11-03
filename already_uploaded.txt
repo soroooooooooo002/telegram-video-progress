@@ -750,7 +750,6 @@
 1754	UPLOADED	Nadaan Episode 7
 4264	UPLOADED	The Bull Of Dalal Street Episode 10
 1755	UPLOADED	Nadaan Episode 6
-5302	UPLOADED	Ladla Dever Episode 2
 1756	UPLOADED	Nadaan Episode 4
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
 3940	UPLOADED	Damad Ji Episode 6
@@ -4406,3 +4405,4 @@
 696	UPLOADED	Tan Tripti S2 Episode 4
 4093	UPLOADED	Midnight
 2887	UPLOADED	Munni Badnaam Hui Episode 2
+5302	UPLOADED	Ladla Dever Episode 2
