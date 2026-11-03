@@ -834,7 +834,6 @@
 1789	SKIPPED	Shatir Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E1.mp4
 4273	UPLOADED	Tere Jaisa Yaar Kaha Episode 1
 1790	UPLOADED	Kulta Digi Movieplex Episode 4
-3943	UPLOADED	Damad Ji Episode 1
 4274	UPLOADED	Teekhi Chutney Episode 4
 1791	UPLOADED	Kulta Digi Movieplex Episode 1
 1792	UPLOADED	Joru Ka Gulaam Episode 6
@@ -4337,3 +4336,4 @@
 2775	UPLOADED	Naram Garam Episode 4
 5128	UPLOADED	Call Center Episode 7
 5129	UPLOADED	Call Center Episode 5
+3943	UPLOADED	Damad Ji Episode 1
