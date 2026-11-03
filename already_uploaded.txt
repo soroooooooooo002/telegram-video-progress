@@ -3828,7 +3828,6 @@
 1244	UPLOADED	Haseeno Ka Inteqaam Episode 2
 3780	UPLOADED	Patang Paseena Episode 5
 4776	UPLOADED	Gaachi Episode 7
-5062	UPLOADED	Dekhi Andekhi Episode 4
 4777	UPLOADED	Gaachi Episode 6
 3781	UPLOADED	Patang Paseena Episode 4
 5063	UPLOADED	Dekhi Andekhi Episode 5
@@ -4290,3 +4289,4 @@
 5061	UPLOADED	Dekhi Andekhi Episode 7
 3914	UPLOADED	Daakhila Episode 5
 2714	UPLOADED	Roopmati Episode 4
+5062	UPLOADED	Dekhi Andekhi Episode 4
