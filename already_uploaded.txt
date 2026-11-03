@@ -968,7 +968,6 @@
 1843	UPLOADED	Mona 69 Episode 4
 1844	UPLOADED	Mardana Sasur S2 Episode 6
 4312	UPLOADED	Sultan Episode 2
-3980	UPLOADED	Honey Trap Episode 2
 1845	UPLOADED	Nathuniya Episode 6
 4313	UPLOADED	Sultan Episode 1
 3981	UPLOADED	Honey Trap Episode 3
@@ -4390,3 +4389,4 @@
 5181	UPLOADED	Blue Night Episode 3
 689	UPLOADED	Utha Patak S4 Episode 4
 2858	UPLOADED	Seal S6 Episode 1
+3980	UPLOADED	Honey Trap Episode 2
