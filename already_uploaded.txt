@@ -1030,7 +1030,6 @@
 795	SKIPPED	Kulta Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Kulta/Kulta%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4491	UPLOADED	Namkeen Episode 2
 3358	UPLOADED	Mera Baap Teri Mausi Episode 2
-801	SKIPPED	Kaam Shastra Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Kaam%20Shastra/Kaam%20Shastra%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 802	SKIPPED	Angreji Film Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Angreji%20Film/Angreji%20Film%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 803	SKIPPED	Angreji Film Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Angreji%20Film/Angreji%20Film%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4492	UPLOADED	Namkeen Episode 1
@@ -4430,3 +4429,4 @@
 3317	SKIPPED	Rose Marlo Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%207.mp4
 3318	SKIPPED	Rose Marlo Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Rose%20Marlo/Rose%20Marlo%20Episode%208.mp4
 4261	UPLOADED	The Bull Of Dalal Street Episode 3
+801	UPLOADED	Kaam Shastra Episode 1
