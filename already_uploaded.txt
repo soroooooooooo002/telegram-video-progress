@@ -285,7 +285,6 @@
 1323	UPLOADED	Daddy Cool Episode 4
 1324	UPLOADED	Naa Tum Jaano Naa Hum Episode 4
 1325	UPLOADED	Naa Tum Jaano Naa Hum Episode 6
-4132	UPLOADED	Sarkaaye Lo Khatiya Episode 6
 1327	UPLOADED	Naa Tum Jaano Naa Hum Episode 3
 1328	UPLOADED	Naa Tum Jaano Naa Hum Episode 1
 1329	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 9
@@ -4408,3 +4407,4 @@
 705	UPLOADED	Talab Episode 4
 4131	UPLOADED	Sarkaaye Lo Khatiya Episode 5
 5316	UPLOADED	Gharwali Baharwali Episode 5
+4132	UPLOADED	Sarkaaye Lo Khatiya Episode 6
