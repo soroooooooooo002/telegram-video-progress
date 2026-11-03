@@ -592,7 +592,6 @@
 1754	UPLOADED	Nadaan Episode 7
 1755	UPLOADED	Nadaan Episode 6
 1756	UPLOADED	Nadaan Episode 4
-4265	UPLOADED	The Bull Of Dalal Street Episode 11
 3940	UPLOADED	Damad Ji Episode 6
 1757	UPLOADED	Nadaan Episode 3
 1758	UPLOADED	Nadaan Episode 2
@@ -4430,3 +4429,4 @@
 3322	UPLOADED	Jamai Raja Episode 4
 803	UPLOADED	Angreji Film Episode 5
 3323	UPLOADED	Jamai Raja Episode 5
+4265	UPLOADED	The Bull Of Dalal Street Episode 11
