@@ -839,7 +839,6 @@
 1792	UPLOADED	Joru Ka Gulaam Episode 6
 4275	UPLOADED	Teekhi Chutney Episode 3
 4276	UPLOADED	Teekhi Chutney Episode 2
-3945	UPLOADED	Chakori Episode 3
 1794	UPLOADED	Joru Ka Gulaam Episode 5
 4277	UPLOADED	Teekhi Chutney Episode 1
 1795	UPLOADED	Bunty Babli Episode 4
@@ -4340,3 +4339,4 @@
 2782	UPLOADED	Raqeeb Episode 1
 5132	UPLOADED	Call Center Episode 2
 5133	UPLOADED	Call Center Episode 10
+3945	UPLOADED	Chakori Episode 3
