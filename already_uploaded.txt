@@ -1107,7 +1107,6 @@
 4469	UPLOADED	Online Episode 3
 4470	UPLOADED	Online Episode 2
 3337	UPLOADED	Sachchi Saheli Episode 3
-759	UPLOADED	Lust S2 Episode 1
 4471	UPLOADED	Online Episode 1
 4472	UPLOADED	Navel Of Love Episode 3
 3338	UPLOADED	Sachchi Saheli Episode 4
@@ -4426,3 +4425,4 @@
 756	SKIPPED	No Limit Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/No%20Limit/No%20Limit%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 757	SKIPPED	Lust S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CRF/Lust%20S2/Lust%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 758	SKIPPED	Lust S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CRF/Lust%20S2/Lust%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+759	SKIPPED	Lust S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /CRF/Lust%20S2/Lust%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
