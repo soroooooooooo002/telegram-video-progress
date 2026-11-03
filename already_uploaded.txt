@@ -1291,7 +1291,6 @@
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4373	UPLOADED	Sabak Ishq Ka Episode 3
 4374	UPLOADED	Sabak Ishq Ka Episode 2
-701	UPLOADED	Tan Tripti S1 Episode 3
 3189	UPLOADED	Sainyaa Salman S2 Episode 8
 4375	UPLOADED	Sabak Ishq Ka Episode 1
 702	UPLOADED	Tan Tripti S1 Episode 1
@@ -4408,3 +4407,4 @@
 5307	UPLOADED	Damaadji Lage Raho Episode 3
 4099	UPLOADED	Diya Tere Hath Mein Episode 2
 2891	UPLOADED	Raaz Episode 1
+701	UPLOADED	Tan Tripti S1 Episode 3
