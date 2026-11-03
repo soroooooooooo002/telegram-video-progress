@@ -590,7 +590,6 @@
 1752	UPLOADED	Naqaab Episode 6
 1753	UPLOADED	Naqaab Episode 5
 1754	UPLOADED	Nadaan Episode 7
-4264	UPLOADED	The Bull Of Dalal Street Episode 10
 1755	UPLOADED	Nadaan Episode 6
 1756	UPLOADED	Nadaan Episode 4
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
@@ -4430,3 +4429,4 @@
 802	UPLOADED	Angreji Film Episode 6
 4263	UPLOADED	The Bull Of Dalal Street Episode 12
 3321	UPLOADED	Jamai Raja Episode 3
+4264	UPLOADED	The Bull Of Dalal Street Episode 10
