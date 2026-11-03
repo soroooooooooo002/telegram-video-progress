@@ -1232,7 +1232,6 @@
 3299	UPLOADED	Dubai Bhauji Episode 1
 4434	UPLOADED	Possessed Love Episode 2
 4435	UPLOADED	Patra Petika Episode 5
-736	UPLOADED	Paurashpur S3 Episode 4
 4436	UPLOADED	Patra Petika Episode 4
 3300	UPLOADED	Dubai Bhauji Episode 2
 4437	UPLOADED	Patra Petika Episode 3
@@ -4423,3 +4422,4 @@
 4198	UPLOADED	Wanna Have A Good Time Episode 1
 4199	SKIPPED	Wanna Have A Good Time 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Wanna%20Have%20A%20Good%20Time/Wanna%20Have%20A%20Good%20Time%202%20Episode%202.mp4
 4200	UPLOADED	Wanna Have A Good Time 2 Episode 1
+736	UPLOADED	Paurashpur S3 Episode 4
