@@ -642,7 +642,6 @@
 1503	UPLOADED	Payal Episode 7
 4240	UPLOADED	The Producer Episode 2
 1504	UPLOADED	Nurse Episode 2
-3917	SKIPPED	Couple Party Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Couple%20Party/Couple%20Party%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1689	UPLOADED	Desi Kisse Khud Khushi Episode 1
 1505	UPLOADED	Nurse Episode 1
 1690	UPLOADED	Damaad Ji Episode 2
@@ -4294,3 +4293,4 @@
 5065	UPLOADED	Dekhi Andekhi Episode 2
 2716	UPLOADED	Roopmati Episode 2
 5066	UPLOADED	Dekhi Andekhi Episode 1
+3917	UPLOADED	Couple Party Episode 2
