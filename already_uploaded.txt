@@ -950,7 +950,6 @@
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
 2926	SKIPPED	Raat Akeli Hai Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2932	SKIPPED	Raat Akeli Hai Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2933	SKIPPED	Raat Akeli Hai Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2934	SKIPPED	Black Coffee Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Black%20Coffee/Black%20Coffee%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2935	SKIPPED	Black Coffee Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Black%20Coffee/Black%20Coffee%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4420,3 +4419,4 @@
 2929	SKIPPED	Raat Akeli Hai Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E5.mp4
 2930	SKIPPED	Raat Akeli Hai Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E4.mp4
 2931	SKIPPED	Raat Akeli Hai Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E3.mp4
+2932	SKIPPED	Raat Akeli Hai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E2.mp4
