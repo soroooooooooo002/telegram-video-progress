@@ -1294,7 +1294,6 @@
 4369	UPLOADED	Sanskari Episode 1
 3185	UPLOADED	Sainyaa Salman S2 Episode 3
 4370	UPLOADED	Sabak Ishq Ka Episode 6
-698	UPLOADED	Tan Tripti S2 Episode 3
 3186	UPLOADED	Sainyaa Salman S2 Episode 5
 4371	UPLOADED	Sabak Ishq Ka Episode 5
 699	UPLOADED	Tan Tripti S2 Episode 1
@@ -4407,3 +4406,4 @@
 5303	UPLOADED	Ladla Dever Episode 3
 4095	UPLOADED	Goa Trip Episode 2
 2888	UPLOADED	Munni Badnaam Hui Episode 1
+698	UPLOADED	Tan Tripti S2 Episode 3
