@@ -1730,7 +1730,6 @@
 1172	UPLOADED	Rangeen Kahaniya Episode 5
 4632	UPLOADED	Khalish Episode 8
 1173	UPLOADED	Rangeen Kahaniya Episode 6
-5656	UPLOADED	Murder
 4633	UPLOADED	Khalish Episode 7
 1174	UPLOADED	Pyaar Idhar Udhar Episode 2
 3615	UPLOADED	Guru Dakshina Episode 5
@@ -4430,3 +4429,4 @@
 5655	UPLOADED	Night At A Hotel
 3331	UPLOADED	Moussami Episode 2
 4268	UPLOADED	Tere Jaisa Yaar Kaha Episode 6
+5656	UPLOADED	Murder
