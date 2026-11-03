@@ -891,7 +891,6 @@
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
 2926	SKIPPED	Raat Akeli Hai Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2960	SKIPPED	Killer Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Killer/Killer%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2961	SKIPPED	Meri Biwi Ki Shadi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Meri%20Biwi%20Ki%20Shadi/Meri%20Biwi%20Ki%20Shadi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2962	SKIPPED	Meri Biwi Ki Shadi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Meri%20Biwi%20Ki%20Shadi/Meri%20Biwi%20Ki%20Shadi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2963	SKIPPED	Revenge The Badla Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Revenge%20the%20Badla/Revenge%20the%20Badla%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4421,3 +4420,4 @@
 2957	SKIPPED	Ghoonghat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Ghoonghat/Ghoonghat%20Episode%202.mp4
 2958	SKIPPED	Ghoonghat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Ghoonghat/Ghoonghat%20Episode%201.mp4
 2959	SKIPPED	Killer Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Killer/Killer%20Episode%202.mp4
+2960	SKIPPED	Killer Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Killer/Killer%20Episode%201.mp4
