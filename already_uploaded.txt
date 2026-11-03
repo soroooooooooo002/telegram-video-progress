@@ -907,7 +907,6 @@
 1829	SKIPPED	Graduate With First Class Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Graduate%20With%20First%20Class-D1/Graduate%20With%20First%20Class%20Episode%203.mp4
 4296	UPLOADED	Sursuri Li Episode 3
 5339	UPLOADED	Khiladi Bhaiya Episode 4
-3959	UPLOADED	Rivaaz Episode 1
 1830	UPLOADED	Utha Patak S3 Episode 12
 4297	UPLOADED	Sursuri Li Episode 2
 4298	UPLOADED	Sursuri Li Episode 12
@@ -4362,3 +4361,4 @@
 678	UPLOADED	Kanpuriya Episode 1
 2807	UPLOADED	Chill Pill Episode 1
 5155	UPLOADED	Auction Episode 1
+3959	UPLOADED	Rivaaz Episode 1
