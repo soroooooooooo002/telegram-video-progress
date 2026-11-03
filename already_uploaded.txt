@@ -1914,7 +1914,6 @@
 833	UPLOADED	Bhabhi Cool Episode 3
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
-5295	UPLOADED	Sasur Ki Dulhan Episode 2
 3417	UPLOADED	Secret Superstar Episode 3
 834	UPLOADED	Bhabhi Cool Episode 2
 4565	UPLOADED	Love Guru 2 Episode 4
@@ -4401,3 +4400,4 @@
 4043	SKIPPED	Shatir Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E2.mp4
 4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
 4045	SKIPPED	Shatir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E4.mp4
+5295	UPLOADED	Sasur Ki Dulhan Episode 2
