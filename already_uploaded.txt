@@ -913,7 +913,6 @@
 5340	UPLOADED	Khiladi Bhaiya Episode 5
 1831	UPLOADED	Utha Patak S3 Episode 2
 4299	UPLOADED	Sursuri Li Episode 11
-3961	UPLOADED	Rivaaz Episode 3
 5341	UPLOADED	Khiladi Bhaiya Episode 3
 4300	UPLOADED	Sursuri Li Episode 10
 1832	UPLOADED	Utha Patak S3 Episode 3
@@ -4378,3 +4377,4 @@
 680	UPLOADED	X Tape Episode 5
 5158	UPLOADED	Assi Nabbe Poore Sau Episode 7
 5159	UPLOADED	Assi Nabbe Poore Sau Episode 5
+3961	UPLOADED	Rivaaz Episode 3
