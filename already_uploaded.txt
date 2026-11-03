@@ -942,7 +942,6 @@
 4441	UPLOADED	Paro Episode 6
 4442	UPLOADED	Paro Episode 5
 4443	UPLOADED	Paro Episode 4
-3305	UPLOADED	Chumma Chaati Episode 5
 4445	UPLOADED	Paro Episode 2
 4446	UPLOADED	Paro Episode 1
 4447	UPLOADED	Paper Episode 6
@@ -4430,3 +4429,4 @@
 4258	UPLOADED	The Bull Of Dalal Street Episode 6
 5640	UPLOADED	Dangerous Date Episode 2
 4259	UPLOADED	The Bull Of Dalal Street Episode 5
+3305	UPLOADED	Chumma Chaati Episode 5
