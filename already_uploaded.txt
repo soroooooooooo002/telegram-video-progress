@@ -1937,7 +1937,6 @@
 4494	UPLOADED	Namak Episode 5
 805	SKIPPED	Angreji Film Episode 3	Request was unsuccessful 6 time(s)
 3362	UPLOADED	Local Doctor Episode 2
-5105	UPLOADED	Chehraa Episode 6
 5106	SKIPPED	Chehraa Episode 5	Request was unsuccessful 6 time(s)
 4495	UPLOADED	Namak Episode 4
 5107	UPLOADED	Chehraa Episode 4
@@ -4314,3 +4313,4 @@
 2736	UPLOADED	Khudrang Episode 1
 5104	UPLOADED	Chehraa Episode 7
 655	UPLOADED	Joggers Park Episode 3
+5105	UPLOADED	Chehraa Episode 6
