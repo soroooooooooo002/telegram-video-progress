@@ -934,7 +934,6 @@
 713	UPLOADED	Sale Episode 4
 3230	SKIPPED	Angel Apartment S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment%20S2/Angel%20Apartment%20S2%20Episode%201.mp4
 3232	SKIPPED	Angel Apartment Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%205.mp4
-3234	SKIPPED	Angel Apartment Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%203.mp4
 5860	SKIPPED	Badalte Rishte Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E5.mp4
 5863	SKIPPED	Badalte Rishte Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Badalte%20Rishtey/Badalte%20Rishtey%20E1.mp4
 4399	UPLOADED	Rikshawala Episode 1
@@ -4426,3 +4425,4 @@
 3231	SKIPPED	Angel Apartment Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5575	SKIPPED	Mr Chourasiya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Mr%20Chourasiya/Mr%20Chourasiya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3233	SKIPPED	Angel Apartment Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3234	SKIPPED	Angel Apartment Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
