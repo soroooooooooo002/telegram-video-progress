@@ -1093,7 +1093,6 @@
 4336	UPLOADED	Size Matters 2 Episode 5
 2873	SKIPPED	Tadap 2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2875	SKIPPED	Tadap (Atrangii) Episode 13	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%2013.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2878	SKIPPED	Tadap (Atrangii) Episode 10	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%2010.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2882	SKIPPED	Bijili Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Bijili/Bijili%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2885	SKIPPED	2 Kamine 2 Nagine Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Flix/2%20Kamine%202%20Nagine/2%20Kamine%202%20Nagine%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4337	UPLOADED	Size Matters 2 Episode 4
@@ -4398,3 +4397,4 @@
 5258	SKIPPED	Chull Paani Chalka Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Paani%20Chalka/Chull%20Paani%20Chalka%20E1.mp4
 2876	SKIPPED	Tadap (Atrangii) Episode 12	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%2012.mp4
 2877	SKIPPED	Tadap (Atrangii) Episode 11	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%2011.mp4
+2878	SKIPPED	Tadap (Atrangii) Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%2010.mp4
