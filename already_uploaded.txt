@@ -931,7 +931,6 @@
 3267	UPLOADED	Dagabaaz Episode 3
 4418	UPLOADED	Red Light Episode 3
 4419	UPLOADED	Red Light Episode 1
-3273	UPLOADED	Tailor Kaka Episode 3
 4421	UPLOADED	Raat Baaki Hai Episode 6
 3274	UPLOADED	Tailor Kaka Episode 4
 4422	UPLOADED	Raat Baaki Hai Episode 5
@@ -4429,3 +4428,4 @@
 3270	UPLOADED	Dagabaaz Episode 6
 3271	SKIPPED	Tailor Kaka Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /BigPlay/Tailor%20Kaka/Tailor%20Kaka%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3272	SKIPPED	Tailor Kaka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /BigPlay/Tailor%20Kaka/Tailor%20Kaka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3273	SKIPPED	Tailor Kaka Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /BigPlay/Tailor%20Kaka/Tailor%20Kaka%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
