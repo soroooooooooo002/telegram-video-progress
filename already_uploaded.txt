@@ -1066,7 +1066,6 @@
 4442	UPLOADED	Paro Episode 5
 3304	UPLOADED	Chumma Chaati Episode 4
 4443	UPLOADED	Paro Episode 4
-740	UPLOADED	Vaishya Episode 1
 3305	UPLOADED	Chumma Chaati Episode 5
 4445	UPLOADED	Paro Episode 2
 741	UPLOADED	Thanedaar Episode 1
@@ -4423,3 +4422,4 @@
 4210	UPLOADED	Virgin Suspect Episode 7
 738	UPLOADED	Paurashpur S3 Episode 1
 739	SKIPPED	Paurashpur S3 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Paurashpur%20S3/Paurashpur%20S3%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+740	SKIPPED	Vaishya Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Prime/Vaishya/Vaishya%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
