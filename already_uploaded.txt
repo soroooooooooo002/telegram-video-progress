@@ -975,7 +975,6 @@
 1849	UPLOADED	Nathuniya Episode 2
 4316	UPLOADED	Sona Episode 7
 1850	UPLOADED	Nathuniya Episode 1
-4030	UPLOADED	Mishti Episode 3
 4031	UPLOADED	Mishti Episode 4
 4032	UPLOADED	Mishti Episode 5
 4033	UPLOADED	Mishti Episode 6
@@ -4401,3 +4400,4 @@
 4027	UPLOADED	Main Yahan Tu Wahan Episode 2
 4028	UPLOADED	Mishti Episode 1
 4029	UPLOADED	Mishti Episode 2
+4030	UPLOADED	Mishti Episode 3
