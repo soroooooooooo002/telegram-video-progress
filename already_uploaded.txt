@@ -598,7 +598,6 @@
 1759	UPLOADED	Nadaan Episode 1
 1760	UPLOADED	Madhushaala Episode 4
 1761	UPLOADED	Madhushaala Episode 5
-4268	UPLOADED	Tere Jaisa Yaar Kaha Episode 6
 1762	UPLOADED	Madhushaala Episode 1
 1763	SKIPPED	KaroNaa Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Karo%20Naa/KaroNaa%20Episode%203.mp4
 1764	SKIPPED	Maalamaal Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/MaalaMaal/MaalaMaal%20Episode%201.mp4
@@ -4430,3 +4429,4 @@
 806	UPLOADED	Angreji Film Episode 2
 5655	UPLOADED	Night At A Hotel
 3331	UPLOADED	Moussami Episode 2
+4268	UPLOADED	Tere Jaisa Yaar Kaha Episode 6
