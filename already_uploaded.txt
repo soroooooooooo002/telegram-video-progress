@@ -1829,7 +1829,6 @@
 3564	SKIPPED	Mami No 1 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Mami%20No%201/Mami%20No%201%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3565	SKIPPED	Mami No 1 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Mami%20No%201/Mami%20No%201%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3566	SKIPPED	Love in Goa Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Love%20in%20Goa/Love%20in%20Goa%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5438	SKIPPED	Kaala Til Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5439	SKIPPED	Kaala Til Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5440	SKIPPED	Kaala Til Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5441	SKIPPED	Kaala Til Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunt/Kaala%20Til/Kaala%20Til%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4421,3 +4420,4 @@
 725	UPLOADED	Pyar Ka Bazaar Episode 4
 2980	UPLOADED	Bhabhi Jii Aaye Hain Episode 2
 5437	UPLOADED	Tapish Episode 4
+5438	SKIPPED	Kaala Til Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Kaala%20Til/Kaala%20Til%20E4.mp4
