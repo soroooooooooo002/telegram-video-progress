@@ -942,7 +942,6 @@
 4428	UPLOADED	Purani Haveli Episode 5
 4429	UPLOADED	Purani Haveli Episode 4
 4430	UPLOADED	Purani Haveli Episode 3
-3294	SKIPPED	Holi Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%206.mp4
 3295	SKIPPED	Holi Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%207.mp4
 4431	UPLOADED	Purani Haveli Episode 2
 3296	UPLOADED	Anubhoothi Episode 1
@@ -4429,3 +4428,4 @@
 3291	SKIPPED	Holi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Holi/Holi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3292	SKIPPED	Holi Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Holi/Holi%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3293	SKIPPED	Holi Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Holi/Holi%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3294	SKIPPED	Holi Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Holi/Holi%20Episode%206.mp4
