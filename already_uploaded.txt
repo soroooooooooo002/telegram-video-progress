@@ -950,7 +950,6 @@
 2895	UPLOADED	Sitiyabaaz Episode 3
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
-2905	UPLOADED	Sarpanch Episode 2
 2906	UPLOADED	Sarpanch Episode 1
 2907	UPLOADED	Ehsaas Episode 6
 2922	SKIPPED	Pyaar Tune Kya Kiya Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4408,3 +4407,4 @@
 5320	UPLOADED	Gharwali Baharwali Episode 1
 2903	UPLOADED	Chausar Episode 4
 2904	UPLOADED	Sarpanch Episode 3
+2905	UPLOADED	Sarpanch Episode 2
