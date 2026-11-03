@@ -918,7 +918,6 @@
 4301	UPLOADED	Sursuri Li Episode 1
 5342	UPLOADED	Khiladi Bhaiya Episode 7
 4302	UPLOADED	Sunny Winter Episode 6
-3963	UPLOADED	Rivaaz Episode 5
 5343	UPLOADED	Khiladi Bhaiya Episode 6
 4303	UPLOADED	Sunny Winter Episode 5
 4304	UPLOADED	Sunny Winter Episode 3
@@ -4380,3 +4379,4 @@
 2839	UPLOADED	Yarana
 682	UPLOADED	X Tape Episode 3
 5163	UPLOADED	Assi Nabbe Poore Sau Episode 1
+3963	UPLOADED	Rivaaz Episode 5
