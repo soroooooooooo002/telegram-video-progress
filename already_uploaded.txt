@@ -3827,7 +3827,6 @@
 3779	UPLOADED	Patang Paseena Episode 6
 4775	UPLOADED	Gandu Episode 1
 1244	UPLOADED	Haseeno Ka Inteqaam Episode 2
-5061	UPLOADED	Dekhi Andekhi Episode 7
 3780	UPLOADED	Patang Paseena Episode 5
 4776	UPLOADED	Gaachi Episode 7
 5062	UPLOADED	Dekhi Andekhi Episode 4
@@ -4289,3 +4288,4 @@
 3913	UPLOADED	Daakhila Episode 6
 5060	UPLOADED	Dekhi Andekhi Episode 6
 636	UPLOADED	Nayi Padosan Mastram Episode 2
+5061	UPLOADED	Dekhi Andekhi Episode 7
