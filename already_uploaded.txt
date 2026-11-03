@@ -380,7 +380,6 @@
 1408	UPLOADED	Shatir Episode 6
 1409	UPLOADED	Shatir Episode 7
 1410	UPLOADED	Daal Chawal Episode 1
-4165	UPLOADED	Taras Episode 6
 1411	UPLOADED	Daal Chawal Episode 3
 1412	UPLOADED	Daal Chawal Episode 2
 4166	UPLOADED	Taras Episode 4
@@ -4421,3 +4420,4 @@
 2972	UPLOADED	Julie I Love You Episode 1
 5434	UPLOADED	Tapish Episode 3
 723	UPLOADED	Raseeli Raatein Episode 2
+4165	UPLOADED	Taras Episode 6
