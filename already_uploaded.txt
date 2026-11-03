@@ -1949,7 +1949,6 @@
 4544	UPLOADED	Maa Ka Naka Episode 7
 4545	UPLOADED	Maa Ka Naka Episode 6
 3390	UPLOADED	De De Pyar De Episode 5
-5162	UPLOADED	Assi Nabbe Poore Sau Episode 2
 4546	UPLOADED	Maa Ka Naka Episode 5
 824	UPLOADED	Maashuqa Episode 2
 3391	UPLOADED	De De Pyar De Episode 6
@@ -4380,3 +4379,4 @@
 2838	UPLOADED	Love By Chance
 5161	UPLOADED	Assi Nabbe Poore Sau Episode 3
 3962	UPLOADED	Rivaaz Episode 4
+5162	UPLOADED	Assi Nabbe Poore Sau Episode 2
