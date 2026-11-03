@@ -851,7 +851,6 @@
 1799	SKIPPED	Prem Leela Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E3.mp4
 1800	SKIPPED	Prem Leela Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E1.mp4
 1801	SKIPPED	Babu Ji Ghar Pe Hain Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Babu%20Ji%20Ghar%20Pe%20Hain/Babu%20Ji%20Ghar%20Pe%20Hain%20%20E2.mp4
-3948	UPLOADED	Ghutan Episode 1
 4281	UPLOADED	Tandoor Episode 2
 1802	UPLOADED	Adhure Hum Episode 3
 3949	UPLOADED	Ghutan Episode 4
@@ -4341,3 +4340,4 @@
 5141	UPLOADED	Blue Whale Episode 1
 673	UPLOADED	Kanpuriya Episode 6
 5142	UPLOADED	Black Coffee Episode 2
+3948	UPLOADED	Ghutan Episode 1
