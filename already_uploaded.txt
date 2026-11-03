@@ -1266,7 +1266,6 @@
 4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
 3190	UPLOADED	Sainyaa Salman S2 Episode 10
 4377	UPLOADED	Saali Aadhi Gharwaali Episode 1
-703	UPLOADED	Tan Tripti S1 Episode 2
 4378	UPLOADED	Rupay 500 Episode 6
 3191	UPLOADED	Sainyaa Salman S2 Episode 9
 4379	UPLOADED	Rupay 500 Episode 5
@@ -4408,3 +4407,4 @@
 5312	SKIPPED	Aakhri Raat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E2.mp4
 5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
 4126	UPLOADED	Haseena Maan Jayegi Episode 7
+703	UPLOADED	Tan Tripti S1 Episode 2
