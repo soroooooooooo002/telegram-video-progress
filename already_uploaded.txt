@@ -4377,3 +4377,4 @@
 2828	SKIPPED	Rosy Maam I Love You Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%209.mp4
 2829	SKIPPED	Rosy Maam I Love You Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%2010.mp4
 2830	SKIPPED	Rosy Maam I Love You Episode 11	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%2011.mp4
+2831	SKIPPED	Lodam Bhabhi S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%201.mp4
