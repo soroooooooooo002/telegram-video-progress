@@ -842,7 +842,6 @@
 1794	UPLOADED	Joru Ka Gulaam Episode 5
 4277	UPLOADED	Teekhi Chutney Episode 1
 1795	UPLOADED	Bunty Babli Episode 4
-3946	UPLOADED	Chakori Episode 2
 4278	UPLOADED	Tandoor Episode 5
 1796	UPLOADED	Bunty Babli Episode 3
 4279	UPLOADED	Tandoor Episode 4
@@ -4340,3 +4339,4 @@
 5135	UPLOADED	Bribe Episode 3
 671	UPLOADED	Kanpuriya Episode 8
 5136	UPLOADED	Bribe Episode 2
+3946	UPLOADED	Chakori Episode 2
