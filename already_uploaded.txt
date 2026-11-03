@@ -1020,7 +1020,6 @@
 4494	UPLOADED	Namak Episode 5
 3362	UPLOADED	Local Doctor Episode 2
 4495	UPLOADED	Namak Episode 4
-806	SKIPPED	Angreji Film Episode 2	Request was unsuccessful 6 time(s)
 3363	UPLOADED	Local Doctor Episode 3
 4496	UPLOADED	Namak Episode 3
 4497	SKIPPED	Namak Episode 2	Request was unsuccessful 6 time(s)
@@ -4430,3 +4429,4 @@
 805	UPLOADED	Angreji Film Episode 3
 4267	UPLOADED	Tere Jaisa Yaar Kaha Episode 7
 5654	UPLOADED	Upanyas
+806	UPLOADED	Angreji Film Episode 2
