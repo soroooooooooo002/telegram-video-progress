@@ -1242,7 +1242,6 @@
 3271	UPLOADED	Tailor Kaka Episode 1
 4419	UPLOADED	Red Light Episode 1
 3272	UPLOADED	Tailor Kaka Episode 2
-726	UPLOADED	Pyar Ka Bazaar Episode 3
 3273	UPLOADED	Tailor Kaka Episode 3
 4421	UPLOADED	Raat Baaki Hai Episode 6
 727	UPLOADED	Pyar Ka Bazaar Episode 2
@@ -4421,3 +4420,4 @@
 4170	SKIPPED	Zaroorat 2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%203.mp4
 4171	SKIPPED	Zaroorat 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%202.mp4
 4172	SKIPPED	Zaroorat 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%201.mp4
+726	UPLOADED	Pyar Ka Bazaar Episode 3
