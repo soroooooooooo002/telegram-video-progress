@@ -1861,7 +1861,6 @@
 3337	UPLOADED	Sachchi Saheli Episode 3
 759	UPLOADED	Lust S2 Episode 1
 4471	UPLOADED	Online Episode 1
-5085	UPLOADED	Cyanide Episode 2
 4472	UPLOADED	Navel Of Love Episode 3
 3338	UPLOADED	Sachchi Saheli Episode 4
 760	UPLOADED	Jawani Diwani Episode 4
@@ -4306,3 +4305,4 @@
 5083	UPLOADED	Cyanide Episode 4
 2729	UPLOADED	Surprise
 5084	UPLOADED	Cyanide Episode 3
+5085	UPLOADED	Cyanide Episode 2
