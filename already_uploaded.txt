@@ -910,7 +910,6 @@
 1830	UPLOADED	Utha Patak S3 Episode 12
 4297	UPLOADED	Sursuri Li Episode 2
 4298	UPLOADED	Sursuri Li Episode 12
-3960	UPLOADED	Rivaaz Episode 2
 5340	UPLOADED	Khiladi Bhaiya Episode 5
 1831	UPLOADED	Utha Patak S3 Episode 2
 4299	UPLOADED	Sursuri Li Episode 11
@@ -4378,3 +4377,4 @@
 2834	SKIPPED	Lodam Bhabhi S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%204.mp4
 2835	SKIPPED	Lodam Bhabhi S2 Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%205.mp4
 2836	SKIPPED	Lodam Bhabhi S2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%206.mp4
+3960	UPLOADED	Rivaaz Episode 2
