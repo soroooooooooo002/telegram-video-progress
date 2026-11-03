@@ -318,7 +318,6 @@
 1358	UPLOADED	Bholi Sajni Episode 3
 4137	SKIPPED	House Arrest Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%207.mp4
 1359	UPLOADED	Bholi Sajni Episode 2
-4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
 1360	UPLOADED	Bholi Sajni Episode 1
 1361	UPLOADED	Dil Pe Bojh Episode 4
 1362	UPLOADED	Dil Pe Bojh Episode 3
@@ -4408,3 +4407,4 @@
 4136	SKIPPED	House Arrest Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%206.mp4
 708	UPLOADED	Talab Episode 1
 5319	UPLOADED	Gharwali Baharwali Episode 2
+4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
