@@ -950,7 +950,6 @@
 2895	UPLOADED	Sitiyabaaz Episode 3
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
-2904	UPLOADED	Sarpanch Episode 3
 2905	UPLOADED	Sarpanch Episode 2
 2906	UPLOADED	Sarpanch Episode 1
 2907	UPLOADED	Ehsaas Episode 6
@@ -4408,3 +4407,4 @@
 4139	UPLOADED	Sarkaaye Lo Khatiya Episode 3
 5320	UPLOADED	Gharwali Baharwali Episode 1
 2903	UPLOADED	Chausar Episode 4
+2904	UPLOADED	Sarpanch Episode 3
