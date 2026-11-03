@@ -1119,7 +1119,6 @@
 3341	UPLOADED	Saart Episode 2
 4477	UPLOADED	Nau Do Gyarah Episode 4
 3342	UPLOADED	Saart Episode 4
-765	SKIPPED	Jaal Episode 4	Request was unsuccessful 6 time(s)
 4478	UPLOADED	Nau Do Gyarah Episode 3
 4479	SKIPPED	Nau Do Gyarah Episode 2	Request was unsuccessful 6 time(s)
 3343	UPLOADED	Rocket Episode 1
@@ -4426,3 +4425,4 @@
 762	SKIPPED	Jawani Diwani Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Jawani%20Diwani/Jawani%20Diwani%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 763	SKIPPED	Jawani Diwani Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Jawani%20Diwani/Jawani%20Diwani%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 764	SKIPPED	Jaal Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+765	SKIPPED	Jaal Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
