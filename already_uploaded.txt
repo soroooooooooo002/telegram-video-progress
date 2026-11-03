@@ -802,7 +802,6 @@
 1830	UPLOADED	Utha Patak S3 Episode 12
 4297	UPLOADED	Sursuri Li Episode 2
 4298	UPLOADED	Sursuri Li Episode 12
-5340	UPLOADED	Khiladi Bhaiya Episode 5
 1831	UPLOADED	Utha Patak S3 Episode 2
 4299	UPLOADED	Sursuri Li Episode 11
 5341	UPLOADED	Khiladi Bhaiya Episode 3
@@ -4421,3 +4420,4 @@
 2942	UPLOADED	Japani Malish Episode 2
 4154	UPLOADED	Lag Ja Gale Episode 1
 4155	UPLOADED	Balam Pichkari Episode 1
+5340	UPLOADED	Khiladi Bhaiya Episode 5
