@@ -469,7 +469,6 @@
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
 1499	UPLOADED	Payal Episode 1
-4239	UPLOADED	Tohfa Episode 1
 1500	UPLOADED	Payal Episode 3
 1686	UPLOADED	Desi Kisse Khud Khushi Episode 5
 1501	UPLOADED	Payal Episode 2
@@ -4427,3 +4426,4 @@
 5626	UPLOADED	Paappi Gudda Episode 1
 4238	UPLOADED	Tohfa Episode 2
 790	UPLOADED	Kulta Episode 6
+4239	UPLOADED	Tohfa Episode 1
