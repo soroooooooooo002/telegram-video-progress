@@ -4364,3 +4364,4 @@
 5156	UPLOADED	Assi Nabbe Poore Sau Episode 8
 2809	UPLOADED	Chill Pill Episode 3
 2810	SKIPPED	Chhinar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Chhinar/Chhinar%20Episode%201.mp4
+2811	SKIPPED	Chhinar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Chhinar/Chhinar%20Episode%202.mp4
