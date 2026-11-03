@@ -936,7 +936,6 @@
 4423	UPLOADED	Raat Baaki Hai Episode 4
 4424	UPLOADED	Raat Baaki Hai Episode 2
 729	UPLOADED	Pyaari Bhabhi Episode 2
-3280	SKIPPED	Rajni Kaand Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E4.mp4
 3281	SKIPPED	Rajni Kaand S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E1.mp4
 3282	SKIPPED	Rajni Kaand S2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E2.mp4
 3283	SKIPPED	Rajni Kaand S2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Rajni%20Kaand%202/Rajni%20Kaand%202%20E3.mp4
@@ -4429,3 +4428,4 @@
 3277	SKIPPED	Rajni Kaand Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3278	SKIPPED	Rajni Kaand Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3279	SKIPPED	Rajni Kaand Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3280	SKIPPED	Rajni Kaand Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Rajni%20Kaand/Rajni%20Kaand%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
