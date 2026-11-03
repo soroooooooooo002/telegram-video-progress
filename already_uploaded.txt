@@ -630,7 +630,6 @@
 1497	UPLOADED	Nurse Episode 5
 1498	UPLOADED	Nurse Episode 6
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
-3913	UPLOADED	Daakhila Episode 6
 1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
 1499	UPLOADED	Payal Episode 1
 4239	UPLOADED	Tohfa Episode 1
@@ -4288,3 +4287,4 @@
 635	UPLOADED	Saheb Biwi Aur Gulam Episode 5
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 2713	UPLOADED	Roopmati Episode 5
+3913	UPLOADED	Daakhila Episode 6
