@@ -1127,7 +1127,6 @@
 4481	SKIPPED	Nancy Episode 4	Request was unsuccessful 6 time(s)
 4482	SKIPPED	Nancy Episode 3	Request was unsuccessful 6 time(s)
 3345	UPLOADED	Rocket Episode 3
-768	SKIPPED	Jaal Episode 1	Request was unsuccessful 6 time(s)
 4483	UPLOADED	Nancy Episode 2
 4484	SKIPPED	Nancy Episode 1	Request was unsuccessful 6 time(s)
 4485	SKIPPED	Namkeen Episode 8	Request was unsuccessful 6 time(s)
@@ -4426,3 +4425,4 @@
 765	SKIPPED	Jaal Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 766	SKIPPED	Jaal Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 767	SKIPPED	Jaal Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+768	SKIPPED	Jaal Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Jaal/Jaal%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
