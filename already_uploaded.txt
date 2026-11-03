@@ -1104,7 +1104,6 @@
 4334	UPLOADED	Size Matters 2 Episode 7
 2762	UPLOADED	Langot Episode 3
 4335	UPLOADED	Size Matters 2 Episode 6
-2829	SKIPPED	Rosy Maam I Love You Episode 10	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%2010.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2830	SKIPPED	Rosy Maam I Love You Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%2011.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2832	SKIPPED	Lodam Bhabhi S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2833	SKIPPED	Lodam Bhabhi S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4377,3 +4376,4 @@
 2826	SKIPPED	Rosy Maam I Love You Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%207.mp4
 2827	SKIPPED	Rosy Maam I Love You Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%208.mp4
 2828	SKIPPED	Rosy Maam I Love You Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%209.mp4
+2829	SKIPPED	Rosy Maam I Love You Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%2010.mp4
