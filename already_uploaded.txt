@@ -1088,7 +1088,6 @@
 3320	UPLOADED	Jamai Raja Episode 2
 4450	UPLOADED	Paper Episode 3
 3321	UPLOADED	Jamai Raja Episode 3
-745	UPLOADED	Tadap Pull Episode 5
 4451	UPLOADED	Paper Episode 2
 3322	UPLOADED	Jamai Raja Episode 4
 3323	UPLOADED	Jamai Raja Episode 5
@@ -4425,3 +4424,4 @@
 742	SKIPPED	Secret Live	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Desi%20Prime/Single/Secret%20Live.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 743	SKIPPED	Desires Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Entertainment/Desire/Desire%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 744	SKIPPED	Desires Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Entertainment/Desire/Desire%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+745	SKIPPED	Tadap Pull Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Tadap/Tadap%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
