@@ -1390,7 +1390,6 @@
 3168	SKIPPED	Shraap Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Shraap/Shraap%20Episode%202.mp4
 3169	SKIPPED	Shraap Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Shraap/Shraap%20Episode%201.mp4
 4356	UPLOADED	Secret Ingredient Episode 5
-688	UPLOADED	Vashikaran Episode 1
 3170	SKIPPED	Choli Ke Piche Episode 1	Request was unsuccessful 6 time(s)
 4357	UPLOADED	Secret Ingredient Episode 4
 689	SKIPPED	Utha Patak S4 Episode 4	Request was unsuccessful 6 time(s)
@@ -4383,3 +4382,4 @@
 2848	UPLOADED	Obsession Episode 3
 2849	UPLOADED	Obsession Episode 2
 2850	UPLOADED	Obsession Episode 1
+688	UPLOADED	Vashikaran Episode 1
