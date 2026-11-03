@@ -905,7 +905,6 @@
 1827	SKIPPED	Chumbak Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%202.mp4
 1828	SKIPPED	Chumbak Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%201.mp4
 1829	SKIPPED	Graduate With First Class Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Graduate%20With%20First%20Class-D1/Graduate%20With%20First%20Class%20Episode%203.mp4
-3958	SKIPPED	SX Girls Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%202.mp4
 4296	UPLOADED	Sursuri Li Episode 3
 5339	UPLOADED	Khiladi Bhaiya Episode 4
 3959	UPLOADED	Rivaaz Episode 1
@@ -4360,3 +4359,4 @@
 3955	UPLOADED	Chatur Naar Episode 3
 3956	SKIPPED	Chumbak Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chumbak-D1/Chumbak%20Episode%208.mp4
 3957	SKIPPED	SX Girls Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%201.mp4
+3958	SKIPPED	SX Girls Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%202.mp4
