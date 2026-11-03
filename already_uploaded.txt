@@ -250,7 +250,6 @@
 1289	SKIPPED	Laila Season 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Laila%20%282022%29/Laila%20S2%20Full%20Video%20%28XSeries.IN%29.mp4
 1290	UPLOADED	Haseena Maan Jayegi Episode 1
 1291	SKIPPED	Ghar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Ghar/Ghar%20E4.mp4
-4075	SKIPPED	Bachelor Party Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%201.mp4
 4076	SKIPPED	Bachelor Party Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%202.mp4
 1292	UPLOADED	Gore Gore Gaal Episode 2
 4078	SKIPPED	Firangi Thakurain Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Firangi%20Thakurain%20S01E01%20To%202%20%28XSeries.IN%29.mp4
@@ -4404,3 +4403,4 @@
 4072	SKIPPED	Suhagraat Indian XXX by Jinnie Jaaz	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Kaanta%20Laga/Kaanta%20Laga%20Episode%207.mp4
 4073	UPLOADED	Jinnie Jaaz Hot XXX Web Series
 4074	UPLOADED	Ritu Rai Hot XXX Web Series
+4075	SKIPPED	Bachelor Party Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%201.mp4
