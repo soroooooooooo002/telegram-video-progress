@@ -313,7 +313,6 @@
 1353	UPLOADED	Do Din ka Mehmaan Episode 2
 1354	UPLOADED	Dil Pe Bojh Episode 6
 1355	UPLOADED	Dil Pe Bojh Episode 7
-4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
 1356	UPLOADED	Dil Pe Bojh Episode 5
 4134	UPLOADED	Biwi Ka Khat Episode 2
 1357	UPLOADED	Bholi Sajni Episode 4
@@ -4408,3 +4407,4 @@
 4132	UPLOADED	Sarkaaye Lo Khatiya Episode 6
 2897	UPLOADED	Sitiyabaaz Episode 1
 706	UPLOADED	Talab Episode 5
+4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
