@@ -506,7 +506,6 @@
 1523	UPLOADED	Dil To Baccha Hai Episode 4
 1524	UPLOADED	Kaanta Laga
 1525	UPLOADED	Dil To Baccha Hai Episode 6
-4242	UPLOADED	The Last Show Episode 6
 1526	UPLOADED	Ek Baar Aur Episode 4
 1699	UPLOADED	Chuski Episode 4
 1527	UPLOADED	Ek Baar Aur Episode 5
@@ -4427,3 +4426,4 @@
 4241	UPLOADED	The Producer Episode 1
 5627	UPLOADED	Paap Episode 2
 5628	SKIPPED	Paap Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Paap/Paap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+4242	UPLOADED	The Last Show Episode 6
