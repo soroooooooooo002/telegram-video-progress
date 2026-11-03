@@ -1238,7 +1238,6 @@
 2995	SKIPPED	Gahera Rishtaa Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Gahera%20Rishtaa/Gahera%20Rishtaa%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4354	UPLOADED	Secretary Episode 2
 679	SKIPPED	X Tape Episode 6	Request was unsuccessful 6 time(s)
-680	SKIPPED	X Tape Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/X%20Tape/X%20Tape%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 681	SKIPPED	X Tape Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/X%20Tape/X%20Tape%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 682	SKIPPED	X Tape Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/X%20Tape/X%20Tape%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 683	SKIPPED	X Tape Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/X%20Tape/X%20Tape%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4378,3 +4377,4 @@
 2836	SKIPPED	Lodam Bhabhi S2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%206.mp4
 3960	UPLOADED	Rivaaz Episode 2
 5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
+680	UPLOADED	X Tape Episode 5
