@@ -1105,7 +1105,6 @@
 4457	UPLOADED	Panchali Episode 1
 4458	UPLOADED	Painter Babu Episode 6
 4459	UPLOADED	Painter Babu Episode 5
-749	UPLOADED	Tadap Pull Episode 1
 4460	UPLOADED	Painter Babu Episode 4
 3331	UPLOADED	Moussami Episode 2
 750	UPLOADED	Rangraliya Mastram Episode 2
@@ -4426,3 +4425,4 @@
 746	SKIPPED	Tadap Pull Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Tadap/Tadap%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 747	SKIPPED	Tadap Pull Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Tadap/Tadap%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 748	SKIPPED	Tadap Pull Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Tadap/Tadap%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+749	SKIPPED	Tadap Pull Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Tadap/Tadap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
