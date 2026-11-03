@@ -886,7 +886,6 @@
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
 2926	SKIPPED	Raat Akeli Hai Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2981	SKIPPED	Bhabhi Jii Aaye Hain Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Bhabhi%20Jii%20Aaye%20Hain/Bhabhi%20Jii%20Aaye%20Hain%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2982	SKIPPED	Bahurani Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Bahurani/Bahurani%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2983	SKIPPED	Bahurani Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Bahurani/Bahurani%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2984	SKIPPED	Extra Class Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Extra%20Class/Extra%20Class%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4421,3 +4420,4 @@
 5449	SKIPPED	Ratri Kawach Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ratri%20Kavach/Ratri%20Kawach%20E3.mp4
 5450	SKIPPED	Ratri Kawach Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ratri%20Kavach/Ratri%20Kawach%20E2.mp4
 5451	SKIPPED	Ratri Kawach Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ratri%20Kavach/Ratri%20Kawach%20E1.mp4
+2981	UPLOADED	Bhabhi Jii Aaye Hain Episode 1
