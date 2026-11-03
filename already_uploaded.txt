@@ -1129,7 +1129,6 @@
 4330	UPLOADED	Size Matters Episode 2
 4331	UPLOADED	Size Matters Episode 1
 4332	UPLOADED	Size Matters 2 Episode 9
-2725	SKIPPED	Sanki Painter Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sanki%20Painter/Sanki%20Painter%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2726	SKIPPED	Sapna Tiffin Center Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2728	SKIPPED	Sapna Tiffin Center Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2733	SKIPPED	Cam Girl Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine7/Cam%20Girl/Cam%20Girl%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4304,3 +4303,4 @@
 2724	UPLOADED	Sanki Painter Episode 2
 644	UPLOADED	Saheb Biwi Aur Gulam Episode 6
 5080	UPLOADED	D Code Episode 2
+2725	UPLOADED	Sanki Painter Episode 3
