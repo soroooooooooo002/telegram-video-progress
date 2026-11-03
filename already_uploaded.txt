@@ -935,7 +935,6 @@
 4405	UPLOADED	Revenge Episode 3
 4406	UPLOADED	Revenge Episode 2
 4407	UPLOADED	Revenge Episode 1
-3243	UPLOADED	L Lag Gaye Episode 1
 718	UPLOADED	Saiyaan Farebi Episode 3
 4408	UPLOADED	Rental Episode 1
 3244	UPLOADED	L Lag Gaye Episode 2
@@ -4427,3 +4426,4 @@
 4225	SKIPPED	Trapped Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Trapped%20/Trapped%20Episode%202.mp4
 4226	SKIPPED	Trapped Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Trapped%20/Trapped%20Episode%201.mp4
 4227	UPLOADED	Tota Episode 6
+3243	UPLOADED	L Lag Gaye Episode 1
