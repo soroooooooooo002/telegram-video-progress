@@ -1729,7 +1729,6 @@
 4625	UPLOADED	Khidki Episode 2
 1167	UPLOADED	X Class Episode 6
 4626	UPLOADED	Khidki Episode 1
-5644	UPLOADED	Bhoot Bangla Episode 2
 4627	UPLOADED	Khatak Episode 4
 1168	UPLOADED	Rangeen Kahaniya Episode 1
 4628	UPLOADED	Khatak Episode 3
@@ -4430,3 +4429,4 @@
 803	UPLOADED	Angreji Film Episode 5
 3323	UPLOADED	Jamai Raja Episode 5
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
+5644	UPLOADED	Bhoot Bangla Episode 2
