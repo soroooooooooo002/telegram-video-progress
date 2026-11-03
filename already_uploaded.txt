@@ -237,7 +237,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-4016	UPLOADED	Farebi Yaar Episode 6
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
 1279	UPLOADED	Gore Gore Gaal Episode 1
 1280	UPLOADED	Haseena Maan Jayegi Episode 2
@@ -4401,3 +4400,4 @@
 4013	UPLOADED	Farebi Yaar Episode 3
 4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
+4016	UPLOADED	Farebi Yaar Episode 6
