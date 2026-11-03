@@ -951,7 +951,6 @@
 2895	UPLOADED	Sitiyabaaz Episode 3
 2900	UPLOADED	Inspiration Episode 2
 2901	UPLOADED	Inspiration Episode 1
-2902	SKIPPED	Chausar Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2903	SKIPPED	Chausar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Chausar/Chausar%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2904	UPLOADED	Sarpanch Episode 3
 2905	UPLOADED	Sarpanch Episode 2
@@ -4408,3 +4407,4 @@
 708	UPLOADED	Talab Episode 1
 5319	UPLOADED	Gharwali Baharwali Episode 2
 4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
+2902	UPLOADED	Chausar Episode 5
