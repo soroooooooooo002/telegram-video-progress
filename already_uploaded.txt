@@ -1111,7 +1111,6 @@
 2747	SKIPPED	Lag Gayi Lottery Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lag%20Gayi%20Lottery/Lag%20Gayi%20Lottery%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4334	UPLOADED	Size Matters 2 Episode 7
 2762	UPLOADED	Langot Episode 3
-2792	UPLOADED	Kiraayedaar Episode 3
 2796	SKIPPED	Rasgulla Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Rasgulla/Rasgulla%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2797	SKIPPED	Rasgulla Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Rasgulla/Rasgulla%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4335	UPLOADED	Size Matters 2 Episode 6
@@ -4347,3 +4346,4 @@
 2789	UPLOADED	Wheel Chair Episode 2
 2790	SKIPPED	Wheel Chair Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Wheel%20Chair/Wheel%20Chair%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2791	UPLOADED	Kiraayedaar Episode 4
+2792	UPLOADED	Kiraayedaar Episode 3
