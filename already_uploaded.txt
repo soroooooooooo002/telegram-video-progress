@@ -358,7 +358,6 @@
 3796	UPLOADED	Ek Sath Teen Teen Episode 2
 1390	UPLOADED	Tadka Episode 5
 3797	UPLOADED	Ek Sath Teen Teen Episode 1
-4150	UPLOADED	Lag Ja Gale Episode 5
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 3799	UPLOADED	Galat Sambandh Episode 1
 4151	UPLOADED	Lag Ja Gale Episode 6
@@ -4421,3 +4420,4 @@
 5335	SKIPPED	Sindoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Sindoor.mp4
 5336	SKIPPED	Luka Chuppi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Luka%20Chuppi.mp4
 2938	UPLOADED	Japani Malish Episode 6
+4150	UPLOADED	Lag Ja Gale Episode 5
