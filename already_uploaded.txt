@@ -944,7 +944,6 @@
 4451	UPLOADED	Paper Episode 2
 4453	UPLOADED	Panchali Episode 5
 4454	UPLOADED	Panchali Episode 4
-3324	UPLOADED	Jamai Raja Episode 6
 3325	SKIPPED	Love Bites Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%201.mp4
 3326	SKIPPED	Love Bites Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%202.mp4
 3327	SKIPPED	Love Bites Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/EORTV/Love%20Bites/Love%20Bites%20Episode%204.mp4
@@ -4430,3 +4429,4 @@
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
 5644	UPLOADED	Bhoot Bangla Episode 2
 804	UPLOADED	Angreji Film Episode 4
+3324	UPLOADED	Jamai Raja Episode 6
