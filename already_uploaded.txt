@@ -1271,7 +1271,6 @@
 4405	UPLOADED	Revenge Episode 3
 4406	UPLOADED	Revenge Episode 2
 3242	UPLOADED	ShilaJeet Episode 3
-717	UPLOADED	Sale Episode 1
 4407	UPLOADED	Revenge Episode 1
 3243	UPLOADED	L Lag Gaye Episode 1
 718	UPLOADED	Saiyaan Farebi Episode 3
@@ -4421,3 +4420,4 @@
 5342	UPLOADED	Khiladi Bhaiya Episode 7
 2945	UPLOADED	Bold Is Gold Episode 2
 4158	UPLOADED	Balam Pichkari Episode 2
+717	UPLOADED	Sale Episode 1
