@@ -4394,3 +4394,4 @@
 2865	SKIPPED	Tadap 2 Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%2010.mp4
 5249	SKIPPED	Clash Of Swack Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Clash%20Of%20Swackk/Clash%20Of%20Swackk%20E1.mp4
 2867	SKIPPED	Tadap 2 Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%208.mp4
+2868	SKIPPED	Tadap 2 Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%207.mp4
