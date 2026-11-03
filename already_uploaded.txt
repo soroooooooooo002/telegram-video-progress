@@ -929,7 +929,6 @@
 4415	UPLOADED	Red Light Episode 6
 4416	UPLOADED	Red Light Episode 5
 3267	UPLOADED	Dagabaaz Episode 3
-3270	UPLOADED	Dagabaaz Episode 6
 4418	UPLOADED	Red Light Episode 3
 3271	UPLOADED	Tailor Kaka Episode 1
 4419	UPLOADED	Red Light Episode 1
@@ -4429,3 +4428,4 @@
 4245	UPLOADED	The Last Show Episode 3
 3268	UPLOADED	Dagabaaz Episode 4
 3269	UPLOADED	Dagabaaz Episode 5
+3270	UPLOADED	Dagabaaz Episode 6
