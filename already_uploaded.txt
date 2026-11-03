@@ -4415,3 +4415,4 @@
 2914	SKIPPED	Pyaar Tune Kya Kiya Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%2010.mp4
 2915	SKIPPED	Pyaar Tune Kya Kiya Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%209.mp4
 2916	SKIPPED	Pyaar Tune Kya Kiya Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%208.mp4
+2917	SKIPPED	Pyaar Tune Kya Kiya Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Pyaar%20Tune%20Kya%20Kiya-C1/Pyaar%20Tune%20Kya%20Kiya%20Episode%207.mp4
