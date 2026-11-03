@@ -978,7 +978,6 @@
 4341	UPLOADED	Singardaan Episode 6
 4342	UPLOADED	Singardaan Episode 5
 4343	UPLOADED	Singardaan Episode 4
-2890	UPLOADED	Raaz Episode 2
 4344	UPLOADED	Singardaan Episode 3
 5775	SKIPPED	Dirty Film	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Boom%20Movies/Dirty%20Film.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4346	UPLOADED	Singardaan Episode 1
@@ -4407,3 +4406,4 @@
 5306	UPLOADED	Damaadji Lage Raho Episode 5
 4098	UPLOADED	Ghanta Ki Baat Episode 1
 700	UPLOADED	Tan Tripti S2 Episode 2
+2890	UPLOADED	Raaz Episode 2
