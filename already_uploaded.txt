@@ -626,7 +626,6 @@
 1493	UPLOADED	Mithai Wali Episode 6
 1494	UPLOADED	Mithai Wali Episode 7
 1495	UPLOADED	Payal Episode 6
-3912	UPLOADED	Daakhila Episode 2
 1496	UPLOADED	Payal Episode 5
 1497	UPLOADED	Nurse Episode 5
 1498	UPLOADED	Nurse Episode 6
@@ -4287,3 +4286,4 @@
 634	UPLOADED	Photographer Episode 3
 5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
 2712	UPLOADED	Roopmati Episode 6
+3912	UPLOADED	Daakhila Episode 2
