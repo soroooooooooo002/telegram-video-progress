@@ -3824,7 +3824,6 @@
 3777	UPLOADED	Doctor Chaurasiya Episode 3
 4772	UPLOADED	Garam Masala Episode 2
 4773	UPLOADED	Garam Masala Episode 1
-5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 3778	UPLOADED	Doctor Chaurasiya Episode 4
 4774	UPLOADED	Gandu Episode 2
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
@@ -4287,3 +4286,4 @@
 5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
 2712	UPLOADED	Roopmati Episode 6
 3912	UPLOADED	Daakhila Episode 2
+5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
