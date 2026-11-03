@@ -975,7 +975,6 @@
 4315	UPLOADED	Sona Episode 8
 1849	UPLOADED	Nathuniya Episode 2
 4316	UPLOADED	Sona Episode 7
-4017	UPLOADED	Farebi Yaar Episode 7
 4018	UPLOADED	Farebi Yaar Episode 8
 4019	UPLOADED	Main Yahan Tu Wahan Episode 9
 4020	UPLOADED	Main Yahan Tu Wahan Episode 8
@@ -4401,3 +4400,4 @@
 4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
 4016	UPLOADED	Farebi Yaar Episode 6
+4017	UPLOADED	Farebi Yaar Episode 7
