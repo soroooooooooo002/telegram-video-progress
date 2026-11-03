@@ -3830,7 +3830,6 @@
 4777	UPLOADED	Gaachi Episode 6
 3781	UPLOADED	Patang Paseena Episode 4
 4778	UPLOADED	Gaachi Episode 5
-5064	UPLOADED	Dekhi Andekhi Episode 3
 3782	UPLOADED	Patang Paseena Episode 3
 1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 4779	UPLOADED	Gaachi Episode 4
@@ -4292,3 +4291,4 @@
 637	UPLOADED	Kambakht Ishq Episode 6
 3915	UPLOADED	Daakhila Episode 4
 2715	UPLOADED	Roopmati Episode 3
+5064	UPLOADED	Dekhi Andekhi Episode 3
