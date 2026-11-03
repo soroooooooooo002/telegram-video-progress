@@ -1104,7 +1104,6 @@
 4334	UPLOADED	Size Matters 2 Episode 7
 2762	UPLOADED	Langot Episode 3
 4335	UPLOADED	Size Matters 2 Episode 6
-2817	SKIPPED	Manmaniyan Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Manmaniyan/Manmaniyan%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2818	SKIPPED	Manmaniyan Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Manmaniyan/Manmaniyan%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2824	SKIPPED	Rosy Maam I Love You Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2827	SKIPPED	Rosy Maam I Love You Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Rosy%20Maam%20I%20Love%20You-C1/Rosy%20Maam%20I%20Love%20You%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4369,3 +4368,4 @@
 2814	SKIPPED	Manmaniyan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Manmaniyan/Manmaniyan%20E1.mp4
 2815	SKIPPED	Manmaniyan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Manmaniyan/Manmaniyan%20E2.mp4
 2816	SKIPPED	Manmaniyan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Manmaniyan/Manmaniyan%20E3.mp4
+2817	SKIPPED	Manmaniyan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Manmaniyan/Manmaniyan%20E4.mp4
