@@ -4400,3 +4400,4 @@
 2878	SKIPPED	Tadap (Atrangii) Episode 10	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap/Tadap%20Episode%2010.mp4
 2879	SKIPPED	Bijili Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Bijili/Bijili%20Episode%204.mp4
 2880	SKIPPED	Bijili Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Bijili/Bijili%20Episode%203.mp4
+2881	SKIPPED	Bijili Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Bijili/Bijili%20Episode%202.mp4
