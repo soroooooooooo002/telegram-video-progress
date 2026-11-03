@@ -4392,3 +4392,4 @@
 2861	UPLOADED	Kaali Raat Episode 2
 5245	SKIPPED	Courtship Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Courtship/Courtship%20E1.mp4
 5246	SKIPPED	Courtship Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Courtship/Courtship%20E2.mp4
+2864	SKIPPED	Tadap 2 Episode 11	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%2011.mp4
