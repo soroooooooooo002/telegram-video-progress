@@ -424,7 +424,6 @@
 4203	SKIPPED	Walkman Episode 7	Request was unsuccessful 6 time(s)
 1453	UPLOADED	Ansh Episode 5
 4205	SKIPPED	Walkman Episode 5	Request was unsuccessful 6 time(s)
-4208	SKIPPED	Walkman Episode 2	Request was unsuccessful 6 time(s)
 4209	SKIPPED	Walkman Episode 1	Request was unsuccessful 6 time(s)
 4210	SKIPPED	Virgin Suspect Episode 7	Request was unsuccessful 6 time(s)
 4212	SKIPPED	Virgin Suspect Episode 5	Request was unsuccessful 6 time(s)
@@ -4423,3 +4422,4 @@
 3193	SKIPPED	Prem 2020 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3194	SKIPPED	Prem 2020 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3195	SKIPPED	Prem 2020 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Prem%202020/Prem%202020%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+4208	UPLOADED	Walkman Episode 2
