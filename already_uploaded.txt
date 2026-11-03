@@ -1882,7 +1882,6 @@
 3497	SKIPPED	Woodpecker Episode 1	Request was unsuccessful 6 time(s)
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
-5322	SKIPPED	Anokhi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Anokhi/Anokhi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5323	SKIPPED	Anokhi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalva/Anokhi/Anokhi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3498	UPLOADED	Woodpecker Episode 2
 888	SKIPPED	London Dreams Episode 6	Request was unsuccessful 6 time(s)
@@ -4420,3 +4419,4 @@
 711	UPLOADED	Sapnon Ki Raani Episode 3
 4144	UPLOADED	Tere Mere Beech Mein Episode 4
 2935	UPLOADED	Black Coffee Episode 1
+5322	UPLOADED	Anokhi Episode 3
