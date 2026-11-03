@@ -248,7 +248,6 @@
 1287	SKIPPED	Sapna Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Sapna/Sapna%20E4.mp4
 1288	UPLOADED	Bade Achhe Lagte Hai Episode 2
 1289	SKIPPED	Laila Season 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Laila%20%282022%29/Laila%20S2%20Full%20Video%20%28XSeries.IN%29.mp4
-4070	UPLOADED	Latest Jinnie Jaaz Dogy Style Sex Video
 1290	UPLOADED	Haseena Maan Jayegi Episode 1
 1291	SKIPPED	Ghar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Ghar/Ghar%20E4.mp4
 4071	UPLOADED	Jinnie Jaaz Ki Mast Chudai
@@ -4404,3 +4403,4 @@
 4069	UPLOADED	Secretory Ki Chudai
 5299	UPLOADED	Rangili Dobhan Episode 2
 2886	UPLOADED	Munni Badnaam Hui Episode 3
+4070	UPLOADED	Latest Jinnie Jaaz Dogy Style Sex Video
