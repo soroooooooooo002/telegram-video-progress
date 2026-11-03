@@ -254,7 +254,6 @@
 1293	UPLOADED	Gore Gore Gaal Episode 7
 1294	SKIPPED	Khel Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E2.mp4
 1295	UPLOADED	Besharam Episode 5
-4095	UPLOADED	Goa Trip Episode 2
 4096	UPLOADED	Goa Trip Episode 1
 1296	UPLOADED	Besharam Episode 2
 4097	UPLOADED	Ghanta Ki Baat Episode 2
@@ -4406,3 +4405,4 @@
 697	UPLOADED	Tan Tripti S3 Episode 1
 4094	UPLOADED	Gupt Gyan
 5303	UPLOADED	Ladla Dever Episode 3
+4095	UPLOADED	Goa Trip Episode 2
