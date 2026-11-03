@@ -1878,7 +1878,6 @@
 766	SKIPPED	Jaal Episode 3	Request was unsuccessful 6 time(s)
 3344	UPLOADED	Rocket Episode 2
 767	SKIPPED	Jaal Episode 2	Request was unsuccessful 6 time(s)
-5096	UPLOADED	Choodiwala Episode 2
 4480	UPLOADED	Nau Do Gyarah Episode 1
 4481	SKIPPED	Nancy Episode 4	Request was unsuccessful 6 time(s)
 4482	SKIPPED	Nancy Episode 3	Request was unsuccessful 6 time(s)
@@ -4313,3 +4312,4 @@
 5094	UPLOADED	Choodiwala Episode 4
 2733	UPLOADED	Cam Girl Episode 1
 5095	UPLOADED	Choodiwala Episode 3
+5096	UPLOADED	Choodiwala Episode 2
