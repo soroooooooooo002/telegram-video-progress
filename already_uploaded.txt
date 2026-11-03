@@ -1899,7 +1899,6 @@
 3484	SKIPPED	Chowkidar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%203.mp4
 3485	SKIPPED	Chowkidar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%204.mp4
 3486	SKIPPED	Chowkidar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%205.mp4
-5315	SKIPPED	Gharwali Baharwali Episode 6	Request was unsuccessful 6 time(s)
 4585	UPLOADED	Lady Finger Episode 1
 4586	SKIPPED	Laal Mirch Episode 9	Request was unsuccessful 6 time(s)
 883	SKIPPED	Generation Gap S2 Episode 3	Request was unsuccessful 6 time(s)
@@ -4408,3 +4407,4 @@
 704	UPLOADED	Talab Episode 6
 4129	UPLOADED	Biwi Ka Khat Episode 6
 2896	UPLOADED	Sitiyabaaz Episode 2
+5315	UPLOADED	Gharwali Baharwali Episode 6
