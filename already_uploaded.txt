@@ -1240,7 +1240,6 @@
 3272	UPLOADED	Tailor Kaka Episode 2
 3273	UPLOADED	Tailor Kaka Episode 3
 4421	UPLOADED	Raat Baaki Hai Episode 6
-727	UPLOADED	Pyar Ka Bazaar Episode 2
 3274	UPLOADED	Tailor Kaka Episode 4
 4422	UPLOADED	Raat Baaki Hai Episode 5
 4423	UPLOADED	Raat Baaki Hai Episode 4
@@ -4421,3 +4420,4 @@
 2983	UPLOADED	Bahurani Episode 1
 5452	UPLOADED	Chup Chup Ke Episode 6
 4174	UPLOADED	Wrong Turn Episode 4
+727	UPLOADED	Pyar Ka Bazaar Episode 2
