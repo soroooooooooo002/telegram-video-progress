@@ -3830,7 +3830,6 @@
 4776	UPLOADED	Gaachi Episode 7
 4777	UPLOADED	Gaachi Episode 6
 3781	UPLOADED	Patang Paseena Episode 4
-5063	UPLOADED	Dekhi Andekhi Episode 5
 4778	UPLOADED	Gaachi Episode 5
 5064	UPLOADED	Dekhi Andekhi Episode 3
 3782	UPLOADED	Patang Paseena Episode 3
@@ -4290,3 +4289,4 @@
 3914	UPLOADED	Daakhila Episode 5
 2714	UPLOADED	Roopmati Episode 4
 5062	UPLOADED	Dekhi Andekhi Episode 4
+5063	UPLOADED	Dekhi Andekhi Episode 5
