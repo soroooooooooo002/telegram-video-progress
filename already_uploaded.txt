@@ -393,7 +393,6 @@
 1420	SKIPPED	Ankhiyon Se Goli Maare Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%201.mp4
 1421	SKIPPED	Ankhiyon Se Goli Maare Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%202.mp4
 1422	SKIPPED	Ankhiyon Se Goli Maare Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%203.mp4
-4176	UPLOADED	Wrong Turn Episode 2
 4177	UPLOADED	Wrong Turn Episode 1
 1423	UPLOADED	Kundi Mat Khadkao Raja Episode 5
 4178	UPLOADED	Woodpecker Episode 8
@@ -4421,3 +4420,4 @@
 4175	UPLOADED	Wrong Turn Episode 3
 2985	UPLOADED	Extra Class Episode 2
 728	UPLOADED	Pyar Ka Bazaar Episode 1
+4176	UPLOADED	Wrong Turn Episode 2
