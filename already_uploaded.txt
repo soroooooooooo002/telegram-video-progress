@@ -1951,7 +1951,6 @@
 831	UPLOADED	Dil Banjara Episode 2
 4558	UPLOADED	Love Guru Episode 3
 3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
-5181	SKIPPED	Blue Night Episode 3	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/Sahelii/Blue%20Night/Blue%20Night%20Episode%203.mp4
 4559	UPLOADED	Love Guru Episode 2
 4560	UPLOADED	Love Guru Episode 1
 3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
@@ -4389,3 +4388,4 @@
 2855	SKIPPED	Chirag Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Chirag/Chirag%20Episode%203.mp4
 3979	UPLOADED	Honey Trap Episode 1
 2857	SKIPPED	Chirag Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Chirag/Chirag%20Episode%201.mp4
+5181	UPLOADED	Blue Night Episode 3
