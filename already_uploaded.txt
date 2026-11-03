@@ -943,7 +943,6 @@
 4449	UPLOADED	Paper Episode 4
 4450	UPLOADED	Paper Episode 3
 4451	UPLOADED	Paper Episode 2
-3322	UPLOADED	Jamai Raja Episode 4
 3323	UPLOADED	Jamai Raja Episode 5
 4453	UPLOADED	Panchali Episode 5
 4454	UPLOADED	Panchali Episode 4
@@ -4430,3 +4429,4 @@
 3321	UPLOADED	Jamai Raja Episode 3
 4264	UPLOADED	The Bull Of Dalal Street Episode 10
 5643	UPLOADED	Chachi Kand Episode 1
+3322	UPLOADED	Jamai Raja Episode 4
