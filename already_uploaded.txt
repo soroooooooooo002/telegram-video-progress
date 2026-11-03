@@ -367,7 +367,6 @@
 1396	UPLOADED	Tadka Episode 1
 1397	UPLOADED	Tadka Episode 2
 1398	UPLOADED	Tadka Episode 3
-4158	UPLOADED	Balam Pichkari Episode 2
 1399	UPLOADED	Tadka Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
 4159	UPLOADED	Balam Pichkari Episode 5
@@ -4421,3 +4420,4 @@
 4157	UPLOADED	Balam Pichkari Episode 3
 5342	UPLOADED	Khiladi Bhaiya Episode 7
 2945	UPLOADED	Bold Is Gold Episode 2
+4158	UPLOADED	Balam Pichkari Episode 2
