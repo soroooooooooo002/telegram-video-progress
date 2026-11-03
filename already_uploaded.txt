@@ -1725,7 +1725,6 @@
 4619	UPLOADED	Khoon Bhari Maang Episode 2
 1163	UPLOADED	X Class Episode 2
 4620	UPLOADED	Khoon Bhari Maang Episode 1
-5642	UPLOADED	Chachi Kand Episode 2
 4621	UPLOADED	Khidki Episode 6
 3611	UPLOADED	Guru Dakshina Episode 9
 1164	UPLOADED	X Class Episode 3
@@ -4430,3 +4429,4 @@
 3319	UPLOADED	Jamai Raja Episode 1
 4262	UPLOADED	The Bull Of Dalal Street Episode 2
 3320	UPLOADED	Jamai Raja Episode 2
+5642	UPLOADED	Chachi Kand Episode 2
