@@ -1118,7 +1118,6 @@
 2747	SKIPPED	Lag Gayi Lottery Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lag%20Gayi%20Lottery/Lag%20Gayi%20Lottery%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4334	UPLOADED	Size Matters 2 Episode 7
 2762	UPLOADED	Langot Episode 3
-2778	SKIPPED	Naram Garam Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Pull/Naram%20Garam/Naram%20Garam%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2779	UPLOADED	Raqeeb Episode 4
 2782	UPLOADED	Raqeeb Episode 1
 2783	SKIPPED	Teen Rasamalai Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Saathi/Teen%20Rasamalai/Teen%20Rasamalai%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4338,3 +4337,4 @@
 3944	UPLOADED	Chakori Episode 1
 5131	UPLOADED	Call Center Episode 3
 669	UPLOADED	Emi Episode 2
+2778	UPLOADED	Naram Garam Episode 1
