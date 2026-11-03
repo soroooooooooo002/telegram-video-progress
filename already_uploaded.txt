@@ -752,7 +752,6 @@
 1756	UPLOADED	Nadaan Episode 4
 4265	UPLOADED	The Bull Of Dalal Street Episode 11
 3940	UPLOADED	Damad Ji Episode 6
-5303	UPLOADED	Ladla Dever Episode 3
 1757	UPLOADED	Nadaan Episode 3
 1758	UPLOADED	Nadaan Episode 2
 5304	UPLOADED	Ladla Dever Episode 1
@@ -4406,3 +4405,4 @@
 5302	UPLOADED	Ladla Dever Episode 2
 697	UPLOADED	Tan Tripti S3 Episode 1
 4094	UPLOADED	Gupt Gyan
+5303	UPLOADED	Ladla Dever Episode 3
