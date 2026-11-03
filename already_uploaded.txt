@@ -1229,7 +1229,6 @@
 4415	UPLOADED	Red Light Episode 6
 3251	UPLOADED	Shudh Shakahari Episode 3
 4416	UPLOADED	Red Light Episode 5
-724	UPLOADED	Raseeli Raatein Episode 1
 3252	UPLOADED	Shudh Shakahari Episode 4
 3253	SKIPPED	Shraap Mukti Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Shraap%20Mukti/Shraap%20Mukti%20Episode%206.mp4
 3254	SKIPPED	Shraap Mukti Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kahani%20Play/Shraap%20Mukti/Shraap%20Mukti%20Episode%207.mp4
@@ -4421,3 +4420,4 @@
 2976	SKIPPED	Chal Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%201.mp4
 2977	SKIPPED	Killer Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/killer/killer%20Episode%201.mp4
 5435	UPLOADED	Tapish Episode 2
+724	UPLOADED	Raseeli Raatein Episode 1
