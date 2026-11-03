@@ -1319,7 +1319,6 @@
 3094	SKIPPED	Double Trouble Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E2.mp4
 3095	SKIPPED	Double Trouble Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Double%20Trouble/Double%20Trouble%20E1.mp4
 4355	UPLOADED	Secretary Episode 1
-687	UPLOADED	Vashikaran Episode 2
 3096	SKIPPED	Jawani Ki Lassi Episode 1	Request was unsuccessful 6 time(s)
 3097	UPLOADED	Jane Anjane Mein 7 Episode 5
 3098	UPLOADED	Jane Anjane Mein 7 Episode 4
@@ -4380,3 +4379,4 @@
 5178	UPLOADED	Love Sucks
 3976	UPLOADED	Lallu Ki Mami Episode 2
 2845	UPLOADED	Silsila Hai Pyaar Ka Episode 2
+687	UPLOADED	Vashikaran Episode 2
