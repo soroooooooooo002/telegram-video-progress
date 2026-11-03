@@ -1120,7 +1120,6 @@
 4331	UPLOADED	Size Matters Episode 1
 4332	UPLOADED	Size Matters 2 Episode 9
 2728	SKIPPED	Sapna Tiffin Center Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-2742	SKIPPED	Aaina Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Aaina/Aaina%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2743	SKIPPED	Aaina Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Aaina/Aaina%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2744	SKIPPED	Lag Gayi Lottery Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lag%20Gayi%20Lottery/Lag%20Gayi%20Lottery%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2745	SKIPPED	Lag Gayi Lottery Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lag%20Gayi%20Lottery/Lag%20Gayi%20Lottery%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4318,3 +4317,4 @@
 5110	UPLOADED	Chehraa Episode 1
 658	UPLOADED	F Se Fantasy Episode 8
 5111	UPLOADED	Cheese Cake Episode 6
+2742	UPLOADED	Aaina Episode 1
