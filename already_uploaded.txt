@@ -878,7 +878,6 @@
 5335	SKIPPED	Sindoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Sindoor.mp4
 5336	SKIPPED	Luka Chuppi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Luka%20Chuppi.mp4
 4293	UPLOADED	Sursuri Li Episode 6
-3953	UPLOADED	Chatur Naar Episode 1
 1807	UPLOADED	Adhure Hum Episode 6
 5337	UPLOADED	Khiladi Bhaiya Episode 1
 4294	UPLOADED	Sursuri Li Episode 5
@@ -4356,3 +4355,4 @@
 2801	SKIPPED	Panchbali Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Panchbali/Panchbali%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2802	SKIPPED	Panchbali Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Panchbali/Panchbali%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2803	SKIPPED	Panchbali Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Panchbali/Panchbali%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3953	UPLOADED	Chatur Naar Episode 1
