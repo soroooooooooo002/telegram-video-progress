@@ -1313,7 +1313,6 @@
 3180	SKIPPED	Aakhri Sukh Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%203.mp4
 3181	SKIPPED	Aakhri Sukh Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%204.mp4
 4365	UPLOADED	Sanskari Episode 5
-695	UPLOADED	Tan Tripti S3 Episode 2
 3182	UPLOADED	Sainyaa Salman S2 Episode 2
 4366	UPLOADED	Sanskari Episode 4
 4367	UPLOADED	Sanskari Episode 3
@@ -4404,3 +4403,4 @@
 5299	UPLOADED	Rangili Dobhan Episode 2
 2886	UPLOADED	Munni Badnaam Hui Episode 3
 4070	UPLOADED	Latest Jinnie Jaaz Dogy Style Sex Video
+695	UPLOADED	Tan Tripti S3 Episode 2
