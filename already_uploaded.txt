@@ -383,7 +383,6 @@
 1411	UPLOADED	Daal Chawal Episode 3
 1412	UPLOADED	Daal Chawal Episode 2
 1413	UPLOADED	Biwi Ka Khat Episode 5
-4167	UPLOADED	Taras Episode 3
 4168	UPLOADED	Taras Episode 2
 1414	UPLOADED	Biwi Ka Khat Episode 1
 4169	UPLOADED	Taras Episode 1
@@ -4421,3 +4420,4 @@
 4166	UPLOADED	Taras Episode 4
 2979	UPLOADED	Bhabhi Jii Aaye Hain Episode 3
 5436	UPLOADED	Tapish Episode 1
+4167	UPLOADED	Taras Episode 3
