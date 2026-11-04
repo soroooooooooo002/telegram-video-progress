@@ -1112,7 +1112,6 @@
 4621	UPLOADED	Khidki Episode 6
 3611	UPLOADED	Guru Dakshina Episode 9
 4622	UPLOADED	Khidki Episode 5
-1165	UPLOADED	X Class Episode 4
 4623	UPLOADED	Khidki Episode 4
 4624	UPLOADED	Khidki Episode 3
 3612	SKIPPED	Guru Dakshina Episode 8	Failed to upload file part 440.
@@ -4467,3 +4466,4 @@
 1162	SKIPPED	X Class Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 18	SKIPPED	URL item 18	https://bindasmood.com/boss-ka-interview-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/boss-ka-interview-2026-hindi-uncut-xxx-video
 1164	SKIPPED	X Class Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1165	SKIPPED	X Class Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
