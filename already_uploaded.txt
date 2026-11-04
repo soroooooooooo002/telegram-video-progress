@@ -118,7 +118,6 @@
 1665	UPLOADED	Gaon Ki Garmi 2 Episode 5
 1666	UPLOADED	Gaon Ki Garmi 2 Episode 2
 1667	UPLOADED	Gaon Ki Garmi 2 Episode 3
-3443	UPLOADED	Yeh Hai Sanak Episode 5
 3444	UPLOADED	Yeh Hai Sanak Episode 4
 1668	UPLOADED	Flat 69 Episode 2
 3445	UPLOADED	Yeh Hai Sanak Episode 3
@@ -4463,3 +4462,4 @@
 5054	UPLOADED	Desi Kisse Jaanch Padtaal Episode 5
 926	UPLOADED	Kirayedaar Ki Lottery Episode 1
 927	UPLOADED	Darji Raja Episode 1
+3443	UPLOADED	Yeh Hai Sanak Episode 5
