@@ -646,7 +646,6 @@
 1804	UPLOADED	Adhure Hum Episode 2
 1805	UPLOADED	Adhure Hum Episode 4
 1806	UPLOADED	Adhure Hum Episode 7
-4293	UPLOADED	Sursuri Li Episode 6
 1807	UPLOADED	Adhure Hum Episode 6
 4294	UPLOADED	Sursuri Li Episode 5
 4295	UPLOADED	Sursuri Li Episode 4
@@ -4432,3 +4431,4 @@
 3350	UPLOADED	Pyar Ki Tadap Episode 1
 821	UPLOADED	Bhabhi 420 Episode 3
 4292	UPLOADED	Sursuri Li Episode 7
+4293	UPLOADED	Sursuri Li Episode 6
