@@ -986,7 +986,6 @@
 5264	SKIPPED	Chull Dhulai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E1.mp4
 5265	SKIPPED	Chhupi Nazar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E1.mp4
 4562	UPLOADED	Love Guru 3 Episode 2
-3416	UPLOADED	Secret Superstar Episode 4
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
 3417	UPLOADED	Secret Superstar Episode 3
@@ -4457,3 +4456,4 @@
 5023	UPLOADED	Dubey Ji And The Boys Episode 3
 4366	UPLOADED	Sanskari Episode 4
 5024	UPLOADED	Dubey Ji And The Boys Episode 2
+3416	UPLOADED	Secret Superstar Episode 4
