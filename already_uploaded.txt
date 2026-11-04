@@ -744,7 +744,6 @@
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4381	UPLOADED	Rupay 500 Episode 3
-4383	UPLOADED	Rupay 500 Episode 1
 4384	UPLOADED	Robot Episode 8
 4385	UPLOADED	Robot Episode 7
 4386	UPLOADED	Robot Episode 6
@@ -4463,3 +4462,4 @@
 5042	UPLOADED	Devil Episode 2
 914	UPLOADED	Dhoodh Wali Episode 3
 3429	UPLOADED	Giddh Bhoj Episode 3
+4383	UPLOADED	Rupay 500 Episode 1
