@@ -746,7 +746,6 @@
 3241	UPLOADED	ShilaJeet Episode 2
 718	UPLOADED	Saiyaan Farebi Episode 3
 719	UPLOADED	Saiyaan Farebi Episode 2
-4411	UPLOADED	Relationship Counsellor Episode 4
 4412	UPLOADED	Relationship Counsellor Episode 3
 4413	UPLOADED	Relationship Counsellor Episode 2
 4414	UPLOADED	Relationship Counsellor Episode 1
@@ -4464,3 +4463,4 @@
 4410	UPLOADED	Relationship Counsellor Episode 5
 1087	UPLOADED	Pratha Episode 5
 3476	SKIPPED	My Yoga Teacher Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4411	SKIPPED	Relationship Counsellor Episode 4	Download request failed: HTTPSConnectionPool(host='cdn.pmaal.com', port=443): Read timed out.
