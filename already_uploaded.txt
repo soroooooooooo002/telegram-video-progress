@@ -967,7 +967,6 @@
 3391	UPLOADED	De De Pyar De Episode 6
 4547	UPLOADED	Maa Ka Naka Episode 4
 4548	UPLOADED	Maa Ka Naka Episode 3
-3392	UPLOADED	Bunty Babli Episode 2
 4549	UPLOADED	Maa Ka Naka Episode 2
 3393	UPLOADED	Blackmail Episode 1 Digi Movieplex
 5173	SKIPPED	Gehra Rishta Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%202.mp4
@@ -4457,3 +4456,4 @@
 4354	UPLOADED	Secretary Episode 2
 3389	UPLOADED	De De Pyar De Episode 4
 3390	SKIPPED	De De Pyar De Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/De%20De%20Pyar%20De/De%20De%20Pyar%20De%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3392	SKIPPED	Bunty Babli Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Bunty%20Babli/Bunty%20Babli%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
