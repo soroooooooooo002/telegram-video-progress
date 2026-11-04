@@ -1812,7 +1812,6 @@
 5295	UPLOADED	Sasur Ki Dulhan Episode 2
 2883	UPLOADED	2 Kamine 2 Nagine Episode 3
 692	UPLOADED	Utha Patak S4 Episode 1
-4054	UPLOADED	Haveli Ki Dulhan Episode 7
 4055	UPLOADED	Haveli Ki Dulhan Episode 8
 4056	UPLOADED	Haveli Ki Dulhan Episode 9
 4057	UPLOADED	Imaan Dol Jayega Episode 1
@@ -4555,3 +4554,4 @@
 4051	SKIPPED	Haveli Ki Dulhan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4052	SKIPPED	Haveli Ki Dulhan Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4053	SKIPPED	Haveli Ki Dulhan Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
+4054	SKIPPED	Haveli Ki Dulhan Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
