@@ -1081,7 +1081,6 @@
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
 3498	UPLOADED	Woodpecker Episode 2
-894	SKIPPED	Devangana Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Devangana/Devangana%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4593	UPLOADED	Laal Mirch Episode 2
 4594	SKIPPED	Laal Mirch Episode 10	Request was unsuccessful 6 time(s)
 4595	SKIPPED	Laal Mirch Episode 1	Request was unsuccessful 6 time(s)
@@ -4457,3 +4456,4 @@
 4367	UPLOADED	Sanskari Episode 3
 5025	UPLOADED	Dubey Ji And The Boys Episode 1
 3417	UPLOADED	Secret Superstar Episode 3
+894	UPLOADED	Devangana Episode 5
