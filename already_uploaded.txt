@@ -2100,7 +2100,6 @@
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
-5040	SKIPPED	Devil Episode 4	Request was unsuccessful 6 time(s)
 5041	SKIPPED	Devil Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
 2625	UPLOADED	Mr Majnu Episode 2
@@ -4463,3 +4462,4 @@
 3427	UPLOADED	Giddh Bhoj Episode 1
 911	UPLOADED	Jawani Ka Junoon Episode 2
 4380	UPLOADED	Rupay 500 Episode 4
+5040	UPLOADED	Devil Episode 4
