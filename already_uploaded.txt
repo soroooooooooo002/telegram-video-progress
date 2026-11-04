@@ -4471,3 +4471,4 @@
 27	SKIPPED	URL item 27	https://bindasmood.com/bhabhi-caught-devar-masturbating-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/bhabhi-caught-devar-masturbating-2026-hindi-uncut-xxx-video
 1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 29	SKIPPED	URL item 29	https://bindasmood.com/do-dilwala-delivery-boy-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/do-dilwala-delivery-boy-2026-hindi-uncut-xxx-video
+30	SKIPPED	URL item 30	https://bindasmood.com/second-marriage-proposal-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/second-marriage-proposal-2026-hindi-uncut-xxx-video
