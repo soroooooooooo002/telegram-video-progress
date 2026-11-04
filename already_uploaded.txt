@@ -986,7 +986,6 @@
 4567	UPLOADED	Love Guru 2 Episode 2
 4568	UPLOADED	Love Guru 2 Episode 1
 3423	SKIPPED	GuptRog Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3425	SKIPPED	Good Girls Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3426	SKIPPED	Good Girls Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4569	UPLOADED	Love Bite Episode 6
 4570	UPLOADED	Love Bite Episode 5
@@ -4461,3 +4460,4 @@
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 4375	UPLOADED	Sabak Ishq Ka Episode 1
 5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
+3425	UPLOADED	Good Girls Episode 1
