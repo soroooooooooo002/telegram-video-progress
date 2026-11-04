@@ -1600,7 +1600,6 @@
 2792	UPLOADED	Kiraayedaar Episode 3
 2793	UPLOADED	Kiraayedaar Episode 2
 2794	UPLOADED	Kiraayedaar Episode 1
-3952	UPLOADED	Chatur Naar Episode 2
 5153	UPLOADED	Auction Episode 3
 5154	UPLOADED	Auction Episode 2
 2795	UPLOADED	Jawani Ki Lassi Episode 2
@@ -4554,3 +4553,4 @@
 3951	SKIPPED	Ghutan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 12	UPLOADED	Horny Komal Bhabhi Need Fuck 2026 Hindi Uncut XXX Video	https://bindasmood.com/horny-komal-bhabhi-need-fuck-2026-hindi-uncut-xxx-video
 1311	UPLOADED	Talab Episode 2
+3952	SKIPPED	Chatur Naar Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
