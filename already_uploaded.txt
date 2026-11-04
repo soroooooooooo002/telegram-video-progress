@@ -1329,7 +1329,6 @@
 609	SKIPPED	Garam Sukh Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Garam%20Sukh/Garam%20Sukh%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 610	SKIPPED	Kaand Wali Return Episode 1	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Kaand%20Wali%20Return/Kaand%20Wali%20Return%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2601	UPLOADED	Julie I Love You Episode 5
-3860	SKIPPED	Dream Girl Bull Episode 3	Request was unsuccessful 6 time(s)
 2602	SKIPPED	Julie I Love You Episode 4	Request was unsuccessful 6 time(s)
 2603	SKIPPED	Virgin Nimmi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%205.mp4
 2604	SKIPPED	Virgin Nimmi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Virgin%20Nimmi/Virgin%20Nimmi%20Episode%204.mp4
@@ -4546,3 +4545,4 @@
 3857	SKIPPED	Golgappe Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Gol%20Gappe/Gol%20Gappe%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3858	SKIPPED	Dream Girl Bull Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Dream%20Girl/Dream%20Girl%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3859	SKIPPED	Dream Girl Bull Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Dream%20Girl/Dream%20Girl%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3860	SKIPPED	Dream Girl Bull Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
