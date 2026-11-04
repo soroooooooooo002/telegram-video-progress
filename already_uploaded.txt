@@ -1792,7 +1792,6 @@
 3667	UPLOADED	Dear N Devil Episode 3
 3668	UPLOADED	Dear N Devil Episode 2
 3669	UPLOADED	Dear N Devil Episode 1
-5683	UPLOADED	Napunsak Pati Episode 5
 1194	SKIPPED	Viral Rani Episode 4	Download request failed: ('Connection broken: IncompleteRead(43073172 bytes read, 303009171 more expected)', IncompleteRead(43073172 bytes read, 303009171 more expected))
 3670	UPLOADED	Birthday Gift Episode 5
 5684	UPLOADED	Napunsak Pati Episode 4
@@ -4431,3 +4430,4 @@
 813	UPLOADED	Do Ankhein Chaar Haath Episode 6
 3341	UPLOADED	Saart Episode 2
 4276	UPLOADED	Teekhi Chutney Episode 2
+5683	UPLOADED	Napunsak Pati Episode 5
