@@ -4551,3 +4551,4 @@
 1308	UPLOADED	Flat Screen Episode 5
 5003	UPLOADED	Dunali Episode 8
 3943	SKIPPED	Damad Ji Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+10	UPLOADED	Zoya Ka Jalwa 2026 Hindi Uncut XXX Video	https://bindasmood.com/zoya-ka-jalwa-2026-hindi-uncut-xxx-video
