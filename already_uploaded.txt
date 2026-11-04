@@ -1223,7 +1223,6 @@
 4659	UPLOADED	Kasturi Episode 6
 3688	UPLOADED	Rajneeti Episode 4
 4660	UPLOADED	Kasturi Episode 5
-1207	UPLOADED	Utha Patak S2 Episode 6
 3689	UPLOADED	Rajneeti Episode 3
 4661	UPLOADED	Kasturi Episode 4
 1208	UPLOADED	Utha Patak S2 Episode 5
@@ -4539,3 +4538,4 @@
 1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
 1205	SKIPPED	Utha Patak S3 Episode 10	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2010.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1206	SKIPPED	Utha Patak S3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1207	SKIPPED	Utha Patak S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S2/Utha%20Patak%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
