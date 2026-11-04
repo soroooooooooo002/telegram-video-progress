@@ -1139,7 +1139,6 @@
 3624	SKIPPED	The Happiness Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/The%20Happiness/The%20Happiness%20Episode%202.mp4
 3625	SKIPPED	The Happiness Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/The%20Happiness/The%20Happiness%20Episode%201.mp4
 4638	UPLOADED	Khalish Episode 2
-1180	UPLOADED	Prem Game Episode 1
 4639	UPLOADED	Khalish Episode 1
 1181	UPLOADED	Prem Game Episode 2
 3626	UPLOADED	Dulhe Raja Episode 1
@@ -4536,3 +4535,4 @@
 130	SKIPPED	URL item 130	https://bindasmood.com/room-service-2026-indianxworld-hindi-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/room-service-2026-indianxworld-hindi-xxx-video
 131	SKIPPED	URL item 131	https://bindasmood.com/gangster-2026-moodx-hindi-xxx-web-series-episode-1	ERROR: Unsupported URL: https://bindasmood.com/gangster-2026-moodx-hindi-xxx-web-series-episode-1
 132	SKIPPED	URL item 132	https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-3	ERROR: Unsupported URL: https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-3
+1180	SKIPPED	Prem Game Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
