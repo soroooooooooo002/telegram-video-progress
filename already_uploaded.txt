@@ -985,7 +985,6 @@
 4569	UPLOADED	Love Bite Episode 6
 4570	UPLOADED	Love Bite Episode 5
 4572	UPLOADED	Love Bite Episode 3
-3428	SKIPPED	Giddh Bhoj Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Giddh%20Bhoj/Giddh%20Bhoj%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4573	UPLOADED	Love Bite Episode 2
 3429	UPLOADED	Giddh Bhoj Episode 3
 3430	SKIPPED	Ek Phool Teen Mali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Ek%20Phool%20Teen%20Mali/Ek%20Phool%20Teen%20Mali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 5040	UPLOADED	Devil Episode 4
 912	UPLOADED	Jawani Ka Junoon Episode 1
 913	SKIPPED	Garam Ketli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Garam%20Ketli/Garam%20Ketli%20Episode%201.mp4
+3428	UPLOADED	Giddh Bhoj Episode 2
