@@ -1874,7 +1874,6 @@
 2932	SKIPPED	Raat Akeli Hai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E2.mp4
 2933	SKIPPED	Raat Akeli Hai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Raat%20Akeli%20Hai/Raat%20Akeli%20Hai%20E1.mp4
 710	UPLOADED	Sapnon Ki Raani Episode 4
-4142	SKIPPED	House Arrest Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%204.mp4
 4143	SKIPPED	House Arrest Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%205.mp4
 2934	UPLOADED	Black Coffee Episode 2
 711	UPLOADED	Sapnon Ki Raani Episode 3
@@ -4556,3 +4555,4 @@
 4139	SKIPPED	Sarkaaye Lo Khatiya Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4140	SKIPPED	Sarkaaye Lo Khatiya Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4141	SKIPPED	Sarkaaye Lo Khatiya Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4142	SKIPPED	House Arrest Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%204.mp4
