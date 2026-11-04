@@ -1106,7 +1106,6 @@
 4617	UPLOADED	Khoon Bhari Maang Episode 4
 3610	SKIPPED	Amrapali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Amrapali/Amrapali%20Episode%201.mp4
 4618	UPLOADED	Khoon Bhari Maang Episode 3
-1162	UPLOADED	X Class Episode 1
 4619	UPLOADED	Khoon Bhari Maang Episode 2
 1163	UPLOADED	X Class Episode 2
 4620	UPLOADED	Khoon Bhari Maang Episode 1
@@ -4466,3 +4465,4 @@
 1159	SKIPPED	Do Haseena Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%202.mp4
 1160	SKIPPED	Do Haseena Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1161	SKIPPED	Do Haseena Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Entertainment/Do%20Haseena/Do%20Haseena%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1162	SKIPPED	X Class Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
