@@ -1584,7 +1584,6 @@
 2786	UPLOADED	Deewane Episode 1
 5144	UPLOADED	Bidaai 2 Episode 9
 5145	UPLOADED	Bhasudi Episode 6
-3949	UPLOADED	Ghutan Episode 4
 674	UPLOADED	Kanpuriya Episode 5
 5146	UPLOADED	Bhasudi Episode 5
 2787	UPLOADED	Deewane Episode 3
@@ -4552,3 +4551,4 @@
 5005	UPLOADED	Dunali Episode 6
 3948	SKIPPED	Ghutan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3909	UPLOADED	Jabran Episode 3 Big Shots
+3949	SKIPPED	Ghutan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
