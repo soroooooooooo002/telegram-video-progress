@@ -1233,7 +1233,6 @@
 4665	UPLOADED	Kasak Episode 9
 3692	UPLOADED	Mangalik Episode 1
 4666	UPLOADED	Kasak Episode 8
-1211	UPLOADED	Utha Patak S1 Episode 6
 4667	UPLOADED	Kasak Episode 7
 3693	UPLOADED	Mangalik Episode 2
 4668	UPLOADED	Kasak Episode 6
@@ -4539,3 +4538,4 @@
 3518	SKIPPED	Toy Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3519	SKIPPED	Toy Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3520	SKIPPED	Toy Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Toy/Toy%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1211	SKIPPED	Utha Patak S1 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S1/Utha%20Patak%20S1%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
