@@ -180,7 +180,6 @@
 1329	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 9
 1330	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 8
 1331	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 6
-1333	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 4
 1334	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 5
 1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
 1336	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 2
@@ -4555,3 +4554,4 @@
 4091	SKIPPED	Biwi Ho to Aisi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi/Biwi%20Ho%20To%20Aisi%20Episode%202.mp4
 4092	SKIPPED	Biwi Ho to Aisi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi/Biwi%20Ho%20To%20Aisi%20Episode%201.mp4
 1332	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 7
+1333	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 4
