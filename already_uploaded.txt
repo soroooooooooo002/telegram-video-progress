@@ -1033,7 +1033,6 @@
 4627	UPLOADED	Khatak Episode 4
 4628	UPLOADED	Khatak Episode 3
 1169	UPLOADED	Rangeen Kahaniya Episode 2
-3613	UPLOADED	Guru Dakshina Episode 7
 4629	UPLOADED	Khatak Episode 2
 4630	UPLOADED	Khatak Episode 1
 4631	UPLOADED	Khalish Episode 9
@@ -4544,3 +4543,4 @@
 3610	SKIPPED	Amrapali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3611	SKIPPED	Guru Dakshina Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Guru%20Dakshina/Guru%20Dakshina%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3612	SKIPPED	Guru Dakshina Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Guru%20Dakshina/Guru%20Dakshina%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3613	SKIPPED	Guru Dakshina Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Besharams/Guru%20Dakshina/Guru%20Dakshina%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
