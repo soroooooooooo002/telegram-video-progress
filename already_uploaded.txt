@@ -1789,7 +1789,6 @@
 3688	UPLOADED	Rajneeti Episode 4
 4660	UPLOADED	Kasturi Episode 5
 1207	UPLOADED	Utha Patak S2 Episode 6
-5801	UPLOADED	Maanglik Episode 2
 3689	UPLOADED	Rajneeti Episode 3
 4661	UPLOADED	Kasturi Episode 4
 5802	UPLOADED	Maanglik Episode 1
@@ -4432,3 +4431,4 @@
 5800	SKIPPED	Pink Bra	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bijli/Pink.Bra%20Full%20Web%20Series%20%28XSeries.IN%29.mp4
 3357	UPLOADED	Online Romance Episode 4
 4301	UPLOADED	Sursuri Li Episode 1
+5801	UPLOADED	Maanglik Episode 2
