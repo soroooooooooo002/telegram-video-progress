@@ -1376,7 +1376,6 @@
 2615	SKIPPED	Sasur Ki Nayee Dulhan Episode 6	Request was unsuccessful 6 time(s)
 617	SKIPPED	Gandi Raat Episode 2	Request was unsuccessful 6 time(s)
 2616	SKIPPED	Sasur Ki Nayee Dulhan Episode 5	Request was unsuccessful 6 time(s)
-3870	SKIPPED	Thand Ka Maza Episode 3	Request was unsuccessful 6 time(s)
 5026	UPLOADED	Dishkiyaoon Episode 6
 618	SKIPPED	Gandi Raat Episode 3	Request was unsuccessful 6 time(s)
 2617	SKIPPED	Sasur Ki Nayee Dulhan Episode 4	Request was unsuccessful 6 time(s)
@@ -4544,3 +4543,4 @@
 3867	SKIPPED	Yaar Pyaar Gaddar Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3868	SKIPPED	Yaar Pyaar Gaddar Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3869	SKIPPED	Thand Ka Maza Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Thand%20Ka%20Maza/Thand%20Ka%20Maza%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3870	SKIPPED	Thand Ka Maza Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Thand%20Ka%20Maza/Thand%20Ka%20Maza%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
