@@ -686,7 +686,6 @@
 1839	SKIPPED	Desires Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Desires/Desires%20Episode%201.mp4
 1840	UPLOADED	Phooti Kismat Episode 4
 1841	UPLOADED	Phooti Kismat Episode 3
-4310	UPLOADED	Sultan Episode 4
 1842	UPLOADED	Mona 69 Episode 3
 4311	UPLOADED	Sultan Episode 3
 1843	UPLOADED	Mona 69 Episode 4
@@ -4433,3 +4432,4 @@
 5807	UPLOADED	Maanglik Episode 4
 833	UPLOADED	Bhabhi Cool Episode 3
 3363	UPLOADED	Local Doctor Episode 3
+4310	UPLOADED	Sultan Episode 4
