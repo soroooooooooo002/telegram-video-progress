@@ -1024,7 +1024,6 @@
 3371	UPLOADED	Joru Ka Gulaam Episode 1
 4508	UPLOADED	Mohan Chabhiwala Episode 6
 3372	UPLOADED	Joru Ka Gulaam Episode 3
-812	UPLOADED	Do Ankhein Chaar Haath Episode 7
 4509	UPLOADED	Mohan Chabhiwala Episode 5
 3373	UPLOADED	Joru Ka Gulaam Episode 2
 4510	UPLOADED	Mohan Chabhiwala Episode 4
@@ -4430,3 +4429,4 @@
 3338	UPLOADED	Sachchi Saheli Episode 4
 4274	UPLOADED	Teekhi Chutney Episode 4
 5663	UPLOADED	Chattri
+812	UPLOADED	Do Ankhein Chaar Haath Episode 7
