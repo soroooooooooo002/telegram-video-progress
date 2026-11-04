@@ -1143,7 +1143,6 @@
 3626	UPLOADED	Dulhe Raja Episode 1
 4640	UPLOADED	Kavita Bhabhi Episode 8
 4641	UPLOADED	Kavita Bhabhi Episode 7
-1182	UPLOADED	Prem Game Episode 3
 3627	UPLOADED	Dulhe Raja Episode 2
 4642	UPLOADED	Kavita Bhabhi Episode 6
 1183	UPLOADED	Prem Game Episode 4
@@ -4536,3 +4535,4 @@
 132	SKIPPED	URL item 132	https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-3	ERROR: Unsupported URL: https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-3
 1180	SKIPPED	Prem Game Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1181	SKIPPED	Prem Game Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1182	SKIPPED	Prem Game Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
