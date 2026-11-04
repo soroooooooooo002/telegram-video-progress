@@ -743,7 +743,6 @@
 3182	UPLOADED	Sainyaa Salman S2 Episode 2
 4368	UPLOADED	Sanskari Episode 2
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
-4369	UPLOADED	Sanskari Episode 1
 4370	UPLOADED	Sabak Ishq Ka Episode 6
 4371	UPLOADED	Sabak Ishq Ka Episode 5
 4372	UPLOADED	Sabak Ishq Ka Episode 4
@@ -4457,3 +4456,4 @@
 3417	UPLOADED	Secret Superstar Episode 3
 894	UPLOADED	Devangana Episode 5
 5027	UPLOADED	Dishkiyaoon Episode 5
+4369	UPLOADED	Sanskari Episode 1
