@@ -744,7 +744,6 @@
 4368	UPLOADED	Sanskari Episode 2
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
-4373	UPLOADED	Sabak Ishq Ka Episode 3
 4374	UPLOADED	Sabak Ishq Ka Episode 2
 4375	UPLOADED	Sabak Ishq Ka Episode 1
 4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
@@ -4460,3 +4459,4 @@
 897	UPLOADED	Devangana Episode 3
 3421	UPLOADED	Khanjarpur Episode 4
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
+4373	UPLOADED	Sabak Ishq Ka Episode 3
