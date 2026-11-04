@@ -181,7 +181,6 @@
 1330	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 8
 1331	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 6
 1336	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 2
-1338	UPLOADED	Daddy Cool Episode 3
 1339	UPLOADED	Daddy Cool Episode 2
 1340	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 4
 1341	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 5
@@ -4555,3 +4554,4 @@
 1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
 4093	SKIPPED	Midnight	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1337	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 1
+1338	UPLOADED	Daddy Cool Episode 3
