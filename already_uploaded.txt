@@ -1788,7 +1788,6 @@
 1207	UPLOADED	Utha Patak S2 Episode 6
 3689	UPLOADED	Rajneeti Episode 3
 4661	UPLOADED	Kasturi Episode 4
-5802	UPLOADED	Maanglik Episode 1
 1208	UPLOADED	Utha Patak S2 Episode 5
 4662	UPLOADED	Kasturi Episode 3
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
@@ -4432,3 +4431,4 @@
 4302	UPLOADED	Sunny Winter Episode 6
 3358	UPLOADED	Mera Baap Teri Mausi Episode 2
 4303	UPLOADED	Sunny Winter Episode 5
+5802	UPLOADED	Maanglik Episode 1
