@@ -2134,7 +2134,6 @@
 3901	SKIPPED	Jabran Episode 9 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3902	SKIPPED	Jabran Episode 7 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3903	SKIPPED	Jabran Episode 8 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5043	UPLOADED	Devil Episode 1
 2640	SKIPPED	Ladla Devar Episode 3	Request was unsuccessful 6 time(s)
 2641	SKIPPED	Phooti Kismat Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Phooti%20Kismat/Phooti%20Kismat%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2642	SKIPPED	Phooti Kismat Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Phooti%20Kismat/Phooti%20Kismat%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 914	UPLOADED	Dhoodh Wali Episode 3
 3429	UPLOADED	Giddh Bhoj Episode 3
 4383	UPLOADED	Rupay 500 Episode 1
+5043	UPLOADED	Devil Episode 1
