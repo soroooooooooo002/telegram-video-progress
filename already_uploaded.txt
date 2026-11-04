@@ -1133,7 +1133,6 @@
 3616	SKIPPED	Rangraliya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%203.mp4
 3617	SKIPPED	Rangraliya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%202.mp4
 3618	SKIPPED	Rangraliya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Rangraliya/Rangraliya%20Episode%201.mp4
-1175	UPLOADED	Pyaar Idhar Udhar Episode 1
 4634	UPLOADED	Khalish Episode 6
 1176	UPLOADED	Pyaar Idhar Udhar Episode 3
 3619	UPLOADED	Jenga Episode 2
@@ -4470,3 +4469,4 @@
 1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 26	SKIPPED	URL item 26	https://bindasmood.com/young-girl-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/young-girl-2026-hindi-uncut-xxx-video
 27	SKIPPED	URL item 27	https://bindasmood.com/bhabhi-caught-devar-masturbating-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/bhabhi-caught-devar-masturbating-2026-hindi-uncut-xxx-video
+1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
