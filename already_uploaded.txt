@@ -690,7 +690,6 @@
 1843	UPLOADED	Mona 69 Episode 4
 1844	UPLOADED	Mardana Sasur S2 Episode 6
 1845	UPLOADED	Nathuniya Episode 6
-4313	UPLOADED	Sultan Episode 1
 1846	UPLOADED	Nathuniya Episode 5
 1847	UPLOADED	Nathuniya Episode 4
 4314	UPLOADED	Soul Reader Episode 1
@@ -4434,3 +4433,4 @@
 3365	UPLOADED	Kulta Digi Movieplex Episode 2
 5811	UPLOADED	Maal Paani Andha Sasur Episode 4
 3366	UPLOADED	Kulta Digi Movieplex Episode 3
+4313	UPLOADED	Sultan Episode 1
