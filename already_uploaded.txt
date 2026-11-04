@@ -1113,7 +1113,6 @@
 4692	UPLOADED	Jhumke Episode 3
 1221	UPLOADED	Qaatil Haseena Episode 3
 4693	UPLOADED	Jhumke Episode 2
-3710	UPLOADED	Jalebi S4 Episode 8
 4694	UPLOADED	Jhumke Episode 1
 1222	UPLOADED	Qaatil Haseena Episode 2
 4695	UPLOADED	Jalebi Bai Episode 9
@@ -4544,3 +4543,4 @@
 3707	SKIPPED	PathShala Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala/PathShala%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3708	SKIPPED	PathShala Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala/PathShala%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3709	SKIPPED	PathShala Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala/PathShala%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3710	SKIPPED	Jalebi S4 Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
