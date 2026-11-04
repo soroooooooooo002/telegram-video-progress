@@ -740,7 +740,6 @@
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4381	UPLOADED	Rupay 500 Episode 3
-4393	UPLOADED	Rikshawala Episode 7
 4394	UPLOADED	Rikshawala Episode 6
 3212	SKIPPED	Pati Patni and She Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%205.mp4
 3213	SKIPPED	Pati Patni and She Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Pati%20Patni%20and%20She/Pati%20Patni%20and%20She%20Episode%204.mp4
@@ -4463,3 +4462,4 @@
 5053	UPLOADED	Desi Kisse Khud Khushi Episode 2
 925	UPLOADED	Kirayedaar Ki Lottery Episode 2
 3442	UPLOADED	Yeh Hai Sanak Episode 6
+4393	UPLOADED	Rikshawala Episode 7
