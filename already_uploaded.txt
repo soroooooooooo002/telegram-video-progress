@@ -1192,7 +1192,6 @@
 3667	UPLOADED	Dear N Devil Episode 3
 3668	UPLOADED	Dear N Devil Episode 2
 3669	UPLOADED	Dear N Devil Episode 1
-1194	SKIPPED	Viral Rani Episode 4	Download request failed: ('Connection broken: IncompleteRead(43073172 bytes read, 303009171 more expected)', IncompleteRead(43073172 bytes read, 303009171 more expected))
 3670	UPLOADED	Birthday Gift Episode 5
 4647	UPLOADED	Kavita Bhabhi Episode 1
 1195	UPLOADED	Viral Rani Episode 3
@@ -4538,3 +4537,4 @@
 1191	SKIPPED	Ghutan Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Ghutan/Ghutan%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1192	SKIPPED	Ghutan Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Ghutan/Ghutan%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 144	SKIPPED	URL item 144	https://bindasmood.com/oyo-rooms-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/oyo-rooms-2026-hindi-uncut-xxx-video
+1194	SKIPPED	Viral Rani Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Viral%20Rani/Viral%20Rani%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
