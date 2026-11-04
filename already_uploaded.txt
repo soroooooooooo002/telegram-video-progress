@@ -1603,7 +1603,6 @@
 2513	SKIPPED	Moh Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Moh/Moh%20Episode%201.mp4
 2514	SKIPPED	Main Kaun Hoon Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Main%20Kaun%20Hoon/Main%20Kaun%20Hoon%20Episode%201.mp4
 601	SKIPPED	Manchala	Request was unsuccessful 6 time(s)
-3808	SKIPPED	Ding Dong Episode 4	Request was unsuccessful 6 time(s)
 602	SKIPPED	Mona Darling Episode 2	Request was unsuccessful 6 time(s)
 2515	SKIPPED	Manchala Ashiq Episode 1	Request was unsuccessful 6 time(s)
 2516	SKIPPED	Lollipop Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Look%20Entertainment/Lollipop/Lollipop%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4464,3 +4463,4 @@
 1109	SKIPPED	Rangeen Tailor Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1110	SKIPPED	Rangeen Tailor Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3807	UPLOADED	Ding Dong Episode 6
+3808	SKIPPED	Ding Dong Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Ding%20Dong/Ding%20Dong%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
