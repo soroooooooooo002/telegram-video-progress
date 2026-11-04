@@ -176,7 +176,6 @@
 1322	UPLOADED	Naa Tum Jaano Naa Hum Episode 5
 1323	UPLOADED	Daddy Cool Episode 4
 1325	UPLOADED	Naa Tum Jaano Naa Hum Episode 6
-1327	UPLOADED	Naa Tum Jaano Naa Hum Episode 3
 1328	UPLOADED	Naa Tum Jaano Naa Hum Episode 1
 1329	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 9
 1330	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 8
@@ -4555,3 +4554,4 @@
 4083	SKIPPED	Dr. Gupt Rogon Ke Mahir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Dr%20Gupt%20Rogon%20Ke%20Mahir/Dr%20Gupt%20Rogon%20Ke%20Mahir%20Episode%203.mp4
 4084	SKIPPED	Dr. Gupt Rogon Ke Mahir Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Dr%20Gupt%20Rogon%20Ke%20Mahir/Dr%20Gupt%20Rogon%20Ke%20Mahir%20Episode%201.mp4
 4085	SKIPPED	Biwi Ho to Aisi 2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi%20Season%202/Biwi%20Ho%20To%20Aisi%20S2%20Episode%204.mp4
+1327	UPLOADED	Naa Tum Jaano Naa Hum Episode 3
