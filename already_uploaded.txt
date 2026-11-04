@@ -1615,7 +1615,6 @@
 3788	UPLOADED	Swapna Sundariii Episode 2
 1247	UPLOADED	Gili Gili Raat Episode 3
 3789	UPLOADED	Swapna Sundariii Episode 1
-3804	SKIPPED	Adhuri Pyaas Episode 1	Request was unsuccessful 6 time(s)
 600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
 5003	SKIPPED	Dunali Episode 8	Request was unsuccessful 6 time(s)
 3805	SKIPPED	Ding Dong Episode 5	Request was unsuccessful 6 time(s)
@@ -4464,3 +4463,4 @@
 3801	SKIPPED	Jalebi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi/Jalebi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3802	SKIPPED	Jalebi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi/Jalebi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3803	SKIPPED	Adhuri Pyaas Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kundi/Adhuri%20Pyaas/Adhuri%20Pyaas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3804	SKIPPED	Adhuri Pyaas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kundi/Adhuri%20Pyaas/Adhuri%20Pyaas%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
