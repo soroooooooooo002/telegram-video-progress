@@ -1287,7 +1287,6 @@
 3713	UPLOADED	Jalebi S4 Episode 5
 4698	UPLOADED	Jalebi Bai Episode 6
 4699	UPLOADED	Jalebi Bai Episode 5
-1224	UPLOADED	Padosan Episode 4
 3714	UPLOADED	Jalebi S4 Episode 4
 4700	UPLOADED	Jalebi Bai Episode 4
 3715	UPLOADED	Jalebi S4 Episode 3
@@ -4541,3 +4540,4 @@
 3531	SKIPPED	Robotina Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Aaha%20Flix/Robotina/Robotina%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 169	SKIPPED	URL item 169	https://bindasmood.com/char-char-khatiya-2026-tikutv-hindi-xxx-web-series-episode-5	ERROR: Unsupported URL: https://bindasmood.com/char-char-khatiya-2026-tikutv-hindi-xxx-web-series-episode-5
 1223	SKIPPED	Qaatil Haseena Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Qaatil%20Haseena/Qaatil%20Haseena%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1224	SKIPPED	Padosan Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Padosan/Padosan%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
