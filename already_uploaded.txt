@@ -1098,7 +1098,6 @@
 4616	UPLOADED	Khoon Bhari Maang Episode 5
 1149	SKIPPED	Casting Couch Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%204.mp4
 1150	SKIPPED	Darji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Darji/Darji%20Episode%202.mp4
-1151	SKIPPED	Darji Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Darji/Darji%20Episode%201.mp4
 1152	SKIPPED	Darji Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Darji/Darji%20Episode%203.mp4
 1153	SKIPPED	Humari Bahujaan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Humari%20Bahujaan/Humari%20Bahujaan%20Episode%201.mp4
 1154	SKIPPED	Humari Bahujaan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Humari%20Bahujaan/Humari%20Bahujaan%20Episode%202.mp4
@@ -4466,3 +4465,4 @@
 1148	SKIPPED	Casting Couch Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5	SKIPPED	URL item 5	https://bindasmood.com/sexy-devar-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/sexy-devar-2026-hindi-uncut-xxx-video
 6	SKIPPED	URL item 6	https://bindasmood.com/tharki-sasur-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/tharki-sasur-2026-hindi-uncut-xxx-video
+1151	SKIPPED	Darji Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Gold/Darji/Darji%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
