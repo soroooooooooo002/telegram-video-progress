@@ -1438,7 +1438,6 @@
 628	SKIPPED	Behenchor Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Behenchor/Behenchor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 629	SKIPPED	Dafliwaala	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Single/Dafliwaala.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2699	SKIPPED	Andar Ki Baat Episode 5	Request was unsuccessful 6 time(s)
-3905	SKIPPED	Jabran Episode 5 Big Shots	Request was unsuccessful 6 time(s)
 2700	SKIPPED	Andar Ki Baat Episode 6	Request was unsuccessful 6 time(s)
 3906	UPLOADED	Jabran Episode 1 Big Shots
 630	SKIPPED	Behenchor Episode 1	Request was unsuccessful 6 time(s)
@@ -4547,3 +4546,4 @@
 3898	SKIPPED	Kache Rishtey Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3903	SKIPPED	Jabran Episode 8 Big Shots	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3904	SKIPPED	Jabran Episode 4 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3905	SKIPPED	Jabran Episode 5 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
