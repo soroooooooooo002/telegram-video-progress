@@ -2064,7 +2064,6 @@
 2984	UPLOADED	Extra Class Episode 3
 2985	UPLOADED	Extra Class Episode 2
 728	UPLOADED	Pyar Ka Bazaar Episode 1
-4176	UPLOADED	Wrong Turn Episode 2
 2986	UPLOADED	Extra Class Episode 1
 5453	UPLOADED	Chup Chup Ke Episode 5
 4177	UPLOADED	Wrong Turn Episode 1
@@ -4557,3 +4556,4 @@
 3916	UPLOADED	Couple Party Episode 1
 4174	SKIPPED	Wrong Turn Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4175	SKIPPED	Wrong Turn Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4176	SKIPPED	Wrong Turn Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
