@@ -1207,7 +1207,6 @@
 4772	UPLOADED	Garam Masala Episode 2
 4773	UPLOADED	Garam Masala Episode 1
 4774	UPLOADED	Gandu Episode 2
-3779	UPLOADED	Patang Paseena Episode 6
 4775	UPLOADED	Gandu Episode 1
 3780	UPLOADED	Patang Paseena Episode 5
 4776	UPLOADED	Gaachi Episode 7
@@ -4544,3 +4543,4 @@
 3776	SKIPPED	Doctor Chaurasiya Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Doctor%20Chaurasiya/Doctor%20Chaurasiya%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3777	SKIPPED	Doctor Chaurasiya Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Doctor%20Chaurasiya/Doctor%20Chaurasiya%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3778	SKIPPED	Doctor Chaurasiya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Doctor%20Chaurasiya/Doctor%20Chaurasiya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3779	SKIPPED	Patang Paseena Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Patang%20Paseena/Patang%20Paseena%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
