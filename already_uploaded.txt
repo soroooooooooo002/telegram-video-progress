@@ -1030,7 +1030,6 @@
 4517	UPLOADED	MeToo Wolf Of Bollywood Episode 5
 3377	UPLOADED	Jara Dhire Dhire Episode 2
 4518	UPLOADED	MeToo Wolf Of Bollywood Episode 4
-816	UPLOADED	Do Ankhein Chaar Haath Episode 3
 4519	UPLOADED	MeToo Wolf Of Bollywood Episode 3
 4520	UPLOADED	MeToo Wolf Of Bollywood Episode 2
 3378	UPLOADED	Jara Dhire Dhire Episode 4
@@ -4431,3 +4430,4 @@
 5692	UPLOADED	Napunsak Pati Episode 2
 3344	UPLOADED	Rocket Episode 2
 4279	UPLOADED	Tandoor Episode 4
+816	UPLOADED	Do Ankhein Chaar Haath Episode 3
