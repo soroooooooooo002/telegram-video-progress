@@ -1217,7 +1217,6 @@
 4779	UPLOADED	Gaachi Episode 4
 3783	UPLOADED	Patang Paseena Episode 2
 4780	UPLOADED	Gaachi Episode 3
-3784	UPLOADED	Patang Paseena Episode 1
 4781	UPLOADED	Gaachi Episode 2
 4782	UPLOADED	Gaachi Episode 1
 3785	UPLOADED	Swapna Sundariii Episode 5
@@ -4544,3 +4543,4 @@
 3857	SKIPPED	Golgappe Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Gol%20Gappe/Gol%20Gappe%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3858	SKIPPED	Dream Girl Bull Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Dream%20Girl/Dream%20Girl%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3859	SKIPPED	Dream Girl Bull Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Dream%20Girl/Dream%20Girl%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3784	SKIPPED	Patang Paseena Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Patang%20Paseena/Patang%20Paseena%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
