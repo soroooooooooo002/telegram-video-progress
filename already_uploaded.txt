@@ -974,7 +974,6 @@
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
 4557	UPLOADED	Love Guru Episode 4
 4558	UPLOADED	Love Guru Episode 3
-3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
 4559	UPLOADED	Love Guru Episode 2
 4560	UPLOADED	Love Guru Episode 1
 3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
@@ -4457,3 +4456,4 @@
 890	UPLOADED	CEO Episode 2
 4362	UPLOADED	Sanskari Episode 8
 5018	UPLOADED	Dunali 2 Episode 2
+3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
