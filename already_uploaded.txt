@@ -2197,7 +2197,6 @@
 628	SKIPPED	Behenchor Episode 2	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Behenchor/Behenchor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 629	SKIPPED	Dafliwaala	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Single/Dafliwaala.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2699	SKIPPED	Andar Ki Baat Episode 5	Request was unsuccessful 6 time(s)
-5045	UPLOADED	Devar Ji Episode 7
 3905	SKIPPED	Jabran Episode 5 Big Shots	Request was unsuccessful 6 time(s)
 5046	UPLOADED	Devar Ji Episode 5
 5047	SKIPPED	Devar Ji Episode 6	Request was unsuccessful 6 time(s)
@@ -4463,3 +4462,4 @@
 3430	UPLOADED	Ek Phool Teen Mali Episode 1
 5044	UPLOADED	Devar Ji Episode 8
 4385	UPLOADED	Robot Episode 7
+5045	UPLOADED	Devar Ji Episode 7
