@@ -1125,7 +1125,6 @@
 4630	UPLOADED	Khatak Episode 1
 4631	UPLOADED	Khalish Episode 9
 3614	UPLOADED	Guru Dakshina Episode 6
-1172	UPLOADED	Rangeen Kahaniya Episode 5
 4632	UPLOADED	Khalish Episode 8
 1173	UPLOADED	Rangeen Kahaniya Episode 6
 4633	UPLOADED	Khalish Episode 7
@@ -4468,3 +4467,4 @@
 23	SKIPPED	URL item 23	https://bindasmood.com/muslim-hijabi-teenager-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/muslim-hijabi-teenager-2026-niksindian-uncut-xxx-video
 1170	SKIPPED	Rangeen Kahaniya Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1171	SKIPPED	Rangeen Kahaniya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
