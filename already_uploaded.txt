@@ -125,7 +125,6 @@
 1678	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 8
 1679	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 5
 1680	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 6
-1197	UPLOADED	Viral Rani Episode 1
 1681	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 4
 3487	UPLOADED	Zeher Episode 1
 1682	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 3
@@ -4539,3 +4538,4 @@
 1194	SKIPPED	Viral Rani Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Viral%20Rani/Viral%20Rani%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1195	SKIPPED	Viral Rani Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Viral%20Rani/Viral%20Rani%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 146	SKIPPED	URL item 146	https://bindasmood.com/cock-hungry-ass-rimming-girl-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/cock-hungry-ass-rimming-girl-2026-niksindian-uncut-xxx-video
+1197	SKIPPED	Viral Rani Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Viral%20Rani/Viral%20Rani%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
