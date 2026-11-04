@@ -1787,7 +1787,6 @@
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
 1209	UPLOADED	Utha Patak S2 Episode 4
 4663	UPLOADED	Kasturi Episode 2
-5804	UPLOADED	Maanglik Episode 3
 3691	UPLOADED	Rajneeti Episode 1
 4664	UPLOADED	Kasturi Episode 1
 1210	UPLOADED	Utha Patak S2 Episode 1
@@ -4433,3 +4432,4 @@
 826	UPLOADED	Tadap Ek Duje Ke Liye Episode 2
 827	SKIPPED	Chatpati Sister Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%202.mp4
 4306	UPLOADED	Sunny Winter Episode 2
+5804	UPLOADED	Maanglik Episode 3
