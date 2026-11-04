@@ -1784,7 +1784,6 @@
 4679	UPLOADED	Kaneez Episode 6
 3702	UPLOADED	PathShala S3 Episode 1
 4680	UPLOADED	Kaneez Episode 5
-5820	UPLOADED	Nain Sukh Episode 6
 4681	UPLOADED	Kaneez Episode 4
 1218	UPLOADED	Raat Ki Raani Episode 2
 4682	UPLOADED	Kaneez Episode 3
@@ -4437,3 +4436,4 @@
 4318	UPLOADED	Sona Episode 5
 849	UPLOADED	Seva Episode 3
 3371	UPLOADED	Joru Ka Gulaam Episode 1
+5820	UPLOADED	Nain Sukh Episode 6
