@@ -168,7 +168,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-1294	SKIPPED	Khel Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E2.mp4
 1295	UPLOADED	Besharam Episode 5
 1296	UPLOADED	Besharam Episode 2
 1298	SKIPPED	Khuli Tijori Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Junglee/Khuli%20Tijori/Khuli%20Tijori%20Episode%202.mp4
@@ -4548,3 +4547,4 @@
 3922	SKIPPED	Couple Party Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5106	UPLOADED	Chehraa Episode 5
 1293	UPLOADED	Gore Gore Gaal Episode 7
+1294	SKIPPED	Khel Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E2.mp4
