@@ -2189,7 +2189,6 @@
 630	SKIPPED	Behenchor Episode 1	Request was unsuccessful 6 time(s)
 3907	SKIPPED	Jabran Episode 6 Big Shots	Request was unsuccessful 6 time(s)
 2701	SKIPPED	Andar Ki Baat Episode 7	Request was unsuccessful 6 time(s)
-5051	SKIPPED	Devar Ji Episode 1	Request was unsuccessful 6 time(s)
 3908	SKIPPED	Jabran Episode 2 Big Shots	Request was unsuccessful 6 time(s)
 2702	SKIPPED	Andar Ki Baat Episode 8	Request was unsuccessful 6 time(s)
 631	SKIPPED	Behaya Episode 2	Request was unsuccessful 6 time(s)
@@ -4463,3 +4462,4 @@
 921	UPLOADED	Tanmay Apartment Episode 4
 4390	UPLOADED	Robot Episode 2
 922	UPLOADED	Tanmay Apartment Episode 3
+5051	UPLOADED	Devar Ji Episode 1
