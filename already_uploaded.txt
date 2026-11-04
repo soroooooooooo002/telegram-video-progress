@@ -692,7 +692,6 @@
 1845	UPLOADED	Nathuniya Episode 6
 1846	UPLOADED	Nathuniya Episode 5
 1847	UPLOADED	Nathuniya Episode 4
-4314	UPLOADED	Soul Reader Episode 1
 1848	UPLOADED	Nathuniya Episode 3
 4315	UPLOADED	Sona Episode 8
 1849	UPLOADED	Nathuniya Episode 2
@@ -4434,3 +4433,4 @@
 839	UPLOADED	Pehla Nasha Episode 3
 5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
 3367	UPLOADED	Kalpana Episode 1
+4314	UPLOADED	Soul Reader Episode 1
