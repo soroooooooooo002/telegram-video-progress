@@ -1108,7 +1108,6 @@
 4688	SKIPPED	Julie Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%203.mp4
 4689	SKIPPED	Julie Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%202.mp4
 4690	SKIPPED	Julie Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%201.mp4
-3705	UPLOADED	PathShala S2 Episode 2
 1220	UPLOADED	Qaatil Haseena Episode 4
 4691	UPLOADED	Jhumke Episode 4
 3706	UPLOADED	PathShala S2 Episode 1
@@ -4544,3 +4543,4 @@
 3702	SKIPPED	PathShala S3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S3/PathShala%20S3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3703	SKIPPED	PathShala S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S2/PathShala%20S2%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3704	SKIPPED	PathShala S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S2/PathShala%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3705	SKIPPED	PathShala S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S2/PathShala%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
