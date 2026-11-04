@@ -2113,7 +2113,6 @@
 619	SKIPPED	Gandi Raat Episode 1	Request was unsuccessful 6 time(s)
 2619	SKIPPED	Sasur Ki Nayee Dulhan Episode 2	Request was unsuccessful 6 time(s)
 3873	SKIPPED	Thand Ka Maza Episode 4	Request was unsuccessful 6 time(s)
-5030	UPLOADED	Dishkiyaoon Episode 2
 5031	SKIPPED	Dishkiyaoon Episode 1	Request was unsuccessful 6 time(s)
 2620	SKIPPED	Sasur Ki Nayee Dulhan Episode 1	Request was unsuccessful 6 time(s)
 3874	UPLOADED	Thand Ka Maza Episode 5
@@ -4458,3 +4457,4 @@
 4370	UPLOADED	Sabak Ishq Ka Episode 6
 895	UPLOADED	Devangana Episode 2
 5029	UPLOADED	Dishkiyaoon Episode 3
+5030	UPLOADED	Dishkiyaoon Episode 2
