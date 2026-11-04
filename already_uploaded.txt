@@ -1790,7 +1790,6 @@
 3683	UPLOADED	Rajneeti Episode 9
 1201	UPLOADED	Utha Patak S3 Episode 6
 4655	UPLOADED	Kaun Man Episode 4
-5792	UPLOADED	Sambhog Yatra
 3684	UPLOADED	Rajneeti Episode 8
 1202	UPLOADED	Utha Patak S3 Episode 5
 4656	UPLOADED	Kaun Man Episode 3
@@ -4432,3 +4431,4 @@
 821	UPLOADED	Bhabhi 420 Episode 3
 4292	UPLOADED	Sursuri Li Episode 7
 4293	UPLOADED	Sursuri Li Episode 6
+5792	UPLOADED	Sambhog Yatra
