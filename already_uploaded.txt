@@ -1362,7 +1362,6 @@
 2608	UPLOADED	Suno Sasur Ji Episode 3
 2609	UPLOADED	Suno Sasur Ji Episode 2
 3862	UPLOADED	Yaar Pyaar Gaddar Episode 1
-3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Request was unsuccessful 6 time(s)
 612	SKIPPED	Kaand Wali Return Episode 2	Request was unsuccessful 6 time(s)
 2610	SKIPPED	Suno Sasur Ji Episode 1	Request was unsuccessful 6 time(s)
 3864	SKIPPED	Yaar Pyaar Gaddar Episode 3	Request was unsuccessful 6 time(s)
@@ -4544,3 +4543,4 @@
 3784	SKIPPED	Patang Paseena Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Patang%20Paseena/Patang%20Paseena%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3785	SKIPPED	Swapna Sundariii Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Swapna%20Sundariii/Swapna%20Sundariii%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3786	SKIPPED	Swapna Sundariii Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Swapna%20Sundariii/Swapna%20Sundariii%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
