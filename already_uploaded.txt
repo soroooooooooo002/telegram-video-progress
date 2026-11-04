@@ -1797,7 +1797,6 @@
 3717	UPLOADED	Jalebi S4 Episode 1
 4710	UPLOADED	Jabran Episode 7
 1226	UPLOADED	Padosan Episode 2
-5831	SKIPPED	Good Luck Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E8.mp4
 5832	SKIPPED	Good Luck Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E9.mp4
 5833	SKIPPED	Good Luck Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E6.mp4
 5834	SKIPPED	Good Luck Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E5.mp4
@@ -4443,3 +4442,4 @@
 4342	UPLOADED	Singardaan Episode 5
 862	UPLOADED	Khilona Feel Episode 3
 5830	UPLOADED	Guru Dakshina Episode 4
+5831	SKIPPED	Good Luck Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Good%20Luck-C1/Good%20Luck%20E8.mp4
