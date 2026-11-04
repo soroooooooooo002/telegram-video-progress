@@ -1029,7 +1029,6 @@
 4512	UPLOADED	Mohan Chabhiwala Episode 2
 4513	UPLOADED	Mohan Chabhiwala Episode 1
 3375	UPLOADED	Jara Dhire Dhire Episode 1
-814	UPLOADED	Do Ankhein Chaar Haath Episode 5
 4514	UPLOADED	MeToo Wolf Of Bollywood Episode 8
 4515	UPLOADED	MeToo Wolf Of Bollywood Episode 7
 3376	UPLOADED	Jara Dhire Dhire Episode 3
@@ -4431,3 +4430,4 @@
 3341	UPLOADED	Saart Episode 2
 4276	UPLOADED	Teekhi Chutney Episode 2
 5683	UPLOADED	Napunsak Pati Episode 5
+814	UPLOADED	Do Ankhein Chaar Haath Episode 5
