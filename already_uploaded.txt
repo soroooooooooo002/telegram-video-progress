@@ -1441,7 +1441,6 @@
 2700	SKIPPED	Andar Ki Baat Episode 6	Request was unsuccessful 6 time(s)
 630	SKIPPED	Behenchor Episode 1	Request was unsuccessful 6 time(s)
 2701	SKIPPED	Andar Ki Baat Episode 7	Request was unsuccessful 6 time(s)
-3908	SKIPPED	Jabran Episode 2 Big Shots	Request was unsuccessful 6 time(s)
 2702	SKIPPED	Andar Ki Baat Episode 8	Request was unsuccessful 6 time(s)
 631	SKIPPED	Behaya Episode 2	Request was unsuccessful 6 time(s)
 3909	SKIPPED	Jabran Episode 3 Big Shots	Request was unsuccessful 6 time(s)
@@ -4547,3 +4546,4 @@
 3905	SKIPPED	Jabran Episode 5 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3906	SKIPPED	Jabran Episode 1 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3907	SKIPPED	Jabran Episode 6 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3908	SKIPPED	Jabran Episode 2 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
