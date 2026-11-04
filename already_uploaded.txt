@@ -1527,7 +1527,6 @@
 2751	UPLOADED	Laila Le Legi Episode 3
 5124	UPLOADED	Catlady Episode 1
 666	UPLOADED	Emi Episode 4
-3942	UPLOADED	Damad Ji Episode 2
 2752	UPLOADED	Laila Le Legi Episode 2
 5125	UPLOADED	Call Center Episode 9
 2753	UPLOADED	Laila Le Legi Episode 1
@@ -4551,3 +4550,4 @@
 3906	UPLOADED	Jabran Episode 1 Big Shots
 5001	UPLOADED	Estate Manager Episode 1
 1307	UPLOADED	Flat Screen Episode 4
+3942	SKIPPED	Damad Ji Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
