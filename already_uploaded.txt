@@ -1790,7 +1790,6 @@
 3670	UPLOADED	Birthday Gift Episode 5
 4647	UPLOADED	Kavita Bhabhi Episode 1
 1195	UPLOADED	Viral Rani Episode 3
-5692	UPLOADED	Napunsak Pati Episode 2
 3671	UPLOADED	Birthday Gift Episode 4
 4648	UPLOADED	Kavita Bhabhi 2 Episode 5
 1196	UPLOADED	Viral Rani Episode 2
@@ -4431,3 +4430,4 @@
 3343	UPLOADED	Rocket Episode 1
 4278	UPLOADED	Tandoor Episode 5
 815	UPLOADED	Do Ankhein Chaar Haath Episode 4
+5692	UPLOADED	Napunsak Pati Episode 2
