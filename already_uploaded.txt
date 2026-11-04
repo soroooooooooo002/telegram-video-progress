@@ -2113,7 +2113,6 @@
 2620	SKIPPED	Sasur Ki Nayee Dulhan Episode 1	Request was unsuccessful 6 time(s)
 3874	UPLOADED	Thand Ka Maza Episode 5
 620	UPLOADED	Gandi Najar Episode 3
-5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 5033	SKIPPED	Dil Sambhal Ja Zara Episode 5	Request was unsuccessful 6 time(s)
 3875	SKIPPED	Thand Ka Maza Episode 7	Request was unsuccessful 6 time(s)
 2621	SKIPPED	Raseeya Dakiya Episode 2	Request was unsuccessful 6 time(s)
@@ -4459,3 +4458,4 @@
 5031	UPLOADED	Dishkiyaoon Episode 1
 896	UPLOADED	Devangana Episode 1
 3420	UPLOADED	Khanjarpur Episode 3
+5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
