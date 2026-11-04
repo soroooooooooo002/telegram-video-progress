@@ -956,7 +956,6 @@
 4584	SKIPPED	Lady Finger Episode 2	Request was unsuccessful 6 time(s)
 4585	UPLOADED	Lady Finger Episode 1
 4586	SKIPPED	Laal Mirch Episode 9	Request was unsuccessful 6 time(s)
-3494	SKIPPED	Desi Doctor Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%206.mp4
 4587	UPLOADED	Laal Mirch Episode 8
 4588	SKIPPED	Laal Mirch Episode 7	Request was unsuccessful 6 time(s)
 3495	UPLOADED	Haramkhor Dream Films Episode 1
@@ -4464,3 +4463,4 @@
 3491	SKIPPED	Desi Doctor Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3492	SKIPPED	Desi Doctor Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3493	SKIPPED	Desi Doctor Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3494	SKIPPED	Desi Doctor Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
