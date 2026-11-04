@@ -2062,7 +2062,6 @@
 5452	UPLOADED	Chup Chup Ke Episode 6
 727	UPLOADED	Pyar Ka Bazaar Episode 2
 2984	UPLOADED	Extra Class Episode 3
-4175	UPLOADED	Wrong Turn Episode 3
 2985	UPLOADED	Extra Class Episode 2
 728	UPLOADED	Pyar Ka Bazaar Episode 1
 4176	UPLOADED	Wrong Turn Episode 2
@@ -4557,3 +4556,4 @@
 14	UPLOADED	Stepfather and Stepson 2026 Hindi Uncut XXX Video	https://bindasmood.com/stepfather-and-stepson-2026-hindi-uncut-xxx-video
 3916	UPLOADED	Couple Party Episode 1
 4174	SKIPPED	Wrong Turn Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4175	SKIPPED	Wrong Turn Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
