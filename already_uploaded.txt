@@ -1974,7 +1974,6 @@
 2725	UPLOADED	Sanki Painter Episode 3
 2726	SKIPPED	Sapna Tiffin Center Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%201.mp4
 2727	SKIPPED	Sapna Tiffin Center Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Sapna%20Tiffin/Sapna%20Tiffin%20Center%20Episode%202.mp4
-5081	UPLOADED	D Code Episode 1
 645	UPLOADED	Saheb Biwi Aur Gulam Episode 4
 5082	UPLOADED	Cyanide Episode 5
 3929	UPLOADED	Chitthi Episode 7
@@ -4464,3 +4463,4 @@
 3492	SKIPPED	Desi Doctor Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3493	SKIPPED	Desi Doctor Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3494	SKIPPED	Desi Doctor Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5081	UPLOADED	D Code Episode 1
