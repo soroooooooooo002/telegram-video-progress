@@ -1786,7 +1786,6 @@
 1214	UPLOADED	Utha Patak S1 Episode 1
 4673	UPLOADED	Kasak Episode 11
 3697	UPLOADED	PathShala S3 Episode 6
-5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
 4674	UPLOADED	Kasak Episode 10
 1215	UPLOADED	Raat Ki Raani Episode 5
 3698	UPLOADED	PathShala S3 Episode 5
@@ -4434,3 +4433,4 @@
 837	SKIPPED	Farebi Ishq Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Farebi%20Ishq/Farebi%20Ishq%20Episode%203.mp4
 838	UPLOADED	Pehla Nasha Episode 6
 839	UPLOADED	Pehla Nasha Episode 3
+5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
