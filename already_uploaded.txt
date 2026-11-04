@@ -1798,7 +1798,6 @@
 3720	UPLOADED	Jalebi S3 Episode 4
 4714	UPLOADED	Jabran Episode 3
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
-5969	UPLOADED	Tags » XMaza
 1228	UPLOADED	Namkeen Kisse Episode 6
 4715	UPLOADED	Jabran Episode 2
 3721	UPLOADED	Jalebi S3 Episode 3
@@ -4445,3 +4444,4 @@
 4349	UPLOADED	Shahad Episode 2
 5967	SKIPPED	Akelapan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Akelapan/Akelapan.mp4
 5968	SKIPPED	Adhuri	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Adhuri/Adhuri.mp4
+5969	UPLOADED	Tags » XMaza
