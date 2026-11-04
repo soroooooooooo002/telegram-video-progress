@@ -1095,7 +1095,6 @@
 3603	UPLOADED	Amrapali S2 Episode 2
 4614	UPLOADED	Khoon Bhari Maang Episode 7
 4615	UPLOADED	Khoon Bhari Maang Episode 6
-1143	SKIPPED	Idhar Udhar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Idhar%20Udhar/Idhar%20Udhar%20E1.mp4
 1144	SKIPPED	Idhar Udhar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Idhar%20Udhar/Idhar%20Udhar%20E2.mp4
 4616	UPLOADED	Khoon Bhari Maang Episode 5
 1145	UPLOADED	Rangili Ragini Episode 1
@@ -4464,3 +4463,4 @@
 1140	SKIPPED	Badhai Lo Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Badhai%20Lo/Badhai%20Lo%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1141	SKIPPED	Bekhudi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FBekhudi%2FBekhudi%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1142	SKIPPED	Miss Briganza Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Miss%20Briganza%20S01E01%20To%202%20%28XSeries.IN%29.mp4
+1143	SKIPPED	Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Idhar%20Udhar/Idhar%20Udhar%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
