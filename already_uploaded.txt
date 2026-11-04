@@ -642,7 +642,6 @@
 4282	UPLOADED	Tandoor Episode 1
 4283	SKIPPED	Takk Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%204.mp4
 4284	SKIPPED	Takk Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%203.mp4
-4287	UPLOADED	Sweet Lie Episode 3
 1803	UPLOADED	Adhure Hum Episode 1
 4288	UPLOADED	Sweet Lie Episode 2
 4289	UPLOADED	Sweet Lie Episode 1
@@ -4432,3 +4431,4 @@
 4285	SKIPPED	Takk Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%201.mp4
 4286	SKIPPED	Takk Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%202.mp4
 818	UPLOADED	Do Ankhein Chaar Haath Episode 1
+4287	UPLOADED	Sweet Lie Episode 3
