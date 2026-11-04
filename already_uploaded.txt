@@ -1809,7 +1809,6 @@
 5293	SKIPPED	Aao Kare Gutur Gu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E3.mp4
 5294	SKIPPED	Aao Kare Gutur Gu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E4.mp4
 3993	SKIPPED	Chull Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E7.mp4
-4013	UPLOADED	Farebi Yaar Episode 3
 4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
 4016	UPLOADED	Farebi Yaar Episode 6
@@ -4555,3 +4554,4 @@
 4010	SKIPPED	Dream Girl Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4011	SKIPPED	Farebi Yaar Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4012	SKIPPED	Farebi Yaar Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
+4013	SKIPPED	Farebi Yaar Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
