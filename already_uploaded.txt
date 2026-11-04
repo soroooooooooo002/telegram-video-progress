@@ -168,7 +168,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-1280	UPLOADED	Haseena Maan Jayegi Episode 2
 1281	UPLOADED	Bade Achhe Lagte Hai Episode 4
 1282	UPLOADED	Bade Achhe Lagte Hai Episode 6
 1283	UPLOADED	Pati Patni Aur Woh
@@ -4546,3 +4545,4 @@
 3884	SKIPPED	Nehle Pe Dehla Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3885	SKIPPED	Nehle Pe Dehla Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3886	SKIPPED	Nehle Pe Dehla Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Nehle%20Pe%20Dehla/Nehle%20Pe%20Dehla%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1280	UPLOADED	Haseena Maan Jayegi Episode 2
