@@ -1085,7 +1085,6 @@
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
 3498	UPLOADED	Woodpecker Episode 2
-892	SKIPPED	CEO Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/CEO/CEO%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 893	SKIPPED	CEO Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/CEO/CEO%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 894	SKIPPED	Devangana Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Devangana/Devangana%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4593	UPLOADED	Laal Mirch Episode 2
@@ -4457,3 +4456,4 @@
 3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
 4365	UPLOADED	Sanskari Episode 5
+892	UPLOADED	CEO Episode 5
