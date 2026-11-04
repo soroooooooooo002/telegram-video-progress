@@ -1653,7 +1653,6 @@
 680	UPLOADED	X Tape Episode 5
 5158	UPLOADED	Assi Nabbe Poore Sau Episode 7
 5159	UPLOADED	Assi Nabbe Poore Sau Episode 5
-3961	UPLOADED	Rivaaz Episode 3
 2837	UPLOADED	Kulfi
 5160	UPLOADED	Assi Nabbe Poore Sau Episode 4
 681	UPLOADED	X Tape Episode 4
@@ -4554,3 +4553,4 @@
 3959	SKIPPED	Rivaaz Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3910	UPLOADED	Daakhila Episode 1
 3960	SKIPPED	Rivaaz Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3961	SKIPPED	Rivaaz Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
