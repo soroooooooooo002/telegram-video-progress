@@ -633,7 +633,6 @@
 1794	UPLOADED	Joru Ka Gulaam Episode 5
 1795	UPLOADED	Bunty Babli Episode 4
 1796	UPLOADED	Bunty Babli Episode 3
-4279	UPLOADED	Tandoor Episode 4
 1797	UPLOADED	Bunty Babli Episode 1
 4280	UPLOADED	Tandoor Episode 3
 1798	UPLOADED	Adla Badli Episode 2 Digi Movieplex
@@ -4431,3 +4430,4 @@
 815	UPLOADED	Do Ankhein Chaar Haath Episode 4
 5692	UPLOADED	Napunsak Pati Episode 2
 3344	UPLOADED	Rocket Episode 2
+4279	UPLOADED	Tandoor Episode 4
