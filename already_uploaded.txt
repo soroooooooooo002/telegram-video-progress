@@ -744,7 +744,6 @@
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
 4381	UPLOADED	Rupay 500 Episode 3
-4382	UPLOADED	Rupay 500 Episode 2
 4383	UPLOADED	Rupay 500 Episode 1
 4384	UPLOADED	Robot Episode 8
 4385	UPLOADED	Robot Episode 7
@@ -4463,3 +4462,4 @@
 913	SKIPPED	Garam Ketli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Garam%20Ketli/Garam%20Ketli%20Episode%201.mp4
 3428	UPLOADED	Giddh Bhoj Episode 2
 5041	UPLOADED	Devil Episode 3
+4382	UPLOADED	Rupay 500 Episode 2
