@@ -3426,7 +3426,6 @@
 3390	SKIPPED	De De Pyar De Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/De%20De%20Pyar%20De/De%20De%20Pyar%20De%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3392	SKIPPED	Bunty Babli Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Bunty%20Babli/Bunty%20Babli%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3393	SKIPPED	Blackmail Episode 1 Digi Movieplex	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Blackmail/Blackmail%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5008	UPLOADED	Dunali Episode 3
 4355	UPLOADED	Secretary Episode 1
 5009	UPLOADED	Dunali Episode 2
 5010	UPLOADED	Dunali Episode 1
@@ -4554,3 +4553,4 @@
 3911	UPLOADED	Daakhila Episode 3
 3976	SKIPPED	Lallu Ki Mami Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1313	UPLOADED	London Dreams Episode 2
+5008	UPLOADED	Dunali Episode 3
