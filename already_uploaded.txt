@@ -974,7 +974,6 @@
 4558	UPLOADED	Love Guru Episode 3
 4559	UPLOADED	Love Guru Episode 2
 4560	UPLOADED	Love Guru Episode 1
-3399	UPLOADED	Jee Bhar Ke Episode 1
 3400	UPLOADED	Jee Bhar Ke Episode 2
 3401	UPLOADED	Jee Bhar Ke Episode 3
 3402	UPLOADED	Jee Bhar Ke Episode 4
@@ -4457,3 +4456,4 @@
 5021	UPLOADED	Dubey Ji And The Boys Episode 5
 4364	UPLOADED	Sanskari Episode 6
 3398	UPLOADED	Adla Badli Episode 3 Digi Movieplex
+3399	UPLOADED	Jee Bhar Ke Episode 1
