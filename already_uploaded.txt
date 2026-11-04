@@ -951,7 +951,6 @@
 795	SKIPPED	Kulta Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Kulta/Kulta%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4491	UPLOADED	Namkeen Episode 2
 4492	UPLOADED	Namkeen Episode 1
-3361	SKIPPED	Local Doctor Episode 1	Request was unsuccessful 6 time(s)
 4494	UPLOADED	Namak Episode 5
 3362	UPLOADED	Local Doctor Episode 2
 4495	UPLOADED	Namak Episode 4
@@ -4433,3 +4432,4 @@
 828	UPLOADED	Dil Banjara Episode 1
 829	SKIPPED	Chatpati Sister Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%203.mp4
 830	SKIPPED	Chatpati Sister Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%201.mp4
+3361	UPLOADED	Local Doctor Episode 1
