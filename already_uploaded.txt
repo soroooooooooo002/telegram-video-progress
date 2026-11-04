@@ -1797,7 +1797,6 @@
 1226	UPLOADED	Padosan Episode 2
 3718	UPLOADED	Jalebi S3 Episode 6
 4711	UPLOADED	Jabran Episode 6
-5907	SKIPPED	Chatkara Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E3.mp4
 5908	SKIPPED	Chatkara Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E4.mp4
 5909	SKIPPED	Chatkara Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E5.mp4
 5910	SKIPPED	Bloody Marry Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E7.mp4
@@ -4443,3 +4442,4 @@
 5904	SKIPPED	Chatkara Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E7.mp4
 5905	SKIPPED	Chatkara Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E6.mp4
 5906	SKIPPED	Chatkara Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E8.mp4
+5907	SKIPPED	Chatkara Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E3.mp4
