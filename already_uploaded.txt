@@ -2099,7 +2099,6 @@
 3009	UPLOADED	Plan B Episode 4
 736	UPLOADED	Paurashpur S3 Episode 4
 5458	UPLOADED	Psycho Saiyaan Episode 3
-4201	UPLOADED	Walkman Episode 9
 4202	UPLOADED	Walkman Episode 8
 3010	UPLOADED	Plan B Episode 3
 3011	SKIPPED	Plan B Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PlanB/PlanB%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4557,3 +4556,4 @@
 4198	SKIPPED	Wanna Have A Good Time Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4199	SKIPPED	Wanna Have A Good Time 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Wanna%20Have%20A%20Good%20Time/Wanna%20Have%20A%20Good%20Time%202%20Episode%202.mp4
 4200	SKIPPED	Wanna Have A Good Time 2 Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4201	SKIPPED	Walkman Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
