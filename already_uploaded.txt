@@ -743,7 +743,6 @@
 4368	UPLOADED	Sanskari Episode 2
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
-4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
 4377	UPLOADED	Saali Aadhi Gharwaali Episode 1
 4378	UPLOADED	Rupay 500 Episode 6
 4379	UPLOADED	Rupay 500 Episode 5
@@ -4461,3 +4460,4 @@
 4375	UPLOADED	Sabak Ishq Ka Episode 1
 5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
 3425	UPLOADED	Good Girls Episode 1
+4376	UPLOADED	Saali Aadhi Gharwaali Episode 2
