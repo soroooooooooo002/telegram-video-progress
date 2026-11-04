@@ -1327,7 +1327,6 @@
 4722	UPLOADED	Jaal Episode 1
 4723	UPLOADED	Ishqiyapa Episode 7
 3726	UPLOADED	Jalebi S2 Episode 3
-1232	UPLOADED	Mera Pyaar Pan Nahi Episode 5
 4724	UPLOADED	Ishqiyapa Episode 6
 4725	UPLOADED	Ishqiyapa Episode 5
 3727	UPLOADED	Jalebi S2 Episode 2
@@ -4542,3 +4541,4 @@
 1229	SKIPPED	Namkeen Kisse Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Namkeen%20Kisse/Namkeen%20Kisse%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3540	SKIPPED	Hawas IBA Movies Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Hawas/Hawas%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3541	SKIPPED	Hawas IBA Movies Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Hawas/Hawas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1232	SKIPPED	Mera Pyaar Pan Nahi Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
