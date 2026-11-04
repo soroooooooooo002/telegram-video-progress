@@ -1023,7 +1023,6 @@
 3368	UPLOADED	Kalpana Episode 2
 4505	UPLOADED	Mona Home Delivery Episode 2
 4506	UPLOADED	Mona Home Delivery Episode 1
-811	UPLOADED	Rangeela Episode 1
 3370	UPLOADED	Kalpana Episode 3
 4507	UPLOADED	Mohan Chabhiwala Episode 7
 3371	UPLOADED	Joru Ka Gulaam Episode 1
@@ -4430,3 +4429,4 @@
 4272	UPLOADED	Tere Jaisa Yaar Kaha Episode 2
 5661	UPLOADED	Flat No 108
 3337	UPLOADED	Sachchi Saheli Episode 3
+811	UPLOADED	Rangeela Episode 1
