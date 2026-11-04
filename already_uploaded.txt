@@ -2181,7 +2181,6 @@
 2702	SKIPPED	Andar Ki Baat Episode 8	Request was unsuccessful 6 time(s)
 631	SKIPPED	Behaya Episode 2	Request was unsuccessful 6 time(s)
 3909	SKIPPED	Jabran Episode 3 Big Shots	Request was unsuccessful 6 time(s)
-5053	UPLOADED	Desi Kisse Khud Khushi Episode 2
 2703	UPLOADED	Andar Ki Baat Episode 9
 632	UPLOADED	Behaya Episode 1
 3910	UPLOADED	Daakhila Episode 1
@@ -4463,3 +4462,4 @@
 3441	SKIPPED	Karzdaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Karzdaar/Karzdaar%20E1.mp4
 924	UPLOADED	Tanmay Apartment Episode 1
 4392	UPLOADED	Rikshawala Episode 8
+5053	UPLOADED	Desi Kisse Khud Khushi Episode 2
