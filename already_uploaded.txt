@@ -1679,7 +1679,6 @@
 2845	UPLOADED	Silsila Hai Pyaar Ka Episode 2
 687	UPLOADED	Vashikaran Episode 2
 5179	UPLOADED	Nayi Padosan Episode 2
-3977	UPLOADED	Lallu Ki Mami Episode 1
 3978	SKIPPED	Agent Laila	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Agent%20Laila/Agent%20Laila.mp4
 2846	UPLOADED	Panchbali Episode 1
 2847	UPLOADED	Obsession Episode 4
@@ -4554,3 +4553,4 @@
 3976	SKIPPED	Lallu Ki Mami Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1313	UPLOADED	London Dreams Episode 2
 5008	UPLOADED	Dunali Episode 3
+3977	SKIPPED	Lallu Ki Mami Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
