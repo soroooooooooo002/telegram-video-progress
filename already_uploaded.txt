@@ -1174,7 +1174,6 @@
 4744	UPLOADED	Haveli Episode 5
 4745	UPLOADED	Haveli Episode 6
 4746	UPLOADED	Haveli Episode 4
-3737	UPLOADED	Sajani Episode 2
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
 4747	UPLOADED	Haveli Episode 2
 3738	UPLOADED	Tomatino Episode 1
@@ -4544,3 +4543,4 @@
 3734	SKIPPED	Sajani Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kooku/Sajani/Sajani%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3735	SKIPPED	Sajani Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kooku/Sajani/Sajani%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3736	SKIPPED	Sajani Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3737	SKIPPED	Sajani Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kooku/Sajani/Sajani%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
