@@ -1315,7 +1315,6 @@
 4715	UPLOADED	Jabran Episode 2
 3721	UPLOADED	Jalebi S3 Episode 3
 4716	UPLOADED	Jabran Episode 1
-1229	UPLOADED	Namkeen Kisse Episode 5
 3722	UPLOADED	Jalebi S3 Episode 2
 4717	UPLOADED	Jaal Episode 6
 4718	UPLOADED	Jaal Episode 5
@@ -4542,3 +4541,4 @@
 172	SKIPPED	URL item 172	https://bindasmood.com/ootam-2026-lubeseries-malayalam-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/ootam-2026-lubeseries-malayalam-xxx-web-series-episode-2
 5086	UPLOADED	Cyanide Episode 1
 1228	SKIPPED	Namkeen Kisse Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Namkeen%20Kisse/Namkeen%20Kisse%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1229	SKIPPED	Namkeen Kisse Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Namkeen%20Kisse/Namkeen%20Kisse%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
