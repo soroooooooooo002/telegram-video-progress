@@ -1389,7 +1389,6 @@
 4754	UPLOADED	Halala Episode 5
 4755	UPLOADED	Halala Episode 4
 3757	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 3
-1237	UPLOADED	Karan Arjun Episode 5
 4756	UPLOADED	Halala Episode 3
 4757	UPLOADED	Halala Episode 2
 3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
@@ -4542,3 +4541,4 @@
 1234	SKIPPED	Mera Pyaar Pan Nahi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3545	SKIPPED	Utha Patak Jugnu Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3546	SKIPPED	Utha Patak Jugnu Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1237	SKIPPED	Karan Arjun Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Karan%20Arjun/Karan%20Arjun%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
