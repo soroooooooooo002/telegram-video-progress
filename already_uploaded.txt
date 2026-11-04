@@ -1340,7 +1340,6 @@
 2609	UPLOADED	Suno Sasur Ji Episode 2
 612	SKIPPED	Kaand Wali Return Episode 2	Request was unsuccessful 6 time(s)
 2610	SKIPPED	Suno Sasur Ji Episode 1	Request was unsuccessful 6 time(s)
-3864	SKIPPED	Yaar Pyaar Gaddar Episode 3	Request was unsuccessful 6 time(s)
 2611	SKIPPED	Shararati Mami Episode 2	Request was unsuccessful 6 time(s)
 613	SKIPPED	Garam Sukh Episode 1	Request was unsuccessful 6 time(s)
 2612	SKIPPED	Shararati Mami Episode 1	Request was unsuccessful 6 time(s)
@@ -4546,3 +4545,4 @@
 3861	SKIPPED	Dream Girl Bull Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Dream%20Girl/Dream%20Girl%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3862	SKIPPED	Yaar Pyaar Gaddar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3864	SKIPPED	Yaar Pyaar Gaddar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
