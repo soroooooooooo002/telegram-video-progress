@@ -988,7 +988,6 @@
 4566	UPLOADED	Love Guru 2 Episode 3
 4567	UPLOADED	Love Guru 2 Episode 2
 4568	UPLOADED	Love Guru 2 Episode 1
-3422	SKIPPED	Khanjarpur Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Khanjarpur/Khanjarpur%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3423	SKIPPED	GuptRog Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3425	SKIPPED	Good Girls Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3426	SKIPPED	Good Girls Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4460,3 +4459,4 @@
 3421	UPLOADED	Khanjarpur Episode 4
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
 4373	UPLOADED	Sabak Ishq Ka Episode 3
+3422	UPLOADED	Khanjarpur Episode 5
