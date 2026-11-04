@@ -743,7 +743,6 @@
 4368	UPLOADED	Sanskari Episode 2
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
-4378	UPLOADED	Rupay 500 Episode 6
 4379	UPLOADED	Rupay 500 Episode 5
 4380	UPLOADED	Rupay 500 Episode 4
 4381	UPLOADED	Rupay 500 Episode 3
@@ -4463,3 +4462,4 @@
 902	SKIPPED	Farebi Ishq Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Farebi%20Ishq/Farebi%20Ishq%20Episode%201.mp4
 903	SKIPPED	Shiddat Mohabbat Ki Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Shiddat%20Mohabbat%20Ki-D2/Shiddat%20Mohabbat%20Ki%20Episode%202.mp4
 5038	UPLOADED	Devil Episode 6
+4378	UPLOADED	Rupay 500 Episode 6
