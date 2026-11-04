@@ -1009,7 +1009,6 @@
 4605	SKIPPED	Kirdaar Episode 6	Request was unsuccessful 6 time(s)
 4606	SKIPPED	Kirdaar Episode 5	Request was unsuccessful 6 time(s)
 4607	SKIPPED	Kirdaar Episode 4	Request was unsuccessful 6 time(s)
-3597	UPLOADED	Akalmand Junglee Episode 2
 3598	UPLOADED	Akalmand Junglee Episode 1
 3599	SKIPPED	Amrapali S2 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3600	SKIPPED	Amrapali S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4544,3 +4543,4 @@
 3594	SKIPPED	Akalmand Junglee Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 3595	SKIPPED	Akalmand Junglee Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 3596	SKIPPED	Akalmand Junglee Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
+3597	SKIPPED	Akalmand Junglee Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
