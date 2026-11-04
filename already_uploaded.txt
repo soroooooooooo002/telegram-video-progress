@@ -2029,7 +2029,6 @@
 3916	UPLOADED	Couple Party Episode 1
 638	UPLOADED	Kambakht Ishq Episode 5
 2716	UPLOADED	Roopmati Episode 2
-5066	UPLOADED	Dekhi Andekhi Episode 1
 3917	UPLOADED	Couple Party Episode 2
 639	UPLOADED	Kambakht Ishq Episode 4
 3918	UPLOADED	Couple Party Episode 3
@@ -4464,3 +4463,4 @@
 5065	UPLOADED	Dekhi Andekhi Episode 2
 3464	UPLOADED	Bhabhi 123 Episode 1
 4404	UPLOADED	Revenge Episode 4
+5066	UPLOADED	Dekhi Andekhi Episode 1
