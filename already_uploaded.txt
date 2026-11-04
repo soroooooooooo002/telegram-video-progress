@@ -1649,7 +1649,6 @@
 2834	SKIPPED	Lodam Bhabhi S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%204.mp4
 2835	SKIPPED	Lodam Bhabhi S2 Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%205.mp4
 2836	SKIPPED	Lodam Bhabhi S2 Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Lodam%20Bhabhi%20S2/Lodam%20Bhabhi%20S2%20Episode%206.mp4
-3960	UPLOADED	Rivaaz Episode 2
 5157	UPLOADED	Assi Nabbe Poore Sau Episode 6
 680	UPLOADED	X Tape Episode 5
 5158	UPLOADED	Assi Nabbe Poore Sau Episode 7
@@ -4554,3 +4553,4 @@
 3958	SKIPPED	SX Girls Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/SX%20Girls/SX%20Girls%20Episode%202.mp4
 3959	SKIPPED	Rivaaz Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3910	UPLOADED	Daakhila Episode 1
+3960	SKIPPED	Rivaaz Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
