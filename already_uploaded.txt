@@ -1103,7 +1103,6 @@
 4592	UPLOADED	Laal Mirch Episode 3
 5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
 3498	UPLOADED	Woodpecker Episode 2
-891	SKIPPED	CEO Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/CEO/CEO%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 892	SKIPPED	CEO Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/CEO/CEO%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 893	SKIPPED	CEO Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/CEO/CEO%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 894	SKIPPED	Devangana Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Devangana/Devangana%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4457,3 +4456,4 @@
 3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
 5019	UPLOADED	Dunali 2 Episode 10
 4363	UPLOADED	Sanskari Episode 7
+891	UPLOADED	CEO Episode 4
