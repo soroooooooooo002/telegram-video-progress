@@ -171,7 +171,6 @@
 1314	UPLOADED	London Dreams Episode 1
 1315	SKIPPED	Jawaani Jaaneman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%202.mp4
 1318	UPLOADED	Inspiration Episode 3
-1319	UPLOADED	Mr Majnu Episode 1
 1320	UPLOADED	Daddy Cool Episode 5
 1321	UPLOADED	Daddy Cool Episode 6
 1322	UPLOADED	Naa Tum Jaano Naa Hum Episode 5
@@ -4555,3 +4554,4 @@
 4071	SKIPPED	Jinnie Jaaz Ki Mast Chudai	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4072	SKIPPED	Suhagraat Indian XXX by Jinnie Jaaz	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Kaanta%20Laga/Kaanta%20Laga%20Episode%207.mp4
 4073	SKIPPED	Jinnie Jaaz Hot XXX Web Series	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1319	UPLOADED	Mr Majnu Episode 1
