@@ -1053,7 +1053,6 @@
 4556	UPLOADED	Maa Devrani Beti Jethani Episode 1
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
 4557	UPLOADED	Love Guru Episode 4
-831	UPLOADED	Dil Banjara Episode 2
 4558	UPLOADED	Love Guru Episode 3
 3397	UPLOADED	Adla Badli Episode 1 Digi Movieplex
 4559	UPLOADED	Love Guru Episode 2
@@ -4433,3 +4432,4 @@
 830	SKIPPED	Chatpati Sister Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%201.mp4
 3361	UPLOADED	Local Doctor Episode 1
 5805	UPLOADED	Maal Paani Sexy Sauda Episode 1
+831	UPLOADED	Dil Banjara Episode 2
