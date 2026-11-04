@@ -2115,7 +2115,6 @@
 621	SKIPPED	Gandi Najar Episode 2	Request was unsuccessful 6 time(s)
 3877	SKIPPED	Thand Ka Maza Episode 9	Request was unsuccessful 6 time(s)
 2623	SKIPPED	Mr Majnu Episode 4	Request was unsuccessful 6 time(s)
-5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
@@ -4461,3 +4460,4 @@
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 4374	UPLOADED	Sabak Ishq Ka Episode 2
 898	UPLOADED	Devangana Episode 6
+5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
