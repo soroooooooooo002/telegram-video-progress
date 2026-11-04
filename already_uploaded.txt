@@ -1116,7 +1116,6 @@
 4624	UPLOADED	Khidki Episode 3
 3612	SKIPPED	Guru Dakshina Episode 8	Failed to upload file part 440.
 4625	UPLOADED	Khidki Episode 2
-1167	UPLOADED	X Class Episode 6
 4626	UPLOADED	Khidki Episode 1
 4627	UPLOADED	Khatak Episode 4
 1168	UPLOADED	Rangeen Kahaniya Episode 1
@@ -4467,3 +4466,4 @@
 1164	SKIPPED	X Class Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1165	SKIPPED	X Class Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1166	SKIPPED	X Class Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1167	SKIPPED	X Class Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/X%20Class/X%20Class%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
