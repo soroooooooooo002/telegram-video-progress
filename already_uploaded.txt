@@ -4463,3 +4463,4 @@
 1049	SKIPPED	Love Guru Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Love%20Guru/Love%20Guru%20Episode%201.mp4
 1050	SKIPPED	Komal Ki Sawari Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Komal%20Ki%20Sawari/Komal%20Ki%20Sawari%20Episode%202.mp4
 1051	SKIPPED	Komal Ki Sawari Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Komal%20Ki%20Sawari/Komal%20Ki%20Sawari%20Episode%201.mp4
+4398	UPLOADED	Rikshawala Episode 2
