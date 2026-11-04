@@ -631,7 +631,6 @@
 1792	UPLOADED	Joru Ka Gulaam Episode 6
 4275	UPLOADED	Teekhi Chutney Episode 3
 1794	UPLOADED	Joru Ka Gulaam Episode 5
-4277	UPLOADED	Teekhi Chutney Episode 1
 1795	UPLOADED	Bunty Babli Episode 4
 4278	UPLOADED	Tandoor Episode 5
 1796	UPLOADED	Bunty Babli Episode 3
@@ -4431,3 +4430,4 @@
 5683	UPLOADED	Napunsak Pati Episode 5
 814	UPLOADED	Do Ankhein Chaar Haath Episode 5
 3342	UPLOADED	Saart Episode 4
+4277	UPLOADED	Teekhi Chutney Episode 1
