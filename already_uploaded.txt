@@ -956,7 +956,6 @@
 4584	SKIPPED	Lady Finger Episode 2	Request was unsuccessful 6 time(s)
 4585	UPLOADED	Lady Finger Episode 1
 4586	SKIPPED	Laal Mirch Episode 9	Request was unsuccessful 6 time(s)
-3490	SKIPPED	Desi Doctor Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%202.mp4
 3491	SKIPPED	Desi Doctor Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%203.mp4
 3492	SKIPPED	Desi Doctor Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%204.mp4
 3493	SKIPPED	Desi Doctor Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%205.mp4
@@ -4464,3 +4463,4 @@
 3808	SKIPPED	Ding Dong Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Ding%20Dong/Ding%20Dong%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3488	SKIPPED	Zeher Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3489	SKIPPED	Desi Doctor Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3490	SKIPPED	Desi Doctor Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
