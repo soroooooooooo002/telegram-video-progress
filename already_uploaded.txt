@@ -1129,7 +1129,6 @@
 4602	UPLOADED	Kirdaar Episode 9
 905	SKIPPED	Madam Maya Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Madam%20Maya/Madam%20Maya%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-927	SKIPPED	Darji Raja Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Darji%20Raja/Darji%20Raja%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 928	SKIPPED	Darji Raja Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Darji%20Raja/Darji%20Raja%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 929	SKIPPED	Aadhuri Pyaas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Aadhuri%20Pyaas/Aadhuri%20Pyaas%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 930	SKIPPED	Aadhuri Pyaas Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Aadhuri%20Pyaas/Aadhuri%20Pyaas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 4393	UPLOADED	Rikshawala Episode 7
 5054	UPLOADED	Desi Kisse Jaanch Padtaal Episode 5
 926	UPLOADED	Kirayedaar Ki Lottery Episode 1
+927	UPLOADED	Darji Raja Episode 1
