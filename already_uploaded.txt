@@ -1839,7 +1839,6 @@
 706	UPLOADED	Talab Episode 5
 5317	UPLOADED	Gharwali Baharwali Episode 4
 2898	UPLOADED	Thoda Tikhee Thoda Spicy Episode 2
-4134	UPLOADED	Biwi Ka Khat Episode 2
 707	UPLOADED	Talab Episode 3
 5318	UPLOADED	Gharwali Baharwali Episode 3
 2899	UPLOADED	Thoda Tikhee Thoda Spicy Episode 1
@@ -4556,3 +4555,4 @@
 4131	SKIPPED	Sarkaaye Lo Khatiya Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4132	SKIPPED	Sarkaaye Lo Khatiya Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4133	SKIPPED	Sarkaaye Lo Khatiya Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4134	SKIPPED	Biwi Ka Khat Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
