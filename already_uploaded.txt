@@ -1208,7 +1208,6 @@
 3679	SKIPPED	Paglet Hulchul Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Paglet/Paglet-Hulchul%20Episode%204.mp4
 3680	SKIPPED	Paglet Hulchul Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Paglet/Paglet-Hulchul%20Episode%205.mp4
 3681	SKIPPED	Paglet Hulchul Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Paglet/Paglet-Hulchul%20Episode%206.mp4
-1199	UPLOADED	Utha Patak S3 Episode 8
 4653	UPLOADED	Kaun Man Episode 6
 3682	UPLOADED	Rajneeti Episode 10
 1200	UPLOADED	Utha Patak S3 Episode 7
@@ -4539,3 +4538,4 @@
 146	SKIPPED	URL item 146	https://bindasmood.com/cock-hungry-ass-rimming-girl-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/cock-hungry-ass-rimming-girl-2026-niksindian-uncut-xxx-video
 1197	SKIPPED	Viral Rani Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Viral%20Rani/Viral%20Rani%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1198	SKIPPED	Utha Patak S3 Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1199	SKIPPED	Utha Patak S3 Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
