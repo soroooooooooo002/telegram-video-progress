@@ -1791,7 +1791,6 @@
 3669	UPLOADED	Dear N Devil Episode 1
 1194	SKIPPED	Viral Rani Episode 4	Download request failed: ('Connection broken: IncompleteRead(43073172 bytes read, 303009171 more expected)', IncompleteRead(43073172 bytes read, 303009171 more expected))
 3670	UPLOADED	Birthday Gift Episode 5
-5684	UPLOADED	Napunsak Pati Episode 4
 5685	SKIPPED	Shaatir Mashooqa	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/Shaatir%20Mashooqa.mp4
 5686	SKIPPED	Tuition Teacher Chiku	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/Tuition%20Teacher.mp4
 5687	SKIPPED	Macho Man	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/Macho%20Man.mp4
@@ -4431,3 +4430,4 @@
 814	UPLOADED	Do Ankhein Chaar Haath Episode 5
 3342	UPLOADED	Saart Episode 4
 4277	UPLOADED	Teekhi Chutney Episode 1
+5684	UPLOADED	Napunsak Pati Episode 4
