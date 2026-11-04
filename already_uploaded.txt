@@ -1015,7 +1015,6 @@
 4611	SKIPPED	Kings Man Episode 3	Request was unsuccessful 6 time(s)
 4612	SKIPPED	Kings Man Episode 2	Request was unsuccessful 6 time(s)
 4613	UPLOADED	Kings Man Episode 1
-3603	UPLOADED	Amrapali S2 Episode 2
 4614	UPLOADED	Khoon Bhari Maang Episode 7
 4615	UPLOADED	Khoon Bhari Maang Episode 6
 4616	UPLOADED	Khoon Bhari Maang Episode 5
@@ -4544,3 +4543,4 @@
 3600	SKIPPED	Amrapali S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3601	SKIPPED	Amrapali S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3602	SKIPPED	Amrapali S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3603	SKIPPED	Amrapali S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali%20S2/Amrapali%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
