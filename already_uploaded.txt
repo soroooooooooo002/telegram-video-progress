@@ -168,7 +168,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-1306	UPLOADED	Stranger Episode 2
 1307	UPLOADED	Flat Screen Episode 4
 1308	UPLOADED	Flat Screen Episode 5
 1309	UPLOADED	Daan Episode 4
@@ -4551,3 +4550,4 @@
 3940	SKIPPED	Damad Ji Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5000	UPLOADED	Estate Manager Episode 2
 3941	SKIPPED	Damad Ji Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1306	UPLOADED	Stranger Episode 2
