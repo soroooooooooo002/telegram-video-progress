@@ -2189,7 +2189,6 @@
 3908	SKIPPED	Jabran Episode 2 Big Shots	Request was unsuccessful 6 time(s)
 2702	SKIPPED	Andar Ki Baat Episode 8	Request was unsuccessful 6 time(s)
 631	SKIPPED	Behaya Episode 2	Request was unsuccessful 6 time(s)
-5052	UPLOADED	Desi Kisse Khud Khushi Episode 6
 3909	SKIPPED	Jabran Episode 3 Big Shots	Request was unsuccessful 6 time(s)
 5053	UPLOADED	Desi Kisse Khud Khushi Episode 2
 2703	UPLOADED	Andar Ki Baat Episode 9
@@ -4463,3 +4462,4 @@
 3434	UPLOADED	Aunty Ka PG Episode 1
 4391	UPLOADED	Robot Episode 1
 923	UPLOADED	Tanmay Apartment Episode 2
+5052	UPLOADED	Desi Kisse Khud Khushi Episode 6
