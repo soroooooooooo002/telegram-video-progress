@@ -1025,7 +1025,6 @@
 3367	UPLOADED	Kalpana Episode 1
 4504	UPLOADED	Mona Home Delivery Episode 3
 3368	UPLOADED	Kalpana Episode 2
-810	SKIPPED	Rangeela Episode 2	Request was unsuccessful 6 time(s)
 4505	UPLOADED	Mona Home Delivery Episode 2
 4506	UPLOADED	Mona Home Delivery Episode 1
 811	UPLOADED	Rangeela Episode 1
@@ -4430,3 +4429,4 @@
 3335	UPLOADED	Teacher Digi Movieplex Episode 4
 5660	UPLOADED	Jism
 4271	UPLOADED	Tere Jaisa Yaar Kaha Episode 3
+810	UPLOADED	Rangeela Episode 2
