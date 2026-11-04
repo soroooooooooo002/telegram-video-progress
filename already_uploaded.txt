@@ -1084,7 +1084,6 @@
 4668	UPLOADED	Kasak Episode 6
 4669	UPLOADED	Kasak Episode 5
 4670	UPLOADED	Kasak Episode 4
-3695	UPLOADED	Mangalik Episode 4
 4671	UPLOADED	Kasak Episode 3
 3696	UPLOADED	PathShala S3 Episode 7
 4672	UPLOADED	Kasak Episode 2
@@ -4544,3 +4543,4 @@
 3692	SKIPPED	Mangalik Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3693	SKIPPED	Mangalik Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3694	SKIPPED	Mangalik Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3695	SKIPPED	Mangalik Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
