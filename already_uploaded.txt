@@ -1217,7 +1217,6 @@
 4656	UPLOADED	Kaun Man Episode 3
 3685	UPLOADED	Rajneeti Episode 7
 4657	UPLOADED	Kaun Man Episode 2
-1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
 3686	UPLOADED	Rajneeti Episode 6
 4658	UPLOADED	Kaun Man Episode 1
 1205	UPLOADED	Utha Patak S3 Episode 10
@@ -4539,3 +4538,4 @@
 1201	SKIPPED	Utha Patak S3 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1202	SKIPPED	Utha Patak S3 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1203	SKIPPED	Utha Patak S3 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1204	SKIPPED	Utha Patak S3 Episode 11	Download request failed: HTTPSConnectionPool(host='video.maalcdn.comhttps', port=443): Max retries exceeded with url: //video.maalcdn.com/ALTT/Utha%20Patak%20S3/Utha%20Patak%20S3%20Episode%2011.mp4/ALTT/Utha%20Patak/S3/Utha%20Patak%20S3%20Episode%2011.mp4 (Caused by NameResolutionError("HTTPSConnection(host='video.maalcdn.comhttps', port=443): Failed to resolve 'video.maalcdn.comhttps' ([Errno -2] Name or service not known)"))
