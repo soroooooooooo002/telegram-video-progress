@@ -694,7 +694,6 @@
 1847	UPLOADED	Nathuniya Episode 4
 1848	UPLOADED	Nathuniya Episode 3
 1849	UPLOADED	Nathuniya Episode 2
-4316	UPLOADED	Sona Episode 7
 1850	UPLOADED	Nathuniya Episode 1
 4317	UPLOADED	Sona Episode 6
 1851	UPLOADED	Mona 69 Episode 1
@@ -4434,3 +4433,4 @@
 5818	SKIPPED	Mistake Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20%20S01E01%20%28XSeries.IN%29.mp4
 3368	UPLOADED	Kalpana Episode 2
 842	UPLOADED	Besharam Episode 1
+4316	UPLOADED	Sona Episode 7
