@@ -1044,7 +1044,6 @@
 4545	UPLOADED	Maa Ka Naka Episode 6
 3390	UPLOADED	De De Pyar De Episode 5
 4546	UPLOADED	Maa Ka Naka Episode 5
-824	UPLOADED	Maashuqa Episode 2
 3391	UPLOADED	De De Pyar De Episode 6
 4547	UPLOADED	Maa Ka Naka Episode 4
 4548	UPLOADED	Maa Ka Naka Episode 3
@@ -4432,3 +4431,4 @@
 4299	UPLOADED	Sursuri Li Episode 11
 5796	UPLOADED	Gili Gili Appa
 3356	UPLOADED	Online Romance Episode 3
+824	UPLOADED	Maashuqa Episode 2
