@@ -1093,7 +1093,6 @@
 3426	SKIPPED	Good Girls Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4569	UPLOADED	Love Bite Episode 6
 4570	UPLOADED	Love Bite Episode 5
-840	UPLOADED	Bade Achhe Lagte Hai Episode 3
 4572	UPLOADED	Love Bite Episode 3
 841	UPLOADED	Besharam Episode 3
 3427	UPLOADED	Giddh Bhoj Episode 1
@@ -4434,3 +4433,4 @@
 5812	UPLOADED	Maal Paani Nagar Vadhu Episode 2
 3367	UPLOADED	Kalpana Episode 1
 4314	UPLOADED	Soul Reader Episode 1
+840	UPLOADED	Bade Achhe Lagte Hai Episode 3
