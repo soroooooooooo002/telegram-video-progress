@@ -2191,7 +2191,6 @@
 2697	SKIPPED	Andar Ki Baat Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2698	SKIPPED	Andar Ki Baat Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Andar%20Ki%20Baat/Andar%20Ki%20Baat%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3904	SKIPPED	Jabran Episode 4 Big Shots	Request was unsuccessful 6 time(s)
-5044	UPLOADED	Devar Ji Episode 8
 624	SKIPPED	Double Date	Request was unsuccessful 6 time(s)
 625	SKIPPED	Double Cross	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jalsa%20TV/Double%20Cross.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 626	SKIPPED	Doggy Lover	Download request failed: HTTPSConnectionPool(host='maalcdn.com', port=443): Max retries exceeded with url: /MoodX/Single/Doggy%20Lover.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 915	UPLOADED	Dhoodh Wali Episode 2
 4384	UPLOADED	Robot Episode 8
 3430	UPLOADED	Ek Phool Teen Mali Episode 1
+5044	UPLOADED	Devar Ji Episode 8
