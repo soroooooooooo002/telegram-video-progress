@@ -1150,7 +1150,6 @@
 4721	UPLOADED	Jaal Episode 2
 4722	UPLOADED	Jaal Episode 1
 4723	UPLOADED	Ishqiyapa Episode 7
-3726	UPLOADED	Jalebi S2 Episode 3
 4724	UPLOADED	Ishqiyapa Episode 6
 4725	UPLOADED	Ishqiyapa Episode 5
 3727	UPLOADED	Jalebi S2 Episode 2
@@ -4544,3 +4543,4 @@
 3723	SKIPPED	Jalebi S3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S3/Jalebi%20S3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3724	SKIPPED	Jalebi S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S2/Jalebi%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3725	SKIPPED	Jalebi S2 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S2/Jalebi%20S2%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3726	SKIPPED	Jalebi S2 Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
