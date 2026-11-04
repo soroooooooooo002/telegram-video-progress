@@ -1488,7 +1488,6 @@
 649	UPLOADED	Obsession S2 Episode 6
 650	UPLOADED	Obsession S2 Episode 5
 2733	UPLOADED	Cam Girl Episode 1
-3934	UPLOADED	VideoBaaz Episode 3
 651	UPLOADED	Obsession S2 Episode 4
 2734	UPLOADED	Cam Girl Episode 2
 652	UPLOADED	Obsession S2 Episode 3
@@ -4549,3 +4548,4 @@
 3903	SKIPPED	Jabran Episode 8 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3904	SKIPPED	Jabran Episode 4 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5113	UPLOADED	Cheese Cake Episode 4
+3934	SKIPPED	VideoBaaz Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
