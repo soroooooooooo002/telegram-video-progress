@@ -954,7 +954,6 @@
 4505	UPLOADED	Mona Home Delivery Episode 2
 4506	UPLOADED	Mona Home Delivery Episode 1
 4507	UPLOADED	Mohan Chabhiwala Episode 7
-3371	UPLOADED	Joru Ka Gulaam Episode 1
 4508	UPLOADED	Mohan Chabhiwala Episode 6
 3372	UPLOADED	Joru Ka Gulaam Episode 3
 4509	UPLOADED	Mohan Chabhiwala Episode 5
@@ -4437,3 +4436,4 @@
 3370	UPLOADED	Kalpana Episode 3
 4318	UPLOADED	Sona Episode 5
 849	UPLOADED	Seva Episode 3
+3371	UPLOADED	Joru Ka Gulaam Episode 1
