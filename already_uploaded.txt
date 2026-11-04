@@ -1971,7 +1971,6 @@
 2514	SKIPPED	Main Kaun Hoon Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Main%20Kaun%20Hoon/Main%20Kaun%20Hoon%20Episode%201.mp4
 601	SKIPPED	Manchala	Request was unsuccessful 6 time(s)
 3807	SKIPPED	Ding Dong Episode 6	Request was unsuccessful 6 time(s)
-5007	UPLOADED	Dunali Episode 4
 3808	SKIPPED	Ding Dong Episode 4	Request was unsuccessful 6 time(s)
 602	SKIPPED	Mona Darling Episode 2	Request was unsuccessful 6 time(s)
 2515	SKIPPED	Manchala Ashiq Episode 1	Request was unsuccessful 6 time(s)
@@ -4457,3 +4456,4 @@
 883	SKIPPED	Generation Gap S2 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Generation%20Gap%20S2/Generation%20Gap%20S2%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 884	SKIPPED	Jawaani Jaaneman Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 885	SKIPPED	Generation Gap S2 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Generation%20Gap%20S2/Generation%20Gap%20S2%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5007	UPLOADED	Dunali Episode 4
