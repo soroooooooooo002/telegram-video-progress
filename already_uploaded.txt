@@ -757,7 +757,6 @@
 4334	UPLOADED	Size Matters 2 Episode 7
 2762	UPLOADED	Langot Episode 3
 4335	UPLOADED	Size Matters 2 Episode 6
-5663	SKIPPED	Chattri	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Single/Chattri.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4336	UPLOADED	Size Matters 2 Episode 5
 2873	SKIPPED	Tadap 2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2875	SKIPPED	Tadap (Atrangii) Episode 13	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%2013.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4430,3 +4429,4 @@
 5662	UPLOADED	Fareb
 3338	UPLOADED	Sachchi Saheli Episode 4
 4274	UPLOADED	Teekhi Chutney Episode 4
+5663	UPLOADED	Chattri
