@@ -749,7 +749,6 @@
 3240	UPLOADED	ShilaJeet Episode 1
 716	UPLOADED	Sale Episode 2
 3241	UPLOADED	ShilaJeet Episode 2
-4406	UPLOADED	Revenge Episode 2
 4407	UPLOADED	Revenge Episode 1
 718	UPLOADED	Saiyaan Farebi Episode 3
 4408	UPLOADED	Rental Episode 1
@@ -4464,3 +4463,4 @@
 1074	UPLOADED	Khel Khel Mein Episode 1
 5068	UPLOADED	De Dana Dan Episode 5
 1075	UPLOADED	Bekaboo S2 Episode 4
+4406	UPLOADED	Revenge Episode 2
