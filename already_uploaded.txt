@@ -1580,7 +1580,6 @@
 5141	UPLOADED	Blue Whale Episode 1
 673	UPLOADED	Kanpuriya Episode 6
 5142	UPLOADED	Black Coffee Episode 2
-3948	UPLOADED	Ghutan Episode 1
 5143	UPLOADED	Black Coffee Episode 1
 2786	UPLOADED	Deewane Episode 1
 5144	UPLOADED	Bidaai 2 Episode 9
@@ -4552,3 +4551,4 @@
 1310	UPLOADED	Daan Episode 1
 3947	SKIPPED	Tala Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5005	UPLOADED	Dunali Episode 6
+3948	SKIPPED	Ghutan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
