@@ -1818,7 +1818,6 @@
 700	UPLOADED	Tan Tripti S2 Episode 2
 2890	UPLOADED	Raaz Episode 2
 5307	UPLOADED	Damaadji Lage Raho Episode 3
-4099	UPLOADED	Diya Tere Hath Mein Episode 2
 2891	UPLOADED	Raaz Episode 1
 701	UPLOADED	Tan Tripti S1 Episode 3
 4100	UPLOADED	Diya Tere Hath Mein Episode 1
@@ -4556,3 +4555,4 @@
 1354	UPLOADED	Dil Pe Bojh Episode 6
 1355	UPLOADED	Dil Pe Bojh Episode 7
 4098	SKIPPED	Ghanta Ki Baat Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4099	SKIPPED	Diya Tere Hath Mein Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
