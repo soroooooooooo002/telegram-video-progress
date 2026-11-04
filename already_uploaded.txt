@@ -693,7 +693,6 @@
 1846	UPLOADED	Nathuniya Episode 5
 1847	UPLOADED	Nathuniya Episode 4
 1848	UPLOADED	Nathuniya Episode 3
-4315	UPLOADED	Sona Episode 8
 1849	UPLOADED	Nathuniya Episode 2
 4316	UPLOADED	Sona Episode 7
 1850	UPLOADED	Nathuniya Episode 1
@@ -4434,3 +4433,4 @@
 4314	UPLOADED	Soul Reader Episode 1
 840	UPLOADED	Bade Achhe Lagte Hai Episode 3
 841	UPLOADED	Besharam Episode 3
+4315	UPLOADED	Sona Episode 8
