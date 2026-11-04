@@ -188,7 +188,6 @@
 1370	UPLOADED	Chhu Le Zara Episode 2
 1373	UPLOADED	Yamma Yamma Episode 7
 1379	UPLOADED	Tu Dekh Meri Photo Episode 5
-1380	UPLOADED	Tu Dekh Meri Photo Episode 7
 1381	UPLOADED	Tu Dekh Meri Photo Episode 6
 1382	UPLOADED	Happy Ending Episode 2
 1383	UPLOADED	Happy Ending Episode 1
@@ -4559,3 +4558,4 @@
 4245	SKIPPED	The Last Show Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4246	SKIPPED	The Last Show Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4247	SKIPPED	The Last Show Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1380	UPLOADED	Tu Dekh Meri Photo Episode 7
