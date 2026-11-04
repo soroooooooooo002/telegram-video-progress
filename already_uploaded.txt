@@ -1192,7 +1192,6 @@
 4760	UPLOADED	Halala Episode 1
 4761	UPLOADED	Guardian Episode 3
 4762	UPLOADED	Guardian Episode 2
-3766	UPLOADED	Sainyaa Salman Episode 1
 4763	UPLOADED	Guardian Episode 1
 3767	UPLOADED	Sainyaa Salman Episode 2
 1239	UPLOADED	Karan Arjun Episode 3
@@ -4544,3 +4543,4 @@
 3763	SKIPPED	Khat Kabbadi Barkha Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3764	SKIPPED	Khat Kabbadi Barkha Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3765	SKIPPED	Khat Kabbadi Barkha Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi/Khat%20Kabbadi%20Barkha%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3766	SKIPPED	Sainyaa Salman Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S1/Sainyaa%20Salman%20S1%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
