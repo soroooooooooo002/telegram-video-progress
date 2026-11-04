@@ -1880,7 +1880,6 @@
 5322	UPLOADED	Anokhi Episode 3
 712	UPLOADED	Sapnon Ki Raani Episode 2
 2936	UPLOADED	Sonia Ke Kisse Episode 2
-4147	SKIPPED	House Arrest Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%202.mp4
 5323	UPLOADED	Anokhi Episode 2
 4149	UPLOADED	Tere Mere Beech Mein Episode 1
 2937	UPLOADED	Sonia Ke Kisse Episode 1
@@ -4556,3 +4555,4 @@
 4145	SKIPPED	Tere Mere Beech Mein Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5012	UPLOADED	Dunali 2 Episode 8
 4146	SKIPPED	Tere Mere Beech Mein Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4147	SKIPPED	House Arrest Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%202.mp4
