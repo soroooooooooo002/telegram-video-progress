@@ -1200,7 +1200,6 @@
 4767	UPLOADED	Garam Masala Episode 7
 3773	SKIPPED	Laachi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%204.mp4
 4768	UPLOADED	Garam Masala Episode 6
-3775	UPLOADED	Doctor Chaurasiya Episode 1
 4769	UPLOADED	Garam Masala Episode 5
 1241	UPLOADED	Karan Arjun Episode 1
 4770	UPLOADED	Garam Masala Episode 4
@@ -4544,3 +4543,4 @@
 3772	SKIPPED	Laachi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Laachi/Laachi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3849	UPLOADED	Phooljhadi Episode 1
 3774	SKIPPED	Laachi Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Laachi/Laachi%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3775	SKIPPED	Doctor Chaurasiya Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Doctor%20Chaurasiya/Doctor%20Chaurasiya%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
