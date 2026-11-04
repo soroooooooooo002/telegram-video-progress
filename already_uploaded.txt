@@ -2072,7 +2072,6 @@
 634	UPLOADED	Photographer Episode 3
 2712	UPLOADED	Roopmati Episode 6
 3912	UPLOADED	Daakhila Episode 2
-5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 635	UPLOADED	Saheb Biwi Aur Gulam Episode 5
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 2713	UPLOADED	Roopmati Episode 5
@@ -4463,3 +4462,4 @@
 4396	UPLOADED	Rikshawala Episode 4
 4397	UPLOADED	Rikshawala Episode 3
 1039	UPLOADED	Miss Briganza Episode 2
+5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
