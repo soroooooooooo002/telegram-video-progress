@@ -1811,7 +1811,6 @@
 4025	UPLOADED	Main Yahan Tu Wahan Episode 4
 5295	UPLOADED	Sasur Ki Dulhan Episode 2
 2883	UPLOADED	2 Kamine 2 Nagine Episode 3
-4046	UPLOADED	Bharti Jha Nude: Showing Boobs, New XXX
 692	UPLOADED	Utha Patak S4 Episode 1
 4047	UPLOADED	Latest Bharti Jha XXX Video
 4048	UPLOADED	Haveli Ki Dulhan Episode 1
@@ -4555,3 +4554,4 @@
 4043	SKIPPED	Shatir Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E2.mp4
 4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
 4045	SKIPPED	Shatir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E4.mp4
+4046	SKIPPED	Bharti Jha Nude: Showing Boobs, New XXX	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
