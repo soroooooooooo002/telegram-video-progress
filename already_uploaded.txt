@@ -1085,7 +1085,6 @@
 5265	SKIPPED	Chhupi Nazar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E1.mp4
 4562	UPLOADED	Love Guru 3 Episode 2
 3416	UPLOADED	Secret Superstar Episode 4
-833	UPLOADED	Bhabhi Cool Episode 3
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
 3417	UPLOADED	Secret Superstar Episode 3
@@ -4433,3 +4432,4 @@
 832	UPLOADED	Tadap Ek Duje Ke Liye Episode 1
 4309	UPLOADED	Sultan Episode 5
 5807	UPLOADED	Maanglik Episode 4
+833	UPLOADED	Bhabhi Cool Episode 3
