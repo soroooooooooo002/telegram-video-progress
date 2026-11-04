@@ -1792,7 +1792,6 @@
 4770	UPLOADED	Garam Masala Episode 4
 3776	UPLOADED	Doctor Chaurasiya Episode 2
 4771	UPLOADED	Garam Masala Episode 3
-5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 1242	UPLOADED	Haseeno Ka Inteqaam Episode 4
 3777	UPLOADED	Doctor Chaurasiya Episode 3
 4772	UPLOADED	Garam Masala Episode 2
@@ -4463,3 +4462,4 @@
 3443	UPLOADED	Yeh Hai Sanak Episode 5
 4394	UPLOADED	Rikshawala Episode 6
 928	UPLOADED	Darji Raja Episode 2
+5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
