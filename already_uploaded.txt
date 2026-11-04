@@ -2117,7 +2117,6 @@
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
-5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
 5037	SKIPPED	Dil Sambhal Ja Zara Episode 1	Request was unsuccessful 6 time(s)
 5038	SKIPPED	Devil Episode 6	Request was unsuccessful 6 time(s)
 5039	SKIPPED	Devil Episode 5	Request was unsuccessful 6 time(s)
@@ -4461,3 +4460,4 @@
 898	UPLOADED	Devangana Episode 6
 5035	UPLOADED	Dil Sambhal Ja Zara Episode 3
 4375	UPLOADED	Sabak Ishq Ka Episode 1
+5036	UPLOADED	Dil Sambhal Ja Zara Episode 2
