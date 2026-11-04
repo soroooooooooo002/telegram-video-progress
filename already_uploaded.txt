@@ -1435,7 +1435,6 @@
 3781	UPLOADED	Patang Paseena Episode 4
 4778	UPLOADED	Gaachi Episode 5
 3782	UPLOADED	Patang Paseena Episode 3
-1245	UPLOADED	Haseeno Ka Inteqaam Episode 1
 4779	UPLOADED	Gaachi Episode 4
 3783	UPLOADED	Patang Paseena Episode 2
 4780	UPLOADED	Gaachi Episode 3
@@ -4542,3 +4541,4 @@
 1242	SKIPPED	Haseeno Ka Inteqaam Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Haseeno%20Ka%20Inteqaam/Haseeno%20Ka%20Inteqaam%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3553	SKIPPED	Jor Ka Jhatka Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jor%20Ka%20Jhatka/Jor%20Ka%20Jhatka%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1244	SKIPPED	Haseeno Ka Inteqaam Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Haseeno%20Ka%20Inteqaam/Haseeno%20Ka%20Inteqaam%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1245	SKIPPED	Haseeno Ka Inteqaam Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Haseeno%20Ka%20Inteqaam/Haseeno%20Ka%20Inteqaam%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
