@@ -954,7 +954,6 @@
 3383	UPLOADED	Dr Lily Episode 2
 4528	UPLOADED	Malai Episode 5
 4529	UPLOADED	Malai Episode 4
-3384	UPLOADED	Dr Lily Episode 3
 4530	UPLOADED	Malai Episode 3
 3385	UPLOADED	Dr Lily Episode 4
 4531	UPLOADED	Malai Episode 2
@@ -4444,3 +4443,4 @@
 5933	SKIPPED	Triangle Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E4.mp4
 5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 4345	UPLOADED	Singardaan Episode 2
+3384	UPLOADED	Dr Lily Episode 3
