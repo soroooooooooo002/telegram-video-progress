@@ -1131,7 +1131,6 @@
 4707	SKIPPED	Jaghanya Dil Ke Armaan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%202.mp4
 4708	SKIPPED	Jaghanya Upaay Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%201.mp4
 4709	SKIPPED	Jaghanya Dil Ke Armaan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%201.mp4
-3717	UPLOADED	Jalebi S4 Episode 1
 4710	UPLOADED	Jabran Episode 7
 1226	UPLOADED	Padosan Episode 2
 3718	UPLOADED	Jalebi S3 Episode 6
@@ -4544,3 +4543,4 @@
 3714	SKIPPED	Jalebi S4 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3715	SKIPPED	Jalebi S4 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3716	SKIPPED	Jalebi S4 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3717	SKIPPED	Jalebi S4 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
