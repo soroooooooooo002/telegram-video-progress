@@ -987,7 +987,6 @@
 4562	UPLOADED	Love Guru 3 Episode 2
 4563	UPLOADED	Love Guru 3 Episode 3
 4564	UPLOADED	Love Guru 3 Episode 1
-3417	UPLOADED	Secret Superstar Episode 3
 4565	UPLOADED	Love Guru 2 Episode 4
 5296	UPLOADED	Sasur Ki Dulhan Episode 1
 4566	UPLOADED	Love Guru 2 Episode 3
@@ -4457,3 +4456,4 @@
 893	UPLOADED	CEO Episode 3
 4367	UPLOADED	Sanskari Episode 3
 5025	UPLOADED	Dubey Ji And The Boys Episode 1
+3417	UPLOADED	Secret Superstar Episode 3
