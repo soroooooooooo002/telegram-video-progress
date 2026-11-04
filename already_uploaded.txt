@@ -1489,7 +1489,6 @@
 648	UPLOADED	Saheb Biwi Aur Gulam Episode 1
 5089	UPLOADED	Corporate Episode 5
 5090	UPLOADED	Corporate Episode 4
-3931	UPLOADED	Chitthi Episode 9
 2732	UPLOADED	Affair Game Episode 3
 5091	UPLOADED	Corporate Episode 3
 649	UPLOADED	Obsession S2 Episode 6
@@ -4548,3 +4547,4 @@
 1296	UPLOADED	Besharam Episode 2
 5110	UPLOADED	Chehraa Episode 1
 3930	SKIPPED	Chitthi Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3931	SKIPPED	Chitthi Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
