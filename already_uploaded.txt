@@ -954,7 +954,6 @@
 4507	UPLOADED	Mohan Chabhiwala Episode 7
 4508	UPLOADED	Mohan Chabhiwala Episode 6
 4509	UPLOADED	Mohan Chabhiwala Episode 5
-3373	UPLOADED	Joru Ka Gulaam Episode 2
 4510	UPLOADED	Mohan Chabhiwala Episode 4
 4511	UPLOADED	Mohan Chabhiwala Episode 3
 3374	UPLOADED	Joru Ka Gulaam Episode 4
@@ -4437,3 +4436,4 @@
 850	UPLOADED	Seva Episode 5
 3372	UPLOADED	Joru Ka Gulaam Episode 3
 4320	UPLOADED	Sona Episode 3
+3373	UPLOADED	Joru Ka Gulaam Episode 2
