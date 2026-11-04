@@ -1469,7 +1469,6 @@
 641	UPLOADED	Kambakht Ishq Episode 2
 2722	UPLOADED	Khwahish Episode 2
 642	UPLOADED	Kambakht Ishq Episode 1
-3922	UPLOADED	Couple Party Episode 8
 2723	UPLOADED	Khwahish Episode 3
 5077	UPLOADED	Dance Bar Episode 2
 643	UPLOADED	Saheb Biwi Aur Gulam Episode 7
@@ -4548,3 +4547,4 @@
 1292	UPLOADED	Gore Gore Gaal Episode 2
 3899	UPLOADED	Kache Rishtey Episode 3
 3921	SKIPPED	Couple Party Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3922	SKIPPED	Couple Party Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
