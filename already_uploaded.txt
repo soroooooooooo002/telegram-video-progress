@@ -1221,7 +1221,6 @@
 4782	UPLOADED	Gaachi Episode 1
 3787	UPLOADED	Swapna Sundariii Episode 3
 4783	UPLOADED	Pachpan Main Bachpan Episode 2
-3788	UPLOADED	Swapna Sundariii Episode 2
 3789	UPLOADED	Swapna Sundariii Episode 1
 600	SKIPPED	Naseeli Episode 1	Request was unsuccessful 6 time(s)
 5003	SKIPPED	Dunali Episode 8	Request was unsuccessful 6 time(s)
@@ -4544,3 +4543,4 @@
 3785	SKIPPED	Swapna Sundariii Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Swapna%20Sundariii/Swapna%20Sundariii%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3786	SKIPPED	Swapna Sundariii Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Swapna%20Sundariii/Swapna%20Sundariii%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3863	SKIPPED	Yaar Pyaar Gaddar Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3788	SKIPPED	Swapna Sundariii Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Swapna%20Sundariii/Swapna%20Sundariii%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
