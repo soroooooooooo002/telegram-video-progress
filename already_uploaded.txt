@@ -181,7 +181,6 @@
 1330	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 8
 1331	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 6
 1336	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 2
-1348	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 2
 1350	UPLOADED	Do Din ka Mehmaan Episode 3
 1351	UPLOADED	Do Din ka Mehmaan Episode 4
 1352	UPLOADED	Do Din ka Mehmaan Episode 1
@@ -4555,3 +4554,4 @@
 1345	UPLOADED	Do Din ka Mehmaan Episode 7
 1346	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 3
 1347	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 1
+1348	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 2
