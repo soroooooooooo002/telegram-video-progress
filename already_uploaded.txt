@@ -1831,7 +1831,6 @@
 703	UPLOADED	Tan Tripti S1 Episode 2
 2894	UPLOADED	Rangbaaz Episode 1
 5314	UPLOADED	Gharwali Baharwali Episode 7
-4128	UPLOADED	Daal Chawal Episode 4
 704	UPLOADED	Talab Episode 6
 4129	UPLOADED	Biwi Ka Khat Episode 6
 2896	UPLOADED	Sitiyabaaz Episode 2
@@ -4556,3 +4555,4 @@
 3914	UPLOADED	Daakhila Episode 5
 4126	SKIPPED	Haseena Maan Jayegi Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4127	SKIPPED	Haseena Maan Jayegi Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4128	SKIPPED	Daal Chawal Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
