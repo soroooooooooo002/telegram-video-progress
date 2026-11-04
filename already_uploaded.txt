@@ -184,7 +184,6 @@
 1357	UPLOADED	Bholi Sajni Episode 4
 1358	UPLOADED	Bholi Sajni Episode 3
 1361	UPLOADED	Dil Pe Bojh Episode 4
-1365	UPLOADED	Chhu Le Zara Episode 7
 1366	UPLOADED	Chhu Le Zara Episode 4
 1367	UPLOADED	Chhu Le Zara Episode 6
 1368	UPLOADED	Chhu Le Zara Episode 5
@@ -4557,3 +4556,4 @@
 1362	UPLOADED	Dil Pe Bojh Episode 3
 1363	UPLOADED	Dil Pe Bojh Episode 2
 1364	UPLOADED	Dil Pe Bojh Episode 1
+1365	UPLOADED	Chhu Le Zara Episode 7
