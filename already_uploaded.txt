@@ -977,7 +977,6 @@
 4570	UPLOADED	Love Bite Episode 5
 4572	UPLOADED	Love Bite Episode 3
 4573	UPLOADED	Love Bite Episode 2
-3433	SKIPPED	Double Kaand Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Double%20Kaand/Double%20Kaand%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3435	SKIPPED	Aunty Ka PG Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Aunty%20Ka%20PG/Aunty%20Ka%20PG%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3436	SKIPPED	V3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Imaxx%20TV/V3/V3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3437	SKIPPED	Karzdaar Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hunters/Karzdaar/Karzdaar%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 4388	UPLOADED	Robot Episode 4
 5049	UPLOADED	Devar Ji Episode 3
 4389	UPLOADED	Robot Episode 3
+3433	UPLOADED	Double Kaand Episode 2
