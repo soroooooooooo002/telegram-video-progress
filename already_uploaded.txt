@@ -1156,7 +1156,6 @@
 4727	UPLOADED	Ishqiyapa Episode 3
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
 4728	UPLOADED	Ishqiyapa Episode 2
-3733	UPLOADED	Karaah Episode 1
 4729	UPLOADED	Ishqiyapa Episode 1
 4730	SKIPPED	Innocent Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Innocent%20/Innocent%20Episode%206.mp4
 4731	SKIPPED	Innocent Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Innocent%20/Innocent%20Episode%205.mp4
@@ -4544,3 +4543,4 @@
 3730	SKIPPED	Ankhiyon Se Goli Maare Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3731	SKIPPED	Ankhiyon Se Goli Maare Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3732	SKIPPED	Karaah Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kooku/Karaah/Karaah%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3733	SKIPPED	Karaah Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kooku/Karaah/Karaah%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
