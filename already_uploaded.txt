@@ -1121,7 +1121,6 @@
 4698	UPLOADED	Jalebi Bai Episode 6
 4699	UPLOADED	Jalebi Bai Episode 5
 4700	UPLOADED	Jalebi Bai Episode 4
-3715	UPLOADED	Jalebi S4 Episode 3
 4701	UPLOADED	Jalebi Bai Episode 3
 4702	UPLOADED	Jalebi Bai Episode 2
 1225	UPLOADED	Padosan Episode 3
@@ -4544,3 +4543,4 @@
 3712	SKIPPED	Jalebi S4 Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3713	SKIPPED	Jalebi S4 Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3714	SKIPPED	Jalebi S4 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3715	SKIPPED	Jalebi S4 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Jalebi%20S4/Jalebi%20S4%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
