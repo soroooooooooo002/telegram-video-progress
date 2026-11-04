@@ -2192,7 +2192,6 @@
 630	SKIPPED	Behenchor Episode 1	Request was unsuccessful 6 time(s)
 3907	SKIPPED	Jabran Episode 6 Big Shots	Request was unsuccessful 6 time(s)
 2701	SKIPPED	Andar Ki Baat Episode 7	Request was unsuccessful 6 time(s)
-5050	UPLOADED	Devar Ji Episode 2
 5051	SKIPPED	Devar Ji Episode 1	Request was unsuccessful 6 time(s)
 3908	SKIPPED	Jabran Episode 2 Big Shots	Request was unsuccessful 6 time(s)
 2702	SKIPPED	Andar Ki Baat Episode 8	Request was unsuccessful 6 time(s)
@@ -4463,3 +4462,4 @@
 5049	UPLOADED	Devar Ji Episode 3
 4389	UPLOADED	Robot Episode 3
 3433	UPLOADED	Double Kaand Episode 2
+5050	UPLOADED	Devar Ji Episode 2
