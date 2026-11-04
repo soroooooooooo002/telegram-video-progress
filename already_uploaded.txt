@@ -1819,7 +1819,6 @@
 5300	UPLOADED	Rangili Dobhan Episode 4
 5301	UPLOADED	Rangili Dobhan Episode 1
 696	UPLOADED	Tan Tripti S2 Episode 4
-4093	UPLOADED	Midnight
 2887	UPLOADED	Munni Badnaam Hui Episode 2
 5302	UPLOADED	Ladla Dever Episode 2
 697	UPLOADED	Tan Tripti S3 Episode 1
@@ -4555,3 +4554,4 @@
 1333	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 4
 1334	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 5
 1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
+4093	SKIPPED	Midnight	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
