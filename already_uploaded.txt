@@ -1990,7 +1990,6 @@
 2723	UPLOADED	Khwahish Episode 3
 5077	UPLOADED	Dance Bar Episode 2
 643	UPLOADED	Saheb Biwi Aur Gulam Episode 7
-5078	UPLOADED	Dance Bar Episode 1
 3923	UPLOADED	Couple Party Episode 7
 3924	SKIPPED	Chitthi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E4.mp4
 3925	SKIPPED	Chitthi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E5.mp4
@@ -4464,3 +4463,4 @@
 1088	UPLOADED	Pratha Episode 6
 1089	SKIPPED	Pratha Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1090	SKIPPED	Pratha Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+5078	UPLOADED	Dance Bar Episode 1
