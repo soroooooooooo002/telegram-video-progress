@@ -952,7 +952,6 @@
 795	SKIPPED	Kulta Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Kulta/Kulta%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4491	UPLOADED	Namkeen Episode 2
 4492	UPLOADED	Namkeen Episode 1
-3360	UPLOADED	Mera Baap Teri Mausi Episode 3
 3361	SKIPPED	Local Doctor Episode 1	Request was unsuccessful 6 time(s)
 4494	UPLOADED	Namak Episode 5
 3362	UPLOADED	Local Doctor Episode 2
@@ -4433,3 +4432,4 @@
 3359	UPLOADED	Mera Baap Teri Mausi Episode 1
 4304	UPLOADED	Sunny Winter Episode 3
 4305	UPLOADED	Sunny Winter Episode 4
+3360	UPLOADED	Mera Baap Teri Mausi Episode 3
