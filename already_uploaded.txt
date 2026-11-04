@@ -2098,7 +2098,6 @@
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
 2625	UPLOADED	Mr Majnu Episode 2
-5042	UPLOADED	Devil Episode 2
 2626	SKIPPED	Jadui Palang Episode 2	Request was unsuccessful 6 time(s)
 2627	SKIPPED	Jadui Palang Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Jadui%20Palang/Jadui%20Palang%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2628	SKIPPED	Gulabo Panwali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Gulabo%20Panwali/Gulabo%20Panwali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 3428	UPLOADED	Giddh Bhoj Episode 2
 5041	UPLOADED	Devil Episode 3
 4382	UPLOADED	Rupay 500 Episode 2
+5042	UPLOADED	Devil Episode 2
