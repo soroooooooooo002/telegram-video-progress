@@ -1058,7 +1058,6 @@
 4643	UPLOADED	Kavita Bhabhi Episode 5
 4644	UPLOADED	Kavita Bhabhi Episode 4
 4645	UPLOADED	Kavita Bhabhi Episode 3
-3670	UPLOADED	Birthday Gift Episode 5
 4647	UPLOADED	Kavita Bhabhi Episode 1
 3671	UPLOADED	Birthday Gift Episode 4
 4648	UPLOADED	Kavita Bhabhi 2 Episode 5
@@ -4544,3 +4543,4 @@
 3667	SKIPPED	Dear N Devil Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 3668	SKIPPED	Dear N Devil Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 3669	SKIPPED	Dear N Devil Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
+3670	SKIPPED	Birthday Gift Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Birthday%20Gift/Birthday%20Gift%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
