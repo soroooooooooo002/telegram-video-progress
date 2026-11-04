@@ -1020,7 +1020,6 @@
 1149	SKIPPED	Casting Couch Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%204.mp4
 1150	SKIPPED	Darji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Darji/Darji%20Episode%202.mp4
 4617	UPLOADED	Khoon Bhari Maang Episode 4
-3610	SKIPPED	Amrapali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Amrapali/Amrapali%20Episode%201.mp4
 4618	UPLOADED	Khoon Bhari Maang Episode 3
 4619	UPLOADED	Khoon Bhari Maang Episode 2
 1163	UPLOADED	X Class Episode 2
@@ -4544,3 +4543,4 @@
 3607	SKIPPED	Amrapali Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3608	SKIPPED	Amrapali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3609	SKIPPED	Amrapali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3610	SKIPPED	Amrapali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Amrapali/Amrapali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
