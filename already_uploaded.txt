@@ -701,7 +701,6 @@
 1854	UPLOADED	Mona 69 Episode 2
 1855	UPLOADED	Mohe Rang De Episode 2
 1856	UPLOADED	Mohe Rang De Episode 1
-4321	UPLOADED	Sona Episode 2
 4322	UPLOADED	Sona Episode 1
 4323	SKIPPED	Slip Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%205.mp4
 4324	SKIPPED	Slip Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Slip%20/Slip%20Episode%204.mp4
@@ -4437,3 +4436,4 @@
 3372	UPLOADED	Joru Ka Gulaam Episode 3
 4320	UPLOADED	Sona Episode 3
 3373	UPLOADED	Joru Ka Gulaam Episode 2
+4321	UPLOADED	Sona Episode 2
