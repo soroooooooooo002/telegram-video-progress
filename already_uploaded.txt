@@ -953,7 +953,6 @@
 4465	UPLOADED	Online Episode 7
 4466	UPLOADED	Online Episode 6
 4467	UPLOADED	Online Episode 5
-3335	UPLOADED	Teacher Digi Movieplex Episode 4
 4468	UPLOADED	Online Episode 4
 3336	UPLOADED	Sachchi Saheli Episode 1
 4469	UPLOADED	Online Episode 3
@@ -4430,3 +4429,4 @@
 5659	SKIPPED	Hypnosis	Download request failed: ('Connection broken: IncompleteRead(253116052 bytes read, 109824494 more expected)', IncompleteRead(253116052 bytes read, 109824494 more expected))
 4270	UPLOADED	Tere Jaisa Yaar Kaha Episode 4
 809	UPLOADED	Rangeela Episode 3
+3335	UPLOADED	Teacher Digi Movieplex Episode 4
