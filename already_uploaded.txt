@@ -4460,3 +4460,4 @@
 5034	UPLOADED	Dil Sambhal Ja Zara Episode 4
 3424	SKIPPED	GuptRog Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/GuptRog/GuptRog%20Episode%202.mp4
 4374	UPLOADED	Sabak Ishq Ka Episode 2
+898	UPLOADED	Devangana Episode 6
