@@ -743,7 +743,6 @@
 4368	UPLOADED	Sanskari Episode 2
 3184	UPLOADED	Sainyaa Salman S2 Episode 4
 4372	UPLOADED	Sabak Ishq Ka Episode 4
-4379	UPLOADED	Rupay 500 Episode 5
 4380	UPLOADED	Rupay 500 Episode 4
 4381	UPLOADED	Rupay 500 Episode 3
 4382	UPLOADED	Rupay 500 Episode 2
@@ -4463,3 +4462,4 @@
 4378	UPLOADED	Rupay 500 Episode 6
 904	UPLOADED	Madam Maya Episode 2
 5039	UPLOADED	Devil Episode 5
+4379	UPLOADED	Rupay 500 Episode 5
