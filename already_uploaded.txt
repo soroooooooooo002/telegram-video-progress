@@ -2035,7 +2035,6 @@
 636	UPLOADED	Nayi Padosan Mastram Episode 2
 3914	UPLOADED	Daakhila Episode 5
 2714	UPLOADED	Roopmati Episode 4
-5063	UPLOADED	Dekhi Andekhi Episode 5
 637	UPLOADED	Kambakht Ishq Episode 6
 3915	UPLOADED	Daakhila Episode 4
 2715	UPLOADED	Roopmati Episode 3
@@ -4464,3 +4463,4 @@
 4401	UPLOADED	Revenge Episode 7
 3461	UPLOADED	Bhabhi 123 Episode 4
 1065	UPLOADED	Dirty Entertainer Episode 1
+5063	UPLOADED	Dekhi Andekhi Episode 5
