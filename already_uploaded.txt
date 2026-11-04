@@ -1027,7 +1027,6 @@
 3366	UPLOADED	Kulta Digi Movieplex Episode 3
 3367	UPLOADED	Kalpana Episode 1
 4504	UPLOADED	Mona Home Delivery Episode 3
-809	SKIPPED	Rangeela Episode 3	Request was unsuccessful 6 time(s)
 3368	UPLOADED	Kalpana Episode 2
 810	SKIPPED	Rangeela Episode 2	Request was unsuccessful 6 time(s)
 4505	UPLOADED	Mona Home Delivery Episode 2
@@ -4430,3 +4429,4 @@
 5658	UPLOADED	Massage Parlour
 5659	SKIPPED	Hypnosis	Download request failed: ('Connection broken: IncompleteRead(253116052 bytes read, 109824494 more expected)', IncompleteRead(253116052 bytes read, 109824494 more expected))
 4270	UPLOADED	Tere Jaisa Yaar Kaha Episode 4
+809	UPLOADED	Rangeela Episode 3
