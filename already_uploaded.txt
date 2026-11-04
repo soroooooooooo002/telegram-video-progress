@@ -1048,7 +1048,6 @@
 1178	UPLOADED	Pyaar Idhar Udhar Episode 5
 4637	UPLOADED	Khalish Episode 4
 1179	UPLOADED	Pyaar Idhar Udhar Episode 6
-3623	UPLOADED	Verginity Episode 1
 3624	SKIPPED	The Happiness Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/The%20Happiness/The%20Happiness%20Episode%202.mp4
 3625	SKIPPED	The Happiness Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Badtameez/The%20Happiness/The%20Happiness%20Episode%201.mp4
 4638	UPLOADED	Khalish Episode 2
@@ -4544,3 +4543,4 @@
 3620	SKIPPED	Jenga Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Jenga/Jenga%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3621	SKIPPED	Anara Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Prime%20Shots/Anara/Anara%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3622	SKIPPED	Verginity Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Verginity/Verginity%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3623	SKIPPED	Verginity Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Verginity/Verginity%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
