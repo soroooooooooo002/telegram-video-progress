@@ -1753,7 +1753,6 @@
 4643	UPLOADED	Kavita Bhabhi Episode 5
 3628	UPLOADED	Dulhe Raja Episode 3
 4644	UPLOADED	Kavita Bhabhi Episode 4
-5666	SKIPPED	Virgin Bahus Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Virgin%20Bahus/Virgin%20Bahus%20E2.mp4
 5667	SKIPPED	Virgin Bahus Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Virgin%20Bahus/Virgin%20Bahus%20E1.mp4
 5668	SKIPPED	Dhanno Doodhwali Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Dhanno%20Doodhwali/Dhanno%20Doodhwali%20E2.mp4
 5669	SKIPPED	Dhanno Doodhwali Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Dhanno%20Doodhwali/Dhanno%20Doodhwali%20E3.mp4
@@ -4430,3 +4429,4 @@
 3339	UPLOADED	Saart Episode 1
 5664	UPLOADED	Black Magic
 5665	SKIPPED	Virgin Bahus Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Virgin%20Bahus/Virgin%20Bahus%20E3.mp4
+5666	SKIPPED	Virgin Bahus Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Virgin%20Bahus/Virgin%20Bahus%20E2.mp4
