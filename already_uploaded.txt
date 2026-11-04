@@ -102,7 +102,6 @@
 1656	UPLOADED	Gaon Ki Garmi 3 Episode 7
 1657	UPLOADED	Gaon Ki Garmi 3 Episode 8
 3410	UPLOADED	Time Pass Episode 5
-3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
 3415	SKIPPED	Secret Superstar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E2.mp4
 1658	UPLOADED	Gaon Ki Garmi 3 Episode 5
 1659	UPLOADED	Gaon Ki Garmi 3 Episode 6
@@ -4457,3 +4456,4 @@
 3411	UPLOADED	Time Pass Episode 6
 3412	UPLOADED	Time Pass Episode 7
 3413	UPLOADED	Time Pass Episode 8
+3414	SKIPPED	Secret Superstar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Secret%20Superstar/Secret%20Superstar%20E1.mp4
