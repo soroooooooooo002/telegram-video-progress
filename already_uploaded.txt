@@ -673,7 +673,6 @@
 1830	UPLOADED	Utha Patak S3 Episode 12
 1831	UPLOADED	Utha Patak S3 Episode 2
 1832	UPLOADED	Utha Patak S3 Episode 3
-4302	UPLOADED	Sunny Winter Episode 6
 5343	UPLOADED	Khiladi Bhaiya Episode 6
 4303	UPLOADED	Sunny Winter Episode 5
 4304	UPLOADED	Sunny Winter Episode 3
@@ -4432,3 +4431,4 @@
 3357	UPLOADED	Online Romance Episode 4
 4301	UPLOADED	Sursuri Li Episode 1
 5801	UPLOADED	Maanglik Episode 2
+4302	UPLOADED	Sunny Winter Episode 6
