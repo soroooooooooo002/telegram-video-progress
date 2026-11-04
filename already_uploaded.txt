@@ -1186,7 +1186,6 @@
 4755	UPLOADED	Halala Episode 4
 4756	UPLOADED	Halala Episode 3
 4757	UPLOADED	Halala Episode 2
-3758	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 4
 4758	UPLOADED	Halala Episode 11
 4759	UPLOADED	Halala Episode 10
 3759	UPLOADED	Khat Kabbadi Bhaiya Ki Saali Episode 5
@@ -4544,3 +4543,4 @@
 3755	SKIPPED	Khat Kabbadi Bhaiya Ki Saali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3756	SKIPPED	Khat Kabbadi Bhaiya Ki Saali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3757	SKIPPED	Khat Kabbadi Bhaiya Ki Saali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3758	SKIPPED	Khat Kabbadi Bhaiya Ki Saali Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali/Khat%20Kabbadi%20Bhaiya%20Ki%20Saali%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
