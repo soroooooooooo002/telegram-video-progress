@@ -963,7 +963,6 @@
 4543	UPLOADED	Maa Ka Naka Episode 8
 4544	UPLOADED	Maa Ka Naka Episode 7
 4545	UPLOADED	Maa Ka Naka Episode 6
-3390	UPLOADED	De De Pyar De Episode 5
 4546	UPLOADED	Maa Ka Naka Episode 5
 3391	UPLOADED	De De Pyar De Episode 6
 4547	UPLOADED	Maa Ka Naka Episode 4
@@ -4457,3 +4456,4 @@
 5007	UPLOADED	Dunali Episode 4
 4354	UPLOADED	Secretary Episode 2
 3389	UPLOADED	De De Pyar De Episode 4
+3390	SKIPPED	De De Pyar De Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/De%20De%20Pyar%20De/De%20De%20Pyar%20De%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
