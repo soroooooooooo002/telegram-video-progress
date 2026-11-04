@@ -689,7 +689,6 @@
 1842	UPLOADED	Mona 69 Episode 3
 1843	UPLOADED	Mona 69 Episode 4
 1844	UPLOADED	Mardana Sasur S2 Episode 6
-4312	UPLOADED	Sultan Episode 2
 1845	UPLOADED	Nathuniya Episode 6
 4313	UPLOADED	Sultan Episode 1
 1846	UPLOADED	Nathuniya Episode 5
@@ -4434,3 +4433,4 @@
 4311	UPLOADED	Sultan Episode 3
 3364	UPLOADED	Local Doctor Episode 4
 835	UPLOADED	Bhabhi Cool Episode 1
+4312	UPLOADED	Sultan Episode 2
