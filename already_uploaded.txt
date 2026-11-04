@@ -1792,7 +1792,6 @@
 3715	UPLOADED	Jalebi S4 Episode 3
 4701	UPLOADED	Jalebi Bai Episode 3
 4702	UPLOADED	Jalebi Bai Episode 2
-5829	UPLOADED	Guru Dakshina Episode 2
 1225	UPLOADED	Padosan Episode 3
 4703	UPLOADED	Jalebi Bai Episode 10
 3716	UPLOADED	Jalebi S4 Episode 2
@@ -4443,3 +4442,4 @@
 860	UPLOADED	Khilona Feel Episode 5
 4339	UPLOADED	Size Matters 2 Episode 2
 3380	UPLOADED	Gandu Dhar Episode 2
+5829	UPLOADED	Guru Dakshina Episode 2
