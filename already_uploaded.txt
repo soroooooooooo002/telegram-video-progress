@@ -168,7 +168,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-1282	UPLOADED	Bade Achhe Lagte Hai Episode 6
 1283	UPLOADED	Pati Patni Aur Woh
 1284	UPLOADED	Haseena Maan Jayegi Episode 3
 1285	SKIPPED	KOKKH	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/KOKKH.mp4
@@ -4547,3 +4546,4 @@
 3897	SKIPPED	Kache Rishtey Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3898	SKIPPED	Kache Rishtey Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3899	SKIPPED	Kache Rishtey Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1282	UPLOADED	Bade Achhe Lagte Hai Episode 6
