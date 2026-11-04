@@ -1081,7 +1081,6 @@
 4665	UPLOADED	Kasak Episode 9
 4666	UPLOADED	Kasak Episode 8
 4667	UPLOADED	Kasak Episode 7
-3693	UPLOADED	Mangalik Episode 2
 4668	UPLOADED	Kasak Episode 6
 3694	UPLOADED	Mangalik Episode 3
 4669	UPLOADED	Kasak Episode 5
@@ -4544,3 +4543,4 @@
 3690	SKIPPED	Rajneeti Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3691	SKIPPED	Rajneeti Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Rajneeti/Rajneeti%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3692	SKIPPED	Mangalik Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3693	SKIPPED	Mangalik Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Mangalik/Mangalik%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
