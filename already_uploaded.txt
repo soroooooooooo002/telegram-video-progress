@@ -1198,7 +1198,6 @@
 4765	UPLOADED	Good Night Episode 1
 4766	SKIPPED	Generation Gap Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Generation%20Gap/Generation%20Gap%20Episode%202.mp4
 4767	UPLOADED	Garam Masala Episode 7
-3772	SKIPPED	Laachi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%203.mp4
 3773	SKIPPED	Laachi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%204.mp4
 3774	SKIPPED	Laachi Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%205.mp4
 4768	UPLOADED	Garam Masala Episode 6
@@ -4544,3 +4543,4 @@
 3769	SKIPPED	Sainyaa Salman Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S1/Sainyaa%20Salman%20S1%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3770	SKIPPED	Laachi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%201.mp4
 3771	SKIPPED	Laachi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Laachi/Laachi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3772	SKIPPED	Laachi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Laachi/Laachi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
