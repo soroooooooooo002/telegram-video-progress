@@ -1695,7 +1695,6 @@
 5181	UPLOADED	Blue Night Episode 3
 689	UPLOADED	Utha Patak S4 Episode 4
 2858	UPLOADED	Seal S6 Episode 1
-3980	UPLOADED	Honey Trap Episode 2
 2859	UPLOADED	Seal S6 Episode 2
 3981	UPLOADED	Honey Trap Episode 3
 5182	UPLOADED	Blue Night Episode 2
@@ -4554,3 +4553,4 @@
 3977	SKIPPED	Lallu Ki Mami Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3978	SKIPPED	Agent Laila	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Agent%20Laila/Agent%20Laila.mp4
 3979	SKIPPED	Honey Trap Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
