@@ -2109,7 +2109,6 @@
 3878	SKIPPED	Nehle Pe Dehla Episode 3	Request was unsuccessful 6 time(s)
 2624	SKIPPED	Mr Majnu Episode 3	Request was unsuccessful 6 time(s)
 622	SKIPPED	Gandi Najar Episode 1	Request was unsuccessful 6 time(s)
-5039	SKIPPED	Devil Episode 5	Request was unsuccessful 6 time(s)
 5040	SKIPPED	Devil Episode 4	Request was unsuccessful 6 time(s)
 5041	SKIPPED	Devil Episode 3	Request was unsuccessful 6 time(s)
 3879	SKIPPED	Nehle Pe Dehla Episode 1	Request was unsuccessful 6 time(s)
@@ -4463,3 +4462,4 @@
 5038	UPLOADED	Devil Episode 6
 4378	UPLOADED	Rupay 500 Episode 6
 904	UPLOADED	Madam Maya Episode 2
+5039	UPLOADED	Devil Episode 5
