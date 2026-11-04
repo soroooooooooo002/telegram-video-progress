@@ -1494,7 +1494,6 @@
 653	UPLOADED	Obsession S2 Episode 2
 2735	UPLOADED	Cam Girl Episode 3
 654	UPLOADED	Obsession S2 Episode 1
-3937	UPLOADED	VideoBaaz Episode 6
 2736	UPLOADED	Khudrang Episode 1
 655	UPLOADED	Joggers Park Episode 3
 2737	UPLOADED	Khudrang Episode 2
@@ -4550,3 +4549,4 @@
 3935	SKIPPED	VideoBaaz Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/VideoBaaz/VideoBaaz%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 7	UPLOADED	Tharki House Owner 2026 Bindastimes Hindi XXX Video	https://bindasmood.com/tharki-house-owner-2026-bindastimes-hindi-xxx-video
 3936	SKIPPED	VideoBaaz Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3937	SKIPPED	VideoBaaz Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/VideoBaaz/VideoBaaz%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
