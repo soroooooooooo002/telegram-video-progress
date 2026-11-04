@@ -4509,3 +4509,4 @@
 103	SKIPPED	URL item 103	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-5	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-5
 104	SKIPPED	URL item 104	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-4	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-4
 105	SKIPPED	URL item 105	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-3	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-3
+106	SKIPPED	URL item 106	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-2
