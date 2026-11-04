@@ -168,7 +168,6 @@
 1276	UPLOADED	Damdar Ladoo Episode 3
 3982	UPLOADED	Honey Trap Episode 4
 1277	UPLOADED	Damdar Ladoo Episode 2
-1279	UPLOADED	Gore Gore Gaal Episode 1
 1280	UPLOADED	Haseena Maan Jayegi Episode 2
 1281	UPLOADED	Bade Achhe Lagte Hai Episode 4
 1282	UPLOADED	Bade Achhe Lagte Hai Episode 6
@@ -4544,3 +4543,4 @@
 3868	SKIPPED	Yaar Pyaar Gaddar Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Yaar%20Pyaar%20Gaddar/Yaar%20Pyaar%20Gaddar%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3869	SKIPPED	Thand Ka Maza Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Thand%20Ka%20Maza/Thand%20Ka%20Maza%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3870	SKIPPED	Thand Ka Maza Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Thand%20Ka%20Maza/Thand%20Ka%20Maza%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1279	UPLOADED	Gore Gore Gaal Episode 1
