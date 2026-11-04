@@ -2007,7 +2007,6 @@
 3921	UPLOADED	Couple Party Episode 4
 642	UPLOADED	Kambakht Ishq Episode 1
 3922	UPLOADED	Couple Party Episode 8
-5076	UPLOADED	Dance Bar Episode 3
 2723	UPLOADED	Khwahish Episode 3
 5077	UPLOADED	Dance Bar Episode 2
 643	UPLOADED	Saheb Biwi Aur Gulam Episode 7
@@ -4464,3 +4463,4 @@
 5074	UPLOADED	Dance Bar Episode 5
 5075	UPLOADED	Dance Bar Episode 4
 4412	UPLOADED	Relationship Counsellor Episode 3
+5076	UPLOADED	Dance Bar Episode 3
