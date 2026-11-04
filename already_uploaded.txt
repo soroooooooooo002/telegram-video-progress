@@ -950,7 +950,6 @@
 4495	UPLOADED	Namak Episode 4
 4496	UPLOADED	Namak Episode 3
 4497	SKIPPED	Namak Episode 2	Request was unsuccessful 6 time(s)
-3365	UPLOADED	Kulta Digi Movieplex Episode 2
 4498	UPLOADED	Namak Episode 1
 4499	SKIPPED	Mona Home Delivery Episode 8	Request was unsuccessful 6 time(s)
 4500	SKIPPED	Mona Home Delivery Episode 7	Request was unsuccessful 6 time(s)
@@ -4434,3 +4433,4 @@
 835	UPLOADED	Bhabhi Cool Episode 1
 4312	UPLOADED	Sultan Episode 2
 5810	UPLOADED	Maal Paani Andha Sasur Episode 2
+3365	UPLOADED	Kulta Digi Movieplex Episode 2
