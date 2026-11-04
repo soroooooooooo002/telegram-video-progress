@@ -1355,7 +1355,6 @@
 3734	UPLOADED	Sajani Episode 4
 4742	UPLOADED	Haveli Episode 8
 4743	UPLOADED	Haveli Episode 7
-1234	UPLOADED	Mera Pyaar Pan Nahi Episode 3
 3735	UPLOADED	Sajani Episode 3
 4744	UPLOADED	Haveli Episode 5
 3736	UPLOADED	Sajani Episode 1
@@ -4542,3 +4541,4 @@
 3541	SKIPPED	Hawas IBA Movies Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /IBA%20Movies/Hawas/Hawas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1232	SKIPPED	Mera Pyaar Pan Nahi Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3543	SKIPPED	Utha Patak Jugnu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Utha%20Patak/Utha%20Patak%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+1234	SKIPPED	Mera Pyaar Pan Nahi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ALTT/Mera%20Pyaar%20Pan%20Nahi/Mera%20Pyaar%20Pan%20Nahi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
