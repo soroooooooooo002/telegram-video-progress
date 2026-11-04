@@ -710,7 +710,6 @@
 4337	UPLOADED	Size Matters 2 Episode 4
 4343	UPLOADED	Singardaan Episode 4
 4344	UPLOADED	Singardaan Episode 3
-4346	UPLOADED	Singardaan Episode 1
 4347	SKIPPED	Shor Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Shor%20/Shor%20Episode%201.mp4
 4348	UPLOADED	Shahad Episode 4
 4349	UPLOADED	Shahad Episode 2
@@ -4444,3 +4443,4 @@
 5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 4345	UPLOADED	Singardaan Episode 2
 3384	UPLOADED	Dr Lily Episode 3
+4346	UPLOADED	Singardaan Episode 1
