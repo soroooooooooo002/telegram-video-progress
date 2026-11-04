@@ -1157,7 +1157,6 @@
 5584	SKIPPED	Andha Ishq Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Fun2SH/Andha%20Ishq/Andha%20Ishq%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4602	UPLOADED	Kirdaar Episode 9
 905	SKIPPED	Madam Maya Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Madam%20Maya/Madam%20Maya%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-908	SKIPPED	Kothewali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Kothewali/Kothewali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 909	SKIPPED	Kothewali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Kothewali/Kothewali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 910	SKIPPED	Kothewali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Kothewali/Kothewali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 911	SKIPPED	Jawani Ka Junoon Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Jawani%20Ka%20Junoon/Jawani%20Ka%20Junoon%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4463,3 +4462,4 @@
 4379	UPLOADED	Rupay 500 Episode 5
 906	SKIPPED	Kothewali Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Kothewali/Kothewali%20Episode%205.mp4
 907	SKIPPED	Kothewali Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Kothewali/Kothewali%20Episode%204.mp4
+908	SKIPPED	Kothewali Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Kothewali/Kothewali%20Episode%203.mp4
