@@ -1554,7 +1554,6 @@
 2775	UPLOADED	Naram Garam Episode 4
 5128	UPLOADED	Call Center Episode 7
 5129	UPLOADED	Call Center Episode 5
-3943	UPLOADED	Damad Ji Episode 1
 2776	UPLOADED	Naram Garam Episode 3
 5130	UPLOADED	Call Center Episode 4
 668	UPLOADED	Emi Episode 1
@@ -4551,3 +4550,4 @@
 3907	UPLOADED	Jabran Episode 6 Big Shots
 1308	UPLOADED	Flat Screen Episode 5
 5003	UPLOADED	Dunali Episode 8
+3943	SKIPPED	Damad Ji Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
