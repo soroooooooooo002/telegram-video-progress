@@ -278,7 +278,6 @@
 1387	UPLOADED	Tu Dekh Meri Photo Episode 3
 3791	UPLOADED	Manchale Dost Episode 1
 1388	UPLOADED	Tu Dekh Meri Photo Episode 2
-3793	UPLOADED	Room Service Episode 1
 4148	SKIPPED	House Arrest Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%203.mp4
 3794	UPLOADED	Kuwari Dulhan Episode 1
 1389	UPLOADED	Tadka Episode 6
@@ -4544,3 +4543,4 @@
 3870	SKIPPED	Thand Ka Maza Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Thand%20Ka%20Maza/Thand%20Ka%20Maza%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1279	UPLOADED	Gore Gore Gaal Episode 1
 3792	SKIPPED	Room Service Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3793	SKIPPED	Room Service Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kundi/Room%20Service/Room%20Service%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
