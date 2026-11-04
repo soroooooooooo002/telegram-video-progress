@@ -1096,7 +1096,6 @@
 4678	UPLOADED	Kaneez Episode 7
 1217	UPLOADED	Raat Ki Raani Episode 3
 4679	UPLOADED	Kaneez Episode 6
-3702	UPLOADED	PathShala S3 Episode 1
 4680	UPLOADED	Kaneez Episode 5
 4681	UPLOADED	Kaneez Episode 4
 1218	UPLOADED	Raat Ki Raani Episode 2
@@ -4544,3 +4543,4 @@
 3699	SKIPPED	PathShala S3 Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S3/PathShala%20S3%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3700	SKIPPED	PathShala S3 Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S3/PathShala%20S3%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3701	SKIPPED	PathShala S3 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S3/PathShala%20S3%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+3702	SKIPPED	PathShala S3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/PathShala%20S3/PathShala%20S3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
