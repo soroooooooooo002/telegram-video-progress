@@ -1126,7 +1126,6 @@
 705	UPLOADED	Talab Episode 4
 2897	UPLOADED	Sitiyabaaz Episode 1
 706	UPLOADED	Talab Episode 5
-5317	UPLOADED	Gharwali Baharwali Episode 4
 2898	UPLOADED	Thoda Tikhee Thoda Spicy Episode 2
 707	UPLOADED	Talab Episode 3
 5318	UPLOADED	Gharwali Baharwali Episode 3
@@ -4808,3 +4807,4 @@
 5316	SKIPPED	Gharwali Baharwali Episode 5	Cannot send requests while disconnected
 4096	UPLOADED	Goa Trip Episode 1
 1495	UPLOADED	Payal Episode 6
+5317	SKIPPED	Gharwali Baharwali Episode 4	Cannot send requests while disconnected
