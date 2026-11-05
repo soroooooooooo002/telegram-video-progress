@@ -3318,7 +3318,6 @@
 5069	UPLOADED	De Dana Dan Episode 4
 3466	UPLOADED	Bali Umar Episode 4
 1077	UPLOADED	Bekaboo S2 Episode 2
-4407	UPLOADED	Revenge Episode 1
 5070	UPLOADED	De Dana Dan Episode 3
 1078	UPLOADED	Bekaboo S2 Episode 1
 1079	SKIPPED	Dream Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dream/Dream%20Episode%201.mp4
@@ -4562,3 +4561,4 @@
 4405	SKIPPED	Revenge Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4406	SKIPPED	Revenge Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3930	UPLOADED	Chitthi Episode 8
+4407	SKIPPED	Revenge Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
