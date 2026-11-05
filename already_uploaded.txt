@@ -1125,7 +1125,6 @@
 2893	UPLOADED	Rangbaaz Episode 2
 703	UPLOADED	Tan Tripti S1 Episode 2
 2894	UPLOADED	Rangbaaz Episode 1
-5314	UPLOADED	Gharwali Baharwali Episode 7
 704	UPLOADED	Talab Episode 6
 2896	UPLOADED	Sitiyabaaz Episode 2
 5315	UPLOADED	Gharwali Baharwali Episode 6
@@ -4808,3 +4807,4 @@
 1493	UPLOADED	Mithai Wali Episode 6
 4094	UPLOADED	Gupt Gyan
 5150	UPLOADED	Bhasudi Episode 1
+5314	SKIPPED	Gharwali Baharwali Episode 7	Cannot send requests while disconnected
