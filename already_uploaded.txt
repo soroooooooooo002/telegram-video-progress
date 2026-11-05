@@ -236,7 +236,6 @@
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 1708	UPLOADED	Chachi No 1 Episode 4
 1709	UPLOADED	Chachi No 1 Episode 3
-1543	SKIPPED	Tapan Episode 4	Failed to upload file part 387.
 1710	UPLOADED	Chachi No 1 Episode 2
 1544	UPLOADED	Tapan Episode 1
 1545	UPLOADED	Tapan Episode 2
@@ -4823,3 +4822,4 @@
 4187	UPLOADED	Watchman Episode 8
 5619	SKIPPED	Rangeen Baatein S2 Episode 1	Cannot send requests while disconnected
 5620	SKIPPED	Rangeen Baatein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%202.mp4
+1543	UPLOADED	Tapan Episode 4
