@@ -4745,3 +4745,4 @@
 4947	SKIPPED	Vasooli Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FVasooli%2FVasooli%20E4.mp4
 4948	SKIPPED	The Gift Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FThe%20Gift%2FThe%20Gift%20E1.mp4
 4949	SKIPPED	The Gift Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FThe%20Gift%2FThe%20Gift%20E2.mp4
+4950	SKIPPED	Suno Sahebji Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FSuno%20Sahebji%2FSuno%20Sahebji%20E1.mp4
