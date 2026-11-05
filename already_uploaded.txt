@@ -224,7 +224,6 @@
 1696	UPLOADED	Chuski Episode 5
 1697	UPLOADED	Chuski Episode 6
 1698	UPLOADED	Chuski Episode 3
-1524	UPLOADED	Kaanta Laga
 1525	UPLOADED	Dil To Baccha Hai Episode 6
 1526	UPLOADED	Ek Baar Aur Episode 4
 1699	UPLOADED	Chuski Episode 4
@@ -4821,3 +4820,4 @@
 5578	SKIPPED	Mr Chourasiya Episode 5	Cannot send requests while disconnected
 4163	UPLOADED	Ek Baar Aur Episode 2
 1523	UPLOADED	Dil To Baccha Hai Episode 4
+1524	UPLOADED	Kaanta Laga
