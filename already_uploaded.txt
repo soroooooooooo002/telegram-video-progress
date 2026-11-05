@@ -1432,7 +1432,6 @@
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3238	UPLOADED	Lalach Episode 3
 3239	SKIPPED	Lalach Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lalach/Lalach%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5610	SKIPPED	Shadyantra S3 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra%20S3/Shadyantra%20S3%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5611	SKIPPED	Shadyantra S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra%20S2/Shadyantra%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5612	SKIPPED	Shadyantra S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra%20S2/Shadyantra%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5613	SKIPPED	Shadyantra Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra/Shadyantra%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4823,3 +4822,4 @@
 5317	UPLOADED	Gharwali Baharwali Episode 4
 1534	UPLOADED	Kya Khoob Lagti Ho Episode 5
 4178	UPLOADED	Woodpecker Episode 8
+5610	SKIPPED	Shadyantra S3 Episode 1	Cannot send requests while disconnected
