@@ -474,7 +474,6 @@
 1800	SKIPPED	Prem Leela Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Prem%20Leela/Prem%20Leela%20E1.mp4
 1801	SKIPPED	Babu Ji Ghar Pe Hain Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Digi%20Movieplex/Babu%20Ji%20Ghar%20Pe%20Hain/Babu%20Ji%20Ghar%20Pe%20Hain%20%20E2.mp4
 1802	UPLOADED	Adhure Hum Episode 3
-4284	SKIPPED	Takk Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%203.mp4
 1803	UPLOADED	Adhure Hum Episode 1
 1804	UPLOADED	Adhure Hum Episode 2
 1805	UPLOADED	Adhure Hum Episode 4
@@ -4560,3 +4559,4 @@
 4281	SKIPPED	Tandoor Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4282	SKIPPED	Tandoor Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4283	SKIPPED	Takk Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%204.mp4
+4284	SKIPPED	Takk Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%203.mp4
