@@ -203,7 +203,6 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 1475	UPLOADED	Mere Angane Mein Episode 2
 1480	UPLOADED	Utha Le Jaunga Episode 5
-1486	UPLOADED	Utha Le Jaunga Episode 7
 1487	UPLOADED	Utha Le Jaunga Episode 6
 1488	UPLOADED	Mithai Wali Episode 4
 1489	UPLOADED	Mithai Wali Episode 1
@@ -4803,3 +4802,4 @@
 5141	UPLOADED	Blue Whale Episode 1
 4066	UPLOADED	XXX Suhagrat of Sarika Salunkhe
 5303	SKIPPED	Ladla Dever Episode 3	Cannot send requests while disconnected
+1486	UPLOADED	Utha Le Jaunga Episode 7
