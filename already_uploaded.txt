@@ -222,7 +222,6 @@
 1516	UPLOADED	Kaanta Laga Episode 5
 1520	UPLOADED	Kaanta Laga Episode 2
 1696	UPLOADED	Chuski Episode 5
-1521	UPLOADED	Kaanta Laga Episode 1
 1697	UPLOADED	Chuski Episode 6
 1522	UPLOADED	Dil To Baccha Hai Episode 5
 1698	UPLOADED	Chuski Episode 3
@@ -4820,3 +4819,4 @@
 5303	UPLOADED	Ladla Dever Episode 3
 5572	SKIPPED	Rangeen Tailor Episode 2	Cannot send requests while disconnected
 5573	SKIPPED	Rangeen Tailor Episode 1	Cannot send requests while disconnected
+1521	UPLOADED	Kaanta Laga Episode 1
