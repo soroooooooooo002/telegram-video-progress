@@ -4613,3 +4613,4 @@
 4816	SKIPPED	Andhe Ka Danda Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Andhe%20Ka%20Danda-C1/Andhe%20Ka%20Danda%20E7.mp4
 4817	SKIPPED	Andhe Ka Danda Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Andhe%20Ka%20Danda-C1/Andhe%20Ka%20Danda%20E8.mp4
 4818	SKIPPED	Pehredaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%204.mp4
+4819	SKIPPED	Pehredaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%202.mp4
