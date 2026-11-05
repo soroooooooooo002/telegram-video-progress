@@ -3037,7 +3037,6 @@
 4151	SKIPPED	Lag Ja Gale Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3915	UPLOADED	Daakhila Episode 4
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-4158	SKIPPED	Balam Pichkari Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4159	SKIPPED	Balam Pichkari Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4160	SKIPPED	Balam Pichkari Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4161	SKIPPED	Balam Pichkari Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4819,3 +4818,4 @@
 1518	UPLOADED	Kaanta Laga Episode 3
 5553	SKIPPED	Mol Bhaav Episode 1	Cannot send requests while disconnected
 5301	UPLOADED	Rangili Dobhan Episode 1
+4158	UPLOADED	Balam Pichkari Episode 2
