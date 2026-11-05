@@ -197,7 +197,6 @@
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
-1438	UPLOADED	Chidiya Episode 6
 1439	UPLOADED	Chidiya Episode 7
 1440	UPLOADED	Raat Baaki Baat Baaki Episode 5
 1441	UPLOADED	Raat Baaki Baat Baaki Episode 6
@@ -4703,3 +4702,4 @@
 5091	UPLOADED	Corporate Episode 3
 4906	SKIPPED	Kaam Sukh Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3949	UPLOADED	Ghutan Episode 4
+1438	UPLOADED	Chidiya Episode 6
