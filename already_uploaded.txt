@@ -2592,7 +2592,6 @@
 3334	UPLOADED	Teacher Digi Movieplex Episode 3
 5658	UPLOADED	Massage Parlour
 5659	SKIPPED	Hypnosis	Download request failed: ('Connection broken: IncompleteRead(253116052 bytes read, 109824494 more expected)', IncompleteRead(253116052 bytes read, 109824494 more expected))
-4270	UPLOADED	Tere Jaisa Yaar Kaha Episode 4
 809	UPLOADED	Rangeela Episode 3
 3335	UPLOADED	Teacher Digi Movieplex Episode 4
 5660	UPLOADED	Jism
@@ -4560,3 +4559,4 @@
 4267	SKIPPED	Tere Jaisa Yaar Kaha Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4268	SKIPPED	Tere Jaisa Yaar Kaha Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4269	SKIPPED	Tere Jaisa Yaar Kaha Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4270	SKIPPED	Tere Jaisa Yaar Kaha Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
