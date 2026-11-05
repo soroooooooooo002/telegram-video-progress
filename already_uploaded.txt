@@ -4615,3 +4615,4 @@
 4818	SKIPPED	Pehredaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%204.mp4
 4819	SKIPPED	Pehredaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%202.mp4
 4820	SKIPPED	Pehredaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%203.mp4
+4821	SKIPPED	Pehredaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Prime%20Play/Pehredaar/Pehredaar%20Episode%201.mp4
