@@ -197,7 +197,6 @@
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
-1431	UPLOADED	Kundi Mat Khadkao Raja Episode 3
 1432	UPLOADED	Kundi Mat Khadkao Raja Episode 4
 1433	UPLOADED	Chaashni Episode 1
 1434	UPLOADED	Chaashni Episode 2
@@ -4690,3 +4689,4 @@
 4893	SKIPPED	Manchala Aashiq Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 28	UPLOADED	Massage Boy 2026 Hindi Uncut XXX Video	https://bindasmood.com/massage-boy-2026-hindi-uncut-xxx-video-2
 5082	UPLOADED	Cyanide Episode 5
+1431	UPLOADED	Kundi Mat Khadkao Raja Episode 3
