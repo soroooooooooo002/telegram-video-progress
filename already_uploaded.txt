@@ -2790,7 +2790,6 @@
 5809	UPLOADED	Maal Paani Andha Sasur Episode 1
 3364	UPLOADED	Local Doctor Episode 4
 835	UPLOADED	Bhabhi Cool Episode 1
-4312	UPLOADED	Sultan Episode 2
 5810	UPLOADED	Maal Paani Andha Sasur Episode 2
 3365	UPLOADED	Kulta Digi Movieplex Episode 2
 5811	UPLOADED	Maal Paani Andha Sasur Episode 4
@@ -4561,3 +4560,4 @@
 4309	SKIPPED	Sultan Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4310	SKIPPED	Sultan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4311	SKIPPED	Sultan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4312	SKIPPED	Sultan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
