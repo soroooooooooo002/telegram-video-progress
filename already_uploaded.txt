@@ -226,7 +226,6 @@
 1698	UPLOADED	Chuski Episode 3
 1699	UPLOADED	Chuski Episode 4
 1700	UPLOADED	Chuski Episode 1
-1528	UPLOADED	Dil To Baccha Hai Episode 3
 1701	UPLOADED	Chuski Episode 2
 1529	UPLOADED	Ek Baar Aur Episode 6
 1530	UPLOADED	Dil To Baccha Hai Episode 1
@@ -4821,3 +4820,4 @@
 4167	UPLOADED	Taras Episode 3
 5600	SKIPPED	Kamini 803	Cannot send requests while disconnected
 5601	SKIPPED	Best Friend Feelit	Cannot send requests while disconnected
+1528	UPLOADED	Dil To Baccha Hai Episode 3
