@@ -4287,7 +4287,6 @@
 4672	SKIPPED	Kasak Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4673	SKIPPED	Kasak Episode 11	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4674	SKIPPED	Kasak Episode 10	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 4675	SKIPPED	Kasak Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4676	SKIPPED	Kaneez Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4677	SKIPPED	Kaneez Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4793,3 +4792,4 @@
 5056	SKIPPED	Desi Kisse Jaanch Padtaal Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5057	SKIPPED	Desi Kisse Jaanch Padtaal Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1450	UPLOADED	Raat Baaki Baat Baaki Episode 4
+5059	SKIPPED	Desi Kisse Jaanch Padtaal Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
