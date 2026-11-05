@@ -1106,7 +1106,6 @@
 2849	UPLOADED	Obsession Episode 2
 2850	UPLOADED	Obsession Episode 1
 688	UPLOADED	Vashikaran Episode 1
-5180	UPLOADED	Nayi Padosan Episode 1
 2851	UPLOADED	Panchbali Episode 2
 2852	SKIPPED	Chirag Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Chirag/Chirag%20Episode%206.mp4
 2853	SKIPPED	Chirag Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Chirag/Chirag%20Episode%205.mp4
@@ -4796,3 +4795,4 @@
 1471	UPLOADED	Dekho Magar Pyar Se Episode 2
 3977	UPLOADED	Lallu Ki Mami Episode 1
 3978	SKIPPED	Agent Laila	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Agent%20Laila/Agent%20Laila.mp4
+5180	SKIPPED	Nayi Padosan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
