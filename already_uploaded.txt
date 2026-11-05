@@ -4275,7 +4275,6 @@
 1493	UPLOADED	Mithai Wali Episode 6
 4094	UPLOADED	Gupt Gyan
 5150	UPLOADED	Bhasudi Episode 1
-5314	SKIPPED	Gharwali Baharwali Episode 7	Cannot send requests while disconnected
 5151	UPLOADED	Auction Episode 5
 4095	UPLOADED	Goa Trip Episode 2
 1494	UPLOADED	Mithai Wali Episode 7
@@ -4821,3 +4820,4 @@
 4172	SKIPPED	Zaroorat 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%201.mp4
 1530	SKIPPED	Dil To Baccha Hai Episode 1	Failed to upload file part 267.
 5605	SKIPPED	Crazy	Cannot send requests while disconnected
+5314	UPLOADED	Gharwali Baharwali Episode 7
