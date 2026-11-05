@@ -585,7 +585,6 @@
 3267	UPLOADED	Dagabaaz Episode 3
 729	UPLOADED	Pyaari Bhabhi Episode 2
 737	UPLOADED	Paurashpur S3 Episode 3
-4443	UPLOADED	Paro Episode 4
 4445	UPLOADED	Paro Episode 2
 4446	UPLOADED	Paro Episode 1
 4447	UPLOADED	Paper Episode 6
@@ -4565,3 +4564,4 @@
 4440	SKIPPED	Patra Petika Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4441	SKIPPED	Paro Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4442	SKIPPED	Paro Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4443	SKIPPED	Paro Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
