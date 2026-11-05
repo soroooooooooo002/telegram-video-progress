@@ -3279,7 +3279,6 @@
 4007	SKIPPED	Dream Girl Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 1316	SKIPPED	Jawaani Jaaneman Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%203.mp4
 1317	SKIPPED	Jawaani Jaaneman Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%201.mp4
-4047	SKIPPED	Latest Bharti Jha XXX Video	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4048	SKIPPED	Haveli Ki Dulhan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4049	SKIPPED	Haveli Ki Dulhan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4050	SKIPPED	Haveli Ki Dulhan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
@@ -4802,3 +4801,4 @@
 4046	UPLOADED	Bharti Jha Nude: Showing Boobs, New XXX
 1482	UPLOADED	Utha Le Jaunga Episode 2
 5135	UPLOADED	Bribe Episode 3
+4047	UPLOADED	Latest Bharti Jha XXX Video
