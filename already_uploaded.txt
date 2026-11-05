@@ -2583,7 +2583,6 @@
 806	UPLOADED	Angreji Film Episode 2
 5655	UPLOADED	Night At A Hotel
 3331	UPLOADED	Moussami Episode 2
-4268	UPLOADED	Tere Jaisa Yaar Kaha Episode 6
 5656	UPLOADED	Murder
 3332	UPLOADED	Teacher Digi Movieplex Episode 1
 807	UPLOADED	Angreji Film Episode 1
@@ -4560,3 +4559,4 @@
 1384	UPLOADED	Happy Ending Episode 3
 4266	SKIPPED	The Bull Of Dalal Street Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4267	SKIPPED	Tere Jaisa Yaar Kaha Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4268	SKIPPED	Tere Jaisa Yaar Kaha Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
