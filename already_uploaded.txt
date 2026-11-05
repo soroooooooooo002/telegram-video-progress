@@ -2972,7 +2972,6 @@
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 14	UPLOADED	Stepfather and Stepson 2026 Hindi Uncut XXX Video	https://bindasmood.com/stepfather-and-stepson-2026-hindi-uncut-xxx-video
 3916	UPLOADED	Couple Party Episode 1
-4175	SKIPPED	Wrong Turn Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4176	SKIPPED	Wrong Turn Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4177	SKIPPED	Wrong Turn Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4178	SKIPPED	Woodpecker Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4822,3 +4821,4 @@
 5606	SKIPPED	The Painter Episode 3	Cannot send requests while disconnected
 5315	UPLOADED	Gharwali Baharwali Episode 6
 1532	UPLOADED	Ek Baar Aur Episode 1
+4175	UPLOADED	Wrong Turn Episode 3
