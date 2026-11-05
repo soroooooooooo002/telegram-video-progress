@@ -4763,3 +4763,4 @@
 4965	SKIPPED	Rishta Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rishta/Rishta%20E2.mp4
 4966	SKIPPED	Ratri Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Ratri/Ratri%20E1.mp4
 4967	SKIPPED	Ratri Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Ratri/Ratri%20E2.mp4
+4968	SKIPPED	Rasmalai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rasmalai/Rasmalai%20E1.mp4
