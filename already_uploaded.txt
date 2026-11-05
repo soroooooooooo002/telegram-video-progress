@@ -520,7 +520,6 @@
 1848	UPLOADED	Nathuniya Episode 3
 1849	UPLOADED	Nathuniya Episode 2
 1850	UPLOADED	Nathuniya Episode 1
-4317	UPLOADED	Sona Episode 6
 1851	UPLOADED	Mona 69 Episode 1
 1852	UPLOADED	Mona 69 Episode 6
 1853	UPLOADED	Mona 69 Episode 5
@@ -4561,3 +4560,4 @@
 5019	UPLOADED	Dunali 2 Episode 10
 4315	SKIPPED	Sona Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4316	SKIPPED	Sona Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4317	SKIPPED	Sona Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
