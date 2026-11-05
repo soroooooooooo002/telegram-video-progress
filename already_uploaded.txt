@@ -3196,7 +3196,6 @@
 4122	SKIPPED	Kitab Ka Raaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20%20S01E2%20%28XSeries.IN%29.mp4
 4123	SKIPPED	Kitab Ka Raaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20S01E3%28XSeries.IN%29.mp4
 3914	UPLOADED	Daakhila Episode 5
-4129	SKIPPED	Biwi Ka Khat Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4130	SKIPPED	Biwi Ka Khat Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4131	SKIPPED	Sarkaaye Lo Khatiya Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4132	SKIPPED	Sarkaaye Lo Khatiya Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4814,3 +4813,4 @@
 5394	SKIPPED	Jalan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E1.mp4
 5395	SKIPPED	Jalan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E2.mp4
 5396	SKIPPED	Hawas Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E6.mp4
+4129	UPLOADED	Biwi Ka Khat Episode 6
