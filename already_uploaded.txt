@@ -1116,7 +1116,6 @@
 2884	UPLOADED	2 Kamine 2 Nagine Episode 2
 693	UPLOADED	Tan Tripti S3 Episode 3
 2885	UPLOADED	2 Kamine 2 Nagine Episode 1
-5298	UPLOADED	Rangili Dobhan Episode 3
 694	UPLOADED	Tan Tripti S3 Episode 4
 5299	UPLOADED	Rangili Dobhan Episode 2
 2886	UPLOADED	Munni Badnaam Hui Episode 3
@@ -4799,3 +4798,4 @@
 4004	UPLOADED	Desi Kisse Woh Din Episode 5
 4005	UPLOADED	Dream Girl Episode 5
 4006	UPLOADED	Dream Girl Episode 6
+5298	SKIPPED	Rangili Dobhan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
