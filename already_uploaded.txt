@@ -227,7 +227,6 @@
 1699	UPLOADED	Chuski Episode 4
 1700	UPLOADED	Chuski Episode 1
 1701	UPLOADED	Chuski Episode 2
-1529	UPLOADED	Ek Baar Aur Episode 6
 1530	UPLOADED	Dil To Baccha Hai Episode 1
 1702	UPLOADED	Choli Ke Peeche Kya Hai Episode 5
 1531	UPLOADED	Dil To Baccha Hai Episode 2
@@ -4821,3 +4820,4 @@
 5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
 5603	SKIPPED	Girlfriend Exchange	Cannot send requests while disconnected
 5604	SKIPPED	Divorce	Cannot send requests while disconnected
+1529	UPLOADED	Ek Baar Aur Episode 6
