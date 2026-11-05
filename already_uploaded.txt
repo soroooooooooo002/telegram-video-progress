@@ -196,7 +196,6 @@
 3791	UPLOADED	Manchale Dost Episode 1
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
-1399	UPLOADED	Tadka Episode 4
 1400	UPLOADED	Raju Ban Gaya Gentleman Episode 1
 1401	UPLOADED	Raju Ban Gaya Gentleman Episode 2
 1402	UPLOADED	Raju Ban Gaya Gentleman Episode 3
@@ -4573,3 +4572,4 @@
 4627	SKIPPED	Khatak Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4628	SKIPPED	Khatak Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4629	SKIPPED	Khatak Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1399	UPLOADED	Tadka Episode 4
