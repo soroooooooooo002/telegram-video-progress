@@ -3000,7 +3000,6 @@
 1171	SKIPPED	Rangeen Kahaniya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-38	SKIPPED	URL item 38	https://bindasmood.com/stranger-2026-indianxworld-hindi-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/stranger-2026-indianxworld-hindi-xxx-video
 39	SKIPPED	URL item 39	https://bindasmood.com/girlfriend-invited-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/girlfriend-invited-2026-hindi-uncut-xxx-video
 40	SKIPPED	URL item 40	https://bindasmood.com/garam-raat-2026-moodx-hindi-xxx-web-series-episode-1	ERROR: Unsupported URL: https://bindasmood.com/garam-raat-2026-moodx-hindi-xxx-web-series-episode-1
 41	SKIPPED	URL item 41	https://bindasmood.com/madam-ki-head-massage-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/madam-ki-head-massage-2026-hindi-uncut-xxx-video
@@ -4769,3 +4768,4 @@
 4971	SKIPPED	Photoshoot Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Photoshoot/Photoshoot%20E1.mp4
 4972	SKIPPED	Photoshoot Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Photoshoot/Photoshoot%20E2.mp4
 4973	SKIPPED	Paglet Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Paglet/Paglet%20E1.mp4
+38	UPLOADED	Stranger 2026 Indianxworld Hindi XXX Video	https://bindasmood.com/stranger-2026-indianxworld-hindi-xxx-video
