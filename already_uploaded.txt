@@ -2794,7 +2794,6 @@
 3365	UPLOADED	Kulta Digi Movieplex Episode 2
 5811	UPLOADED	Maal Paani Andha Sasur Episode 4
 3366	UPLOADED	Kulta Digi Movieplex Episode 3
-4313	UPLOADED	Sultan Episode 1
 836	UPLOADED	Maashuqa Episode 1
 837	SKIPPED	Farebi Ishq Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Farebi%20Ishq/Farebi%20Ishq%20Episode%203.mp4
 838	UPLOADED	Pehla Nasha Episode 6
@@ -4561,3 +4560,4 @@
 4310	SKIPPED	Sultan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4311	SKIPPED	Sultan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4312	SKIPPED	Sultan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4313	SKIPPED	Sultan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
