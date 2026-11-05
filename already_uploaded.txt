@@ -2989,7 +2989,6 @@
 3432	UPLOADED	Double Kaand Episode 1
 919	UPLOADED	Tanmay Apartment Episode 6
 3433	UPLOADED	Double Kaand Episode 2
-5050	UPLOADED	Devar Ji Episode 2
 921	UPLOADED	Tanmay Apartment Episode 4
 922	UPLOADED	Tanmay Apartment Episode 3
 5051	UPLOADED	Devar Ji Episode 1
@@ -4569,3 +4568,4 @@
 4527	SKIPPED	Matki Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4528	SKIPPED	Malai Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4529	SKIPPED	Malai Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5050	UPLOADED	Devar Ji Episode 2
