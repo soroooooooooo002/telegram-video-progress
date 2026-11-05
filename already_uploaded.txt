@@ -721,7 +721,6 @@
 1231	UPLOADED	Namkeen Kisse Episode 1
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
-4749	UPLOADED	Haveli Episode 1
 4750	UPLOADED	Halala Episode 9
 4751	UPLOADED	Halala Episode 8
 1236	UPLOADED	Mera Pyaar Pan Nahi Episode 1
@@ -4578,3 +4577,4 @@
 4746	SKIPPED	Haveli Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4747	SKIPPED	Haveli Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4748	SKIPPED	Haveli Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4749	SKIPPED	Haveli Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
