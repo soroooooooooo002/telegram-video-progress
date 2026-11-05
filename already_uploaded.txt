@@ -1376,7 +1376,6 @@
 3175	SKIPPED	Choli Ke Piche Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Choli%20Ke%20Piche/Choli%20Ke%20Piche%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3181	SKIPPED	Aakhri Sukh Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rio%20Plus/Aakhrii%20Sukh/Aakhrii%20Sukh%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3183	SKIPPED	Sainyaa Salman S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Sainyaa%20Salman%20S2/Sainyaa%20Salman%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5525	SKIPPED	Bachpana Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E7.mp4
 5526	SKIPPED	Bachpana Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E5.mp4
 5527	SKIPPED	Bachpana Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E3.mp4
 5528	SKIPPED	Bachpana Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E4.mp4
@@ -4818,3 +4817,4 @@
 5522	SKIPPED	Adhuri Khwaish Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Adhuri%20Khwaish/Adhuri%20Khwaish%20E2.mp4
 5523	SKIPPED	Adhuri Khwaish Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Adhuri%20Khwaish/Adhuri%20Khwaish%20E1.mp4
 5524	SKIPPED	Bachpana Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E6.mp4
+5525	SKIPPED	Bachpana Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Bachpana/Bachpana%20E7.mp4
