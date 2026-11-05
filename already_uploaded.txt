@@ -197,7 +197,6 @@
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
-1443	UPLOADED	Chidiya Episode 1
 1444	UPLOADED	Chidiya Episode 2
 1445	UPLOADED	Chidiya Episode 3
 1446	UPLOADED	Chidiya Episode 4
@@ -4777,3 +4776,4 @@
 4980	SKIPPED	Nymph Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Nymph/Nymph%20E4.mp4
 4981	SKIPPED	Nayi Naveli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Nayi%20Naveli/Nayi%20Naveli%20E1.mp4
 4982	SKIPPED	Nayi Naveli Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Nayi%20Naveli/Nayi%20Naveli%20E2.mp4
+1443	UPLOADED	Chidiya Episode 1
