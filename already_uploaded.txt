@@ -715,7 +715,6 @@
 1221	UPLOADED	Qaatil Haseena Episode 3
 1222	UPLOADED	Qaatil Haseena Episode 2
 1225	UPLOADED	Padosan Episode 3
-4706	SKIPPED	Jaghanya Upaay Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%202.mp4
 4707	SKIPPED	Jaghanya Dil Ke Armaan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%202.mp4
 4708	SKIPPED	Jaghanya Upaay Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%201.mp4
 4709	SKIPPED	Jaghanya Dil Ke Armaan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Dil%20Ke%20Armaan%20Episode%201.mp4
@@ -4577,3 +4576,4 @@
 4703	SKIPPED	Jalebi Bai Episode 10	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4704	SKIPPED	Jalebi Bai Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4705	SKIPPED	Jaghanya Upaay Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%203.mp4
+4706	SKIPPED	Jaghanya Upaay Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Jaghanya/Jaghanya%20Upaay%20Episode%202.mp4
