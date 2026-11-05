@@ -4710,3 +4710,4 @@
 5096	UPLOADED	Choodiwala Episode 2
 1441	UPLOADED	Raat Baaki Baat Baaki Episode 6
 4914	SKIPPED	Manchala Ashiq	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Manchala%20Ashiq/Manchala%20Ashiq%20E1.mp4
+4915	SKIPPED	Malkin Aur Naukarani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Look%20Entertainment/Malkin%20Aur%20Naukarani/Malkin%20Aur%20Naukarani%20E1.mp4
