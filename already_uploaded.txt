@@ -1179,7 +1179,6 @@
 5353	SKIPPED	Ranjish Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Ranjish/Ranjish%20E6.mp4
 5366	SKIPPED	Buddha Pyaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E3.mp4
 5370	SKIPPED	Bima Babu Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E5.mp4
-5381	SKIPPED	Vaidya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E2.mp4
 5382	SKIPPED	Vaidya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E3.mp4
 5383	SKIPPED	Vaidya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E1.mp4
 5384	SKIPPED	Sahara Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Sahara/Sahara%20E7.mp4
@@ -4814,3 +4813,4 @@
 5378	SKIPPED	Vaidya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E4.mp4
 5379	SKIPPED	Vaidya Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E6.mp4
 5380	SKIPPED	Vaidya Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E5.mp4
+5381	SKIPPED	Vaidya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FVaidya%2FVaidya%20E2.mp4
