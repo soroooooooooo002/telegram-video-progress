@@ -3493,7 +3493,6 @@
 1311	UPLOADED	Talab Episode 2
 3910	UPLOADED	Daakhila Episode 1
 3960	SKIPPED	Rivaaz Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-3961	SKIPPED	Rivaaz Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1312	UPLOADED	London Dreams Episode 3
 3962	SKIPPED	Rivaaz Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3963	SKIPPED	Rivaaz Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4793,3 +4792,4 @@
 5068	SKIPPED	De Dana Dan Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5069	SKIPPED	De Dana Dan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1451	UPLOADED	Ansh Episode 7
+3961	UPLOADED	Rivaaz Episode 3
