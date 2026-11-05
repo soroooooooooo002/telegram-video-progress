@@ -2633,7 +2633,6 @@
 901	SKIPPED	12th Pass	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Chiku/Single/12th%20Pass.mp4
 902	SKIPPED	Farebi Ishq Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Farebi%20Ishq/Farebi%20Ishq%20Episode%201.mp4
 903	SKIPPED	Shiddat Mohabbat Ki Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Shiddat%20Mohabbat%20Ki-D2/Shiddat%20Mohabbat%20Ki%20Episode%202.mp4
-5038	UPLOADED	Devil Episode 6
 904	UPLOADED	Madam Maya Episode 2
 5039	UPLOADED	Devil Episode 5
 906	SKIPPED	Kothewali Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Kothewali/Kothewali%20Episode%205.mp4
@@ -4793,3 +4792,4 @@
 5036	SKIPPED	Dil Sambhal Ja Zara Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1448	UPLOADED	Raat Baaki Baat Baaki Episode 2
 5037	SKIPPED	Dil Sambhal Ja Zara Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5038	SKIPPED	Devil Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
