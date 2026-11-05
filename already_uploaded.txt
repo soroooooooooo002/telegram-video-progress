@@ -1172,7 +1172,6 @@
 2940	UPLOADED	Japani Malish Episode 4
 714	UPLOADED	Sapnon Ki Raani Episode 1
 2941	UPLOADED	Japani Malish Episode 3
-5339	UPLOADED	Khiladi Bhaiya Episode 4
 2942	UPLOADED	Japani Malish Episode 2
 5340	UPLOADED	Khiladi Bhaiya Episode 5
 2943	UPLOADED	Japani Malish Episode 1
@@ -4812,3 +4811,4 @@
 4124	UPLOADED	Bade Achhe Lagte Hai Episode 5
 5159	UPLOADED	Assi Nabbe Poore Sau Episode 5
 5338	SKIPPED	Khiladi Bhaiya Episode 2	Cannot send requests while disconnected
+5339	SKIPPED	Khiladi Bhaiya Episode 4	Cannot send requests while disconnected
