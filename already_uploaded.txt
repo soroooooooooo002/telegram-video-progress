@@ -203,7 +203,6 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 1475	UPLOADED	Mere Angane Mein Episode 2
 1480	UPLOADED	Utha Le Jaunga Episode 5
-1495	UPLOADED	Payal Episode 6
 1496	UPLOADED	Payal Episode 5
 1497	UPLOADED	Nurse Episode 5
 1498	UPLOADED	Nurse Episode 6
@@ -4808,3 +4807,4 @@
 5152	UPLOADED	Auction Episode 4
 5316	SKIPPED	Gharwali Baharwali Episode 5	Cannot send requests while disconnected
 4096	UPLOADED	Goa Trip Episode 1
+1495	UPLOADED	Payal Episode 6
