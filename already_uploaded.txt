@@ -220,7 +220,6 @@
 1512	UPLOADED	Kaanta Laga Episode 6
 1694	UPLOADED	Damaad Ji 2 Episode 1
 1516	UPLOADED	Kaanta Laga Episode 5
-1518	UPLOADED	Kaanta Laga Episode 3
 1519	UPLOADED	Kaanta Laga Episode 4
 1520	UPLOADED	Kaanta Laga Episode 2
 1696	UPLOADED	Chuski Episode 5
@@ -4819,3 +4818,4 @@
 5300	UPLOADED	Rangili Dobhan Episode 4
 5552	SKIPPED	Mol Bhaav Episode 2	Cannot send requests while disconnected
 4157	UPLOADED	Balam Pichkari Episode 3
+1518	UPLOADED	Kaanta Laga Episode 3
