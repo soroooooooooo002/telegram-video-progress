@@ -206,7 +206,6 @@
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
 1499	UPLOADED	Payal Episode 1
-1500	UPLOADED	Payal Episode 3
 1686	UPLOADED	Desi Kisse Khud Khushi Episode 5
 1501	UPLOADED	Payal Episode 2
 1687	UPLOADED	Desi Kisse Khud Khushi Episode 4
@@ -4812,3 +4811,4 @@
 5339	SKIPPED	Khiladi Bhaiya Episode 4	Cannot send requests while disconnected
 5160	UPLOADED	Assi Nabbe Poore Sau Episode 4
 4125	UPLOADED	Bade Achhe Lagte Hai Episode 7
+1500	UPLOADED	Payal Episode 3
