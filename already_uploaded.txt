@@ -2996,7 +2996,6 @@
 5002	UPLOADED	Dunali Episode 9
 3387	UPLOADED	De De Pyar De Episode 2
 867	UPLOADED	Karz Episode 5
-4352	UPLOADED	Secretary Episode 4
 3388	UPLOADED	De De Pyar De Episode 3
 868	UPLOADED	Karz Episode 4
 869	SKIPPED	Karz Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dzyreplay/Karz/Karz%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4561,3 +4560,4 @@
 4350	SKIPPED	Shahad Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4351	SKIPPED	Shahad Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1389	UPLOADED	Tadka Episode 6
+4352	SKIPPED	Secretary Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
