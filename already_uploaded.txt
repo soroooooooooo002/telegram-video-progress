@@ -3934,7 +3934,6 @@
 5109	UPLOADED	Chehraa Episode 2
 1296	UPLOADED	Besharam Episode 2
 5110	UPLOADED	Chehraa Episode 1
-3931	SKIPPED	Chitthi Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1297	UPLOADED	ChaalBaaz Episode 4
 1298	SKIPPED	Khuli Tijori Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Junglee/Khuli%20Tijori/Khuli%20Tijori%20Episode%202.mp4
 1299	SKIPPED	Kiraedaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%201.mp4
@@ -4567,3 +4566,4 @@
 4451	SKIPPED	Paper Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4452	SKIPPED	Paper Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4453	SKIPPED	Panchali Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3931	UPLOADED	Chitthi Episode 9
