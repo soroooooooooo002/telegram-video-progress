@@ -598,7 +598,6 @@
 5176	SKIPPED	Tuition Teacher Episode 2 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E02%20%28XSeries.IN%29.mp4
 825	UPLOADED	Feelings Episode 1
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
-4559	UPLOADED	Love Guru Episode 2
 4560	UPLOADED	Love Guru Episode 1
 3402	UPLOADED	Jee Bhar Ke Episode 4
 4561	UPLOADED	Love Guru 3 Episode 4
@@ -4571,3 +4570,4 @@
 4556	SKIPPED	Maa Devrani Beti Jethani Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4557	SKIPPED	Love Guru Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4558	SKIPPED	Love Guru Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4559	SKIPPED	Love Guru Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
