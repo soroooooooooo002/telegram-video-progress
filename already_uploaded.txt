@@ -2899,7 +2899,6 @@
 927	UPLOADED	Darji Raja Episode 1
 3443	UPLOADED	Yeh Hai Sanak Episode 5
 928	UPLOADED	Darji Raja Episode 2
-5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
 929	UPLOADED	Aadhuri Pyaas Episode 1
 3444	UPLOADED	Yeh Hai Sanak Episode 4
 5056	UPLOADED	Desi Kisse Jaanch Padtaal Episode 4
@@ -4573,3 +4572,4 @@
 4637	SKIPPED	Khalish Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4638	SKIPPED	Khalish Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4639	SKIPPED	Khalish Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5055	UPLOADED	Desi Kisse Jaanch Padtaal Episode 6
