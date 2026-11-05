@@ -707,7 +707,6 @@
 1214	UPLOADED	Utha Patak S1 Episode 1
 1215	UPLOADED	Raat Ki Raani Episode 5
 1216	UPLOADED	Raat Ki Raani Episode 4
-4677	UPLOADED	Kaneez Episode 8
 4678	UPLOADED	Kaneez Episode 7
 1217	UPLOADED	Raat Ki Raani Episode 3
 4679	UPLOADED	Kaneez Episode 6
@@ -4576,3 +4575,4 @@
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 4675	SKIPPED	Kasak Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4676	SKIPPED	Kaneez Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4677	SKIPPED	Kaneez Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
