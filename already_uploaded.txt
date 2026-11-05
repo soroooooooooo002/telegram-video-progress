@@ -727,7 +727,6 @@
 3781	UPLOADED	Patang Paseena Episode 4
 3782	UPLOADED	Patang Paseena Episode 3
 3783	UPLOADED	Patang Paseena Episode 2
-4780	UPLOADED	Gaachi Episode 3
 4781	UPLOADED	Gaachi Episode 2
 4782	UPLOADED	Gaachi Episode 1
 3787	UPLOADED	Swapna Sundariii Episode 3
@@ -4578,3 +4577,4 @@
 4777	SKIPPED	Gaachi Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4778	SKIPPED	Gaachi Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4779	SKIPPED	Gaachi Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4780	SKIPPED	Gaachi Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
