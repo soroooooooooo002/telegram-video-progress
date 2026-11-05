@@ -197,7 +197,6 @@
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
-1425	UPLOADED	Kundi Mat Khadkao Raja Episode 7
 1426	UPLOADED	Chaashni Episode 5
 1427	UPLOADED	Chaashni Episode 6
 1428	UPLOADED	Chaashni Episode 7
@@ -4683,3 +4682,4 @@
 1424	UPLOADED	Kundi Mat Khadkao Raja Episode 6
 25	UPLOADED	Kaamsutra 2026 Meetx Hindi Uncut XXX Video	https://bindasmood.com/kaamsutra-2026-meetx-hindi-uncut-xxx-video
 4887	SKIPPED	Sajan Chale Sasural Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1425	UPLOADED	Kundi Mat Khadkao Raja Episode 7
