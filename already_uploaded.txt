@@ -465,7 +465,6 @@
 1790	UPLOADED	Kulta Digi Movieplex Episode 4
 1791	UPLOADED	Kulta Digi Movieplex Episode 1
 1792	UPLOADED	Joru Ka Gulaam Episode 6
-4275	UPLOADED	Teekhi Chutney Episode 3
 1794	UPLOADED	Joru Ka Gulaam Episode 5
 1795	UPLOADED	Bunty Babli Episode 4
 1796	UPLOADED	Bunty Babli Episode 3
@@ -4560,3 +4559,4 @@
 4272	SKIPPED	Tere Jaisa Yaar Kaha Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4273	SKIPPED	Tere Jaisa Yaar Kaha Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4274	SKIPPED	Teekhi Chutney Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4275	SKIPPED	Teekhi Chutney Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
