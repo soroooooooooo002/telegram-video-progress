@@ -3089,7 +3089,6 @@
 910	SKIPPED	Kothewali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Kothewali/Kothewali%20Episode%201.mp4
 3427	UPLOADED	Giddh Bhoj Episode 1
 911	UPLOADED	Jawani Ka Junoon Episode 2
-4380	UPLOADED	Rupay 500 Episode 4
 5040	UPLOADED	Devil Episode 4
 912	UPLOADED	Jawani Ka Junoon Episode 1
 913	SKIPPED	Garam Ketli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Garam%20Ketli/Garam%20Ketli%20Episode%201.mp4
@@ -4562,3 +4561,4 @@
 4377	SKIPPED	Saali Aadhi Gharwaali Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4378	SKIPPED	Rupay 500 Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4379	SKIPPED	Rupay 500 Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4380	SKIPPED	Rupay 500 Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
