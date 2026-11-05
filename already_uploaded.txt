@@ -3265,7 +3265,6 @@
 1346	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 3
 1347	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 1
 1348	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 2
-4096	SKIPPED	Goa Trip Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1349	UPLOADED	Jane Anjane Mein 6 Episode 5
 1350	UPLOADED	Do Din ka Mehmaan Episode 3
 1351	UPLOADED	Do Din ka Mehmaan Episode 4
@@ -4808,3 +4807,4 @@
 5315	SKIPPED	Gharwali Baharwali Episode 6	Cannot send requests while disconnected
 5152	UPLOADED	Auction Episode 4
 5316	SKIPPED	Gharwali Baharwali Episode 5	Cannot send requests while disconnected
+4096	UPLOADED	Goa Trip Episode 1
