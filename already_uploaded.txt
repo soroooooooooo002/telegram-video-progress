@@ -585,7 +585,6 @@
 719	UPLOADED	Saiyaan Farebi Episode 2
 3267	UPLOADED	Dagabaaz Episode 3
 729	UPLOADED	Pyaari Bhabhi Episode 2
-4427	UPLOADED	Purani Haveli Episode 6
 4428	UPLOADED	Purani Haveli Episode 5
 4429	UPLOADED	Purani Haveli Episode 4
 4430	UPLOADED	Purani Haveli Episode 3
@@ -4564,3 +4563,4 @@
 4424	SKIPPED	Raat Baaki Hai Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4425	SKIPPED	Raat Baaki Hai Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4426	SKIPPED	Raat Baaki Hai Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4427	SKIPPED	Purani Haveli Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
