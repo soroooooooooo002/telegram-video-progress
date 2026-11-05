@@ -195,7 +195,6 @@
 1387	UPLOADED	Tu Dekh Meri Photo Episode 3
 3791	UPLOADED	Manchale Dost Episode 1
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
-1394	UPLOADED	Raju Ban Gaya Gentleman Episode 6
 1395	UPLOADED	Raju Ban Gaya Gentleman Episode 7
 1396	UPLOADED	Tadka Episode 1
 1397	UPLOADED	Tadka Episode 2
@@ -4567,3 +4566,4 @@
 4486	SKIPPED	Namkeen Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4487	SKIPPED	Namkeen Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4488	SKIPPED	Namkeen Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1394	UPLOADED	Raju Ban Gaya Gentleman Episode 6
