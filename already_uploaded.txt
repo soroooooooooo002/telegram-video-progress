@@ -4293,7 +4293,6 @@
 5228	SKIPPED	Humara Pyaar Chamatkar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humara%20Pyaar%20Chamatkar/Humara%20Pyaar%20Chamatkar%20E2.mp4
 52	UPLOADED	Noorie 2020 Hotshots Originals Hindi Hot XXX Video	https://bindasmood.com/noorie-2020-hotshots-originals-hindi-hot-xxx-video
 5278	SKIPPED	Bewafaii Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E1.mp4
-5283	SKIPPED	Banni Ka Kissaa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E2.mp4
 5284	SKIPPED	BehruPriya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E4.mp4
 5285	SKIPPED	Banni Ka Kissaa Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E1.mp4
 5286	SKIPPED	Banni Ka Kissaa Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E3.mp4
@@ -4817,3 +4816,4 @@
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
 5281	SKIPPED	BehruPriya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E2.mp4
 5282	SKIPPED	BehruPriya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E3.mp4
+5283	SKIPPED	Banni Ka Kissaa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Banni%20Ka%20Kissaa/Banni%20Ka%20Kissaa%20E2.mp4
