@@ -3404,7 +3404,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 1313	UPLOADED	London Dreams Episode 2
-3977	SKIPPED	Lallu Ki Mami Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3978	SKIPPED	Agent Laila	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Agent%20Laila/Agent%20Laila.mp4
 3979	SKIPPED	Honey Trap Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4796,3 +4795,4 @@
 5121	UPLOADED	Chahat Episode 2
 50	UPLOADED	Kimat 2026 Dzyreplay Hindi XXX Web Series Episode 1	https://bindasmood.com/kimat-2026-dzyreplay-hindi-xxx-web-series-episode-1
 1471	UPLOADED	Dekho Magar Pyar Se Episode 2
+3977	UPLOADED	Lallu Ki Mami Episode 1
