@@ -203,7 +203,6 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 1475	UPLOADED	Mere Angane Mein Episode 2
 1480	UPLOADED	Utha Le Jaunga Episode 5
-1497	UPLOADED	Nurse Episode 5
 1498	UPLOADED	Nurse Episode 6
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
 1685	UPLOADED	Desi Kisse Khud Khushi Episode 7
@@ -4810,3 +4809,4 @@
 5320	SKIPPED	Gharwali Baharwali Episode 1	Cannot send requests while disconnected
 4098	UPLOADED	Ghanta Ki Baat Episode 1
 5155	UPLOADED	Auction Episode 1
+1497	UPLOADED	Nurse Episode 5
