@@ -3280,7 +3280,6 @@
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 13	UPLOADED	Dilwali Saali 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/dilwali-saali-2026-moodx-hindi-xxx-web-series-episode-1
 4007	SKIPPED	Dream Girl Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
-4016	SKIPPED	Farebi Yaar Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4017	SKIPPED	Farebi Yaar Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4018	SKIPPED	Farebi Yaar Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4019	SKIPPED	Main Yahan Tu Wahan Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
@@ -4799,3 +4798,4 @@
 4013	UPLOADED	Farebi Yaar Episode 3
 4014	UPLOADED	Farebi Yaar Episode 4
 4015	UPLOADED	Farebi Yaar Episode 5
+4016	UPLOADED	Farebi Yaar Episode 6
