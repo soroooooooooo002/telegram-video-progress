@@ -3000,7 +3000,6 @@
 4151	SKIPPED	Lag Ja Gale Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3915	UPLOADED	Daakhila Episode 4
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-4165	SKIPPED	Taras Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4166	SKIPPED	Taras Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4167	SKIPPED	Taras Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4168	SKIPPED	Taras Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4821,3 +4820,4 @@
 5582	SKIPPED	Andha Ishq Episode 1	Cannot send requests while disconnected
 5307	UPLOADED	Damaadji Lage Raho Episode 3
 5583	SKIPPED	Andha Ishq Episode 3	Cannot send requests while disconnected
+4165	UPLOADED	Taras Episode 6
