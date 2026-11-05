@@ -4811,3 +4811,4 @@
 5336	SKIPPED	Luka Chuppi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Luka%20Chuppi.mp4
 5158	UPLOADED	Assi Nabbe Poore Sau Episode 7
 5337	SKIPPED	Khiladi Bhaiya Episode 1	Cannot send requests while disconnected
+67	UPLOADED	Pati Patni Aur Saali 2026 Hindi Uncut XXX Video	https://bindasmood.com/pati-patni-aur-saali-2026-hindi-uncut-xxx-video
