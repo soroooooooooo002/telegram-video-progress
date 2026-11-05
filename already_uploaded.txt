@@ -4679,3 +4679,4 @@
 1423	UPLOADED	Kundi Mat Khadkao Raja Episode 5
 5073	UPLOADED	Dance Bar Episode 6
 4883	SKIPPED	Chhupa Rustam Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4884	SKIPPED	Sajan Chale Sasural Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
