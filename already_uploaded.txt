@@ -1108,7 +1108,6 @@
 2888	UPLOADED	Munni Badnaam Hui Episode 1
 698	UPLOADED	Tan Tripti S2 Episode 3
 699	UPLOADED	Tan Tripti S2 Episode 1
-4097	UPLOADED	Ghanta Ki Baat Episode 2
 2889	UPLOADED	Raaz Episode 3
 5306	UPLOADED	Damaadji Lage Raho Episode 5
 700	UPLOADED	Tan Tripti S2 Episode 2
@@ -4809,3 +4808,4 @@
 5153	UPLOADED	Auction Episode 3
 5318	SKIPPED	Gharwali Baharwali Episode 3	Cannot send requests while disconnected
 64	UPLOADED	Colors of Life 2026 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/colors-of-life-2026-sigma-series-malayalam-hot-xxx-video
+4097	UPLOADED	Ghanta Ki Baat Episode 2
