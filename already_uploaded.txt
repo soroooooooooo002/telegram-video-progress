@@ -719,7 +719,6 @@
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
 1230	UPLOADED	Namkeen Kisse Episode 4
 1231	UPLOADED	Namkeen Kisse Episode 1
-4724	UPLOADED	Ishqiyapa Episode 6
 4725	UPLOADED	Ishqiyapa Episode 5
 4726	UPLOADED	Ishqiyapa Episode 4
 4727	UPLOADED	Ishqiyapa Episode 3
@@ -4578,3 +4577,4 @@
 4721	SKIPPED	Jaal Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4722	SKIPPED	Jaal Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4723	SKIPPED	Ishqiyapa Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4724	SKIPPED	Ishqiyapa Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
