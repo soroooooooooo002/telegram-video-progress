@@ -1047,7 +1047,6 @@
 2792	UPLOADED	Kiraayedaar Episode 3
 2793	UPLOADED	Kiraayedaar Episode 2
 2794	UPLOADED	Kiraayedaar Episode 1
-5154	UPLOADED	Auction Episode 2
 2795	UPLOADED	Jawani Ki Lassi Episode 2
 2796	SKIPPED	Rasgulla Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Rasgulla/Rasgulla%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2797	SKIPPED	Rasgulla Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Rasgulla/Rasgulla%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4794,3 +4793,4 @@
 1466	UPLOADED	Lene Ke Dene Episode 1
 5152	SKIPPED	Auction Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5153	SKIPPED	Auction Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5154	SKIPPED	Auction Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
