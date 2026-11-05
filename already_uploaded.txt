@@ -2974,7 +2974,6 @@
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 14	UPLOADED	Stepfather and Stepson 2026 Hindi Uncut XXX Video	https://bindasmood.com/stepfather-and-stepson-2026-hindi-uncut-xxx-video
 3916	UPLOADED	Couple Party Episode 1
-4174	SKIPPED	Wrong Turn Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4175	SKIPPED	Wrong Turn Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4176	SKIPPED	Wrong Turn Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4177	SKIPPED	Wrong Turn Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4822,3 +4821,4 @@
 4173	UPLOADED	Wrong Turn Episode 5
 1531	UPLOADED	Dil To Baccha Hai Episode 2
 79	UPLOADED	Gaon Ki Gori BTS 2026 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/gaon-ki-gori-bts-2026-moodx-hindi-xxx-web-series-episode-2
+4174	UPLOADED	Wrong Turn Episode 4
