@@ -585,7 +585,6 @@
 3267	UPLOADED	Dagabaaz Episode 3
 729	UPLOADED	Pyaari Bhabhi Episode 2
 737	UPLOADED	Paurashpur S3 Episode 3
-4440	UPLOADED	Patra Petika Episode 1
 4441	UPLOADED	Paro Episode 6
 4442	UPLOADED	Paro Episode 5
 4443	UPLOADED	Paro Episode 4
@@ -4565,3 +4564,4 @@
 4438	SKIPPED	Patra Petika Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 19	UPLOADED	Stranger Boy 2026 Hindi Uncut XXX Video	https://bindasmood.com/stranger-boy-2026-hindi-uncut-xxx-video
 4439	SKIPPED	Paro Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4440	SKIPPED	Patra Petika Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
