@@ -720,7 +720,6 @@
 1230	UPLOADED	Namkeen Kisse Episode 4
 1231	UPLOADED	Namkeen Kisse Episode 1
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
-4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
 4742	UPLOADED	Haveli Episode 8
 4743	UPLOADED	Haveli Episode 7
 4744	UPLOADED	Haveli Episode 5
@@ -4578,3 +4577,4 @@
 4738	SKIPPED	Hotspot Raatein Rangeen Banaayein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Raatein%20Rangeen%20Banaayein%20Episode%202.mp4
 4739	SKIPPED	Hotspot Raatein Rangeen Banaayein Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Raatein%20Rangeen%20Banaayein%20Episode%201.mp4
 4740	SKIPPED	Hotspot Charr Charr Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%202.mp4
+4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
