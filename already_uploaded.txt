@@ -1107,7 +1107,6 @@
 696	UPLOADED	Tan Tripti S2 Episode 4
 2887	UPLOADED	Munni Badnaam Hui Episode 2
 697	UPLOADED	Tan Tripti S3 Episode 1
-4095	UPLOADED	Goa Trip Episode 2
 2888	UPLOADED	Munni Badnaam Hui Episode 1
 698	UPLOADED	Tan Tripti S2 Episode 3
 699	UPLOADED	Tan Tripti S2 Episode 1
@@ -4808,3 +4807,4 @@
 5150	UPLOADED	Bhasudi Episode 1
 5314	SKIPPED	Gharwali Baharwali Episode 7	Cannot send requests while disconnected
 5151	UPLOADED	Auction Episode 5
+4095	UPLOADED	Goa Trip Episode 2
