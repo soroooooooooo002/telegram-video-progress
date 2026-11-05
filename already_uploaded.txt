@@ -2989,7 +2989,6 @@
 5963	SKIPPED	Bawarchi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E4.mp4
 5964	SKIPPED	Bawarchi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E3.mp4
 5965	SKIPPED	Bawarchi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E2.mp4
-4349	UPLOADED	Shahad Episode 2
 5967	SKIPPED	Akelapan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Akelapan/Akelapan.mp4
 5968	SKIPPED	Adhuri	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Adhuri/Adhuri.mp4
 5969	UPLOADED	Tags » XMaza
@@ -4561,3 +4560,4 @@
 4346	SKIPPED	Singardaan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4347	SKIPPED	Shor Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Shor%20/Shor%20Episode%201.mp4
 4348	SKIPPED	Shahad Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4349	SKIPPED	Shahad Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
