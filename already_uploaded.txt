@@ -197,7 +197,6 @@
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
 1412	UPLOADED	Daal Chawal Episode 2
-1442	UPLOADED	Raat Baaki Baat Baaki Episode 7
 1443	UPLOADED	Chidiya Episode 1
 1444	UPLOADED	Chidiya Episode 2
 1445	UPLOADED	Chidiya Episode 3
@@ -4716,3 +4715,4 @@
 3952	UPLOADED	Chatur Naar Episode 2
 4920	SKIPPED	Mask Man 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 37	UPLOADED	Step Family Vlog 2026 Hindi Uncut XXX Video	https://bindasmood.com/step-family-vlog-2026-hindi-uncut-xxx-video
+1442	UPLOADED	Raat Baaki Baat Baaki Episode 7
