@@ -516,7 +516,6 @@
 3426	SKIPPED	Good Girls Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/Good%20Girls/Good%20Girls%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 863	SKIPPED	Khilona Feel Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feel/Khilona/Khilona%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3457	SKIPPED	Bhabhi Ka Bhaukal Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Rabbit/Bhabhi%20Ka%20Bhaukal/Bhabhi%20Ka%20Bhaukal%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5308	SKIPPED	Damaadji Lage Raho Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Damaadji%20Lage%20Raho/Damaadji%20Lage%20Raho%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3477	SKIPPED	My Yoga Teacher Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Sahelii/My%20Yoga%20Teacher/My%20Yoga%20Teacher%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 882	UPLOADED	Generation Gap S2 Episode 2
 3495	UPLOADED	Haramkhor Dream Films Episode 1
@@ -4806,3 +4805,4 @@
 60	UPLOADED	Best Friends Boyfriend 2026 Hindi Uncut XXX Video	https://bindasmood.com/best-friends-boyfriend-2026-hindi-uncut-xxx-video
 1490	UPLOADED	Mithai Wali Episode 3
 5147	UPLOADED	Bhasudi Episode 4
+5308	SKIPPED	Damaadji Lage Raho Episode 2	Cannot send requests while disconnected
