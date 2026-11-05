@@ -228,7 +228,6 @@
 1700	UPLOADED	Chuski Episode 1
 1701	UPLOADED	Chuski Episode 2
 1702	UPLOADED	Choli Ke Peeche Kya Hai Episode 5
-1531	UPLOADED	Dil To Baccha Hai Episode 2
 1532	UPLOADED	Ek Baar Aur Episode 1
 1703	UPLOADED	Choli Ke Peeche Kya Hai Episode 6
 1533	UPLOADED	Ek Baar Aur Episode 3
@@ -4821,3 +4820,4 @@
 5605	SKIPPED	Crazy	Cannot send requests while disconnected
 5314	UPLOADED	Gharwali Baharwali Episode 7
 4173	UPLOADED	Wrong Turn Episode 5
+1531	UPLOADED	Dil To Baccha Hai Episode 2
