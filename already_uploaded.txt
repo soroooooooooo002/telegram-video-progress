@@ -1101,7 +1101,6 @@
 686	UPLOADED	Vashikaran Episode 3
 2845	UPLOADED	Silsila Hai Pyaar Ka Episode 2
 687	UPLOADED	Vashikaran Episode 2
-5179	UPLOADED	Nayi Padosan Episode 2
 2846	UPLOADED	Panchbali Episode 1
 2847	UPLOADED	Obsession Episode 4
 2848	UPLOADED	Obsession Episode 3
@@ -4796,3 +4795,4 @@
 5120	UPLOADED	Chahat Episode 3
 3976	UPLOADED	Lallu Ki Mami Episode 2
 1470	UPLOADED	Dekho Magar Pyar Se Episode 4
+5179	SKIPPED	Nayi Padosan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
