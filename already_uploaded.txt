@@ -726,7 +726,6 @@
 3781	UPLOADED	Patang Paseena Episode 4
 3782	UPLOADED	Patang Paseena Episode 3
 3783	UPLOADED	Patang Paseena Episode 2
-4782	UPLOADED	Gaachi Episode 1
 3787	UPLOADED	Swapna Sundariii Episode 3
 4783	UPLOADED	Pachpan Main Bachpan Episode 2
 3789	UPLOADED	Swapna Sundariii Episode 1
@@ -4578,3 +4577,4 @@
 4780	SKIPPED	Gaachi Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4781	SKIPPED	Gaachi Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1410	UPLOADED	Daal Chawal Episode 1
+4782	SKIPPED	Gaachi Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
