@@ -3280,7 +3280,6 @@
 4007	SKIPPED	Dream Girl Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 1316	SKIPPED	Jawaani Jaaneman Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%203.mp4
 1317	SKIPPED	Jawaani Jaaneman Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%201.mp4
-4039	SKIPPED	Rain Basera Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4040	SKIPPED	Rain Basera Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4041	SKIPPED	Rain Basera Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4042	SKIPPED	Rain Basera Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
@@ -4799,3 +4798,4 @@
 4036	UPLOADED	Rain Basera Episode 3
 4037	UPLOADED	Rain Basera Episode 4
 4038	UPLOADED	Rain Basera Episode 5
+4039	UPLOADED	Rain Basera Episode 6
