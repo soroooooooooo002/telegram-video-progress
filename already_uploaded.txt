@@ -3003,7 +3003,6 @@
 1171	SKIPPED	Rangeen Kahaniya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-35	SKIPPED	URL item 35	https://bindasmood.com/prayogam-2026-lubeseries-malayalam-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/prayogam-2026-lubeseries-malayalam-xxx-web-series-episode-2
 36	SKIPPED	URL item 36	https://bindasmood.com/prayogam-2026-lubeseries-malayalam-xxx-web-series-episode-1	ERROR: Unsupported URL: https://bindasmood.com/prayogam-2026-lubeseries-malayalam-xxx-web-series-episode-1
 37	SKIPPED	URL item 37	https://bindasmood.com/step-family-vlog-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/step-family-vlog-2026-hindi-uncut-xxx-video
 38	SKIPPED	URL item 38	https://bindasmood.com/stranger-2026-indianxworld-hindi-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/stranger-2026-indianxworld-hindi-xxx-video
@@ -4707,3 +4706,4 @@
 3950	UPLOADED	Ghutan Episode 2
 5094	UPLOADED	Choodiwala Episode 4
 4910	SKIPPED	Khet Me Bahaar Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+35	UPLOADED	Prayogam 2026 Lubeseries Malayalam XXX Web Series Episode 2	https://bindasmood.com/prayogam-2026-lubeseries-malayalam-xxx-web-series-episode-2
