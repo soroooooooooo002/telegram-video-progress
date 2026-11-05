@@ -216,7 +216,6 @@
 1506	UPLOADED	Nurse Episode 4
 1691	UPLOADED	Damaad Ji Episode 1
 1692	UPLOADED	Damaad Ji 2 Episode 4
-1510	UPLOADED	Kaanta Laga Episode 7
 1511	SKIPPED	Aah Se Aaha Tak Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /ULLU/Aah%20Se%20Aaha%20Tak/Aah%20Se%20Aaha%20Tak%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1693	UPLOADED	Damaad Ji 2 Episode 3
 1512	UPLOADED	Kaanta Laga Episode 6
@@ -4816,3 +4815,4 @@
 4140	UPLOADED	Sarkaaye Lo Khatiya Episode 2
 5181	UPLOADED	Blue Night Episode 3
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
+1510	UPLOADED	Kaanta Laga Episode 7
