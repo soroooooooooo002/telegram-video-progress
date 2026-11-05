@@ -516,7 +516,6 @@
 3496	UPLOADED	Haramkhor Dream Films Episode 2
 3497	SKIPPED	Woodpecker Episode 1	Request was unsuccessful 6 time(s)
 4592	UPLOADED	Laal Mirch Episode 3
-5321	SKIPPED	Anokhi Episode 4	Request was unsuccessful 6 time(s)
 3501	SKIPPED	Woodpecker Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3502	SKIPPED	Woodpecker Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Woodpecker/Woodpecker%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3509	SKIPPED	Innocent Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4810,3 +4809,4 @@
 4098	UPLOADED	Ghanta Ki Baat Episode 1
 5155	UPLOADED	Auction Episode 1
 1497	UPLOADED	Nurse Episode 5
+5321	SKIPPED	Anokhi Episode 4	Cannot send requests while disconnected
