@@ -2971,7 +2971,6 @@
 1052	UPLOADED	Jungle Cottage Episode 2
 3447	UPLOADED	Yeh Hai Sanak Episode 1
 3448	SKIPPED	Phere Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Phere/Phere%20Episode%205.mp4
-5060	UPLOADED	Dekhi Andekhi Episode 6
 3449	UPLOADED	Jenga Episode 4
 1053	UPLOADED	Jungle Cottage Episode 1
 1054	SKIPPED	Julie Maam ki Extra Class Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Julie%20Maam%20ki%20Extra%20Class/Julie%20Maam%20ki%20Extra%20Class%20Episode%203.mp4
@@ -4577,3 +4576,4 @@
 4696	SKIPPED	Jalebi Bai Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4697	SKIPPED	Jalebi Bai Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4698	SKIPPED	Jalebi Bai Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5060	UPLOADED	Dekhi Andekhi Episode 6
