@@ -2971,7 +2971,6 @@
 3433	UPLOADED	Double Kaand Episode 2
 921	UPLOADED	Tanmay Apartment Episode 4
 922	UPLOADED	Tanmay Apartment Episode 3
-5051	UPLOADED	Devar Ji Episode 1
 3434	UPLOADED	Aunty Ka PG Episode 1
 923	UPLOADED	Tanmay Apartment Episode 2
 5052	UPLOADED	Desi Kisse Khud Khushi Episode 6
@@ -4570,3 +4569,4 @@
 4548	SKIPPED	Maa Ka Naka Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4549	SKIPPED	Maa Ka Naka Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4550	SKIPPED	Maa Ka Naka Episode 11	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5051	UPLOADED	Devar Ji Episode 1
