@@ -3482,7 +3482,6 @@
 3910	UPLOADED	Daakhila Episode 1
 3960	SKIPPED	Rivaaz Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1312	UPLOADED	London Dreams Episode 3
-3963	SKIPPED	Rivaaz Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3964	SKIPPED	Rivaaz Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3966	SKIPPED	Paiso Se Sukh	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mastram/Paiso%20Se%20Sukh.mp4
@@ -4793,3 +4792,4 @@
 5103	SKIPPED	Choked Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5104	SKIPPED	Chehraa Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5105	SKIPPED	Chehraa Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+3963	UPLOADED	Rivaaz Episode 5
