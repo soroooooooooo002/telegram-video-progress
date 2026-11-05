@@ -524,7 +524,6 @@
 825	UPLOADED	Feelings Episode 1
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
 3402	UPLOADED	Jee Bhar Ke Episode 4
-5264	SKIPPED	Chull Dhulai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E1.mp4
 5265	SKIPPED	Chhupi Nazar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E1.mp4
 5296	UPLOADED	Sasur Ki Dulhan Episode 1
 3423	SKIPPED	GuptRog Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Cine%20Prime/GuptRog/GuptRog%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4797,3 +4796,4 @@
 5261	SKIPPED	Chull New Item Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20New%20Item/Chull%20New%20Item%20E2.mp4
 5262	SKIPPED	Chull Loveria Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E1.mp4
 5263	SKIPPED	Chull Loveria Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E2.mp4
+5264	SKIPPED	Chull Dhulai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E1.mp4
