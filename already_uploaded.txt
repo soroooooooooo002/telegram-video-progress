@@ -4759,3 +4759,4 @@
 4961	SKIPPED	Sanvida Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FSanvida%2FSanvida%202.mp4
 4962	SKIPPED	Saheli Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FSaheli%2FSaheli%20E2.mp4
 4963	SKIPPED	Saheli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FSaheli%2FSaheli%20E1.mp4
+4964	SKIPPED	Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rishta/Rishta%20E1.mp4
