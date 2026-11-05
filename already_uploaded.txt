@@ -2963,7 +2963,6 @@
 1171	SKIPPED	Rangeen Kahaniya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-42	SKIPPED	URL item 42	https://bindasmood.com/husband-sharing-wife-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/husband-sharing-wife-2026-hindi-uncut-xxx-video
 43	SKIPPED	URL item 43	https://bindasmood.com/young-cute-girl-fucked-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/young-cute-girl-fucked-2026-hindi-uncut-xxx-video
 44	SKIPPED	URL item 44	https://bindasmood.com/bhauji-ka-pyar-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/bhauji-ka-pyar-2026-hindi-uncut-xxx-video
 45	SKIPPED	URL item 45	https://bindasmood.com/night-romance-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/night-romance-2026-hindi-uncut-xxx-video
@@ -4793,3 +4792,4 @@
 5106	UPLOADED	Chehraa Episode 5
 5051	SKIPPED	Devar Ji Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5052	SKIPPED	Desi Kisse Khud Khushi Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+42	UPLOADED	Husband Sharing Wife 2026 Hindi Uncut XXX Video	https://bindasmood.com/husband-sharing-wife-2026-hindi-uncut-xxx-video
