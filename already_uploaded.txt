@@ -2810,7 +2810,6 @@
 5818	SKIPPED	Mistake Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Movie%20Zoo/Mistake%20%282023%29/Mistake%20%20S01E01%20%28XSeries.IN%29.mp4
 3368	UPLOADED	Kalpana Episode 2
 842	UPLOADED	Besharam Episode 1
-4316	UPLOADED	Sona Episode 7
 3369	UPLOADED	Kalpana Episode 4
 843	UPLOADED	Gore Gore Gaal Episode 6
 844	SKIPPED	Shiddat Mohabbat Ki Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Shiddat%20Mohabbat%20Ki-D2/Shiddat%20Mohabbat%20Ki%20Episode%209.mp4
@@ -4561,3 +4560,4 @@
 4314	SKIPPED	Soul Reader Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5019	UPLOADED	Dunali 2 Episode 10
 4315	SKIPPED	Sona Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4316	SKIPPED	Sona Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
