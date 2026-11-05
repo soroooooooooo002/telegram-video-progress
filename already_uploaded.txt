@@ -234,7 +234,6 @@
 1537	UPLOADED	Shaukiya Episode 2
 1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
-1540	UPLOADED	Tauba Tauba Episode 1
 1708	UPLOADED	Chachi No 1 Episode 4
 1541	UPLOADED	Tauba Tauba Episode 2
 1709	UPLOADED	Chachi No 1 Episode 3
@@ -4823,3 +4822,4 @@
 4184	UPLOADED	Woodpecker Episode 2
 5617	SKIPPED	Saazish Episode 1	Cannot send requests while disconnected
 4185	UPLOADED	Woodpecker Episode 1
+1540	UPLOADED	Tauba Tauba Episode 1
