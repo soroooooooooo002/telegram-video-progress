@@ -2962,7 +2962,6 @@
 1060	SKIPPED	Girls Hostel Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Girls%20Hostel/Girls%20Hostel%20Episode%201.mp4
 1061	SKIPPED	Gaon Ki Malai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Gaon%20Ki%20Malai/Gaon%20Ki%20Malai%20Episode%202.mp4
 1062	SKIPPED	Gaon Ki Malai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Gaon%20Ki%20Malai/Gaon%20Ki%20Malai%20Episode%201.mp4
-5061	UPLOADED	Dekhi Andekhi Episode 7
 3450	UPLOADED	Jenga Episode 3
 3451	SKIPPED	Rasgulla Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Moovi/Rasgulla/Rasgulla%20Episode%202.mp4
 3452	SKIPPED	Rasgulla Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Moovi/Rasgulla/Rasgulla%20Episode%201.mp4
@@ -4578,3 +4577,4 @@
 22	UPLOADED	Garam Raat BTS 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/garam-raat-bts-2026-moodx-hindi-xxx-web-series-episode-1
 4716	SKIPPED	Jabran Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4717	SKIPPED	Jaal Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5061	UPLOADED	Dekhi Andekhi Episode 7
