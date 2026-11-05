@@ -4596,3 +4596,4 @@
 4799	SKIPPED	Gaflat Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Gaflat/Gaflat%20E3.mp4
 4800	SKIPPED	Rog Vilasa Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rangeen/Rog%20Vilasa%20%282023%29/Rog%20Vilasa%20S01E02%20%28XSeries.IN%29.mp4
 4801	SKIPPED	Rog Vilasa Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rangeen/Rog%20Vilasa%20%282023%29/Rog%20Vilasa%20S01E01%20%28XSeries.IN%29.mp4
+4802	SKIPPED	Aap Beeti Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rangeen/Aap%20Beeti%20S01E02%20%28XSeries.IN%29.mp4
