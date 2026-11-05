@@ -1174,7 +1174,6 @@
 2942	UPLOADED	Japani Malish Episode 2
 2943	UPLOADED	Japani Malish Episode 1
 2944	UPLOADED	Bold Is Gold Episode 3
-5342	UPLOADED	Khiladi Bhaiya Episode 7
 2945	UPLOADED	Bold Is Gold Episode 2
 717	UPLOADED	Sale Episode 1
 2946	UPLOADED	Bold Is Gold Episode 1
@@ -4813,3 +4812,4 @@
 5161	UPLOADED	Assi Nabbe Poore Sau Episode 3
 5341	SKIPPED	Khiladi Bhaiya Episode 3	Cannot send requests while disconnected
 4126	UPLOADED	Haseena Maan Jayegi Episode 7
+5342	SKIPPED	Khiladi Bhaiya Episode 7	Cannot send requests while disconnected
