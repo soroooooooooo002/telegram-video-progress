@@ -4670,3 +4670,4 @@
 1418	UPLOADED	Tere Mere Beech Mein Episode 2
 3941	UPLOADED	Damad Ji Episode 3
 4875	SKIPPED	Sandook Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4876	SKIPPED	Sandook Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
