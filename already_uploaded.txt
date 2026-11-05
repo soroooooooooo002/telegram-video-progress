@@ -403,7 +403,6 @@
 1830	UPLOADED	Utha Patak S3 Episode 12
 1831	UPLOADED	Utha Patak S3 Episode 2
 1832	UPLOADED	Utha Patak S3 Episode 3
-5343	UPLOADED	Khiladi Bhaiya Episode 6
 1836	UPLOADED	Utha Patak S1 Episode 2
 1837	UPLOADED	Namkeen Kisse Episode 2
 1838	UPLOADED	Namkeen Kisse Episode 3
@@ -4813,3 +4812,4 @@
 5342	SKIPPED	Khiladi Bhaiya Episode 7	Cannot send requests while disconnected
 5162	UPLOADED	Assi Nabbe Poore Sau Episode 2
 1501	UPLOADED	Payal Episode 2
+5343	SKIPPED	Khiladi Bhaiya Episode 6	Cannot send requests while disconnected
