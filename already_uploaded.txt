@@ -2640,7 +2640,6 @@
 815	UPLOADED	Do Ankhein Chaar Haath Episode 4
 5692	UPLOADED	Napunsak Pati Episode 2
 3344	UPLOADED	Rocket Episode 2
-4279	UPLOADED	Tandoor Episode 4
 816	UPLOADED	Do Ankhein Chaar Haath Episode 3
 3345	UPLOADED	Rocket Episode 3
 4280	UPLOADED	Tandoor Episode 3
@@ -4560,3 +4559,4 @@
 4276	SKIPPED	Teekhi Chutney Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4277	SKIPPED	Teekhi Chutney Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4278	SKIPPED	Tandoor Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4279	SKIPPED	Tandoor Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
