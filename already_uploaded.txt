@@ -704,7 +704,6 @@
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
 1209	UPLOADED	Utha Patak S2 Episode 4
 1210	UPLOADED	Utha Patak S2 Episode 1
-4668	UPLOADED	Kasak Episode 6
 4669	UPLOADED	Kasak Episode 5
 4670	UPLOADED	Kasak Episode 4
 4671	UPLOADED	Kasak Episode 3
@@ -4575,3 +4574,4 @@
 4665	SKIPPED	Kasak Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4666	SKIPPED	Kasak Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4667	SKIPPED	Kasak Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4668	SKIPPED	Kasak Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
