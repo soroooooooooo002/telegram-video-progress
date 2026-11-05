@@ -4768,3 +4768,4 @@
 4970	SKIPPED	Rasmalai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rasmalai/Rasmalai%20E2.mp4
 4971	SKIPPED	Photoshoot Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Photoshoot/Photoshoot%20E1.mp4
 4972	SKIPPED	Photoshoot Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Photoshoot/Photoshoot%20E2.mp4
+4973	SKIPPED	Paglet Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Paglet/Paglet%20E1.mp4
