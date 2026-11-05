@@ -1048,7 +1048,6 @@
 698	UPLOADED	Tan Tripti S2 Episode 3
 699	UPLOADED	Tan Tripti S2 Episode 1
 2889	UPLOADED	Raaz Episode 3
-5306	UPLOADED	Damaadji Lage Raho Episode 5
 700	UPLOADED	Tan Tripti S2 Episode 2
 2890	UPLOADED	Raaz Episode 2
 5307	UPLOADED	Damaadji Lage Raho Episode 3
@@ -4821,3 +4820,4 @@
 1523	UPLOADED	Dil To Baccha Hai Episode 4
 1524	UPLOADED	Kaanta Laga
 5579	SKIPPED	Mr Chourasiya Episode 8	Cannot send requests while disconnected
+5306	UPLOADED	Damaadji Lage Raho Episode 5
