@@ -3524,7 +3524,6 @@
 5114	UPLOADED	Cheese Cake Episode 3
 3905	UPLOADED	Jabran Episode 5 Big Shots
 1305	UPLOADED	Paglet S3 Episode 1
-5000	UPLOADED	Estate Manager Episode 2
 1306	UPLOADED	Stranger Episode 2
 3906	UPLOADED	Jabran Episode 1 Big Shots
 5001	UPLOADED	Estate Manager Episode 1
@@ -4793,3 +4792,4 @@
 4998	SKIPPED	Estate Manager Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4999	SKIPPED	Estate Manager Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3954	UPLOADED	Chatur Naar Episode 4
+5000	SKIPPED	Estate Manager Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
