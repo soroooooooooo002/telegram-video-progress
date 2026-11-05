@@ -530,7 +530,6 @@
 2762	UPLOADED	Langot Episode 3
 2873	SKIPPED	Tadap 2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap%20S2-C1/Tadap%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 2875	SKIPPED	Tadap (Atrangii) Episode 13	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%2013.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-4337	UPLOADED	Size Matters 2 Episode 4
 4343	UPLOADED	Singardaan Episode 4
 4344	UPLOADED	Singardaan Episode 3
 2895	UPLOADED	Sitiyabaaz Episode 3
@@ -4561,3 +4560,4 @@
 4336	SKIPPED	Size Matters 2 Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3927	SKIPPED	Chitthi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E3.mp4
 3928	SKIPPED	Chitthi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E1.mp4
+4337	SKIPPED	Size Matters 2 Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
