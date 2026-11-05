@@ -3136,7 +3136,6 @@
 4122	SKIPPED	Kitab Ka Raaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20%20S01E2%20%28XSeries.IN%29.mp4
 4123	SKIPPED	Kitab Ka Raaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20S01E3%28XSeries.IN%29.mp4
 3914	UPLOADED	Daakhila Episode 5
-4138	SKIPPED	Sarkaaye Lo Khatiya Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4139	SKIPPED	Sarkaaye Lo Khatiya Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4140	SKIPPED	Sarkaaye Lo Khatiya Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4141	SKIPPED	Sarkaaye Lo Khatiya Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4815,3 +4814,4 @@
 5453	SKIPPED	Chup Chup Ke Episode 5	Cannot send requests while disconnected
 5179	UPLOADED	Nayi Padosan Episode 2
 5454	SKIPPED	Chup Chup Ke Episode 3	Cannot send requests while disconnected
+4138	UPLOADED	Sarkaaye Lo Khatiya Episode 1
