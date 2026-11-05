@@ -2913,7 +2913,6 @@
 1070	SKIPPED	4 Sum Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/4%20Sum/4%20Sum%20Episode%201.mp4
 3463	UPLOADED	Bhabhi 123 Episode 2
 1071	UPLOADED	Khel Khel Mein Episode 4
-5065	UPLOADED	Dekhi Andekhi Episode 2
 3464	UPLOADED	Bhabhi 123 Episode 1
 5066	UPLOADED	Dekhi Andekhi Episode 1
 1072	UPLOADED	Khel Khel Mein Episode 3
@@ -4580,3 +4579,4 @@
 1411	UPLOADED	Daal Chawal Episode 3
 4784	SKIPPED	Blue Night Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4785	SKIPPED	Pachpan Main Bachpan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5065	UPLOADED	Dekhi Andekhi Episode 2
