@@ -691,7 +691,6 @@
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1048	SKIPPED	Love Guru Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Wow%20Originals/Love%20Guru/Love%20Guru%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1098	SKIPPED	Pratha Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-4606	SKIPPED	Kirdaar Episode 5	Request was unsuccessful 6 time(s)
 4607	SKIPPED	Kirdaar Episode 4	Request was unsuccessful 6 time(s)
 4608	UPLOADED	Kirdaar Episode 3
 4609	SKIPPED	Kirdaar Episode 2	Request was unsuccessful 6 time(s)
@@ -4573,3 +4572,4 @@
 4603	SKIPPED	Kirdaar Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4604	SKIPPED	Kirdaar Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4605	SKIPPED	Kirdaar Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4606	SKIPPED	Kirdaar Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
