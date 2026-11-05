@@ -585,7 +585,6 @@
 729	UPLOADED	Pyaari Bhabhi Episode 2
 737	UPLOADED	Paurashpur S3 Episode 3
 3330	UPLOADED	Moussami Episode 1
-4459	UPLOADED	Painter Babu Episode 5
 4460	UPLOADED	Painter Babu Episode 4
 4461	UPLOADED	Painter Babu Episode 3
 4462	UPLOADED	Painter Babu Episode 2
@@ -4567,3 +4566,4 @@
 5046	UPLOADED	Devar Ji Episode 5
 4458	SKIPPED	Painter Babu Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1393	UPLOADED	Raju Ban Gaya Gentleman Episode 5
+4459	SKIPPED	Painter Babu Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
