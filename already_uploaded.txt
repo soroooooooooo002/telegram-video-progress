@@ -1172,7 +1172,6 @@
 714	UPLOADED	Sapnon Ki Raani Episode 1
 2941	UPLOADED	Japani Malish Episode 3
 2942	UPLOADED	Japani Malish Episode 2
-5340	UPLOADED	Khiladi Bhaiya Episode 5
 2943	UPLOADED	Japani Malish Episode 1
 5341	UPLOADED	Khiladi Bhaiya Episode 3
 2944	UPLOADED	Bold Is Gold Episode 3
@@ -4812,3 +4811,4 @@
 5160	UPLOADED	Assi Nabbe Poore Sau Episode 4
 4125	UPLOADED	Bade Achhe Lagte Hai Episode 7
 1500	UPLOADED	Payal Episode 3
+5340	SKIPPED	Khiladi Bhaiya Episode 5	Cannot send requests while disconnected
