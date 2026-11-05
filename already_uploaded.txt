@@ -3569,7 +3569,6 @@
 5004	UPLOADED	Dunali Episode 7
 3908	UPLOADED	Jabran Episode 2 Big Shots
 1310	UPLOADED	Daan Episode 1
-3947	SKIPPED	Tala Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5005	UPLOADED	Dunali Episode 6
 3948	SKIPPED	Ghutan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3909	UPLOADED	Jabran Episode 3 Big Shots
@@ -4700,3 +4699,4 @@
 1434	UPLOADED	Chaashni Episode 2
 4903	SKIPPED	Kaam Sukh Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5088	UPLOADED	Corporate Episode 6
+3947	UPLOADED	Tala Episode 1
