@@ -203,7 +203,6 @@
 1695	UPLOADED	Damaad Ji 2 Episode 2
 1475	UPLOADED	Mere Angane Mein Episode 2
 1480	UPLOADED	Utha Le Jaunga Episode 5
-1496	UPLOADED	Payal Episode 5
 1497	UPLOADED	Nurse Episode 5
 1498	UPLOADED	Nurse Episode 6
 1684	UPLOADED	Desi Kisse Na Umra Ki Seema Ho Episode 1
@@ -4809,3 +4808,4 @@
 64	UPLOADED	Colors of Life 2026 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/colors-of-life-2026-sigma-series-malayalam-hot-xxx-video
 4097	UPLOADED	Ghanta Ki Baat Episode 2
 5319	SKIPPED	Gharwali Baharwali Episode 2	Cannot send requests while disconnected
+1496	UPLOADED	Payal Episode 5
