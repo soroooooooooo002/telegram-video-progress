@@ -235,7 +235,6 @@
 1706	UPLOADED	Choli Ke Peeche Kya Hai Episode 1
 1707	UPLOADED	Choli Ke Peeche Kya Hai Episode 2
 1708	UPLOADED	Chachi No 1 Episode 4
-1541	UPLOADED	Tauba Tauba Episode 2
 1709	UPLOADED	Chachi No 1 Episode 3
 1542	UPLOADED	Tapan Episode 3
 1543	SKIPPED	Tapan Episode 4	Failed to upload file part 387.
@@ -4823,3 +4822,4 @@
 4185	UPLOADED	Woodpecker Episode 1
 1540	UPLOADED	Tauba Tauba Episode 1
 5321	UPLOADED	Anokhi Episode 4
+1541	UPLOADED	Tauba Tauba Episode 2
