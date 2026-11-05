@@ -1246,7 +1246,6 @@
 3002	SKIPPED	Mr Pappu Uddas Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/Mr%20Pappu%20uddas/Mr%20Pappu%20uddas%20Episode%201.mp4
 3003	UPLOADED	Miss Doctor Episode 2
 735	UPLOADED	Paurashpur S3 Episode 5
-5457	UPLOADED	Chup Chup Ke Episode 1
 3004	UPLOADED	Miss Doctor Episode 1
 3005	SKIPPED	Maya Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Maya/Maya%20Episode%204.mp4
 3006	SKIPPED	Maya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/IBA%20Movies/Maya/Maya%20Episode%203.mp4
@@ -4815,3 +4814,4 @@
 1508	UPLOADED	Aah Se Aaha Tak Episode 4
 5456	SKIPPED	Chup Chup Ke Episode 2	Cannot send requests while disconnected
 4139	UPLOADED	Sarkaaye Lo Khatiya Episode 3
+5457	SKIPPED	Chup Chup Ke Episode 1	Cannot send requests while disconnected
