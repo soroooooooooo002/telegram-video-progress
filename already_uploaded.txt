@@ -4728,3 +4728,4 @@
 4930	SKIPPED	Rocky Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rocky/Rocky%20E3.mp4
 4931	SKIPPED	Rocky Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rocky/Rocky%20E4.mp4
 4932	SKIPPED	Rocky Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rocky/Rocky%20E2.mp4
+4933	SKIPPED	Rocky Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Rocky/Rocky%20E1.mp4
