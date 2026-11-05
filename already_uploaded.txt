@@ -1425,7 +1425,6 @@
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3238	UPLOADED	Lalach Episode 3
 3239	SKIPPED	Lalach Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lalach/Lalach%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5619	SKIPPED	Rangeen Baatein S2 Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein%20S2/Rangeen%20Baatein%20S2%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5620	SKIPPED	Rangeen Baatein Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5621	SKIPPED	Rangeen Baatein S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein%20S2/Rangeen%20Baatein%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5622	SKIPPED	Rangeen Baatein Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4823,3 +4822,4 @@
 5322	UPLOADED	Anokhi Episode 3
 1542	UPLOADED	Tapan Episode 3
 4187	UPLOADED	Watchman Episode 8
+5619	SKIPPED	Rangeen Baatein S2 Episode 1	Cannot send requests while disconnected
