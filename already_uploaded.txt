@@ -3128,7 +3128,6 @@
 4122	SKIPPED	Kitab Ka Raaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20%20S01E2%20%28XSeries.IN%29.mp4
 4123	SKIPPED	Kitab Ka Raaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Voovi/Kitab%20Ka%20Raaz/Kitab%20Ka%20Raaz%20S01E3%28XSeries.IN%29.mp4
 3914	UPLOADED	Daakhila Episode 5
-4141	SKIPPED	Sarkaaye Lo Khatiya Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4142	SKIPPED	House Arrest Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%204.mp4
 4143	SKIPPED	House Arrest Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%205.mp4
 4144	SKIPPED	Tere Mere Beech Mein Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4816,3 +4815,4 @@
 5181	UPLOADED	Blue Night Episode 3
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
+4141	UPLOADED	Sarkaaye Lo Khatiya Episode 4
