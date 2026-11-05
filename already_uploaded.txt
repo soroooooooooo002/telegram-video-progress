@@ -1178,7 +1178,6 @@
 2947	UPLOADED	Aamras Episode 2
 5353	SKIPPED	Ranjish Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Ranjish/Ranjish%20E6.mp4
 5366	SKIPPED	Buddha Pyaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E3.mp4
-5369	SKIPPED	Buddha Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E2.mp4
 5370	SKIPPED	Bima Babu Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E5.mp4
 5371	SKIPPED	Buddha Pyaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E1.mp4
 5372	SKIPPED	Bima Babu Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Bima%20Babu/Bima%20Babu%20E6.mp4
@@ -4814,3 +4813,4 @@
 4128	UPLOADED	Daal Chawal Episode 4
 5367	SKIPPED	Buddha Pyaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E4.mp4
 5368	SKIPPED	Buddha Pyaar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E5.mp4
+5369	SKIPPED	Buddha Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E2.mp4
