@@ -4677,3 +4677,4 @@
 1422	SKIPPED	Ankhiyon Se Goli Maare Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%203.mp4
 4881	SKIPPED	Chhupa Rustam Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5072	UPLOADED	De Dana Dan Episode 1
+4882	SKIPPED	Chhupa Rustam Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
