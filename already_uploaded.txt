@@ -3270,7 +3270,6 @@
 4007	SKIPPED	Dream Girl Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 1316	SKIPPED	Jawaani Jaaneman Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%203.mp4
 1317	SKIPPED	Jawaani Jaaneman Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%201.mp4
-4069	SKIPPED	Secretory Ki Chudai	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4070	SKIPPED	Latest Jinnie Jaaz Dogy Style Sex Video	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4071	SKIPPED	Jinnie Jaaz Ki Mast Chudai	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4072	SKIPPED	Suhagraat Indian XXX by Jinnie Jaaz	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Kaanta%20Laga/Kaanta%20Laga%20Episode%207.mp4
@@ -4804,3 +4803,4 @@
 1487	UPLOADED	Utha Le Jaunga Episode 6
 5304	SKIPPED	Ladla Dever Episode 1	Cannot send requests while disconnected
 5144	UPLOADED	Bidaai 2 Episode 9
+4069	UPLOADED	Secretory Ki Chudai
