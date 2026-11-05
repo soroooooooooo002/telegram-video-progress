@@ -584,7 +584,6 @@
 719	UPLOADED	Saiyaan Farebi Episode 2
 3267	UPLOADED	Dagabaaz Episode 3
 729	UPLOADED	Pyaari Bhabhi Episode 2
-4437	UPLOADED	Patra Petika Episode 3
 737	UPLOADED	Paurashpur S3 Episode 3
 4438	UPLOADED	Patra Petika Episode 2
 4439	UPLOADED	Paro Episode 7
@@ -4564,3 +4563,4 @@
 4434	SKIPPED	Possessed Love Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4435	SKIPPED	Patra Petika Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4436	SKIPPED	Patra Petika Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4437	SKIPPED	Patra Petika Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
