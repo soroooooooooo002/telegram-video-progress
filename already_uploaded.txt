@@ -1225,7 +1225,6 @@
 2985	UPLOADED	Extra Class Episode 2
 728	UPLOADED	Pyar Ka Bazaar Episode 1
 2986	UPLOADED	Extra Class Episode 1
-5453	UPLOADED	Chup Chup Ke Episode 5
 2987	UPLOADED	Driver Episode 1
 2988	UPLOADED	Bhabhi Ka Pyaar Episode 3
 2989	UPLOADED	Bhabhi Ka Pyaar Episode 2
@@ -4815,3 +4814,4 @@
 4137	SKIPPED	House Arrest Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%207.mp4
 5178	UPLOADED	Love Sucks
 1507	UPLOADED	Nurse Episode 3
+5453	SKIPPED	Chup Chup Ke Episode 5	Cannot send requests while disconnected
