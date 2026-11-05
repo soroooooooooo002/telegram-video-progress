@@ -2973,7 +2973,6 @@
 4151	SKIPPED	Lag Ja Gale Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3915	UPLOADED	Daakhila Episode 4
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-4173	SKIPPED	Wrong Turn Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 14	UPLOADED	Stepfather and Stepson 2026 Hindi Uncut XXX Video	https://bindasmood.com/stepfather-and-stepson-2026-hindi-uncut-xxx-video
 3916	UPLOADED	Couple Party Episode 1
 4174	SKIPPED	Wrong Turn Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4821,3 +4820,4 @@
 1530	SKIPPED	Dil To Baccha Hai Episode 1	Failed to upload file part 267.
 5605	SKIPPED	Crazy	Cannot send requests while disconnected
 5314	UPLOADED	Gharwali Baharwali Episode 7
+4173	UPLOADED	Wrong Turn Episode 5
