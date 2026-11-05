@@ -1049,7 +1049,6 @@
 2889	UPLOADED	Raaz Episode 3
 700	UPLOADED	Tan Tripti S2 Episode 2
 2890	UPLOADED	Raaz Episode 2
-5307	UPLOADED	Damaadji Lage Raho Episode 3
 2891	UPLOADED	Raaz Episode 1
 701	UPLOADED	Tan Tripti S1 Episode 3
 2892	UPLOADED	Rangbaaz Episode 3
@@ -4821,3 +4820,4 @@
 1525	UPLOADED	Dil To Baccha Hai Episode 6
 4164	UPLOADED	Taras Episode 5
 5582	SKIPPED	Andha Ishq Episode 1	Cannot send requests while disconnected
+5307	UPLOADED	Damaadji Lage Raho Episode 3
