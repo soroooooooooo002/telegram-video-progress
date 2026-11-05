@@ -1440,7 +1440,6 @@
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3238	UPLOADED	Lalach Episode 3
 3239	SKIPPED	Lalach Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lalach/Lalach%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5597	SKIPPED	Pizza	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feelit/Single/Pizza.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5598	SKIPPED	Meri Pyari Sonu	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feelit/Single/Meri%20Pyari%20Sonu.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5599	SKIPPED	Exchange	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 5600	SKIPPED	Kamini 803	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Feelit/Single/Kamini%20803.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4821,3 +4820,4 @@
 5595	SKIPPED	Waiter Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Waiter/Waiter%20Episode%202.mp4
 5596	SKIPPED	Ayesha Bath	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Filmy%20Murga/Ayesha%20Bath.mp4
 5308	UPLOADED	Damaadji Lage Raho Episode 2
+5597	SKIPPED	Pizza	Cannot send requests while disconnected
