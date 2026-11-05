@@ -3074,7 +3074,6 @@
 915	UPLOADED	Dhoodh Wali Episode 2
 3430	UPLOADED	Ek Phool Teen Mali Episode 1
 5044	UPLOADED	Devar Ji Episode 8
-5045	UPLOADED	Devar Ji Episode 7
 916	UPLOADED	Dhoodh Wali Episode 1
 3431	UPLOADED	Ek Phool Teen Mali Episode 2
 5046	UPLOADED	Devar Ji Episode 5
@@ -4564,3 +4563,4 @@
 4435	SKIPPED	Patra Petika Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4436	SKIPPED	Patra Petika Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4437	SKIPPED	Patra Petika Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5045	UPLOADED	Devar Ji Episode 7
