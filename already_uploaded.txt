@@ -4586,3 +4586,4 @@
 4789	SKIPPED	Pehla Ishq Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Phela%20Ishq/Pehla%20Ishq%20Episode%201.mp4
 4790	SKIPPED	Mismatch Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Mismatch/Mismatch%20Episode%201.mp4
 4791	SKIPPED	Mismatch Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Mismatch/Mismatch%20Episode%202.mp4
+4792	SKIPPED	Jabariya Dulhan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Jabariya%20Dulhan/Jabariya%20Dulhan%20Episode%203.mp4
