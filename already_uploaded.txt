@@ -2962,7 +2962,6 @@
 3492	SKIPPED	Desi Doctor Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3493	SKIPPED	Desi Doctor Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3494	SKIPPED	Desi Doctor Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Makhan/Desi%20Doctor/Desi%20Doctor%20Eppisode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5081	UPLOADED	D Code Episode 1
 1111	UPLOADED	Rangeen Tailor Episode 4
 1112	SKIPPED	Rangeen Tailor Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1113	SKIPPED	Rangeen Tailor Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kangan/Rangeen%20Tailor/Rangeen%20Tailor%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4688,3 +4687,4 @@
 4892	SKIPPED	Manchala Aashiq Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3944	UPLOADED	Chakori Episode 1
 1430	UPLOADED	Kundi Mat Khadkao Raja Episode 2
+5081	UPLOADED	D Code Episode 1
