@@ -2940,7 +2940,6 @@
 1088	UPLOADED	Pratha Episode 6
 1089	SKIPPED	Pratha Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1090	SKIPPED	Pratha Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5078	UPLOADED	Dance Bar Episode 1
 5079	UPLOADED	D Code Episode 3
 1091	UPLOADED	Bhootpur Episode 4
 1092	SKIPPED	Bhootpur Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Ratri/Bhootpur/Bhootpur%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4685,3 +4684,4 @@
 4889	SKIPPED	Manchala Aashiq Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1427	UPLOADED	Chaashni Episode 6
 26	UPLOADED	Young Girl 2026 Hindi Uncut XXX Video	https://bindasmood.com/young-girl-2026-hindi-uncut-xxx-video
+5078	UPLOADED	Dance Bar Episode 1
