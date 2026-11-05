@@ -4332,7 +4332,6 @@
 22	UPLOADED	Garam Raat BTS 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/garam-raat-bts-2026-moodx-hindi-xxx-web-series-episode-1
 4716	SKIPPED	Jabran Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4717	SKIPPED	Jaal Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-5061	UPLOADED	Dekhi Andekhi Episode 7
 4718	SKIPPED	Jaal Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4719	SKIPPED	Jaal Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4720	SKIPPED	Jaal Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4793,3 +4792,4 @@
 5059	SKIPPED	Desi Kisse Jaanch Padtaal Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5107	UPLOADED	Chehraa Episode 4
 5060	SKIPPED	Dekhi Andekhi Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5061	SKIPPED	Dekhi Andekhi Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
