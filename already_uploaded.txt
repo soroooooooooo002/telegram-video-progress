@@ -2918,7 +2918,6 @@
 5069	UPLOADED	De Dana Dan Episode 4
 3466	UPLOADED	Bali Umar Episode 4
 1077	UPLOADED	Bekaboo S2 Episode 2
-5070	UPLOADED	De Dana Dan Episode 3
 1078	UPLOADED	Bekaboo S2 Episode 1
 1079	SKIPPED	Dream Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dream/Dream%20Episode%201.mp4
 1080	SKIPPED	Dream Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dream/Dream%20Episode%202.mp4
@@ -4669,3 +4668,4 @@
 1417	SKIPPED	Ankhiyon Se Goli Maare Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Ankhiyon%20Se%20Goli%20Maare-D2/Ankhiyon%20Se%20Goli%20Maare%20Episode%207.mp4
 4873	SKIPPED	Sandook Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4874	SKIPPED	Sandook Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5070	UPLOADED	De Dana Dan Episode 3
