@@ -4698,3 +4698,4 @@
 4899	SKIPPED	Baba Ki Ashiqui	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mastram/Baba%20Ki%20Ashiqui.mp4
 4900	SKIPPED	Plan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Plan%20%282023%29/Plan%20S01E02%20%28XSeries.IN%29.mp4
 4901	SKIPPED	Plan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Plan%20%282023%29/Plan%20S01E03%20%28XSeries.IN%29.mp4
+4902	SKIPPED	Plan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Plan%20%282023%29/Plan%20S01E01%20%28XSeries.IN%29.mp4
