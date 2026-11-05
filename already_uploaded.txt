@@ -1206,7 +1206,6 @@
 2971	UPLOADED	Julie I Love You Episode 3
 722	UPLOADED	Raseeli Raatein Episode 3
 2972	UPLOADED	Julie I Love You Episode 1
-5434	UPLOADED	Tapish Episode 3
 723	UPLOADED	Raseeli Raatein Episode 2
 2973	UPLOADED	Julie I Love You Episode 2
 2974	SKIPPED	Chal Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%203.mp4
@@ -4815,3 +4814,4 @@
 5433	SKIPPED	The Unmarried Women Episode 1	Cannot send requests while disconnected
 1505	UPLOADED	Nurse Episode 1
 4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
+5434	SKIPPED	Tapish Episode 3	Cannot send requests while disconnected
