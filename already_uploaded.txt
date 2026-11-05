@@ -1122,7 +1122,6 @@
 4095	UPLOADED	Goa Trip Episode 2
 2888	UPLOADED	Munni Badnaam Hui Episode 1
 698	UPLOADED	Tan Tripti S2 Episode 3
-5305	UPLOADED	Damaadji Lage Raho Episode 6
 699	UPLOADED	Tan Tripti S2 Episode 1
 4097	UPLOADED	Ghanta Ki Baat Episode 2
 2889	UPLOADED	Raaz Episode 3
@@ -4804,3 +4803,4 @@
 5304	SKIPPED	Ladla Dever Episode 1	Cannot send requests while disconnected
 5144	UPLOADED	Bidaai 2 Episode 9
 4069	UPLOADED	Secretory Ki Chudai
+5305	SKIPPED	Damaadji Lage Raho Episode 6	Cannot send requests while disconnected
