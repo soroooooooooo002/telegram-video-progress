@@ -2625,7 +2625,6 @@
 5682	SKIPPED	Overdose	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/CinemaDosti/Overdose.mp4
 813	UPLOADED	Do Ankhein Chaar Haath Episode 6
 3341	UPLOADED	Saart Episode 2
-4276	UPLOADED	Teekhi Chutney Episode 2
 5683	UPLOADED	Napunsak Pati Episode 5
 814	UPLOADED	Do Ankhein Chaar Haath Episode 5
 3342	UPLOADED	Saart Episode 4
@@ -4560,3 +4559,4 @@
 4273	SKIPPED	Tere Jaisa Yaar Kaha Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4274	SKIPPED	Teekhi Chutney Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4275	SKIPPED	Teekhi Chutney Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4276	SKIPPED	Teekhi Chutney Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
