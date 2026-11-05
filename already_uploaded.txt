@@ -2622,7 +2622,6 @@
 3419	UPLOADED	Khanjarpur Episode 2
 896	UPLOADED	Devangana Episode 1
 3420	UPLOADED	Khanjarpur Episode 3
-5032	UPLOADED	Dil Sambhal Ja Zara Episode 6
 897	UPLOADED	Devangana Episode 3
 3421	UPLOADED	Khanjarpur Episode 4
 5033	UPLOADED	Dil Sambhal Ja Zara Episode 5
@@ -4793,3 +4792,4 @@
 5029	SKIPPED	Dishkiyaoon Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5030	SKIPPED	Dishkiyaoon Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5031	SKIPPED	Dishkiyaoon Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+5032	SKIPPED	Dil Sambhal Ja Zara Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
