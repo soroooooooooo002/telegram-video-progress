@@ -196,7 +196,6 @@
 3791	UPLOADED	Manchale Dost Episode 1
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1397	UPLOADED	Tadka Episode 2
-1407	UPLOADED	Shatir Episode 5
 1408	UPLOADED	Shatir Episode 6
 1409	UPLOADED	Shatir Episode 7
 1410	UPLOADED	Daal Chawal Episode 1
@@ -4578,3 +4577,4 @@
 5062	UPLOADED	Dekhi Andekhi Episode 4
 4753	SKIPPED	Halala Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1406	UPLOADED	Gore Gore Gaal Episode 4
+1407	UPLOADED	Shatir Episode 5
