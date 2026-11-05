@@ -586,7 +586,6 @@
 737	UPLOADED	Paurashpur S3 Episode 3
 3330	UPLOADED	Moussami Episode 1
 3340	UPLOADED	Saart Episode 3
-4483	UPLOADED	Nancy Episode 2
 4484	SKIPPED	Nancy Episode 1	Request was unsuccessful 6 time(s)
 4485	SKIPPED	Namkeen Episode 8	Request was unsuccessful 6 time(s)
 4486	SKIPPED	Namkeen Episode 7	Request was unsuccessful 6 time(s)
@@ -4567,3 +4566,4 @@
 4480	SKIPPED	Nau Do Gyarah Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4481	SKIPPED	Nancy Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4482	SKIPPED	Nancy Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4483	SKIPPED	Nancy Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
