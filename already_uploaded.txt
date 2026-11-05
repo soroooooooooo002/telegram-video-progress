@@ -194,7 +194,6 @@
 3790	UPLOADED	Manchale Dost Episode 2
 1387	UPLOADED	Tu Dekh Meri Photo Episode 3
 3791	UPLOADED	Manchale Dost Episode 1
-1389	UPLOADED	Tadka Episode 6
 1390	UPLOADED	Tadka Episode 5
 1391	UPLOADED	Tu Dekh Meri Photo Episode 4
 1392	UPLOADED	Tadka Episode 7
@@ -4561,3 +4560,4 @@
 4349	SKIPPED	Shahad Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4350	SKIPPED	Shahad Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4351	SKIPPED	Shahad Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+1389	UPLOADED	Tadka Episode 6
