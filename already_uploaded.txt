@@ -4739,3 +4739,4 @@
 4941	SKIPPED	What The F Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FWhat%20The%20F%21%21%21%2FWhat%20The%20F%21%21%21%20E1.mp4
 4942	SKIPPED	What The F Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FWhat%20The%20F%21%21%21%2FWhat%20The%20F%21%21%21%20E2.mp4
 4943	SKIPPED	Vasooli Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FVasooli%2FVasooli%20E3.mp4
+4944	SKIPPED	Vasooli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku%2FVasooli%2FVasooli%20E1.mp4
