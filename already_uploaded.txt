@@ -4580,7 +4580,6 @@
 5126	SKIPPED	Call Center Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3964	UPLOADED	Rivaaz Episode 6
 1457	UPLOADED	Ansh Episode 2
-5132	SKIPPED	Call Center Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5133	SKIPPED	Call Center Episode 10	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5134	SKIPPED	Call Center Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5135	SKIPPED	Bribe Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4799,3 +4798,4 @@
 5297	SKIPPED	Sasur Ki Dulhan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 55	UPLOADED	Wife And Elder Stepsister 2026 Hindi Uncut XXX Video	https://bindasmood.com/wife-and-elder-stepsister-2026-hindi-uncut-xxx-video
 1479	UPLOADED	Mere Angane Mein Episode 4
+5132	UPLOADED	Call Center Episode 2
