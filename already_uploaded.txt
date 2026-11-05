@@ -4719,3 +4719,4 @@
 4921	SKIPPED	Mask Man	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4922	SKIPPED	Dating in Goa	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Lava/Dating%20In%20Goa.mp4
 4923	SKIPPED	Maya Ki Pathshala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kundi/Maya%20Ki%20Patshala/Maya%20Ki%20Patshala%20E1.mp4
+4924	SKIPPED	Maya Ki Pathshala Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kundi/Maya%20Ki%20Patshala/Maya%20Ki%20Patshala%20E2.mp4
