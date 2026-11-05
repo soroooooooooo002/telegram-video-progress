@@ -2602,7 +2602,6 @@
 811	UPLOADED	Rangeela Episode 1
 5662	UPLOADED	Fareb
 3338	UPLOADED	Sachchi Saheli Episode 4
-4274	UPLOADED	Teekhi Chutney Episode 4
 5663	UPLOADED	Chattri
 812	UPLOADED	Do Ankhein Chaar Haath Episode 7
 3339	UPLOADED	Saart Episode 1
@@ -4560,3 +4559,4 @@
 4271	SKIPPED	Tere Jaisa Yaar Kaha Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4272	SKIPPED	Tere Jaisa Yaar Kaha Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4273	SKIPPED	Tere Jaisa Yaar Kaha Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4274	SKIPPED	Teekhi Chutney Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
