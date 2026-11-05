@@ -1212,7 +1212,6 @@
 2975	SKIPPED	Chal Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%202.mp4
 2976	SKIPPED	Chal Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chal/Chal%20Eppisode%201.mp4
 2977	SKIPPED	Killer Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rio%20Plus/killer/killer%20Episode%201.mp4
-5435	UPLOADED	Tapish Episode 2
 724	UPLOADED	Raseeli Raatein Episode 1
 2978	UPLOADED	Bhabhi Jii Aaye Hain Episode 4
 2979	UPLOADED	Bhabhi Jii Aaye Hain Episode 3
@@ -4815,3 +4814,4 @@
 1505	UPLOADED	Nurse Episode 1
 4133	UPLOADED	Sarkaaye Lo Khatiya Episode 7
 5434	SKIPPED	Tapish Episode 3	Cannot send requests while disconnected
+5435	SKIPPED	Tapish Episode 2	Cannot send requests while disconnected
