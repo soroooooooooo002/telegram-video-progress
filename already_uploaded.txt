@@ -2975,7 +2975,6 @@
 4151	SKIPPED	Lag Ja Gale Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3915	UPLOADED	Daakhila Episode 4
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-4169	SKIPPED	Taras Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4170	SKIPPED	Zaroorat 2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%203.mp4
 4171	SKIPPED	Zaroorat 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%202.mp4
 4172	SKIPPED	Zaroorat 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%201.mp4
@@ -4821,3 +4820,4 @@
 5603	SKIPPED	Girlfriend Exchange	Cannot send requests while disconnected
 5604	SKIPPED	Divorce	Cannot send requests while disconnected
 1529	UPLOADED	Ek Baar Aur Episode 6
+4169	UPLOADED	Taras Episode 1
