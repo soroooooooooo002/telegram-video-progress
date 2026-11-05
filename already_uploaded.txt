@@ -704,7 +704,6 @@
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
 1209	UPLOADED	Utha Patak S2 Episode 4
 1210	UPLOADED	Utha Patak S2 Episode 1
-4665	UPLOADED	Kasak Episode 9
 4666	UPLOADED	Kasak Episode 8
 4667	UPLOADED	Kasak Episode 7
 4668	UPLOADED	Kasak Episode 6
@@ -4575,3 +4574,4 @@
 5057	UPLOADED	Desi Kisse Jaanch Padtaal Episode 3
 1402	UPLOADED	Raju Ban Gaya Gentleman Episode 3
 1403	UPLOADED	Raju Ban Gaya Gentleman Episode 4
+4665	SKIPPED	Kasak Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
