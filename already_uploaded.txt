@@ -212,7 +212,6 @@
 1688	UPLOADED	Desi Kisse Khud Khushi Episode 3
 1503	UPLOADED	Payal Episode 7
 1689	UPLOADED	Desi Kisse Khud Khushi Episode 1
-1505	UPLOADED	Nurse Episode 1
 1690	UPLOADED	Damaad Ji Episode 2
 1506	UPLOADED	Nurse Episode 4
 1691	UPLOADED	Damaad Ji Episode 1
@@ -4815,3 +4814,4 @@
 5166	UPLOADED	Ashuddhi Episode 2
 70	UPLOADED	Laundiyabaaz 2026 Hindi Uncut XXX Video	https://bindasmood.com/laundiyabaaz-2026-hindi-uncut-xxx-video
 5433	SKIPPED	The Unmarried Women Episode 1	Cannot send requests while disconnected
+1505	UPLOADED	Nurse Episode 1
