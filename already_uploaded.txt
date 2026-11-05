@@ -3016,7 +3016,6 @@
 1171	SKIPPED	Rangeen Kahaniya Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1172	SKIPPED	Rangeen Kahaniya Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Rangeen%20Kahaniya/Rangeen%20Kahaniya%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1175	SKIPPED	Pyaar Idhar Udhar Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Pyar%20Idhar%20Udhar/Pyar%20Idhar%20Udhar%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-29	SKIPPED	URL item 29	https://bindasmood.com/do-dilwala-delivery-boy-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/do-dilwala-delivery-boy-2026-hindi-uncut-xxx-video
 30	SKIPPED	URL item 30	https://bindasmood.com/second-marriage-proposal-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/second-marriage-proposal-2026-hindi-uncut-xxx-video
 31	SKIPPED	URL item 31	https://bindasmood.com/huge-boobs-sister-fucked-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/huge-boobs-sister-fucked-2026-niksindian-uncut-xxx-video
 32	SKIPPED	URL item 32	https://bindasmood.com/teacher-and-student-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/teacher-and-student-2026-hindi-uncut-xxx-video
@@ -4693,3 +4692,4 @@
 4895	SKIPPED	Mirchi Sukh Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4896	SKIPPED	Rangeela Buddha	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mastram/Rangeela%20Buddha.mp4
 1432	UPLOADED	Kundi Mat Khadkao Raja Episode 4
+29	UPLOADED	Do Dilwala Delivery Boy 2026 Hindi Uncut XXX Video	https://bindasmood.com/do-dilwala-delivery-boy-2026-hindi-uncut-xxx-video
