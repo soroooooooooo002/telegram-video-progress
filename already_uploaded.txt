@@ -4592,3 +4592,4 @@
 4795	SKIPPED	Jabariya Dulhan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Jabariya%20Dulhan/Jabariya%20Dulhan%20Episode%201.mp4
 4796	SKIPPED	I Spoiled Myself Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/I%20Spoiled%20Myself/I%20Spoiled%20Myself%20%20E1.mp4
 4797	SKIPPED	Gaflat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Gaflat/Gaflat%20E2.mp4
+4798	SKIPPED	Gaflat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Ratri/Gaflat/Gaflat%20E1.mp4
