@@ -1130,7 +1130,6 @@
 708	UPLOADED	Talab Episode 1
 2902	UPLOADED	Chausar Episode 5
 709	UPLOADED	Talab Episode 2
-5320	UPLOADED	Gharwali Baharwali Episode 1
 2903	UPLOADED	Chausar Episode 4
 2904	UPLOADED	Sarpanch Episode 3
 2905	UPLOADED	Sarpanch Episode 2
@@ -4810,3 +4809,4 @@
 1496	UPLOADED	Payal Episode 5
 5154	UPLOADED	Auction Episode 2
 65	UPLOADED	Waitress 2026 Hindi Uncut XXX Video	https://bindasmood.com/waitress-2026-hindi-uncut-xxx-video
+5320	SKIPPED	Gharwali Baharwali Episode 1	Cannot send requests while disconnected
