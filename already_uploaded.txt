@@ -3018,7 +3018,6 @@
 4151	SKIPPED	Lag Ja Gale Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3915	UPLOADED	Daakhila Episode 4
 4155	SKIPPED	Balam Pichkari Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-4160	SKIPPED	Balam Pichkari Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4161	SKIPPED	Balam Pichkari Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4162	SKIPPED	Jinnie Jaaz XXX Suhagrat ki video | Desi Suhagrat	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4163	SKIPPED	Ek Baar Aur Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4820,3 +4819,4 @@
 5569	SKIPPED	Makkhan Doodhwala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Makhan%20Doodhwala/Makhan%20Doodhwala%20E1.mp4
 5570	SKIPPED	Madam Jee Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E2.mp4
 5571	SKIPPED	Madam Jee Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E1.mp4
+4160	UPLOADED	Balam Pichkari Episode 6
