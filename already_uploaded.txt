@@ -528,7 +528,6 @@
 3383	UPLOADED	Dr Lily Episode 2
 4539	SKIPPED	Machhli Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Machhli%20/Machhli%20Episode%203.mp4
 3391	UPLOADED	De De Pyar De Episode 6
-5174	SKIPPED	Gehra Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%201.mp4
 5176	SKIPPED	Tuition Teacher Episode 2 SUR Movies	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Sur%20Movies/Tuition%20Teacher%20%282023%29/Tuation%20Teacher%20S01E02%20%28XSeries.IN%29.mp4
 825	UPLOADED	Feelings Episode 1
 3396	UPLOADED	Atithi Kuch Jane Anjane Se Episode 2
@@ -4794,3 +4793,4 @@
 5171	SKIPPED	Madam Ji Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%201.mp4
 5172	SKIPPED	Madam Ji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Madam%20Ji/Madam%20Ji%20Episode%202.mp4
 5173	SKIPPED	Gehra Rishta Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%202.mp4
+5174	SKIPPED	Gehra Rishta Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Tadka%20Prime/Gehra%20Rishta/Gehra%20Rishta%20Episode%201.mp4
