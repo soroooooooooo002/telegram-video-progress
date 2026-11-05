@@ -2644,7 +2644,6 @@
 912	UPLOADED	Jawani Ka Junoon Episode 1
 913	SKIPPED	Garam Ketli Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Garam%20Ketli/Garam%20Ketli%20Episode%201.mp4
 3428	UPLOADED	Giddh Bhoj Episode 2
-5041	UPLOADED	Devil Episode 3
 5042	UPLOADED	Devil Episode 2
 914	UPLOADED	Dhoodh Wali Episode 3
 3429	UPLOADED	Giddh Bhoj Episode 3
@@ -4793,3 +4792,4 @@
 5039	SKIPPED	Devil Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5040	SKIPPED	Devil Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5105	UPLOADED	Chehraa Episode 6
+5041	SKIPPED	Devil Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
