@@ -3280,7 +3280,6 @@
 4007	SKIPPED	Dream Girl Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 1316	SKIPPED	Jawaani Jaaneman Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%203.mp4
 1317	SKIPPED	Jawaani Jaaneman Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%201.mp4
-4033	SKIPPED	Mishti Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4034	SKIPPED	Rain Basera Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4035	SKIPPED	Rain Basera Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
 4036	SKIPPED	Rain Basera Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveFilePartRequest)
@@ -4799,3 +4798,4 @@
 4030	UPLOADED	Mishti Episode 3
 4031	UPLOADED	Mishti Episode 4
 4032	UPLOADED	Mishti Episode 5
+4033	UPLOADED	Mishti Episode 6
