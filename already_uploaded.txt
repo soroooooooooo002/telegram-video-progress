@@ -694,7 +694,6 @@
 1149	SKIPPED	Casting Couch Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Casting%20Couch/Casting%20Couch%20Episode%204.mp4
 1150	SKIPPED	Darji Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Gold/Darji/Darji%20Episode%202.mp4
 1163	UPLOADED	X Class Episode 2
-4626	UPLOADED	Khidki Episode 1
 4627	UPLOADED	Khatak Episode 4
 4628	UPLOADED	Khatak Episode 3
 1169	UPLOADED	Rangeen Kahaniya Episode 2
@@ -4573,3 +4572,4 @@
 4623	SKIPPED	Khidki Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4624	SKIPPED	Khidki Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4625	SKIPPED	Khidki Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4626	SKIPPED	Khidki Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
