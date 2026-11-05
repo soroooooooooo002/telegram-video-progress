@@ -1430,7 +1430,6 @@
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3238	UPLOADED	Lalach Episode 3
 3239	SKIPPED	Lalach Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Digi%20Movieplex/Lalach/Lalach%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5613	SKIPPED	Shadyantra Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra/Shadyantra%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5614	SKIPPED	Sambandh Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Sambandh/Sambandh%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5615	SKIPPED	Shadyantra Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Shadyantra/Shadyantra%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5616	SKIPPED	Sambandh Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Sambandh/Sambandh%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4823,3 +4822,4 @@
 2	UPLOADED	Fuck During Tattoo Making 2026 Hindi Uncut XXX Video	https://bindasmood.com/fuck-during-tattoo-making-2026-hindi-uncut-xxx-video	
 5319	UPLOADED	Gharwali Baharwali Episode 2
 5612	SKIPPED	Shadyantra S2 Episode 1	Cannot send requests while disconnected
+5613	SKIPPED	Shadyantra Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Shadyantra/Shadyantra%20Episode%201.mp4
