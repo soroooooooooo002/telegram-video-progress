@@ -2956,7 +2956,6 @@
 5933	SKIPPED	Triangle Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E4.mp4
 5934	SKIPPED	Chatkara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E1.mp4
 3384	UPLOADED	Dr Lily Episode 3
-4346	UPLOADED	Singardaan Episode 1
 4347	SKIPPED	Shor Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Shor%20/Shor%20Episode%201.mp4
 864	UPLOADED	Khilona Feel Episode 1
 5935	UPLOADED	Bawarchi Episode 5
@@ -4561,3 +4560,4 @@
 4344	SKIPPED	Singardaan Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 18	UPLOADED	Boss Ka Interview 2026 Hindi Uncut XXX Video	https://bindasmood.com/boss-ka-interview-2026-hindi-uncut-xxx-video
 4345	SKIPPED	Singardaan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4346	SKIPPED	Singardaan Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
