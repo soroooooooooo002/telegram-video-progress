@@ -720,7 +720,6 @@
 1230	UPLOADED	Namkeen Kisse Episode 4
 1231	UPLOADED	Namkeen Kisse Episode 1
 1233	UPLOADED	Mera Pyaar Pan Nahi Episode 4
-4744	UPLOADED	Haveli Episode 5
 4745	UPLOADED	Haveli Episode 6
 4746	UPLOADED	Haveli Episode 4
 1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
@@ -4578,3 +4577,4 @@
 4741	SKIPPED	Hotspot Charr Charr Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Hotspot/Hotspot%20Charr%20Charr%20Episode%201.mp4
 4742	SKIPPED	Haveli Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4743	SKIPPED	Haveli Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4744	SKIPPED	Haveli Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
