@@ -4575,3 +4575,4 @@
 4674	SKIPPED	Kasak Episode 10	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5059	UPLOADED	Desi Kisse Jaanch Padtaal Episode 1
 4675	SKIPPED	Kasak Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
+4676	SKIPPED	Kaneez Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
