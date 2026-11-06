@@ -2367,7 +2367,6 @@
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3511	SKIPPED	Toy Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3512	SKIPPED	Bachelor Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-114	SKIPPED	URL item 114	https://bindasmood.com/gangster-bts-2026-moodx-hindi-xxx-web-series-episode-1	ERROR: Unsupported URL: https://bindasmood.com/gangster-bts-2026-moodx-hindi-xxx-web-series-episode-1
 115	SKIPPED	URL item 115	https://bindasmood.com/big-boobs-desi-maid-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/big-boobs-desi-maid-2026-niksindian-uncut-xxx-video
 116	SKIPPED	URL item 116	https://bindasmood.com/petite-teenage-sis-fucked-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/petite-teenage-sis-fucked-2026-niksindian-uncut-xxx-video
 117	SKIPPED	URL item 117	https://bindasmood.com/adla-badli-2026-atrangii-hindi-xxx-full-web-series	ERROR: Unsupported URL: https://bindasmood.com/adla-badli-2026-atrangii-hindi-xxx-full-web-series
@@ -4834,3 +4833,4 @@
 113	UPLOADED	Vaishnavi Swimming Pool Romance 2026 Hindi Uncut XXX Video	https://bindasmood.com/vaishnavi-swimming-pool-romance-2026-hindi-uncut-xxx-video	
 1018	UPLOADED	Hide and Seek 2025 Sigma Series Malayalam XXX Web Series Ep 1	https://bindasmood.com/hide-and-seek-2025-sigma-series-malayalam-xxx-web-series-ep-1	
 1019	UPLOADED	Vezhcha 2025 Ibamovies Malayalam XXX Web Series Episode 4	https://bindasmood.com/vezhcha-2025-ibamovies-malayalam-xxx-web-series-episode-4	
+114	UPLOADED	Gangster BTS 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/gangster-bts-2026-moodx-hindi-xxx-web-series-episode-1	
