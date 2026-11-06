@@ -4199,7 +4199,6 @@
 5335	SKIPPED	Sindoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Sindoor.mp4
 5336	SKIPPED	Luka Chuppi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalsa%20TV/Luka%20Chuppi.mp4
 5158	UPLOADED	Assi Nabbe Poore Sau Episode 7
-67	UPLOADED	Pati Patni Aur Saali 2026 Hindi Uncut XXX Video	https://bindasmood.com/pati-patni-aur-saali-2026-hindi-uncut-xxx-video
 4124	UPLOADED	Bade Achhe Lagte Hai Episode 5
 5159	UPLOADED	Assi Nabbe Poore Sau Episode 5
 5338	SKIPPED	Khiladi Bhaiya Episode 2	Cannot send requests while disconnected
@@ -4823,3 +4822,4 @@
 64	UPLOADED	Colors of Life 2026 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/colors-of-life-2026-sigma-series-malayalam-hot-xxx-video	
 65	UPLOADED	Waitress 2026 Hindi Uncut XXX Video	https://bindasmood.com/waitress-2026-hindi-uncut-xxx-video	
 66	UPLOADED	Lovely Sanjana 2026 Hindi Uncut XXX Video	https://bindasmood.com/lovely-sanjana-2026-hindi-uncut-xxx-video	
+67	UPLOADED	Pati Patni Aur Saali 2026 Hindi Uncut XXX Video	https://bindasmood.com/pati-patni-aur-saali-2026-hindi-uncut-xxx-video	
