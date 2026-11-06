@@ -2356,7 +2356,6 @@
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3511	SKIPPED	Toy Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3512	SKIPPED	Bachelor Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-121	SKIPPED	URL item 121	https://bindasmood.com/girlfriend-and-sexy-friend-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/girlfriend-and-sexy-friend-2026-hindi-uncut-xxx-video
 122	SKIPPED	URL item 122	https://bindasmood.com/hawas-2026-hotfm-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/hawas-2026-hotfm-hindi-uncut-xxx-video
 123	SKIPPED	URL item 123	https://bindasmood.com/bhabhi-ki-pyas-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/bhabhi-ki-pyas-2026-hindi-uncut-xxx-video
 124	SKIPPED	URL item 124	https://bindasmood.com/bhabhi-with-tin-deborji-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/bhabhi-with-tin-deborji-2026-hindi-uncut-xxx-video
@@ -4834,3 +4833,4 @@
 120	UPLOADED	Chaalbaaz 3 2026 Desi Prime Hindi Hot XXX Video	https://bindasmood.com/chaalbaaz-3-2026-desi-prime-hindi-hot-xxx-video	
 1029	UPLOADED	Bijili 2025 Kahaniplay Hindi Uncut XXX Web Series Episode 5	https://bindasmood.com/bijili-2025-kahaniplay-hindi-uncut-xxx-web-series-episode-5	
 1030	UPLOADED	Bijili 2025 Kahaniplay Hindi Uncut XXX Web Series Episode 4	https://bindasmood.com/bijili-2025-kahaniplay-hindi-uncut-xxx-web-series-episode-4	
+121	UPLOADED	Girlfriend And Sexy Friend 2026 Hindi Uncut XXX Video	https://bindasmood.com/girlfriend-and-sexy-friend-2026-hindi-uncut-xxx-video	
