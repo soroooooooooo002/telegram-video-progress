@@ -2376,7 +2376,6 @@
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3511	SKIPPED	Toy Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3512	SKIPPED	Bachelor Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-106	SKIPPED	URL item 106	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-2
 107	SKIPPED	URL item 107	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-1	ERROR: Unsupported URL: https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-1
 108	SKIPPED	URL item 108	https://bindasmood.com/nai-naveli-dulhan-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/nai-naveli-dulhan-2026-hindi-uncut-xxx-video
 109	SKIPPED	URL item 109	https://bindasmood.com/desi-couple-foursome-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/desi-couple-foursome-2026-hindi-uncut-xxx-video
@@ -4834,3 +4833,4 @@
 1009	UPLOADED	Sarpanch 2025 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/sarpanch-2025-primeshots-hindi-xxx-web-series-episode-1	
 105	UPLOADED	Memory 2026 Atrangii Hindi XXX Web Series Episode 3	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-3	
 1010	UPLOADED	Bhabhi 420 2025 Jugnu App Hindi XXX Web Series Episode 5	https://bindasmood.com/bhabhi-420-2025-jugnu-app-hindi-xxx-web-series-episode-5	
+106	UPLOADED	Memory 2026 Atrangii Hindi XXX Web Series Episode 2	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-2	
