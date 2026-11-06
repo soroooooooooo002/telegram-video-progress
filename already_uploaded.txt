@@ -2382,7 +2382,6 @@
 3506	SKIPPED	Innocent Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3508	SKIPPED	Innocent Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-98	SKIPPED	URL item 98	https://bindasmood.com/gao-ki-gori-2026-moodx-hindi-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/gao-ki-gori-2026-moodx-hindi-xxx-web-series-episode-2
 99	SKIPPED	URL item 99	https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-5	ERROR: Unsupported URL: https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-5
 100	SKIPPED	URL item 100	https://bindasmood.com/yoga-teacher-2026-hindi-uncut-xxx-video-2	ERROR: Unsupported URL: https://bindasmood.com/yoga-teacher-2026-hindi-uncut-xxx-video-2
 3511	SKIPPED	Toy Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4832,3 +4831,4 @@
 97	UPLOADED	Unsaid Vows 2026 Hindi Uncut XXX Video	https://bindasmood.com/unsaid-vows-2026-hindi-uncut-xxx-video	
 1001	UPLOADED	Chaushar 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 5	https://bindasmood.com/chaushar-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-5	
 1002	UPLOADED	Party Se Pehle Romance 2025 Hindi Uncut XXX Video	https://bindasmood.com/party-se-pehle-romance-2025-hindi-uncut-xxx-video	
+98	UPLOADED	Gao Ki Gori 2026 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/gao-ki-gori-2026-moodx-hindi-xxx-web-series-episode-2	
