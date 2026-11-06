@@ -2159,7 +2159,6 @@
 997	SKIPPED	Kirayedaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%204.mp4
 998	SKIPPED	Kirayedaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%203.mp4
 999	SKIPPED	Kirayedaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%202.mp4
-1010	SKIPPED	Ek Haseena Ek Kaatil Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Ek%20Haseena%20Ek%20Kaatil/Ek%20Haseena%20Ek%20Kaatil%20Episode%202.mp4
 1011	SKIPPED	Ek Haseena Ek Kaatil Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Ek%20Haseena%20Ek%20Kaatil/Ek%20Haseena%20Ek%20Kaatil%20Episode%201.mp4
 1012	SKIPPED	Do Haseena S2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena%20S2/Do%20Haseena%20S2%20Episode%204.mp4
 1013	SKIPPED	Do Haseena S2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Do%20Haseena%20S2/Do%20Haseena%20S2%20Episode%203.mp4
@@ -4834,3 +4833,4 @@
 104	UPLOADED	Memory 2026 Atrangii Hindi XXX Web Series Episode 4	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-4	
 1009	UPLOADED	Sarpanch 2025 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/sarpanch-2025-primeshots-hindi-xxx-web-series-episode-1	
 105	UPLOADED	Memory 2026 Atrangii Hindi XXX Web Series Episode 3	https://bindasmood.com/memory-2026-atrangii-hindi-xxx-web-series-episode-3	
+1010	UPLOADED	Bhabhi 420 2025 Jugnu App Hindi XXX Web Series Episode 5	https://bindasmood.com/bhabhi-420-2025-jugnu-app-hindi-xxx-web-series-episode-5	
