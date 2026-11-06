@@ -2384,7 +2384,6 @@
 3506	SKIPPED	Innocent Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3508	SKIPPED	Innocent Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Innocent/Innocent%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-96	SKIPPED	URL item 96	https://bindasmood.com/wife-swapping-husband-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/wife-swapping-husband-2026-hindi-uncut-xxx-video
 97	SKIPPED	URL item 97	https://bindasmood.com/unsaid-vows-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/unsaid-vows-2026-hindi-uncut-xxx-video
 98	SKIPPED	URL item 98	https://bindasmood.com/gao-ki-gori-2026-moodx-hindi-xxx-web-series-episode-2	ERROR: Unsupported URL: https://bindasmood.com/gao-ki-gori-2026-moodx-hindi-xxx-web-series-episode-2
 99	SKIPPED	URL item 99	https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-5	ERROR: Unsupported URL: https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-5
@@ -4832,3 +4831,4 @@
 94	UPLOADED	Gas Technician 2026 Hindi Uncut XXX Video	https://bindasmood.com/gas-technician-2026-hindi-uncut-xxx-video	
 95	UPLOADED	Undressing Game 2026 Hindi Uncut XXX Video	https://bindasmood.com/undressing-game-2026-hindi-uncut-xxx-video	
 1000	UPLOADED	Buddhe Ko Chadi Jawani 2025 Hindi Uncut XXX Video	https://bindasmood.com/buddhe-ko-chadi-jawani-2025-hindi-uncut-xxx-video	
+96	UPLOADED	Wife Swapping Husband 2026 Hindi Uncut XXX Video	https://bindasmood.com/wife-swapping-husband-2026-hindi-uncut-xxx-video	
