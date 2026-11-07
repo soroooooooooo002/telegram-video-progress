@@ -2159,7 +2159,6 @@
 997	SKIPPED	Kirayedaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%204.mp4
 998	SKIPPED	Kirayedaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%203.mp4
 999	SKIPPED	Kirayedaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%202.mp4
-1031	SKIPPED	Affair Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Affair/Affair%20Episode%201.mp4
 1032	SKIPPED	Moorti Ka Rahasya	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Single/Moorti%20Ka%20Rahasya.mp4
 1033	SKIPPED	Ye Ashiqui Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Ye%20Ashiqui/Ye%20Ashiqui%20Episode%203.mp4
 1034	SKIPPED	Ye Ashiqui Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Ye%20Ashiqui/Ye%20Ashiqui%20Episode%202.mp4
@@ -4836,3 +4835,4 @@
 2000	UPLOADED	Meera 2025 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/meera-2025-sigma-series-malayalam-hot-xxx-video	
 123	UPLOADED	Bhabhi Ki Pyas 2026 Hindi Uncut XXX Video	https://bindasmood.com/bhabhi-ki-pyas-2026-hindi-uncut-xxx-video	
 2001	UPLOADED	Swapna Sundari 2025 Rioplus Hindi XXX Web Series Episode 3	https://bindasmood.com/swapna-sundari-2025-rioplus-hindi-xxx-web-series-episode-3	
+1031	UPLOADED	Tan Tana Tan BTS 2025 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/tan-tana-tan-bts-2025-moodx-hindi-xxx-web-series-episode-1	
