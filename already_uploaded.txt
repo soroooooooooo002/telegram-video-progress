@@ -2163,7 +2163,6 @@
 4396	UPLOADED	Rikshawala Episode 4
 5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 3446	UPLOADED	Yeh Hai Sanak Episode 2
-1045	SKIPPED	Lust Diaries Wo Meri Hai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Lust%20Diaries%20Wo%20Meri%20Hai/Lust%20Diaries%20Wo%20Meri%20Hai%20Episode%201.mp4
 1046	SKIPPED	Lust Diaries Pehla Pyar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Lust%20Diaries%20Pehla%20Pyar/Lust%20Diaries%20Pehla%20Pyar%20Episode%202.mp4
 1047	SKIPPED	Lust Diaries Pehla Pyar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Lust%20Diaries%20Pehla%20Pyar/Lust%20Diaries%20Pehla%20Pyar%20Episode%201.mp4
 1049	SKIPPED	Love Guru Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Love%20Guru/Love%20Guru%20Episode%201.mp4
@@ -4853,3 +4852,4 @@
 1044	UPLOADED	Chaushar 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/chaushar-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-2	
 133	UPLOADED	Yaaddasht 2026 Dzyreplay Hindi XXX Web Series Episode 2	https://bindasmood.com/yaaddasht-2026-dzyreplay-hindi-xxx-web-series-episode-2	
 134	UPLOADED	Feeling Horny 2026 Hindi Uncut XXX Video	https://bindasmood.com/feeling-horny-2026-hindi-uncut-xxx-video	
+1045	UPLOADED	Chaushar 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 1	https://bindasmood.com/chaushar-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-1	
