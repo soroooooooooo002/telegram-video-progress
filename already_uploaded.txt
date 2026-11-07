@@ -2343,7 +2343,6 @@
 1180	SKIPPED	Prem Game Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1181	SKIPPED	Prem Game Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1182	SKIPPED	Prem Game Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Voovi/Prem%20Game/Prem%20Game%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-135	SKIPPED	URL item 135	https://bindasmood.com/horny-yoga-teacher-2026-bindastimes-hindi-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/horny-yoga-teacher-2026-bindastimes-hindi-xxx-video
 1184	SKIPPED	Bekhudi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FBekhudi%2FBekhudi%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1185	SKIPPED	Bekhudi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FBekhudi%2FBekhudi%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1186	SKIPPED	Bekhudi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FBekhudi%2FBekhudi%20E4.mp4
@@ -4854,3 +4853,4 @@
 1045	UPLOADED	Chaushar 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 1	https://bindasmood.com/chaushar-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-1	
 2017	UPLOADED	Shraap 2025 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/shraap-2025-hulchul-hindi-xxx-web-series-episode-1	
 1046	UPLOADED	Tan Tana Tan 2025 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/tan-tana-tan-2025-moodx-hindi-xxx-web-series-episode-1	
+135	UPLOADED	Horny Yoga Teacher 2026 Bindastimes Hindi XXX Video	https://bindasmood.com/horny-yoga-teacher-2026-bindastimes-hindi-xxx-video	
