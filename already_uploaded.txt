@@ -2163,7 +2163,6 @@
 4396	UPLOADED	Rikshawala Episode 4
 5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 3446	UPLOADED	Yeh Hai Sanak Episode 2
-1047	SKIPPED	Lust Diaries Pehla Pyar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Lust%20Diaries%20Pehla%20Pyar/Lust%20Diaries%20Pehla%20Pyar%20Episode%201.mp4
 1049	SKIPPED	Love Guru Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Love%20Guru/Love%20Guru%20Episode%201.mp4
 1050	SKIPPED	Komal Ki Sawari Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Komal%20Ki%20Sawari/Komal%20Ki%20Sawari%20Episode%202.mp4
 1051	SKIPPED	Komal Ki Sawari Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Komal%20Ki%20Sawari/Komal%20Ki%20Sawari%20Episode%201.mp4
@@ -4854,3 +4853,4 @@
 2017	UPLOADED	Shraap 2025 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/shraap-2025-hulchul-hindi-xxx-web-series-episode-1	
 1046	UPLOADED	Tan Tana Tan 2025 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/tan-tana-tan-2025-moodx-hindi-xxx-web-series-episode-1	
 135	UPLOADED	Horny Yoga Teacher 2026 Bindastimes Hindi XXX Video	https://bindasmood.com/horny-yoga-teacher-2026-bindastimes-hindi-xxx-video	
+1047	UPLOADED	Moham BTS 2025 Feni App Originals Malayalam Uncut XXX Video	https://bindasmood.com/moham-bts-2025-feni-app-originals-malayalam-uncut-xxx-video	
