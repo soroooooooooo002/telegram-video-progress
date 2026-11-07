@@ -2351,7 +2351,6 @@
 3830	SKIPPED	Ristey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Kahani%20Play/Ristey/Ristey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3511	SKIPPED	Toy Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3512	SKIPPED	Bachelor Party Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Moovi/Bachelor%20Party/Bachelor%20Party%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-127	SKIPPED	URL item 127	https://bindasmood.com/missed-call-2026-sigma-series-malayalam-hot-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/missed-call-2026-sigma-series-malayalam-hot-xxx-video
 128	SKIPPED	URL item 128	https://bindasmood.com/rishi-fucks-his-chachi-2026-niksindian-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/rishi-fucks-his-chachi-2026-niksindian-uncut-xxx-video
 129	SKIPPED	URL item 129	https://bindasmood.com/two-couples-2026-hindi-uncut-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/two-couples-2026-hindi-uncut-xxx-video
 130	SKIPPED	URL item 130	https://bindasmood.com/room-service-2026-indianxworld-hindi-xxx-video	ERROR: Unsupported URL: https://bindasmood.com/room-service-2026-indianxworld-hindi-xxx-video
@@ -4842,3 +4841,4 @@
 2006	UPLOADED	Yaar Gaddar 2025 Teflix Hindi XXX Web Series Episode 3	https://bindasmood.com/yaar-gaddar-2025-teflix-hindi-xxx-web-series-episode-3	
 1035	UPLOADED	Namard 2025 Pull App Hindi XXX Web Series Episode 3	https://bindasmood.com/namard-2025-pull-app-hindi-xxx-web-series-episode-3	
 2007	UPLOADED	Dr Sakshi 2025 Teflix Hindi XXX Web Series Episode 3	https://bindasmood.com/dr-sakshi-2025-teflix-hindi-xxx-web-series-episode-3	
+127	UPLOADED	Missed Call 2026 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/missed-call-2026-sigma-series-malayalam-hot-xxx-video	
