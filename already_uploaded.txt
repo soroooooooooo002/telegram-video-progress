@@ -2163,7 +2163,6 @@
 4396	UPLOADED	Rikshawala Episode 4
 5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 3446	UPLOADED	Yeh Hai Sanak Episode 2
-1041	SKIPPED	Mere Sapno Ki Rani Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Mere%20Sapno%20Ki%20Rani/Mere%20Sapno%20Ki%20Rani%20Episode%203.mp4
 1042	SKIPPED	Mere Sapno Ki Rani Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Mere%20Sapno%20Ki%20Rani/Mere%20Sapno%20Ki%20Rani%20Episode%202.mp4
 1043	SKIPPED	Mere Sapno Ki Rani Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Mere%20Sapno%20Ki%20Rani/Mere%20Sapno%20Ki%20Rani%20Episode%201.mp4
 1044	SKIPPED	Lust Diaries Wo Meri Hai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Lust%20Diaries%20Wo%20Meri%20Hai/Lust%20Diaries%20Wo%20Meri%20Hai%20Episode%202.mp4
@@ -4847,3 +4846,4 @@
 1040	UPLOADED	Ehsaas 2025 Feel Hindi XXX Web Series Episode 1	https://bindasmood.com/ehsaas-2025-feel-hindi-xxx-web-series-episode-1	
 2012	UPLOADED	Rangeen Kahaniyan 16 2025 Altt App Hindi XXX Web Series Ep 4	https://bindasmood.com/rangeen-kahaniyan-16-2025-altt-app-hindi-xxx-web-series-ep-4	
 130	UPLOADED	Room Service 2026 Indianxworld Hindi XXX Video	https://bindasmood.com/room-service-2026-indianxworld-hindi-xxx-video	
+1041	UPLOADED	Daddy Cool 2025 Ullu Originals Hindi XXX Web Series Episode 6	https://bindasmood.com/daddy-cool-2025-ullu-originals-hindi-xxx-web-series-episode-6	
