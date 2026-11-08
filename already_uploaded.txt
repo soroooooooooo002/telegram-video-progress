@@ -3884,7 +3884,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4018	UPLOADED	Farebi Yaar Episode 8
 4019	UPLOADED	Main Yahan Tu Wahan Episode 9
 4020	UPLOADED	Main Yahan Tu Wahan Episode 8
 4021	UPLOADED	Main Yahan Tu Wahan Episode 7
@@ -4912,3 +4911,4 @@
 4017	UPLOADED	Insaf 3 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/insaf-3-2024-fugi-app-originals-hindi-uncut-xxx-video	
 163	UPLOADED	Deep Love 2026 Hindi Uncut XXX Video	https://bindasmood.com/deep-love-2026-hindi-uncut-xxx-video	
 3028	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-6	
+4018	UPLOADED	Adla Badli 2024 Hitprime Hindi XXX Web Series Episode 1	https://bindasmood.com/adla-badli-2024-hitprime-hindi-xxx-web-series-episode-1	
