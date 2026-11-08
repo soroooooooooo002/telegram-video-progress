@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3022	SKIPPED	Power Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3023	SKIPPED	Power Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3024	SKIPPED	Power Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3025	SKIPPED	Samagam Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4906,3 +4905,4 @@
 161	UPLOADED	Basanthi 2026 Nmx Series Malayalam XXX Web Series Ep 1	https://bindasmood.com/basanthi-2026-nmx-series-malayalam-xxx-web-series-ep-1-2	
 4013	UPLOADED	Nehle Pe Dehla 2024 Bigshots Hindi XXX Web Series Episode 3	https://bindasmood.com/nehle-pe-dehla-2024-bigshots-hindi-xxx-web-series-episode-3	
 2045	UPLOADED	Gore Gore Gaal 2025 Ullu Hindi XXX Web Series Episode 6	https://bindasmood.com/gore-gore-gaal-2025-ullu-hindi-xxx-web-series-episode-6	
+3022	UPLOADED	Delivery Boy 2024 Moodx Vip Hindi Uncut XXX Web Series Ep 3	https://bindasmood.com/delivery-boy-2024-moodx-vip-hindi-uncut-xxx-web-series-ep-3	
