@@ -3871,7 +3871,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4028	UPLOADED	Mishti Episode 1
 4029	UPLOADED	Mishti Episode 2
 4030	UPLOADED	Mishti Episode 3
 4031	UPLOADED	Mishti Episode 4
@@ -4919,3 +4918,4 @@
 4026	UPLOADED	Lodam Bhabhi 2 2024 Rabbit Movies Hindi XXX Web Series Ep 8	https://bindasmood.com/lodam-bhabhi-2-2024-rabbit-movies-hindi-xxx-web-series-ep-8	
 4027	UPLOADED	Kabadi Wali 2024 Soltalkies Hindi XXX Web Series Episode 1	https://bindasmood.com/kabadi-wali-2024-soltalkies-hindi-xxx-web-series-episode-1	
 1078	UPLOADED	Double Dates 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/double-dates-2025-moodx-vip-hindi-uncut-xxx-video	
+4028	UPLOADED	Kabadi Wali 2024 Soltalkies Hindi XXX Web Series Episode 2	https://bindasmood.com/kabadi-wali-2024-soltalkies-hindi-xxx-web-series-episode-2	
