@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3013	SKIPPED	Two Sister Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Two%20Sister/Two%20Sister%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3014	SKIPPED	Two Sister Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Two%20Sister/Two%20Sister%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3015	SKIPPED	Two Sister Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Two%20Sister/Two%20Sister%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3016	SKIPPED	Two Sister Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Two%20Sister/Two%20Sister%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4891,3 +4890,4 @@
 1065	UPLOADED	Naukar No 1 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 5	https://bindasmood.com/naukar-no-1-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-5	
 4005	UPLOADED	Dark Side 2024 Show Hit Originals Hindi Uncut XXX Video	https://bindasmood.com/dark-side-2024-show-hit-originals-hindi-uncut-xxx-video	
 3012	UPLOADED	A November Story 2024 Hotx Vip Hindi Uncut XXX Video	https://bindasmood.com/a-november-story-2024-hotx-vip-hindi-uncut-xxx-video	
+3013	FAILED	URL item 3013	https://bindasmood.com/balma-420-2024-showhit-hindi-uncut-xxx-video	525 Server Error: <none> for url: https://bindasmood.com/balma-420-2024-showhit-hindi-uncut-xxx-video
