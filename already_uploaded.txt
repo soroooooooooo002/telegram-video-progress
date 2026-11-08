@@ -2158,7 +2158,6 @@
 3447	UPLOADED	Yeh Hai Sanak Episode 1
 3448	SKIPPED	Phere Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Phere/Phere%20Episode%205.mp4
 3449	UPLOADED	Jenga Episode 4
-1062	SKIPPED	Gaon Ki Malai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Gaon%20Ki%20Malai/Gaon%20Ki%20Malai%20Episode%201.mp4
 3450	UPLOADED	Jenga Episode 3
 3451	SKIPPED	Rasgulla Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Moovi/Rasgulla/Rasgulla%20Episode%202.mp4
 3452	SKIPPED	Rasgulla Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Moovi/Rasgulla/Rasgulla%20Episode%201.mp4
@@ -4884,3 +4883,4 @@
 150	UPLOADED	Saiyan Se Badhkar Jeth Ji 2026 Woow Hindi XXX Web Series EP3	https://bindasmood.com/saiyan-se-badhkar-jeth-ji-2026-woow-hindi-xxx-web-series-ep3	
 2034	UPLOADED	Lene Ke Dene 2025 Ullu App Hindi XXX Web Series Episode 2	https://bindasmood.com/lene-ke-dene-2025-ullu-app-hindi-xxx-web-series-episode-2	
 3006	UPLOADED	Kya Khoob Lagti Ho 2024 Ullu Hindi XXX Web Series Ep 6	https://bindasmood.com/kya-khoob-lagti-ho-2024-ullu-hindi-xxx-web-series-ep-6	
+1062	UPLOADED	Halala 2019 Ullu Originals Hindi XXX Web Series Part 1	https://bindasmood.com/halala-2019-ullu-originals-hindi-xxx-web-series-part-1	
