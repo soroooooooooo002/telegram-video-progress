@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3027	SKIPPED	Samagam Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3028	SKIPPED	Goan Ki Malai Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3029	SKIPPED	Goan Ki Malai Episode 2	HTTP error 500: 500 Server Error: Internal Server Error for url: https://video.maalcdn.com/HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%202.mp4
 3030	SKIPPED	Goan Ki Malai Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4910,3 +4909,4 @@
 3026	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-4	
 4016	UPLOADED	Pati Patni Aur Vo 2024 Look Entertainment XXX Web Series Ep 1	https://bindasmood.com/pati-patni-aur-vo-2024-look-entertainment-xxx-web-series-ep-1	
 2048	UPLOADED	Bhabhi ji Uncut 2025 Hotx Vip Hindi Uncut XXX Video	https://bindasmood.com/bhabhi-ji-uncut-2025-hotx-vip-hindi-uncut-xxx-video	
+3027	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-5	
