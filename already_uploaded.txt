@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3031	SKIPPED	Goan Ki Malai Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3032	SKIPPED	Goan Ki Malai Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3033	SKIPPED	Goan Ki Malai Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Goan%20Ki%20Malai/Goan%20Ki%20Malai%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3034	SKIPPED	Landlord Lele Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4916,3 +4915,4 @@
 166	UPLOADED	Aadhyarathri 2026 Malayalam XXX Web Series Episode 1	https://bindasmood.com/aadhyarathri-2026-malayalam-xxx-web-series-episode-1	
 2051	UPLOADED	Live Bath Uncut 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/live-bath-uncut-2025-neonx-vip-hindi-uncut-xxx-video	
 4020	UPLOADED	Adla Badli 2024 Hitprime Hindi XXX Web Series Episode 3	https://bindasmood.com/adla-badli-2024-hitprime-hindi-xxx-web-series-episode-3	
+3031	UPLOADED	Lollipop 2 2024 Look Entertainment XXX Web Series Episode 1	https://bindasmood.com/lollipop-2-2024-look-entertainment-xxx-web-series-episode-1	
