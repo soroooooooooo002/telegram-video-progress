@@ -3886,7 +3886,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4016	UPLOADED	Farebi Yaar Episode 6
 4017	UPLOADED	Farebi Yaar Episode 7
 4018	UPLOADED	Farebi Yaar Episode 8
 4019	UPLOADED	Main Yahan Tu Wahan Episode 9
@@ -4909,3 +4908,4 @@
 2047	UPLOADED	Desi Bahuriya 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/desi-bahuriya-2025-neonx-vip-hindi-uncut-xxx-video	
 162	UPLOADED	Innocent Looking Desi Bhabhi 2026 Niksindian Uncut XXX Video	https://bindasmood.com/innocent-looking-desi-bhabhi-2026-niksindian-uncut-xxx-video	
 3026	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-4	
+4016	UPLOADED	Pati Patni Aur Vo 2024 Look Entertainment XXX Web Series Ep 1	https://bindasmood.com/pati-patni-aur-vo-2024-look-entertainment-xxx-web-series-ep-1	
