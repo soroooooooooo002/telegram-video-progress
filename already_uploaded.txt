@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3016	SKIPPED	Two Sister Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Habbit/Two%20Sister/Two%20Sister%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3017	SKIPPED	Power Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3018	SKIPPED	Power Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3019	SKIPPED	Power Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Power/Power%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4897,3 +4896,4 @@
 4007	UPLOADED	Bharya 2024 Boomex Malayalam XXX Web Series Episode 1	https://bindasmood.com/bharya-2024-boomex-malayalam-xxx-web-series-episode-1	
 2040	UPLOADED	Namkeen Kisse 2025 Altt App Hindi XXX Web Series Episode 32	https://bindasmood.com/namkeen-kisse-2025-altt-app-hindi-xxx-web-series-episode-32	
 157	UPLOADED	Friends Husband 2026 Hindi Uncut XXX Video	https://bindasmood.com/friends-husband-2026-hindi-uncut-xxx-video	
+3016	UPLOADED	Bali Umaar 2024 Dugru App Hindi Hot Uncut XXX Video	https://bindasmood.com/bali-umaar-2024-dugru-app-hindi-hot-uncut-xxx-video	
