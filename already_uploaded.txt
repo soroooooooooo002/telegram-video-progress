@@ -2147,7 +2147,6 @@
 3464	UPLOADED	Bhabhi 123 Episode 1
 3465	UPLOADED	Bali Umar Episode 5
 3466	UPLOADED	Bali Umar Episode 4
-1077	UPLOADED	Bekaboo S2 Episode 2
 1078	UPLOADED	Bekaboo S2 Episode 1
 1079	SKIPPED	Dream Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dream/Dream%20Episode%201.mp4
 1080	SKIPPED	Dream Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Mango%20TV/Dream/Dream%20Episode%202.mp4
@@ -4919,3 +4918,4 @@
 4024	UPLOADED	Bhabhi G 2024 Look Entertainment Hindi XXX Web Series Ep 1	https://bindasmood.com/bhabhi-g-2024-look-entertainment-hindi-xxx-web-series-ep-1	
 1076	UPLOADED	Wheel Chair 2025 BulbulPlay Hindi XXX Web Series Episode 1	https://bindasmood.com/wheel-chair-2025-bulbulplay-hindi-xxx-web-series-episode-1	
 4025	UPLOADED	Lodam Bhabhi 2 2024 Rabbit Movies Hindi XXX Web Series Ep 7	https://bindasmood.com/lodam-bhabhi-2-2024-rabbit-movies-hindi-xxx-web-series-ep-7	
+1077	UPLOADED	Ghoonghat 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 5	https://bindasmood.com/ghoonghat-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-5	
