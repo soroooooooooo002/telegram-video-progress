@@ -3862,7 +3862,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4033	UPLOADED	Mishti Episode 6
 4034	UPLOADED	Rain Basera Episode 1
 4035	UPLOADED	Rain Basera Episode 2
 4036	UPLOADED	Rain Basera Episode 3
@@ -4923,3 +4922,4 @@
 169	UPLOADED	Char Char Khatiya 2026 TikuTv Hindi XXX Web Series Episode 5	https://bindasmood.com/char-char-khatiya-2026-tikutv-hindi-xxx-web-series-episode-5	
 3036	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 2	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-2	
 1082	UPLOADED	Daddy Cool 2025 Ullu Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/daddy-cool-2025-ullu-originals-hindi-xxx-web-series-episode-1	
+4033	UPLOADED	Sabse Bada Rupaya 2024 Kangan App Hindi XXX Web Series Ep 3	https://bindasmood.com/sabse-bada-rupaya-2024-kangan-app-hindi-xxx-web-series-ep-3	
