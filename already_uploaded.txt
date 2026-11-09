@@ -3856,7 +3856,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4037	UPLOADED	Rain Basera Episode 4
 4038	UPLOADED	Rain Basera Episode 5
 4039	UPLOADED	Rain Basera Episode 6
 4040	UPLOADED	Rain Basera Episode 7
@@ -4929,3 +4928,4 @@
 4036	FAILED	URL item 4036	https://bindasmood.com/tharki-dost-2024-triflicks-hindi-xxx-web-series-episode-2	All video sources failed: HTTPSConnectionPool(host='cdn2.ixifile.xyz', port=443): Max retries exceeded with url: /1/THARKI%20DOST%20EP2.mp4 (Caused by NameResolutionError("HTTPSConnection(host='cdn2.ixifile.xyz', port=443): Failed to resolve 'cdn2.ixifile.xyz' ([Errno -2] Name or service not known)"))
 2059	UPLOADED	Rangeen Kahaniyan 26 2025 Altt App Hindi XXX Web Series Ep 4	https://bindasmood.com/rangeen-kahaniyan-26-2025-altt-app-hindi-xxx-web-series-ep-4	
 173	UPLOADED	Ootam 2026 Lubeseries Malayalam XXX Web Series Episode 1	https://bindasmood.com/ootam-2026-lubeseries-malayalam-xxx-web-series-episode-1	
+4037	UPLOADED	Kunvaaree 2024 Hulchul Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/kunvaaree-2024-hulchul-originals-hindi-xxx-web-series-ep-1	
