@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3039	SKIPPED	Landlord Lele Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3040	SKIPPED	Nagarvadhu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3041	SKIPPED	Nagarvadhu Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3042	SKIPPED	Nagarvadhu Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4927,3 +4926,4 @@
 4035	UPLOADED	Adla Badli 2 2024 Mojflix Hindi XXX Web Series Episode 4	https://bindasmood.com/adla-badli-2-2024-mojflix-hindi-xxx-web-series-episode-4	
 1084	UPLOADED	Naukar No 1 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/naukar-no-1-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-2	
 172	UPLOADED	Ootam 2026 Lubeseries Malayalam XXX Web Series Episode 2	https://bindasmood.com/ootam-2026-lubeseries-malayalam-xxx-web-series-episode-2	
+3039	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 5	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-5	
