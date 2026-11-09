@@ -2145,7 +2145,6 @@
 3464	UPLOADED	Bhabhi 123 Episode 1
 3465	UPLOADED	Bali Umar Episode 5
 3466	UPLOADED	Bali Umar Episode 4
-1081	SKIPPED	Mohamukthi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Mohamukthi/Mohamukthi%20Episode%202.mp4
 1082	SKIPPED	Mohamukthi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Mohamukthi/Mohamukthi%20Episode%201.mp4
 1083	SKIPPED	Lola Cottage Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Lola%20Cottage/Lola%20Cottage%20Episode%201.mp4
 1084	UPLOADED	Angel Episode 1
@@ -4922,3 +4921,4 @@
 168	UPLOADED	Char Char Khatiya 2026 TikuTv Hindi XXX Web Series Episode 6	https://bindasmood.com/char-char-khatiya-2026-tikutv-hindi-xxx-web-series-episode-6	
 2055	UPLOADED	Tharki Indian Jamindar 2025 Bindastimes Hindi Uncut XXX Video	https://bindasmood.com/tharki-indian-jamindar-2025-bindastimes-hindi-uncut-xxx-video	
 3035	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 1	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-1	
+1081	UPLOADED	Daddy Cool 2025 Ullu Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/daddy-cool-2025-ullu-originals-hindi-xxx-web-series-episode-2	
