@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3037	SKIPPED	Landlord Lele Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3038	SKIPPED	Landlord Lele Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3039	SKIPPED	Landlord Lele Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3040	SKIPPED	Nagarvadhu Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4923,3 +4922,4 @@
 3036	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 2	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-2	
 1082	UPLOADED	Daddy Cool 2025 Ullu Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/daddy-cool-2025-ullu-originals-hindi-xxx-web-series-episode-1	
 4033	UPLOADED	Sabse Bada Rupaya 2024 Kangan App Hindi XXX Web Series Ep 3	https://bindasmood.com/sabse-bada-rupaya-2024-kangan-app-hindi-xxx-web-series-ep-3	
+3037	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 3	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-3	
