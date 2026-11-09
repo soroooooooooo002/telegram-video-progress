@@ -2139,7 +2139,6 @@
 3464	UPLOADED	Bhabhi 123 Episode 1
 3465	UPLOADED	Bali Umar Episode 5
 3466	UPLOADED	Bali Umar Episode 4
-1086	SKIPPED	Naughty Game Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Naughty%20Game/Naughty%20Game%20Episode%202.mp4
 3467	UPLOADED	Bali Umar Episode 3
 3468	SKIPPED	Bali Umar Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3469	SKIPPED	Bali Umar Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4932,3 +4931,4 @@
 174	UPLOADED	Behenchor 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/behenchor-2026-moodx-hindi-xxx-web-series-episode-1	
 3041	UPLOADED	Lusty Sexy 2024 Hindi Desi XXX Video	https://bindasmood.com/lusty-sexy-2024-hindi-desi-xxx-video	
 2061	UPLOADED	Rangeen Kahaniyan 26 2025 Altt App Hindi XXX Web Series Ep 2	https://bindasmood.com/rangeen-kahaniyan-26-2025-altt-app-hindi-xxx-web-series-ep-2	
+1086	UPLOADED	Salesman Ke Sath 2025 Hindi Uncut XXX Video	https://bindasmood.com/salesman-ke-sath-2025-hindi-uncut-xxx-video	
