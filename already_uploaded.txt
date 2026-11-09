@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3041	SKIPPED	Nagarvadhu Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3042	SKIPPED	Nagarvadhu Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3043	SKIPPED	Nagarvadhu Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3044	SKIPPED	Nagarvadhu Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4931,3 +4930,4 @@
 2060	UPLOADED	Rangeen Kahaniyan 26 2025 Altt App Hindi XXX Web Series Ep 3	https://bindasmood.com/rangeen-kahaniyan-26-2025-altt-app-hindi-xxx-web-series-ep-3	
 4038	UPLOADED	Kunvaaree 2024 Hulchul Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/kunvaaree-2024-hulchul-originals-hindi-xxx-web-series-ep-2	
 174	UPLOADED	Behenchor 2026 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/behenchor-2026-moodx-hindi-xxx-web-series-episode-1	
+3041	UPLOADED	Lusty Sexy 2024 Hindi Desi XXX Video	https://bindasmood.com/lusty-sexy-2024-hindi-desi-xxx-video	
