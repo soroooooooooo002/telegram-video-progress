@@ -2140,7 +2140,6 @@
 3464	UPLOADED	Bhabhi 123 Episode 1
 3465	UPLOADED	Bali Umar Episode 5
 3466	UPLOADED	Bali Umar Episode 4
-1085	SKIPPED	Naughty Game Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Naughty%20Game/Naughty%20Game%20Episode%201.mp4
 1086	SKIPPED	Naughty Game Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Naughty%20Game/Naughty%20Game%20Episode%202.mp4
 3467	UPLOADED	Bali Umar Episode 3
 3468	SKIPPED	Bali Umar Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -4929,3 +4928,4 @@
 173	UPLOADED	Ootam 2026 Lubeseries Malayalam XXX Web Series Episode 1	https://bindasmood.com/ootam-2026-lubeseries-malayalam-xxx-web-series-episode-1	
 4037	UPLOADED	Kunvaaree 2024 Hulchul Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/kunvaaree-2024-hulchul-originals-hindi-xxx-web-series-ep-1	
 3040	UPLOADED	Niqabi Milf Fucked by Technician 2024 Niksindian Hindi XXX Video	https://bindasmood.com/niqabi-milf-fucked-by-technician-2024-niksindian-hindi-xxx-video	
+1085	UPLOADED	Naukar No 1 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 1	https://bindasmood.com/naukar-no-1-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-1	
