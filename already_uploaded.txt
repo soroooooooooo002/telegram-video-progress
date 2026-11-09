@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3034	SKIPPED	Landlord Lele Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3035	SKIPPED	Landlord Lele Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3036	SKIPPED	Landlord Lele Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3037	SKIPPED	Landlord Lele Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Landlord%20Lele/Landlord%20Lele%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4920,3 +4919,4 @@
 1079	UPLOADED	Harini Part 3 2025 Xtreme Shoots Hindi XXX Video	https://bindasmood.com/harini-part-3-2025-xtreme-shoots-hindi-xxx-video	
 4029	UPLOADED	Kavita Bhabhi Season 4 2024 Ullu Hindi XXX Web Series Ep 4	https://bindasmood.com/kavita-bhabhi-season-4-2024-ullu-hindi-xxx-web-series-ep-4	
 2054	UPLOADED	Junun 2025 Teflix Hindi XXX Web Series Episode 3	https://bindasmood.com/junun-2025-teflix-hindi-xxx-web-series-episode-3	
+3034	UPLOADED	Lollipop 2 2024 Look Entertainment XXX Web Series Episode 4	https://bindasmood.com/lollipop-2-2024-look-entertainment-xxx-web-series-episode-4	
