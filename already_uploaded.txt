@@ -2143,7 +2143,6 @@
 3464	UPLOADED	Bhabhi 123 Episode 1
 3465	UPLOADED	Bali Umar Episode 5
 3466	UPLOADED	Bali Umar Episode 4
-1083	SKIPPED	Lola Cottage Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Lola%20Cottage/Lola%20Cottage%20Episode%201.mp4
 1084	UPLOADED	Angel Episode 1
 1085	SKIPPED	Naughty Game Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Naughty%20Game/Naughty%20Game%20Episode%201.mp4
 1086	SKIPPED	Naughty Game Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/NMX/Naughty%20Game/Naughty%20Game%20Episode%202.mp4
@@ -4925,3 +4924,4 @@
 2057	UPLOADED	Teacher Hardcore Fuck 2025 Goddesmahi Hindi Uncut XXX Video	https://bindasmood.com/teacher-hardcore-fuck-2025-goddesmahi-hindi-uncut-xxx-video	
 4034	UPLOADED	Sabse Bada Rupaya 2024 Kangan App Hindi XXX Web Series Ep 4	https://bindasmood.com/sabse-bada-rupaya-2024-kangan-app-hindi-xxx-web-series-ep-4	
 170	UPLOADED	Char Char Khatiya 2026 TikuTv Hindi XXX Web Series Episode 4	https://bindasmood.com/char-char-khatiya-2026-tikutv-hindi-xxx-web-series-episode-4	
+1083	UPLOADED	Naukar No 1 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 3	https://bindasmood.com/naukar-no-1-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-3	
