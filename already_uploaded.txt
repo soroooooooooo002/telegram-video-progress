@@ -3865,7 +3865,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4032	UPLOADED	Mishti Episode 5
 4033	UPLOADED	Mishti Episode 6
 4034	UPLOADED	Rain Basera Episode 1
 4035	UPLOADED	Rain Basera Episode 2
@@ -4922,3 +4921,4 @@
 2055	UPLOADED	Tharki Indian Jamindar 2025 Bindastimes Hindi Uncut XXX Video	https://bindasmood.com/tharki-indian-jamindar-2025-bindastimes-hindi-uncut-xxx-video	
 3035	UPLOADED	Raat Ki Raani 2024 Altt App Hindi XXX Web Series Episode 1	https://bindasmood.com/raat-ki-raani-2024-altt-app-hindi-xxx-web-series-episode-1	
 1081	UPLOADED	Daddy Cool 2025 Ullu Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/daddy-cool-2025-ullu-originals-hindi-xxx-web-series-episode-2	
+4032	UPLOADED	Pink Lips 2024 Navarasa Malayalam XXX Web Series Episode 1	https://bindasmood.com/pink-lips-2024-navarasa-malayalam-xxx-web-series-episode-1	
