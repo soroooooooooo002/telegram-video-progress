@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3045	SKIPPED	Nagarvadhu Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Nagarvadhu/Nagarvadhu%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3046	SKIPPED	Samagam Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3047	SKIPPED	Samagam Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Samagam/Samagam%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3048	SKIPPED	Samagam Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Samagam/Samagam%20E2.mp4
@@ -4936,3 +4935,4 @@
 176	UPLOADED	Electrician 2026 Hindi Uncut XXX Video	https://bindasmood.com/electrician-2026-hindi-uncut-xxx-video	
 1088	UPLOADED	Sex In Group Gangbang 2025 Bindastimes Hindi XXX Video	https://bindasmood.com/sex-in-group-gangbang-2025-bindastimes-hindi-xxx-video	
 4041	UPLOADED	Zakham S02 2023 Feneo Movies Hindi XXX Web Series Episode 2	https://bindasmood.com/zakham-s02-2023-feneo-movies-hindi-xxx-web-series-episode-2	
+3045	UPLOADED	Delivery Boy 2024 Fukrey Originals Hindi Uncut XXX Video	https://bindasmood.com/delivery-boy-2024-fukrey-originals-hindi-uncut-xxx-video	
