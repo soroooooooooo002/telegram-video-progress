@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3048	SKIPPED	Samagam Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Samagam/Samagam%20E2.mp4
 3049	SKIPPED	Aao Kabhi Haveli Pe Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aao%20Kabhi%20Haveli%20Pe/Aao%20Kabhi%20Haveli%20Pe%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3050	SKIPPED	Aao Kabhi Haveli Pe Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aao%20Kabhi%20Haveli%20Pe/Aao%20Kabhi%20Haveli%20Pe%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3051	SKIPPED	Aao Kabhi Haveli Pe Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Aao%20Kabhi%20Haveli%20Pe/Aao%20Kabhi%20Haveli%20Pe%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4941,3 +4940,4 @@
 1089	UPLOADED	Thermometer Raw BTS 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/thermometer-raw-bts-2025-moodx-vip-hindi-uncut-xxx-video	
 178	UPLOADED	Sasur Ji 2026 Hindi Uncut XXX Video	https://bindasmood.com/sasur-ji-2026-hindi-uncut-xxx-video	
 2066	UPLOADED	Besharam 2025 Ullu Hindi XXX Web Series Episode 1	https://bindasmood.com/besharam-2025-ullu-hindi-xxx-web-series-episode-1	
+3048	UPLOADED	Majnu Bawlaa 2024 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/majnu-bawlaa-2024-hulchul-hindi-xxx-web-series-episode-1	
