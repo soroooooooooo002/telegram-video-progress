@@ -3842,7 +3842,6 @@
 3997	SKIPPED	Chull Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E3.mp4
 3998	SKIPPED	Chull Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E2.mp4
 3999	SKIPPED	Chull Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Chull-C1/Chull%20E1.mp4
-4043	SKIPPED	Shatir Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E2.mp4
 4044	SKIPPED	Shatir Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E3.mp4
 4045	SKIPPED	Shatir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Shatir/Shatir%20%20E4.mp4
 1481	UPLOADED	Mere Angane Mein Episode 5
@@ -4941,3 +4940,4 @@
 178	UPLOADED	Sasur Ji 2026 Hindi Uncut XXX Video	https://bindasmood.com/sasur-ji-2026-hindi-uncut-xxx-video	
 2066	UPLOADED	Besharam 2025 Ullu Hindi XXX Web Series Episode 1	https://bindasmood.com/besharam-2025-ullu-hindi-xxx-web-series-episode-1	
 3048	UPLOADED	Majnu Bawlaa 2024 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/majnu-bawlaa-2024-hulchul-hindi-xxx-web-series-episode-1	
+4043	UPLOADED	Bahu No 1 2024 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/bahu-no-1-2024-neonx-originals-hindi-uncut-xxx-video	
