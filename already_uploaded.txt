@@ -2152,7 +2152,6 @@
 3484	SKIPPED	Chowkidar Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3485	SKIPPED	Chowkidar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3486	SKIPPED	Chowkidar Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Jugnu%20Tv/Chowkidar/Chowkidar%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1089	SKIPPED	Pratha Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1090	SKIPPED	Pratha Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Pratha/Pratha%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 1091	UPLOADED	Bhootpur Episode 4
 1092	SKIPPED	Bhootpur Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Ratri/Bhootpur/Bhootpur%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4939,3 +4938,4 @@
 4042	UPLOADED	Dhandha 2024 Moodx Vip Hindi XXX Web Series Episode 3	https://bindasmood.com/dhandha-2024-moodx-vip-hindi-xxx-web-series-episode-3	
 2065	UPLOADED	Besharam 2025 Ullu Hindi XXX Web Series Episode 2	https://bindasmood.com/besharam-2025-ullu-hindi-xxx-web-series-episode-2	
 3047	UPLOADED	Majnu Bawlaa 2024 Hulchul Hindi XXX Web Series Episode 2	https://bindasmood.com/majnu-bawlaa-2024-hulchul-hindi-xxx-web-series-episode-2	
+1089	UPLOADED	Thermometer Raw BTS 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/thermometer-raw-bts-2025-moodx-vip-hindi-uncut-xxx-video	
