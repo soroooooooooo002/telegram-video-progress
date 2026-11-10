@@ -1163,7 +1163,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3052	SKIPPED	B Se Blause Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/B%20Se%20Blause/B%20Se%20Blouse%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3053	SKIPPED	B Se Blause Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/B%20Se%20Blause/B%20Se%20Blouse%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3054	SKIPPED	Ballu Rangeela Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Ballu%20Rangeela/Ballu%20Rangeela%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3055	SKIPPED	Ballu Rangeela Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Ballu%20Rangeela/Ballu%20Rangeela%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4948,3 +4947,4 @@
 4047	UPLOADED	Soul Reader 2024 Atrangii Hindi XXX Web Series Episode 1	https://bindasmood.com/soul-reader-2024-atrangii-hindi-xxx-web-series-episode-1	
 182	UPLOADED	Girlfriend Boyfriend 2026 Hindi Uncut XXX Video	https://bindasmood.com/girlfriend-boyfriend-2026-hindi-uncut-xxx-video	
 2069	UPLOADED	Madam Ji 2025 Hulchul Hindi XXX Web Series Episode 4	https://bindasmood.com/madam-ji-2025-hulchul-hindi-xxx-web-series-episode-4	
+3052	UPLOADED	Kya Khoob Lagti Ho 2024 Ullu Hindi XXX Web Series Ep 2	https://bindasmood.com/kya-khoob-lagti-ho-2024-ullu-hindi-xxx-web-series-ep-2	
