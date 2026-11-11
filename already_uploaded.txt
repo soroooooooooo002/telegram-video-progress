@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3076	SKIPPED	Life Insurance Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Life%20Insurance/Life%20Insurance%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3077	SKIPPED	Pyaas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Pyaas/Pyaas%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3078	SKIPPED	Pyaas Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Pyaas/Pyaas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3079	SKIPPED	Tadap (Atrangii) Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4982,3 +4981,4 @@
 4061	UPLOADED	Sitiyabaaz 2024 Desiflix Originals Hindi XXX Series Episode 1	https://bindasmood.com/sitiyabaaz-2024-desiflix-originals-hindi-xxx-series-episode-1	
 5012	UPLOADED	Damad Ji 2.0 2023 Neonx Vip Originals Hindi Hot XXX Video	https://bindasmood.com/damad-ji-2-0-2023-neonx-vip-originals-hindi-hot-xxx-video	
 2090	UPLOADED	Rangeen Kahaniyan 25 2025 Altt App Hindi XXX Web Series Ep 4	https://bindasmood.com/rangeen-kahaniyan-25-2025-altt-app-hindi-xxx-web-series-ep-4	
+3076	UPLOADED	Sasur Ki Nayee Dulhan 2024 Jugnu App Hindi XXX Web Series Ep 2	https://bindasmood.com/sasur-ki-nayee-dulhan-2024-jugnu-app-hindi-xxx-web-series-ep-2	
