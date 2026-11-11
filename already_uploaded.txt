@@ -3740,7 +3740,6 @@
 1488	UPLOADED	Mithai Wali Episode 4
 5146	UPLOADED	Bhasudi Episode 5
 1489	UPLOADED	Mithai Wali Episode 1
-4078	SKIPPED	Firangi Thakurain Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Firangi%20Thakurain%20S01E01%20To%202%20%28XSeries.IN%29.mp4
 4079	SKIPPED	Complementary Massage Episode 1 To 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Complementary%20Massage%20S01E01%20To%203%20%28XSeries.IN%29.mp4
 4080	SKIPPED	Laila Season 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Laila%20%282022%29/Laila%20S1%20Full%20Video%20%28XSeries.IN%29.mp4
 4081	SKIPPED	Dr. Gupt Rogon Ke Mahir Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Dr%20Gupt%20Rogon%20Ke%20Mahir/Dr%20Gupt%20Rogon%20Ke%20Mahir%20Episode%204.mp4
@@ -5007,3 +5006,4 @@
 208	UPLOADED	Patni Ki Tadap 2026 Hindi Uncut XXX Video	https://bindasmood.com/patni-ki-tadap-2026-hindi-uncut-xxx-video	
 1125	UPLOADED	Rasgulla 2025 Moovi Hindi XXX Web Series Episode 3	https://bindasmood.com/rasgulla-2025-moovi-hindi-xxx-web-series-episode-3	
 1126	FAILED	URL item 1126	https://bindasmood.com/rasgulla-2025-moovi-hindi-xxx-web-series-episode-2	No direct MP4 link found in webpage.
+4078	UPLOADED	Dirty Talk 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/dirty-talk-2024-fugi-app-originals-hindi-uncut-xxx-video	
