@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3070	SKIPPED	Jungle Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3071	SKIPPED	Jungle Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3072	SKIPPED	Jungle Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3073	SKIPPED	Jungle Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4971,3 +4970,4 @@
 5005	UPLOADED	Sexy Hungry Wife 2023 Sexfantasy Hindi Hot XXX Video	https://bindasmood.com/sexy-hungry-wife-2023-sexfantasy-hindi-hot-xxx-video	
 1102	UPLOADED	Maami 3 2025 Feni App Originals Malayalam Uncut XXX Video	https://bindasmood.com/maami-3-2025-feni-app-originals-malayalam-uncut-xxx-video	
 5006	UPLOADED	Cute Stepsister Fuck 2023 Sexfantasy Hindi Hot XXX Video	https://bindasmood.com/cute-stepsister-fuck-2023-sexfantasy-hindi-hot-xxx-video	
+3070	UPLOADED	Wah Damad Ji 2 2024 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/wah-damad-ji-2-2024-neonx-vip-hindi-uncut-xxx-video	
