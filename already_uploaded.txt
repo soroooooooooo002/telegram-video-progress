@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3066	SKIPPED	Paheli Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /HitPrime/Paheli/Paheli%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3067	SKIPPED	Barkha Bhabhi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3068	SKIPPED	Barkha Bhabhi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3069	SKIPPED	Barkha Bhabhi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Barkha%20Bhabhi/Barkha%20Bhabhi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4968,3 +4967,4 @@
 5000	UPLOADED	Phooljhadi 2023 Chiku Orignals Hindi XXX Web Series Ep 2	https://bindasmood.com/phooljhadi-2023-chiku-orignals-hindi-xxx-web-series-ep-2	
 2081	UPLOADED	Gore Gore Gaal 2025 Ullu Hindi XXX Web Series Episode 1	https://bindasmood.com/gore-gore-gaal-2025-ullu-hindi-xxx-web-series-episode-1	
 190	UPLOADED	Horny Big Boob Wife Fucked 2026 Indianxworld Hindi XXX Video	https://bindasmood.com/horny-big-boob-wife-fucked-2026-indianxworld-hindi-xxx-video	
+3066	UPLOADED	Killer 2024 Jalva App Hindi XXX Web Series Episode 1	https://bindasmood.com/killer-2024-jalva-app-hindi-xxx-web-series-episode-1	
