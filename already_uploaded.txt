@@ -3764,7 +3764,6 @@
 1487	UPLOADED	Utha Le Jaunga Episode 6
 5144	UPLOADED	Bidaai 2 Episode 9
 1488	UPLOADED	Mithai Wali Episode 4
-4072	SKIPPED	Suhagraat Indian XXX by Jinnie Jaaz	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Kaanta%20Laga/Kaanta%20Laga%20Episode%207.mp4
 5146	UPLOADED	Bhasudi Episode 5
 1489	UPLOADED	Mithai Wali Episode 1
 4073	UPLOADED	Jinnie Jaaz Hot XXX Web Series
@@ -4996,3 +4995,4 @@
 3087	UPLOADED	Two Sisters 2024 Habbit Movies Hindi XXX Web Series Ep 3	https://bindasmood.com/two-sisters-2024-habbit-movies-hindi-xxx-web-series-ep-3	
 1117	FAILED	URL item 1117	https://bindasmood.com/boyfriend-sharing-2025-indianxworld-hindi-xxx-video	All video sources failed: HTTPSConnectionPool(host='cdn2.ixifile.xyz', port=443): Max retries exceeded with url: /3/Boyfriend%20sharing%20sex%20IndianXworld.mp4 (Caused by NameResolutionError("HTTPSConnection(host='cdn2.ixifile.xyz', port=443): Failed to resolve 'cdn2.ixifile.xyz' ([Errno -2] Name or service not known)"))
 5029	UPLOADED	Dhoka 2023 Besharams Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/dhoka-2023-besharams-originals-hindi-xxx-web-series-ep-5	
+4072	UPLOADED	Pallavi Ki Solo 2024 Feneo Movies Hindi Solo XXX Video	https://bindasmood.com/pallavi-ki-solo-2024-feneo-movies-hindi-solo-xxx-video	
