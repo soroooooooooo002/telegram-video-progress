@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3090	SKIPPED	Double Trouble Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E6.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3091	SKIPPED	Double Trouble Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3092	SKIPPED	Double Trouble Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3093	SKIPPED	Double Trouble Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5001,3 +5000,4 @@
 1119	UPLOADED	Girlfriend Birthday Celebration 2025 Hindi Uncut XXX Video	https://bindasmood.com/girlfriend-birthday-celebration-2025-hindi-uncut-xxx-video	
 2100	UPLOADED	Madam Ji 2025 Hulchul Hindi XXX Web Series Episode 2	https://bindasmood.com/madam-ji-2025-hulchul-hindi-xxx-web-series-episode-2	
 4075	UPLOADED	Power 2024 Hitprime Hindi XXX Web Series Episode 7	https://bindasmood.com/power-2024-hitprime-hindi-xxx-web-series-episode-7	
+3090	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-2	
