@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3093	SKIPPED	Double Trouble Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3094	SKIPPED	Double Trouble Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3095	SKIPPED	Double Trouble Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3096	SKIPPED	Jawani Ki Lassi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Saathi/Jawani%20Ki%20Lassi/Jawani%20Ki%20Lassi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5003,3 +5002,4 @@
 2101	UPLOADED	Madam Ji 2025 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/madam-ji-2025-hulchul-hindi-xxx-web-series-episode-1	
 1122	UPLOADED	Rasgulla 2025 Moovi Hindi XXX Web Series Episode 6	https://bindasmood.com/rasgulla-2025-moovi-hindi-xxx-web-series-episode-6	
 4077	UPLOADED	Wet Work 2024 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/wet-work-2024-neonx-originals-hindi-uncut-xxx-video	
+3093	UPLOADED	Hotel Room 2024 Hindi Uncut Desi XXX Video	https://bindasmood.com/hotel-room-2024-hindi-uncut-desi-xxx-video	
