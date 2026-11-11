@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3078	SKIPPED	Pyaas Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Pyaas/Pyaas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3079	SKIPPED	Tadap (Atrangii) Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3080	SKIPPED	Tadap (Atrangii) Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3081	SKIPPED	Tadap (Atrangii) Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4984,3 +4983,4 @@
 2091	UPLOADED	Rangeen Kahaniyan 25 2025 Altt App Hindi XXX Web Series Ep 3	https://bindasmood.com/rangeen-kahaniyan-25-2025-altt-app-hindi-xxx-web-series-ep-3	
 5015	UPLOADED	Sauteli Maa Ko Sautele Bete Choda 2023 Bindastimes XXX Video	https://bindasmood.com/sauteli-maa-ko-sautele-bete-choda-2023-bindastimes-xxx-video	
 1110	UPLOADED	Tu Haan Kar Ya Naa Kar 2025 Ullu Hindi XXX Web Series Ep 4	https://bindasmood.com/tu-haan-kar-ya-naa-kar-2025-ullu-hindi-xxx-web-series-ep-4	
+3078	UPLOADED	Tadap 2024 Cineon App Hindi XXX Web Series Episode 2	https://bindasmood.com/tadap-2024-cineon-app-hindi-xxx-web-series-episode-2	
