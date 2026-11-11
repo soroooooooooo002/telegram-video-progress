@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3091	SKIPPED	Double Trouble Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3092	SKIPPED	Double Trouble Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3093	SKIPPED	Double Trouble Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3094	SKIPPED	Double Trouble Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5001,3 +5000,4 @@
 5035	UPLOADED	Julie Maam Ki Extra Class Wow Originals Hindi XXX Web Series Ep3	https://bindasmood.com/julie-maam-ki-extra-class-wow-originals-hindi-xxx-web-series-ep3	
 1120	UPLOADED	Kiraayedaar 2025 BulbulPlay Hindi XXX Web Series Episode 2	https://bindasmood.com/kiraayedaar-2025-bulbulplay-hindi-xxx-web-series-episode-2	
 4076	UPLOADED	Power 2024 Hitprime Hindi XXX Web Series Episode 8	https://bindasmood.com/power-2024-hitprime-hindi-xxx-web-series-episode-8	
+3091	UPLOADED	Shaukiya 2024 Ullu Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/shaukiya-2024-ullu-originals-hindi-xxx-web-series-ep-3	
