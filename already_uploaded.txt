@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3079	SKIPPED	Tadap (Atrangii) Episode 9	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%209.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3080	SKIPPED	Tadap (Atrangii) Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3081	SKIPPED	Tadap (Atrangii) Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%207.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3082	SKIPPED	Tadap (Atrangii) Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4985,3 +4984,4 @@
 2092	UPLOADED	Rangeen Kahaniyan 25 2025 Altt App Hindi XXX Web Series Ep 2	https://bindasmood.com/rangeen-kahaniyan-25-2025-altt-app-hindi-xxx-web-series-ep-2	
 5017	UPLOADED	Maaya 2023 Showx Originals Hindi Hot XXX Video	https://bindasmood.com/maaya-2023-showx-originals-hindi-hot-xxx-video	
 1111	UPLOADED	Double Cross Raw BTS 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/double-cross-raw-bts-2025-moodx-vip-hindi-uncut-xxx-video	
+3079	UPLOADED	Boss Kand 2024 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/boss-kand-2024-moodx-vip-hindi-uncut-xxx-video	
