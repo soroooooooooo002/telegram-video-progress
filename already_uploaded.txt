@@ -3552,7 +3552,6 @@
 3959	UPLOADED	Rivaaz Episode 1
 1448	UPLOADED	Raat Baaki Baat Baaki Episode 2
 1449	UPLOADED	Raat Baaki Baat Baaki Episode 3
-5048	SKIPPED	Devar Ji Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5049	SKIPPED	Devar Ji Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5050	SKIPPED	Devar Ji Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5051	SKIPPED	Devar Ji Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5011,3 +5010,4 @@
 5045	UPLOADED	Car Washing 2023 Fugi App Hindi XXX Short Film	https://bindasmood.com/car-washing-2023-fugi-app-hindi-xxx-short-film	
 5046	UPLOADED	Satisfaction 2023 Fugi Originals Hindi Uncut XXX Short Film	https://bindasmood.com/satisfaction-2023-fugi-originals-hindi-uncut-xxx-short-film	
 5047	UPLOADED	Nurse 2023 Fugi App Originals Hindi Uncut XXX Short Film	https://bindasmood.com/nurse-2023-fugi-app-originals-hindi-uncut-xxx-short-film	
+5048	UPLOADED	Nanga Nach 2023 Fugi App Hindi Uncut XXX Short Film	https://bindasmood.com/nanga-nach-2023-fugi-app-hindi-uncut-xxx-short-film	
