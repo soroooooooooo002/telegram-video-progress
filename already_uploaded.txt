@@ -3757,7 +3757,6 @@
 1488	UPLOADED	Mithai Wali Episode 4
 5146	UPLOADED	Bhasudi Episode 5
 1489	UPLOADED	Mithai Wali Episode 1
-4075	SKIPPED	Bachelor Party Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%201.mp4
 4076	SKIPPED	Bachelor Party Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Bachelor%20Party/Bachelor%20Party%20Episode%202.mp4
 4077	SKIPPED	Desires Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Originals/Desires/Desires%20Episode%202.mp4
 4078	SKIPPED	Firangi Thakurain Episode 1 To 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Firangi%20Thakurain%20S01E01%20To%202%20%28XSeries.IN%29.mp4
@@ -5001,3 +5000,4 @@
 5034	UPLOADED	Julie Maam Ki Extra Class Wow Originals Hindi XXX Web Series Ep2	https://bindasmood.com/julie-maam-ki-extra-class-wow-originals-hindi-xxx-web-series-ep2	
 1119	UPLOADED	Girlfriend Birthday Celebration 2025 Hindi Uncut XXX Video	https://bindasmood.com/girlfriend-birthday-celebration-2025-hindi-uncut-xxx-video	
 2100	UPLOADED	Madam Ji 2025 Hulchul Hindi XXX Web Series Episode 2	https://bindasmood.com/madam-ji-2025-hulchul-hindi-xxx-web-series-episode-2	
+4075	UPLOADED	Power 2024 Hitprime Hindi XXX Web Series Episode 7	https://bindasmood.com/power-2024-hitprime-hindi-xxx-web-series-episode-7	
