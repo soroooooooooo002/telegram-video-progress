@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3075	SKIPPED	Life Insurance Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Life%20Insurance/Life%20Insurance%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3076	SKIPPED	Life Insurance Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Life%20Insurance/Life%20Insurance%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3077	SKIPPED	Pyaas Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Pyaas/Pyaas%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3078	SKIPPED	Pyaas Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Pyaas/Pyaas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4980,3 +4979,4 @@
 2088	UPLOADED	Junun 2025 Teflix Hindi XXX Web Series Episode 1	https://bindasmood.com/junun-2025-teflix-hindi-xxx-web-series-episode-1	
 2089	FAILED	URL item 2089	https://bindasmood.com/andha-dever-2025-moodx-hindi-xxx-web-series-episode-2	No direct MP4 link found in webpage.
 1108	UPLOADED	Tu Haan Kar Ya Naa Kar 2025 Ullu Hindi XXX Web Series Ep 6	https://bindasmood.com/tu-haan-kar-ya-naa-kar-2025-ullu-hindi-xxx-web-series-ep-6	
+3075	UPLOADED	Sasur Ki Nayee Dulhan 2024 Jugnu App Hindi XXX Web Series Ep 3	https://bindasmood.com/sasur-ki-nayee-dulhan-2024-jugnu-app-hindi-xxx-web-series-ep-3	
