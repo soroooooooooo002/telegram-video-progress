@@ -3593,7 +3593,6 @@
 4999	SKIPPED	Estate Manager Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3954	UPLOADED	Chatur Naar Episode 4
 1445	UPLOADED	Chidiya Episode 3
-5010	SKIPPED	Dunali Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5011	SKIPPED	Dunali 2 Episode 9	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5012	SKIPPED	Dunali 2 Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1446	UPLOADED	Chidiya Episode 4
@@ -4976,3 +4975,4 @@
 3072	UPLOADED	Ek Haseena 2024 Namasteyflix Hindi XXX Web Series Epsiode 1	https://bindasmood.com/ek-haseena-2024-namasteyflix-hindi-xxx-web-series-epsiode-1	
 1106	UPLOADED	Ghoonghat 2025 Dzyreplay Hindi Uncut XXX Web Series Ep 4	https://bindasmood.com/ghoonghat-2025-dzyreplay-hindi-uncut-xxx-web-series-ep-4	
 2086	UPLOADED	Ravan 2025 9RedMovies Hindi XXX Web Series Epsiode 1	https://bindasmood.com/ravan-2025-9redmovies-hindi-xxx-web-series-epsiode-1	
+5010	UPLOADED	Jamuniya 2023 Moodx Vip Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/jamuniya-2023-moodx-vip-originals-hindi-xxx-web-series-ep-3	
