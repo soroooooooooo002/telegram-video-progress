@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3086	SKIPPED	Tadap (Atrangii) Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3087	SKIPPED	Tadap (Atrangii) Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Tadap/Tadap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3088	SKIPPED	Double Trouble Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3089	SKIPPED	Double Trouble Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Double%20Trouble/Double%20Trouble%20E7.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4995,3 +4994,4 @@
 5026	UPLOADED	Crimes and Confessions S2 2023 Altbalaji XXX Web Series Ep 6	https://bindasmood.com/crimes-and-confessions-s2-2023-altbalaji-xxx-web-series-ep-6	
 4070	UPLOADED	Malik 2024 Jalva App Hindi XXX Web Series Episode 1	https://bindasmood.com/malik-2024-jalva-app-hindi-xxx-web-series-episode-1	
 2098	UPLOADED	Resmi Nair A Threesome Game 2025 Hindi Uncut XXX Video	https://bindasmood.com/resmi-nair-a-threesome-game-2025-hindi-uncut-xxx-video	
+3086	UPLOADED	Dewrani Jethani 2024 Kangan App Hindi XXX Web Series Ep 2	https://bindasmood.com/dewrani-jethani-2024-kangan-app-hindi-xxx-web-series-ep-2	
