@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3072	SKIPPED	Jungle Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3073	SKIPPED	Jungle Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3074	SKIPPED	Jungle Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3075	SKIPPED	Life Insurance Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Life%20Insurance/Life%20Insurance%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4975,3 +4974,4 @@
 1105	UPLOADED	Kiraayedaar 2025 BulbulPlay Hindi XXX Web Series Episode 3	https://bindasmood.com/kiraayedaar-2025-bulbulplay-hindi-xxx-web-series-episode-3	
 4059	UPLOADED	Delivery Boy Aur Malkin 2024 Sexfantasy Hindi Uncut XXX Video	https://bindasmood.com/delivery-boy-aur-malkin-2024-sexfantasy-hindi-uncut-xxx-video	
 5009	UPLOADED	Bima Babu 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/bima-babu-2023-hunters-originals-hindi-xxx-web-series-ep-2	
+3072	UPLOADED	Ek Haseena 2024 Namasteyflix Hindi XXX Web Series Epsiode 1	https://bindasmood.com/ek-haseena-2024-namasteyflix-hindi-xxx-web-series-epsiode-1	
