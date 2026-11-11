@@ -1162,7 +1162,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3071	SKIPPED	Jungle Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3072	SKIPPED	Jungle Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3073	SKIPPED	Jungle Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3074	SKIPPED	Jungle Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hotmx/Jungle/Jungle%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -4973,3 +4972,4 @@
 1103	UPLOADED	Vezhcha 2025 Ibamovies Malayalam XXX Web Series Episode 2	https://bindasmood.com/vezhcha-2025-ibamovies-malayalam-xxx-web-series-episode-2	
 5007	UPLOADED	Bima Babu 2023 Hunters Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/bima-babu-2023-hunters-originals-hindi-xxx-web-series-ep-1	
 4058	UPLOADED	Makan Malik Aur Kirayedar 2024 Sexfantasy Hindi XXX Video	https://bindasmood.com/makan-malik-aur-kirayedar-2024-sexfantasy-hindi-xxx-video	
+3071	UPLOADED	Harami Boss 2024 Dugru App Hindi Hot Uncut XXX Video	https://bindasmood.com/harami-boss-2024-dugru-app-hindi-hot-uncut-xxx-video	
