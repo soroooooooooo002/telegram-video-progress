@@ -2059,7 +2059,6 @@
 999	SKIPPED	Kirayedaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Wow%20Entertainment/Kirayedaar/Kirayedaar%20Episode%202.mp4
 3445	UPLOADED	Yeh Hai Sanak Episode 3
 4396	UPLOADED	Rikshawala Episode 4
-5058	UPLOADED	Desi Kisse Jaanch Padtaal Episode 2
 3446	UPLOADED	Yeh Hai Sanak Episode 2
 3447	UPLOADED	Yeh Hai Sanak Episode 1
 3448	SKIPPED	Phere Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Phere/Phere%20Episode%205.mp4
@@ -5011,3 +5010,4 @@
 5055	UPLOADED	HIV 2023 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/hiv-2023-fugi-app-originals-hindi-uncut-xxx-video	
 5056	UPLOADED	Psycho Lover 2023 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/psycho-lover-2023-fugi-app-originals-hindi-uncut-xxx-video	
 5057	UPLOADED	Pastry 2023 Fliz Movies Hindi XXX Web Series Episode 1	https://bindasmood.com/pastry-2023-fliz-movies-hindi-xxx-web-series-episode-1	
+5058	UPLOADED	Kirayedaar 2023 Wow Entertainment Hindi XXX Web Series Ep 1	https://bindasmood.com/kirayedaar-2023-wow-entertainment-hindi-xxx-web-series-ep-1	
