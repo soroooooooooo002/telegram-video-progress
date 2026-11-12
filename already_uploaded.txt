@@ -3828,7 +3828,6 @@
 4142	SKIPPED	House Arrest Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%204.mp4
 4143	SKIPPED	House Arrest Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%205.mp4
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5193	SKIPPED	Na Umra Ki Seema Ho Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Na%20Umra%20Ki%20Seema%20Ho-C5/Na%20Umra%20Ki%20Seema%20Ho%20E7.mp4
 5194	SKIPPED	Na Umra Ki Seema Ho Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/ULLU/Na%20Umra%20Ki%20Seema%20Ho-C5/Na%20Umra%20Ki%20Seema%20Ho%20E8.mp4
 5195	SKIPPED	Love Letter Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Love%20Letter/Love%20Letter%20E1.mp4
 5196	SKIPPED	Love Letter Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Love%20Letter/Love%20Letter%20E2.mp4
@@ -5011,3 +5010,4 @@
 5190	UPLOADED	Chull Part 1 2023 Ullu Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/chull-part-1-2023-ullu-originals-hindi-xxx-web-series-ep-2	
 5191	UPLOADED	Chull Part 1 2023 Ullu Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/chull-part-1-2023-ullu-originals-hindi-xxx-web-series-ep-3	
 5192	UPLOADED	Jalebi 4 2023 Rabbit Movies Hindi XXX Web Series Episode 3	https://bindasmood.com/jalebi-4-2023-rabbit-movies-hindi-xxx-web-series-episode-3	
+5193	UPLOADED	Jalebi 4 2023 Rabbit Movies Hindi XXX Web Series Episode 4	https://bindasmood.com/jalebi-4-2023-rabbit-movies-hindi-xxx-web-series-episode-4	
