@@ -3552,7 +3552,6 @@
 1448	UPLOADED	Raat Baaki Baat Baaki Episode 2
 1449	UPLOADED	Raat Baaki Baat Baaki Episode 3
 1450	UPLOADED	Raat Baaki Baat Baaki Episode 4
-5068	SKIPPED	De Dana Dan Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 5069	SKIPPED	De Dana Dan Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1451	UPLOADED	Ansh Episode 7
 3961	UPLOADED	Rivaaz Episode 3
@@ -5011,3 +5010,4 @@
 5065	UPLOADED	Detective Lande 2023 Cineprime Hindi XXX Web Series Ep 3	https://bindasmood.com/detective-lande-2023-cineprime-hindi-xxx-web-series-ep-3	
 5066	UPLOADED	Sainyaa Salman Season 2 Rabbit Movies XXX Web Series Ep 7	https://bindasmood.com/sainyaa-salman-season-2-rabbit-movies-xxx-web-series-ep-7	
 5067	UPLOADED	Sainyaa Salman Season 2 Rabbit Movies XXX Web Series Ep 8	https://bindasmood.com/sainyaa-salman-season-2-rabbit-movies-xxx-web-series-ep-8	
+5068	UPLOADED	Jaan Bujh Kar 2 2023 Voovi Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/jaan-bujh-kar-2-2023-voovi-originals-hindi-xxx-web-series-ep-3	
