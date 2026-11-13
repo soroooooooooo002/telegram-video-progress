@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3136	SKIPPED	Gharwali Bharwali Episode 4	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3137	SKIPPED	Gharwali Bharwali Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3138	SKIPPED	Gharwali Bharwali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3139	SKIPPED	Gharwali Bharwali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5062,3 +5061,4 @@
 4114	UPLOADED	Thand Ka Maza 2024 Bigshots Hindi XXX Web Series Episode 6	https://bindasmood.com/thand-ka-maza-2024-bigshots-hindi-xxx-web-series-episode-6	
 5030	UPLOADED	Dhoka 2023 Besharams Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/dhoka-2023-besharams-originals-hindi-xxx-web-series-ep-4	
 2129	UPLOADED	Secrets of Love 2025 Hindi Uncut XXX Video	https://bindasmood.com/secrets-of-love-2025-hindi-uncut-xxx-video	
+3136	UPLOADED	Golden Shower 2024 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/golden-shower-2024-moodx-vip-hindi-uncut-xxx-video	
