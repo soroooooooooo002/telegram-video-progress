@@ -1160,7 +1160,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3110	SKIPPED	Haveli Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3111	SKIPPED	Haveli Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3112	SKIPPED	Haveli Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FHaveli-C1%2FHaveli%20E6.mp4
 3113	SKIPPED	Haveli Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E7.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5024,3 +5023,4 @@
 3109	UPLOADED	Sanam Bewafa 2024 Bull App Hindi XXX Web Series Episode 2	https://bindasmood.com/sanam-bewafa-2024-bull-app-hindi-xxx-web-series-episode-2	
 4094	UPLOADED	House Keeping 2024 Soltalkies Hindi XXX Web Series Episode 2	https://bindasmood.com/house-keeping-2024-soltalkies-hindi-xxx-web-series-episode-2	
 5009	UPLOADED	Bima Babu 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/bima-babu-2023-hunters-originals-hindi-xxx-web-series-ep-2	
+3110	UPLOADED	Sasur Ki Dulhan 2024 Jugnu App Hindi XXX Web Series Episode 1	https://bindasmood.com/sasur-ki-dulhan-2024-jugnu-app-hindi-xxx-web-series-episode-1	
