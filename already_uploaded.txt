@@ -3715,7 +3715,6 @@
 5294	SKIPPED	Aao Kare Gutur Gu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E4.mp4
 5466	SKIPPED	Aarzoo Episode 1	Cannot send requests while disconnected
 5467	SKIPPED	Aarzoo Episode 5	Cannot send requests while disconnected
-4150	UPLOADED	Lag Ja Gale Episode 5
 5468	SKIPPED	Aarzoo Episode 2	Cannot send requests while disconnected
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
 5469	SKIPPED	Corporate Kaand Episode 6	Cannot send requests while disconnected
@@ -5115,3 +5114,4 @@
 5061	UPLOADED	Nachaniya 2023 Showx Originals Hindi Hot XXX Video	https://bindasmood.com/nachaniya-2023-showx-originals-hindi-hot-xxx-video	
 261	UPLOADED	Ex-Boyfrend Ke Saath Sex 2026 Hindi Uncut XXX Video	https://bindasmood.com/ex-boyfrend-ke-saath-sex-2026-hindi-uncut-xxx-video	
 3164	UPLOADED	Utha Patak 3 2024 Altt App Hindi XXX Web Series Episode 2	https://bindasmood.com/utha-patak-3-2024-altt-app-hindi-xxx-web-series-episode-2	
+4150	UPLOADED	Psycho Lover 2024 2024 Atrangii Hindi XXX Web Series Ep 1	https://bindasmood.com/psycho-lover-2024-2024-atrangii-hindi-xxx-web-series-ep-1	
