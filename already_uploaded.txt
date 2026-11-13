@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3129	SKIPPED	Kaneez Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E6.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3130	SKIPPED	Kaneez Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E7.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3131	SKIPPED	Kaneez Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3132	SKIPPED	Kaneez Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E9.mp4
@@ -5048,3 +5047,4 @@
 3128	UPLOADED	Bijali 2024 Kangan Hindi XXX Web Series Episode 1	https://bindasmood.com/bijali-2024-kangan-hindi-xxx-web-series-episode-1	
 1150	UPLOADED	Hot Indian Aunty 2025 Hindi Uncut XXX Video	https://bindasmood.com/hot-indian-aunty-2025-hindi-uncut-xxx-video	
 4106	UPLOADED	Kinner-X 2024 Moodx Vip Hindi XXX Web Series Episode 1	https://bindasmood.com/kinner-x-2024-moodx-vip-hindi-xxx-web-series-episode-1	
+3129	UPLOADED	Bijali 2024 Kangan Hindi XXX Web Series Episode 2	https://bindasmood.com/bijali-2024-kangan-hindi-xxx-web-series-episode-2	
