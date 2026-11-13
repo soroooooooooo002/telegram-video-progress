@@ -3647,7 +3647,6 @@
 5458	SKIPPED	Psycho Saiyaan Episode 3	Cannot send requests while disconnected
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
-4143	SKIPPED	House Arrest Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%205.mp4
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
 5213	SKIPPED	Jassi Kingg Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jassi%20Kingg/Jassi%20Kingg%20E1.mp4
 5214	SKIPPED	Jassi Kingg Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jassi%20Kingg/Jassi%20Kingg%20E2.mp4
@@ -5104,3 +5103,4 @@
 3155	UPLOADED	Killing Attraction 2024 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/killing-attraction-2024-neonx-vip-hindi-uncut-xxx-video	
 1186	UPLOADED	Do Din Ka Mehmaan 2025 Ullu Hindi XXX Web Series Episode 5	https://bindasmood.com/do-din-ka-mehmaan-2025-ullu-hindi-xxx-web-series-episode-5	
 3156	UPLOADED	Goa Bhabhi Deleted Scenes 2024 Navarasa Hindi Hot XXX Video	https://bindasmood.com/goa-bhabhi-deleted-scenes-2024-navarasa-hindi-hot-xxx-video	
+4143	UPLOADED	Director Ke Saath 2024 Kangan App Hindi XXX Web Series Ep 1	https://bindasmood.com/director-ke-saath-2024-kangan-app-hindi-xxx-web-series-ep-1	
