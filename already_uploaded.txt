@@ -1160,7 +1160,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3124	SKIPPED	Kaneez Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3125	SKIPPED	Kaneez Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3126	SKIPPED	Kaneez Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3127	SKIPPED	Kaneez Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5042,3 +5041,4 @@
 226	UPLOADED	Maa Aur Uski Saheli 2026 Hunter Asia Hindi Uncut XXX Video	https://bindasmood.com/maa-aur-uski-saheli-2026-hunter-asia-hindi-uncut-xxx-video	
 2119	UPLOADED	Guard Babu 2025 Makhan App Hindi XXX Web Series Episode 2	https://bindasmood.com/guard-babu-2025-makhan-app-hindi-xxx-web-series-episode-2	
 1147	UPLOADED	Kishori Dhaba 2025 BulbulPlay Hindi XXX Web Series Ep 4	https://bindasmood.com/kishori-dhaba-2025-bulbulplay-hindi-xxx-web-series-ep-4	
+3124	UPLOADED	Mr Chourasiya 2 2024 Habbit Movies Hindi XXX Web Series Ep 5	https://bindasmood.com/mr-chourasiya-2-2024-habbit-movies-hindi-xxx-web-series-ep-5-2	
