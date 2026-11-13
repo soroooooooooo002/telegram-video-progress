@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3131	SKIPPED	Kaneez Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3132	SKIPPED	Kaneez Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E9.mp4
 3133	SKIPPED	Haseen Maut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3134	SKIPPED	Haseen Maut Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5054,3 +5053,4 @@
 5025	UPLOADED	Private Party 2023 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/private-party-2023-neonx-originals-hindi-uncut-xxx-video	
 232	UPLOADED	Threesome with My Stepson 2026 English XXX Video	https://bindasmood.com/threesome-with-my-stepson-2026-english-xxx-video	
 2125	UPLOADED	Gharwali Baharwali 2025 Teflix Hindi XXX Web Series Episode 4	https://bindasmood.com/gharwali-baharwali-2025-teflix-hindi-xxx-web-series-episode-4	
+3131	UPLOADED	Bai No 1 2024 Chillx App Hindi XXX Web Series Episode 7	https://bindasmood.com/bai-no-1-2024-chillx-app-hindi-xxx-web-series-episode-7	
