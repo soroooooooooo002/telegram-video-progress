@@ -3608,7 +3608,6 @@
 1492	UPLOADED	Mithai Wali Episode 5
 5312	SKIPPED	Aakhri Raat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E2.mp4
 1493	UPLOADED	Mithai Wali Episode 6
-4095	UPLOADED	Goa Trip Episode 2
 1494	UPLOADED	Mithai Wali Episode 7
 4096	UPLOADED	Goa Trip Episode 1
 1495	UPLOADED	Payal Episode 6
@@ -5025,3 +5024,4 @@
 3110	UPLOADED	Sasur Ki Dulhan 2024 Jugnu App Hindi XXX Web Series Episode 1	https://bindasmood.com/sasur-ki-dulhan-2024-jugnu-app-hindi-xxx-web-series-episode-1	
 2111	UPLOADED	Tadap 2025 Jalsa TV Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/tadap-2025-jalsa-tv-originals-hindi-xxx-web-series-ep-2	
 1137	UPLOADED	Double Cross 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/double-cross-2025-moodx-vip-hindi-uncut-xxx-video	
+4095	UPLOADED	House Keeping 2024 Soltalkies Hindi XXX Web Series Episode 3	https://bindasmood.com/house-keeping-2024-soltalkies-hindi-xxx-web-series-episode-3	
