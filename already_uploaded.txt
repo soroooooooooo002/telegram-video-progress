@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3138	SKIPPED	Gharwali Bharwali Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3139	SKIPPED	Gharwali Bharwali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5462	SKIPPED	Pyaar Ke Panchhi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Pyaar%20Ke%20Panchhi/Pyaar%20Ke%20Panchhi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5463	SKIPPED	Pyaar Ke Panchhi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Pyaar%20Ke%20Panchhi/Pyaar%20Ke%20Panchhi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5066,3 +5065,4 @@
 238	UPLOADED	Mocktail 2026 Atrangii Hindi XXX Web Series Part 2	https://bindasmood.com/mocktail-2026-atrangii-hindi-xxx-web-series-part-2	
 2131	UPLOADED	Untamed Love 2025 Hindi Uncut XXX Video	https://bindasmood.com/untamed-love-2025-hindi-uncut-xxx-video	
 4117	UPLOADED	Mooh 4 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/mooh-4-2024-fugi-app-originals-hindi-uncut-xxx-video	
+3138	UPLOADED	Dark Therapy 2024 Moodx Vip Hindi XXX Web Series Episode 2	https://bindasmood.com/dark-therapy-2024-moodx-vip-hindi-xxx-web-series-episode-2	
