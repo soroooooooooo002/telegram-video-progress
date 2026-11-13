@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3139	SKIPPED	Gharwali Bharwali Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Gharwali%20Bharwali/Gharwali%20Bharwali%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5462	SKIPPED	Pyaar Ke Panchhi Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Pyaar%20Ke%20Panchhi/Pyaar%20Ke%20Panchhi%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5463	SKIPPED	Pyaar Ke Panchhi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Pyaar%20Ke%20Panchhi/Pyaar%20Ke%20Panchhi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5464	SKIPPED	Aarzoo Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Aarzoo/Aarzoo%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5066,3 +5065,4 @@
 5034	UPLOADED	Julie Maam Ki Extra Class Wow Originals Hindi XXX Web Series Ep2	https://bindasmood.com/julie-maam-ki-extra-class-wow-originals-hindi-xxx-web-series-ep2	
 1162	UPLOADED	Newly Married Husband Wife 2025 Hindi Uncut XXX Video	https://bindasmood.com/newly-married-husband-wife-2025-hindi-uncut-xxx-video	
 4118	UPLOADED	Sisters 2024 Bull App Hindi XXX Web Series Episode 3	https://bindasmood.com/sisters-2024-bull-app-hindi-xxx-web-series-episode-3	
+3139	UPLOADED	Jaanu Jaanlewa 2024 Altt App Hindi XXX Web Series Episode 2	https://bindasmood.com/jaanu-jaanlewa-2024-altt-app-hindi-xxx-web-series-episode-2	
