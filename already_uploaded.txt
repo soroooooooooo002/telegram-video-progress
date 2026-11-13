@@ -494,7 +494,6 @@
 5461	SKIPPED	Pyaar Ke Panchhi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Pyaar%20Ke%20Panchhi/Pyaar%20Ke%20Panchhi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 905	SKIPPED	Madam Maya Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Madam%20Maya/Madam%20Maya%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1163	UPLOADED	X Class Episode 2
 1169	UPLOADED	Rangeen Kahaniya Episode 2
 1173	UPLOADED	Rangeen Kahaniya Episode 6
 1174	UPLOADED	Pyaar Idhar Udhar Episode 2
@@ -5068,3 +5067,4 @@
 5035	UPLOADED	Julie Maam Ki Extra Class Wow Originals Hindi XXX Web Series Ep3	https://bindasmood.com/julie-maam-ki-extra-class-wow-originals-hindi-xxx-web-series-ep3	
 4119	UPLOADED	Online Wala Pyar 2024 Wow Entertainment XXX Web Series Ep 3	https://bindasmood.com/online-wala-pyar-2024-wow-entertainment-xxx-web-series-ep-3	
 239	UPLOADED	Honeymoon Couples 2026 Tempt Hindi XXX Web Series	https://bindasmood.com/honeymoon-couples-2026-tempt-hindi-xxx-web-series	
+1163	UPLOADED	Indian Wife Cheat Her Husband 2025 Hindi Uncut XXX Video	https://bindasmood.com/indian-wife-cheat-her-husband-2025-hindi-uncut-xxx-video	
