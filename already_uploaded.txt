@@ -3623,7 +3623,6 @@
 1487	UPLOADED	Utha Le Jaunga Episode 6
 1488	UPLOADED	Mithai Wali Episode 4
 1489	UPLOADED	Mithai Wali Episode 1
-4084	SKIPPED	Dr. Gupt Rogon Ke Mahir Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Dr%20Gupt%20Rogon%20Ke%20Mahir/Dr%20Gupt%20Rogon%20Ke%20Mahir%20Episode%201.mp4
 4085	SKIPPED	Biwi Ho to Aisi 2 Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi%20Season%202/Biwi%20Ho%20To%20Aisi%20S2%20Episode%204.mp4
 4086	SKIPPED	Biwi Ho to Aisi 2 Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi%20Season%202/Biwi%20Ho%20To%20Aisi%20S2%20Episode%202.mp4
 4087	SKIPPED	Biwi Ho to Aisi 2 Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Woow%20Originals/Biwi%20Ho%20To%20Aisi%20Season%202/Biwi%20Ho%20To%20Aisi%20S2%20Episode%203.mp4
@@ -5011,3 +5010,4 @@
 4083	FAILED	URL item 4083	https://bindasmood.com/angrezy-akhbar-2024-voovi-hindi-xxx-web-series-episode-2	All video sources failed: Downloaded file is empty.
 2103	UPLOADED	Big Ass MILF Maid 2025 Niksindian Hindi Uncut XXX Video	https://bindasmood.com/big-ass-milf-maid-2025-niksindian-hindi-uncut-xxx-video	
 3100	UPLOADED	Sugar Daddy 2024 Showhit Originals Hindi Uncut XXX Video	https://bindasmood.com/sugar-daddy-2024-showhit-originals-hindi-uncut-xxx-video	
+4084	UPLOADED	Dhokhebaaz 2024 Soltalkies Hindi XXX Web Series Episode 1	https://bindasmood.com/dhokhebaaz-2024-soltalkies-hindi-xxx-web-series-episode-1	
