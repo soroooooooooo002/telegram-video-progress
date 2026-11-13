@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3130	SKIPPED	Kaneez Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E7.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3131	SKIPPED	Kaneez Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FKaneez%2FKaneez%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3132	SKIPPED	Kaneez Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E9.mp4
 3133	SKIPPED	Haseen Maut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5050,3 +5049,4 @@
 2123	UPLOADED	Bindu Ki Jawani Uncut 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/bindu-ki-jawani-uncut-2025-neonx-vip-hindi-uncut-xxx-video	
 1151	UPLOADED	Dominating Step Sis Fucked 2025 Niksindian Hindi XXX Video	https://bindasmood.com/dominating-step-sis-fucked-2025-niksindian-hindi-xxx-video	
 4107	UPLOADED	Tapish 2024 Hunt Cinema Hindi XXX Web Series Episode 1	https://bindasmood.com/tapish-2024-hunt-cinema-hindi-xxx-web-series-episode-1	
+3130	UPLOADED	Bai No 1 2024 Chillx App Hindi XXX Web Series Episode 6	https://bindasmood.com/bai-no-1-2024-chillx-app-hindi-xxx-web-series-episode-6	
