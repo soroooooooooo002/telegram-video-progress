@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3133	SKIPPED	Haseen Maut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3134	SKIPPED	Haseen Maut Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3135	SKIPPED	Haseen Maut Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3136	SKIPPED	Gharwali Bharwali Episode 4	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
@@ -5056,3 +5055,4 @@
 4110	UPLOADED	Tapish 2024 Hunt Cinema Hindi XXX Web Series Episode 4	https://bindasmood.com/tapish-2024-hunt-cinema-hindi-xxx-web-series-episode-4	
 1154	UPLOADED	Newly Married Couple Enjoyed 2025 Hindi Uncut XXX Video	https://bindasmood.com/newly-married-couple-enjoyed-2025-hindi-uncut-xxx-video	
 5027	UPLOADED	Aatma 2023 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/aatma-2023-primeshots-hindi-xxx-web-series-episode-1	
+3133	UPLOADED	Rangeen Chitrakaar 2024 Junglee App Hindi XXX Web Series Ep 2	https://bindasmood.com/rangeen-chitrakaar-2024-junglee-app-hindi-xxx-web-series-ep-2	
