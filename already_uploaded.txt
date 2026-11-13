@@ -3649,7 +3649,6 @@
 5450	SKIPPED	Ratri Kawach Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ratri%20Kavach/Ratri%20Kawach%20E2.mp4
 5451	SKIPPED	Ratri Kawach Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Ratri%20Kavach/Ratri%20Kawach%20E1.mp4
 5452	SKIPPED	Chup Chup Ke Episode 6	Cannot send requests while disconnected
-4137	SKIPPED	House Arrest Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/House%20Arrest/House%20Arrest%20Episode%207.mp4
 1507	UPLOADED	Nurse Episode 3
 5453	SKIPPED	Chup Chup Ke Episode 5	Cannot send requests while disconnected
 5454	SKIPPED	Chup Chup Ke Episode 3	Cannot send requests while disconnected
@@ -5095,3 +5094,4 @@
 2146	UPLOADED	Layam 2025 Navarasa Malayalam Hot XXX Video	https://bindasmood.com/layam-2025-navarasa-malayalam-hot-xxx-video	
 252	UPLOADED	Do Ladke Aur Ek Ladki Threesome 2026 Hindi Uncut XXX Video	https://bindasmood.com/do-ladke-aur-ek-ladki-threesome-2026-hindi-uncut-xxx-video	
 5050	UPLOADED	Nurse 2 2023 Fugi App Originals Hindi Uncut XXX Short Film	https://bindasmood.com/nurse-2-2023-fugi-app-originals-hindi-uncut-xxx-short-film	
+4137	UPLOADED	Adla Badli 2 2024 Mojflix Hindi XXX Web Series Episode 3	https://bindasmood.com/adla-badli-2-2024-mojflix-hindi-xxx-web-series-episode-3	
