@@ -1158,7 +1158,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3132	SKIPPED	Kaneez Episode 9	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FKaneez%2FKaneez%20E9.mp4
 3133	SKIPPED	Haseen Maut Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3134	SKIPPED	Haseen Maut Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3135	SKIPPED	Haseen Maut Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Haseen%20Maut/Haseen%20Maut%20S1%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5056,3 +5055,4 @@
 2126	UPLOADED	Gharwali Baharwali 2025 Teflix Hindi XXX Web Series Episode 3	https://bindasmood.com/gharwali-baharwali-2025-teflix-hindi-xxx-web-series-episode-3	
 233	UPLOADED	Stepson Share Bed with Stepmother 2026 English XXX Video	https://bindasmood.com/stepson-share-bed-with-stepmother-2026-english-xxx-video	
 5026	UPLOADED	Crimes and Confessions S2 2023 Altbalaji XXX Web Series Ep 6	https://bindasmood.com/crimes-and-confessions-s2-2023-altbalaji-xxx-web-series-ep-6	
+3132	UPLOADED	Rangeen Chitrakaar 2024 Junglee App Hindi XXX Web Series Ep 1	https://bindasmood.com/rangeen-chitrakaar-2024-junglee-app-hindi-xxx-web-series-ep-1	
