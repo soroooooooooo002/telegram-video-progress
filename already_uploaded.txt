@@ -1160,7 +1160,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3114	SKIPPED	Haveli Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3115	SKIPPED	Jism The House Wife Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Jism%20%28The%20House%20Wife%29/Jism%20%28The%20House%20Wife%29%20E1.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3116	SKIPPED	Jism The House Wife Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Jism%20%28The%20House%20Wife%29/Jism%20%28The%20House%20Wife%29%20E2.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3117	SKIPPED	Jism The House Wife Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii/Jism%20%28The%20House%20Wife%29/Jism%20%28The%20House%20Wife%29%20E3.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5029,3 +5028,4 @@
 1139	UPLOADED	Tu Haan Kar Ya Naa Kar 2025 Ullu Hindi XXX Web Series Ep 3	https://bindasmood.com/tu-haan-kar-ya-naa-kar-2025-ullu-hindi-xxx-web-series-ep-3	
 219	UPLOADED	Desi Horney Stepmom Fuck 2026 Hindi Uncut XXX Video	https://bindasmood.com/desi-horney-stepmom-fuck-2026-hindi-uncut-xxx-video	
 4096	UPLOADED	After Dark 2024 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/after-dark-2024-neonx-originals-hindi-uncut-xxx-video	
+3114	UPLOADED	Ghoonghat 2024 Jalva App Hindi XXX Web Series Episode 1	https://bindasmood.com/ghoonghat-2024-jalva-app-hindi-xxx-web-series-episode-1	
