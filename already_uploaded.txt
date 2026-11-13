@@ -1160,7 +1160,6 @@
 734	UPLOADED	Punarjanam Episode 1
 735	UPLOADED	Paurashpur S3 Episode 5
 736	UPLOADED	Paurashpur S3 Episode 4
-3111	SKIPPED	Haveli Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E5.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3112	SKIPPED	Haveli Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii%2FHaveli-C1%2FHaveli%20E6.mp4
 3113	SKIPPED	Haveli Episode 7	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E7.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3114	SKIPPED	Haveli Episode 8	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Atrangii%2FHaveli-C1%2FHaveli%20E8.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5025,3 +5024,4 @@
 2111	UPLOADED	Tadap 2025 Jalsa TV Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/tadap-2025-jalsa-tv-originals-hindi-xxx-web-series-ep-2	
 1137	UPLOADED	Double Cross 2025 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/double-cross-2025-moodx-vip-hindi-uncut-xxx-video	
 4095	UPLOADED	House Keeping 2024 Soltalkies Hindi XXX Web Series Episode 3	https://bindasmood.com/house-keeping-2024-soltalkies-hindi-xxx-web-series-episode-3	
+3111	UPLOADED	Sasur Ki Dulhan 2024 Jugnu App Hindi XXX Web Series Episode 2	https://bindasmood.com/sasur-ki-dulhan-2024-jugnu-app-hindi-xxx-web-series-episode-2	
