@@ -468,7 +468,6 @@
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4648	UPLOADED	Kavita Bhabhi 2 Episode 5
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
-1218	UPLOADED	Raat Ki Raani Episode 2
 1219	UPLOADED	Raat Ki Raani Episode 1
 4689	SKIPPED	Julie Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%202.mp4
 1220	UPLOADED	Qaatil Haseena Episode 4
@@ -5172,3 +5171,4 @@
 3191	UPLOADED	Goan Ki Malai 2 2024 Hitprime Hindi XXX Web Series Episode 3	https://bindasmood.com/goan-ki-malai-2-2024-hitprime-hindi-xxx-web-series-episode-3	
 291	UPLOADED	Family Threesome 2026 Hindi Uncut XXX Video	https://bindasmood.com/family-threesome-2026-hindi-uncut-xxx-video	
 5093	UPLOADED	Fatima 2023 Showx Originals Hindi Hot XXX Video	https://bindasmood.com/fatima-2023-showx-originals-hindi-hot-xxx-video	
+1218	UPLOADED	Kajali 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 1	https://bindasmood.com/kajali-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-1	
