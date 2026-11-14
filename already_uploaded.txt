@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1254	UPLOADED	Bully Aur Bulbul Episode 3
 1261	UPLOADED	Size Does Not Matter Episode 2
 1262	UPLOADED	Size Does Not Matter Episode 1
 1263	UPLOADED	Shararati Saas Episode 5
@@ -5234,3 +5233,4 @@
 4216	UPLOADED	Adhure Hum 2024 Atrangii Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/adhure-hum-2024-atrangii-originals-hindi-xxx-web-series-ep-4	
 2212	UPLOADED	Raseela Ishq 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/raseela-ishq-2025-neonx-vip-hindi-uncut-xxx-video	
 5126	UPLOADED	Aunty No 1 2023 Hunters Hindi XXX Web Series Episode 1	https://bindasmood.com/aunty-no-1-2023-hunters-hindi-xxx-web-series-episode-1	
+1254	UPLOADED	Bhabhi Ka Gand 2025 Hotxcreator Hindi Sex Video	https://bindasmood.com/bhabhi-ka-gand-2025-hotxcreator-hindi-sex-video	
