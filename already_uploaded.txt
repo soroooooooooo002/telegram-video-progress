@@ -471,7 +471,6 @@
 4689	SKIPPED	Julie Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%202.mp4
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
 4754	UPLOADED	Halala Episode 5
-1238	UPLOADED	Karan Arjun Episode 4
 1239	UPLOADED	Karan Arjun Episode 3
 3773	SKIPPED	Laachi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%204.mp4
 1241	UPLOADED	Karan Arjun Episode 1
@@ -5205,3 +5204,4 @@
 4200	UPLOADED	Exploitation 2024 Showx Originals Hindi Hot XXX Video	https://bindasmood.com/exploitation-2024-showx-originals-hindi-hot-xxx-video	
 307	UPLOADED	Lucky Boyfriend 2026 Hindi Uncut XXX Video	https://bindasmood.com/lucky-boyfriend-2026-hindi-uncut-xxx-video	
 3207	UPLOADED	Corporate Kaand 2024 Hulchul Hindi XXX Web Series Episode 1	https://bindasmood.com/corporate-kaand-2024-hulchul-hindi-xxx-web-series-episode-1	
+1238	UPLOADED	Ristey 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/ristey-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-2	
