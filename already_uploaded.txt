@@ -470,7 +470,6 @@
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4648	UPLOADED	Kavita Bhabhi 2 Episode 5
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
-1209	UPLOADED	Utha Patak S2 Episode 4
 1210	UPLOADED	Utha Patak S2 Episode 1
 1214	UPLOADED	Utha Patak S1 Episode 1
 1215	UPLOADED	Raat Ki Raani Episode 5
@@ -5155,3 +5154,4 @@
 4174	UPLOADED	Kaveri 2024 Cultflix Hindi XXX Web Series Episode 2	https://bindasmood.com/kaveri-2024-cultflix-hindi-xxx-web-series-episode-2	
 5083	UPLOADED	Yaddasht 2023 Hunters Originals Hindi XXX Web Series Ep 7	https://bindasmood.com/yaddasht-2023-hunters-originals-hindi-xxx-web-series-ep-7	
 2176	UPLOADED	Namkeen Kisse 2025 Altt App Hindi XXX Web Series Episode 27	https://bindasmood.com/namkeen-kisse-2025-altt-app-hindi-xxx-web-series-episode-27	
+1209	UPLOADED	Do Din Ka Mehmaan 2025 Ullu Hindi XXX Web Series Episode 4	https://bindasmood.com/do-din-ka-mehmaan-2025-ullu-hindi-xxx-web-series-episode-4	
