@@ -470,7 +470,6 @@
 5803	UPLOADED	Maal Paani Sexy Sauda Episode 2
 4689	SKIPPED	Julie Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%202.mp4
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
-1235	UPLOADED	Mera Pyaar Pan Nahi Episode 2
 1236	UPLOADED	Mera Pyaar Pan Nahi Episode 1
 4754	UPLOADED	Halala Episode 5
 1238	UPLOADED	Karan Arjun Episode 4
@@ -5201,3 +5200,4 @@
 3204	UPLOADED	Chuski 2024 Ullu Originals Hindi XXX Web Series Episode 4	https://bindasmood.com/chuski-2024-ullu-originals-hindi-xxx-web-series-episode-4	
 5108	UPLOADED	Massage Parlour 2023 Woow Channel Hindi XXX Web Series Ep 1	https://bindasmood.com/massage-parlour-2023-woow-channel-hindi-xxx-web-series-ep-1	
 305	UPLOADED	Yoga Instructor 2026 Hindi Uncut XXX Video	https://bindasmood.com/yoga-instructor-2026-hindi-uncut-xxx-video	
+1235	UPLOADED	Bidhwa Ka Karz 2025 Websex Hindi Uncut XXX Video	https://bindasmood.com/bidhwa-ka-karz-2025-websex-hindi-uncut-xxx-video	
