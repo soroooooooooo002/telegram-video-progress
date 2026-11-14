@@ -3849,7 +3849,6 @@
 5603	SKIPPED	Girlfriend Exchange	Cannot send requests while disconnected
 5604	SKIPPED	Divorce	Cannot send requests while disconnected
 1529	UPLOADED	Ek Baar Aur Episode 6
-4172	SKIPPED	Zaroorat 2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Zaroorat%20/Zaroorat%202%20Episode%201.mp4
 1530	SKIPPED	Dil To Baccha Hai Episode 1	Failed to upload file part 267.
 5605	SKIPPED	Crazy	Cannot send requests while disconnected
 5314	UPLOADED	Gharwali Baharwali Episode 7
@@ -5150,3 +5149,4 @@
 5080	UPLOADED	Yaddasht 2023 Hunters Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/yaddasht-2023-hunters-originals-hindi-xxx-web-series-ep-4	
 3178	UPLOADED	Buddhe Ki Jawani 2024 Showhit Originals Hindi Uncut XXX Video	https://bindasmood.com/buddhe-ki-jawani-2024-showhit-originals-hindi-uncut-xxx-video	
 1207	UPLOADED	Kaand Wali Return 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/kaand-wali-return-2025-moodx-hindi-xxx-web-series-episode-2	
+4172	UPLOADED	Kidnap 2024 Cultflix Hindi XXX Web Series Episode 2	https://bindasmood.com/kidnap-2024-cultflix-hindi-xxx-web-series-episode-2	
