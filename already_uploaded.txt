@@ -472,7 +472,6 @@
 5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
 4754	UPLOADED	Halala Episode 5
 3773	SKIPPED	Laachi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%204.mp4
-1241	UPLOADED	Karan Arjun Episode 1
 3780	UPLOADED	Patang Paseena Episode 5
 3781	UPLOADED	Patang Paseena Episode 4
 3782	UPLOADED	Patang Paseena Episode 3
@@ -5213,3 +5212,4 @@
 4204	UPLOADED	Swapnadosh 2024 Battameez Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/swapnadosh-2024-battameez-originals-hindi-xxx-web-series-ep-1	
 3210	UPLOADED	Rangeen Kahaniyan 9 2024 Altt App Hindi XXX Web Series Ep 4	https://bindasmood.com/rangeen-kahaniyan-9-2024-altt-app-hindi-xxx-web-series-ep-4	
 311	UPLOADED	Naukrani Ke Saath Sex 2026 Hindi Uncut XXX Video	https://bindasmood.com/naukrani-ke-saath-sex-2026-hindi-uncut-xxx-video	
+1241	UPLOADED	Super Bhabhi 2025 Hindi Uncut XXX Video	https://bindasmood.com/super-bhabhi-2025-hindi-uncut-xxx-video	
