@@ -3852,7 +3852,6 @@
 5618	SKIPPED	Saazish Episode 2	Cannot send requests while disconnected
 5322	UPLOADED	Anokhi Episode 3
 1542	UPLOADED	Tapan Episode 3
-4187	UPLOADED	Watchman Episode 8
 5619	SKIPPED	Rangeen Baatein S2 Episode 1	Cannot send requests while disconnected
 5620	SKIPPED	Rangeen Baatein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%202.mp4
 1543	UPLOADED	Tapan Episode 4
@@ -5177,3 +5176,4 @@
 4186	FAILED	URL item 4186	https://bindasmood.com/ek-raat-2024-kangan-app-hindi-xxx-web-series-episode-4	All video sources failed: ('Connection broken: IncompleteRead(9010760 bytes read, 7766456 more expected)', IncompleteRead(9010760 bytes read, 7766456 more expected))
 3195	UPLOADED	Koi Jaye To Le Aaye 2024 Atrangii Hindi XXX Web Series Ep 11	https://bindasmood.com/koi-jaye-to-le-aaye-2024-atrangii-hindi-xxx-web-series-ep-11	
 293	UPLOADED	Bahan Aur Uski Saheli 2026 Hindi Uncut XXX Video	https://bindasmood.com/bahan-aur-uski-saheli-2026-hindi-uncut-xxx-video	
+4187	UPLOADED	Firangi Thakurian Season 2 Episode 3 2024 Wow Entertainment	https://bindasmood.com/firangi-thakurian-season-2-episode-3-2024-wow-entertainment	
