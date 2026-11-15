@@ -394,7 +394,6 @@
 690	SKIPPED	Utha Patak S4 Episode 3	Request was unsuccessful 6 time(s)
 691	SKIPPED	Utha Patak S4 Episode 2	Request was unsuccessful 6 time(s)
 713	UPLOADED	Sale Episode 4
-3230	SKIPPED	Angel Apartment S2 Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment%20S2/Angel%20Apartment%20S2%20Episode%201.mp4
 3232	SKIPPED	Angel Apartment Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%205.mp4
 3237	UPLOADED	Lalach Episode 2
 3240	UPLOADED	ShilaJeet Episode 1
@@ -5248,3 +5247,4 @@
 5222	UPLOADED	Kaamwali 2023 Primeshots Hindi XXX Web Series Episode 3	https://bindasmood.com/kaamwali-2023-primeshots-hindi-xxx-web-series-episode-3	
 1262	UPLOADED	Room Owner 2025 Hindi Uncut XXX Video	https://bindasmood.com/room-owner-2025-hindi-uncut-xxx-video	
 2220	UPLOADED	Manchalaa Buddha 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/manchalaa-buddha-2025-neonx-vip-hindi-uncut-xxx-video	
+3230	UPLOADED	Yogini 2024 Hitprime Hindi XXX Web Series Episode 5	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-5	
