@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1315	SKIPPED	Jawaani Jaaneman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%202.mp4
 1318	UPLOADED	Inspiration Episode 3
 1320	UPLOADED	Daddy Cool Episode 5
 1321	UPLOADED	Daddy Cool Episode 6
@@ -5351,3 +5350,4 @@
 5290	UPLOADED	Virgin Friend 2023 Wow Entertainment XXX Web Series Ep 2	https://bindasmood.com/virgin-friend-2023-wow-entertainment-xxx-web-series-ep-2	
 4284	UPLOADED	Rat Ka Cinema 2024 Rangmah Cinema Hindi XXX Web Series Ep 1	https://bindasmood.com/rat-ka-cinema-2024-rangmah-cinema-hindi-xxx-web-series-ep-1	
 3302	UPLOADED	Bhabhi Ke Deewane 2024 Bull App Hindi XXX Web Series Episode 3	https://bindasmood.com/bhabhi-ke-deewane-2024-bull-app-hindi-xxx-web-series-episode-3	
+1315	UPLOADED	Kiraedaar 2025 Dyzreplay Hindi XXX Web Series Episode 3	https://bindasmood.com/kiraedaar-2025-dyzreplay-hindi-xxx-web-series-episode-3	
