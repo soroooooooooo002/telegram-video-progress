@@ -2252,7 +2252,6 @@
 1383	UPLOADED	Happy Ending Episode 1
 1384	UPLOADED	Happy Ending Episode 3
 3921	UPLOADED	Couple Party Episode 4
-4292	SKIPPED	Sursuri Li Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4293	SKIPPED	Sursuri Li Episode 6	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4294	SKIPPED	Sursuri Li Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4295	SKIPPED	Sursuri Li Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5363,3 +5362,4 @@
 3310	UPLOADED	Estate Manager 2024 Ullu Hindi XXX Web Series Episode 5	https://bindasmood.com/estate-manager-2024-ullu-hindi-xxx-web-series-episode-5	
 5299	UPLOADED	Miss Lilly 2023 Kangan App Hindi XXX Short Film	https://bindasmood.com/miss-lilly-2023-kangan-app-hindi-xxx-short-film	
 1324	UPLOADED	Nude Dancing 2025 Hindi Uncut XXX Video	https://bindasmood.com/nude-dancing-2025-hindi-uncut-xxx-video	
+4292	UPLOADED	Devar Ji 2024 Ullu Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/devar-ji-2024-ullu-originals-hindi-xxx-web-series-episode-2	
