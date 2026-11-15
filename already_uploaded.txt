@@ -3348,7 +3348,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5267	SKIPPED	Chhupi Nazar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E2.mp4
 5268	SKIPPED	Chhupi Nazar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E3.mp4
 5269	SKIPPED	Chhupi Nazar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E4.mp4
 5270	SKIPPED	Bubblepur Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E1.mp4
@@ -5317,3 +5316,4 @@
 1297	UPLOADED	Garabhdaan 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 3	https://bindasmood.com/garabhdaan-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-3	
 359	UPLOADED	Bhabhi Ne Kia Hastmaithun 2026 Hindi Uncut XXX Video	https://bindasmood.com/bhabhi-ne-kia-hastmaithun-2026-hindi-uncut-xxx-video	
 4261	UPLOADED	Kirayedaar Season 2 2024 Moodx Vip Hindi XXX Web Series Ep 2	https://bindasmood.com/kirayedaar-season-2-2024-moodx-vip-hindi-xxx-web-series-ep-2	
+5267	UPLOADED	Anari Part 2 2023 Ullu Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/anari-part-2-2023-ullu-originals-hindi-xxx-web-series-ep-6	
