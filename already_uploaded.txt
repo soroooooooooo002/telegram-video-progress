@@ -2220,7 +2220,6 @@
 3900	UPLOADED	Kache Rishtey Episode 1
 3901	UPLOADED	Jabran Episode 9 Big Shots
 3932	SKIPPED	VideoBaaz Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1303	UPLOADED	Paglet S3 Episode 4
 3902	UPLOADED	Jabran Episode 7 Big Shots
 3903	SKIPPED	Jabran Episode 8 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%208.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3904	SKIPPED	Jabran Episode 4 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5329,3 +5328,4 @@
 3285	UPLOADED	Koi Jaye To Le Aaye 2024 Atrangii Hindi XXX Web Series Ep 1	https://bindasmood.com/koi-jaye-to-le-aaye-2024-atrangii-hindi-xxx-web-series-ep-1	
 5272	UPLOADED	Wrong Dose 2023 Neonx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/wrong-dose-2023-neonx-vip-originals-hindi-uncut-xxx-video	
 4269	UPLOADED	Rangeen Kahaniya 2024 Voovi Hindi XXX Web Series Episode 1	https://bindasmood.com/rangeen-kahaniya-2024-voovi-hindi-xxx-web-series-episode-1	
+1303	UPLOADED	The Husband Got Married Twice 2025 Hindi Uncut XXX Video	https://bindasmood.com/the-husband-got-married-twice-2025-hindi-uncut-xxx-video	
