@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
 1270	UPLOADED	Kajri Episode 3
 1271	UPLOADED	Kajri Episode 2
 1272	UPLOADED	Kajri Episode 1
@@ -5263,3 +5262,4 @@
 4231	UPLOADED	Juicy Uncut 2024 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/juicy-uncut-2024-neonx-originals-hindi-uncut-xxx-video	
 3244	UPLOADED	Unsatisfied 2024 Bull App Hindi XXX Web Series Episode 2	https://bindasmood.com/unsatisfied-2024-bull-app-hindi-xxx-web-series-episode-2	
 2230	UPLOADED	Travel Agency 2025 Boomex Malayalam XXX Web Series Ep 1	https://bindasmood.com/travel-agency-2025-boomex-malayalam-xxx-web-series-ep-1	
+1269	UPLOADED	Haseen Raatein 2025 Saathi Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/haseen-raatein-2025-saathi-hindi-uncut-xxx-web-series-ep-2	
