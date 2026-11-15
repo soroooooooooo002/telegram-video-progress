@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1273	UPLOADED	Damdar Ladoo Episode 6
 1274	UPLOADED	Damdar Ladoo Episode 5
 1275	UPLOADED	Damdar Ladoo Episode 4
 1276	UPLOADED	Damdar Ladoo Episode 3
@@ -5268,3 +5267,4 @@
 5237	UPLOADED	Harami Zamindaar 2023 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/harami-zamindaar-2023-moodx-hindi-xxx-web-series-episode-1	
 4236	UPLOADED	Khaat 2024 Hunters Originals Hindi XXX Web Series Episode 6	https://bindasmood.com/khaat-2024-hunters-originals-hindi-xxx-web-series-episode-6	
 3251	UPLOADED	Desi Honeymoon 2024 Neonx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/desi-honeymoon-2024-neonx-vip-originals-hindi-uncut-xxx-video	
+1273	UPLOADED	Triple Facial Big Ass Bhabhi 2025 Niksindian Hindi XXX Video	https://bindasmood.com/triple-facial-big-ass-bhabhi-2025-niksindian-hindi-xxx-video	
