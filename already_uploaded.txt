@@ -2290,7 +2290,6 @@
 1382	UPLOADED	Happy Ending Episode 2
 1383	UPLOADED	Happy Ending Episode 1
 1384	UPLOADED	Happy Ending Episode 3
-4275	SKIPPED	Teekhi Chutney Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4276	SKIPPED	Teekhi Chutney Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4277	SKIPPED	Teekhi Chutney Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4278	SKIPPED	Tandoor Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5337,3 +5336,4 @@
 5277	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 1	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-1	
 1306	UPLOADED	Imaan Dol Jayega 2025 9RedMovies Hindi XXX Web Series Epsiode 10	https://bindasmood.com/imaan-dol-jayega-2025-9redmovies-hindi-xxx-web-series-epsiode-10	
 367	UPLOADED	Shaadi Ki Raat 2026 Hindi Uncut XXX Video	https://bindasmood.com/shaadi-ki-raat-2026-hindi-uncut-xxx-video	
+4275	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-6	
