@@ -394,7 +394,6 @@
 690	SKIPPED	Utha Patak S4 Episode 3	Request was unsuccessful 6 time(s)
 691	SKIPPED	Utha Patak S4 Episode 2	Request was unsuccessful 6 time(s)
 713	UPLOADED	Sale Episode 4
-3232	SKIPPED	Angel Apartment Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunt/Angel%20Apartment/Angel%20Apartment%20Episodde%205.mp4
 3237	UPLOADED	Lalach Episode 2
 3240	UPLOADED	ShilaJeet Episode 1
 716	UPLOADED	Sale Episode 2
@@ -5248,3 +5247,4 @@
 3231	FAILED	URL item 3231	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-6	No direct MP4 link found in webpage.
 4224	UPLOADED	Sexy Wife Massage 2024 Sexfantasy Hindi Uncut XXX Video	https://bindasmood.com/sexy-wife-massage-2024-sexfantasy-hindi-uncut-xxx-video	
 5223	UPLOADED	Honey Trap Squad 2023 Altbalaji Hindi Adult Web Series Ep 3	https://bindasmood.com/honey-trap-squad-2023-altbalaji-hindi-adult-web-series-ep-3	
+3232	UPLOADED	Jawani Ka Naksha 2024 Kangan Hindi XXX Web Series Episode 3	https://bindasmood.com/jawani-ka-naksha-2024-kangan-hindi-xxx-web-series-episode-3	
