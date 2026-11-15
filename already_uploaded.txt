@@ -3318,7 +3318,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5276	SKIPPED	Bubblepur Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E6.mp4
 5277	SKIPPED	Blind Kotha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Blind%20Kotha/Blind%20Kotha%20E2.mp4
 5465	SKIPPED	Aarzoo Episode 3	Cannot send requests while disconnected
 5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
@@ -5335,3 +5334,4 @@
 3289	UPLOADED	Koi Jaye To Le Aaye 2024 Atrangii Hindi XXX Web Series Ep 5	https://bindasmood.com/koi-jaye-to-le-aaye-2024-atrangii-hindi-xxx-web-series-ep-5	
 2267	UPLOADED	Adla Badli 2025 Teflix Hindi XXX Web Series Episode 5	https://bindasmood.com/adla-badli-2025-teflix-hindi-xxx-web-series-episode-5	
 4273	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-4	
+5276	UPLOADED	Green Fuck 2 2023 Triflicks Originals Hindi Uncut XXX Video	https://bindasmood.com/green-fuck-2-2023-triflicks-originals-hindi-uncut-xxx-video	
