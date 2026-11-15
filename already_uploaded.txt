@@ -2225,7 +2225,6 @@
 3922	SKIPPED	Couple Party Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3926	SKIPPED	Chitthi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E2.mp4
 3900	UPLOADED	Kache Rishtey Episode 1
-1298	SKIPPED	Khuli Tijori Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Junglee/Khuli%20Tijori/Khuli%20Tijori%20Episode%202.mp4
 1299	SKIPPED	Kiraedaar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%201.mp4
 1300	SKIPPED	Kiraedaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%202.mp4
 1301	SKIPPED	Kiraedaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%203.mp4
@@ -5320,3 +5319,4 @@
 5268	UPLOADED	Avesham 2023 Yessma Malayalam XXX Web Series Episode 2	https://bindasmood.com/avesham-2023-yessma-malayalam-xxx-web-series-episode-2	
 2258	UPLOADED	Hot Dress 2025 Hindi Uncut XXX Video	https://bindasmood.com/hot-dress-2025-hindi-uncut-xxx-video	
 360	UPLOADED	Srimoyee Boyfriend Ke Saath Romance 2026 Hindi Uncut XXX Video	https://bindasmood.com/srimoyee-boyfriend-ke-saath-romance-2026-hindi-uncut-xxx-video	
+1298	UPLOADED	Garabhdaan 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/garabhdaan-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-2	
