@@ -3467,7 +3467,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5223	SKIPPED	Humraaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E1.mp4
 5224	SKIPPED	Humraaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E2.mp4
 5225	SKIPPED	Humraaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E3.mp4
 5226	SKIPPED	Humara Pyaar Chamatkar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humara%20Pyaar%20Chamatkar/Humara%20Pyaar%20Chamatkar%20E1.mp4
@@ -5248,3 +5247,4 @@
 3230	UPLOADED	Yogini 2024 Hitprime Hindi XXX Web Series Episode 5	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-5	
 3231	FAILED	URL item 3231	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-6	No direct MP4 link found in webpage.
 4224	UPLOADED	Sexy Wife Massage 2024 Sexfantasy Hindi Uncut XXX Video	https://bindasmood.com/sexy-wife-massage-2024-sexfantasy-hindi-uncut-xxx-video	
+5223	UPLOADED	Honey Trap Squad 2023 Altbalaji Hindi Adult Web Series Ep 3	https://bindasmood.com/honey-trap-squad-2023-altbalaji-hindi-adult-web-series-ep-3	
