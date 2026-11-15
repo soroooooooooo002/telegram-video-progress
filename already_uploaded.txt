@@ -3361,7 +3361,6 @@
 5569	SKIPPED	Makkhan Doodhwala Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Makhan%20Doodhwala/Makhan%20Doodhwala%20E1.mp4
 5570	SKIPPED	Madam Jee Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E2.mp4
 5571	SKIPPED	Madam Jee Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E1.mp4
-5303	UPLOADED	Ladla Dever Episode 3
 5572	SKIPPED	Rangeen Tailor Episode 2	Cannot send requests while disconnected
 5573	SKIPPED	Rangeen Tailor Episode 1	Cannot send requests while disconnected
 1521	UPLOADED	Kaanta Laga Episode 1
@@ -5369,3 +5368,4 @@
 382	UPLOADED	Gaon Ki Ladki 2026 Hindi Uncut XXX Video	https://bindasmood.com/gaon-ki-ladki-2026-hindi-uncut-xxx-video	
 2284	UPLOADED	Teenage Step Sister 2025 Niksindian Hindi Uncut XXX Video	https://bindasmood.com/teenage-step-sister-2025-niksindian-hindi-uncut-xxx-video	
 3314	UPLOADED	Dhokhebaaz 2024 Soltalkies Hindi XXX Web Series Episode 4	https://bindasmood.com/dhokhebaaz-2024-soltalkies-hindi-xxx-web-series-episode-4	
+5303	UPLOADED	Betaab Ishq 2023 Ullu Hindi XXX Web Series Episode 2	https://bindasmood.com/betaab-ishq-2023-ullu-hindi-xxx-web-series-episode-2	
