@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1277	UPLOADED	Damdar Ladoo Episode 2
 1314	UPLOADED	London Dreams Episode 1
 1315	SKIPPED	Jawaani Jaaneman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%202.mp4
 1318	UPLOADED	Inspiration Episode 3
@@ -5276,3 +5275,4 @@
 2237	UPLOADED	Sarkaaye Lo Khatiya 2025 Ullu Hindi XXX Web Series Ep 4	https://bindasmood.com/sarkaaye-lo-khatiya-2025-ullu-hindi-xxx-web-series-ep-4	
 5243	UPLOADED	Mona 69 Part 3 2023 Voovi Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/mona-69-part-3-2023-voovi-originals-hindi-xxx-web-series-ep-1	
 3255	UPLOADED	Indian Desi Tight Pussy 2024 Hindi Uncut Desi XXX Video	https://bindasmood.com/indian-desi-tight-pussy-2024-hindi-uncut-desi-xxx-video	
+1277	UPLOADED	Hairstylist 2025 Hindi Uncut XXX Video	https://bindasmood.com/hairstylist-2025-hindi-uncut-xxx-video	
