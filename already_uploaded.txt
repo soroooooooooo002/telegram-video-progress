@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1323	UPLOADED	Daddy Cool Episode 4
 1325	UPLOADED	Naa Tum Jaano Naa Hum Episode 6
 1328	UPLOADED	Naa Tum Jaano Naa Hum Episode 1
 1329	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 9
@@ -5362,3 +5361,4 @@
 3309	UPLOADED	Kaliveedu 2024 Boomex Malayalam XXX Web Series Episode 1	https://bindasmood.com/kaliveedu-2024-boomex-malayalam-xxx-web-series-episode-1	
 2282	UPLOADED	Ankhiyon Se Goli Maare 2025 Ullu Hindi XXX Web Series Ep 6	https://bindasmood.com/ankhiyon-se-goli-maare-2025-ullu-hindi-xxx-web-series-ep-6	
 5298	UPLOADED	Secret Super Star 2023 Cineprime XXX Web Series Episode 4	https://bindasmood.com/secret-super-star-2023-cineprime-xxx-web-series-episode-4	
+1323	UPLOADED	Naughty Stepson 2025 Hindi Uncut XXX Video	https://bindasmood.com/naughty-stepson-2025-hindi-uncut-xxx-video	
