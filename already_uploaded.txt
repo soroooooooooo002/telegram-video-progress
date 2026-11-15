@@ -3462,7 +3462,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5225	SKIPPED	Humraaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E3.mp4
 5226	SKIPPED	Humara Pyaar Chamatkar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humara%20Pyaar%20Chamatkar/Humara%20Pyaar%20Chamatkar%20E1.mp4
 5227	SKIPPED	Humraaz Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E4.mp4
 5229	SKIPPED	Humara Pyaar Chamatkar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humara%20Pyaar%20Chamatkar/Humara%20Pyaar%20Chamatkar%20E3.mp4
@@ -5252,3 +5251,4 @@
 3234	UPLOADED	Prem 2020 2024 Habbit Movies Hindi XXX Web Series Ep 3	https://bindasmood.com/prem-2020-2024-habbit-movies-hindi-xxx-web-series-ep-3	
 4225	UPLOADED	Bet 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/bet-2024-fugi-app-originals-hindi-uncut-xxx-video	
 1263	UPLOADED	Kand Wali Return BTS 2025 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/kand-wali-return-bts-2025-moodx-hindi-xxx-web-series-episode-1	
+5225	UPLOADED	Tharki Dost 2023 Triflicks Hindi XXX Web Series Episode 1	https://bindasmood.com/tharki-dost-2023-triflicks-hindi-xxx-web-series-episode-1	
