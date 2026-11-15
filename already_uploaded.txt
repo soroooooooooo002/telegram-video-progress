@@ -1134,7 +1134,6 @@
 5633	SKIPPED	Kaand Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Kaand%20%282023%29/Kaand%20S01E01%20%28XSeries.IN%29.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5634	SKIPPED	Jaal Epiosde 2 Dreams Films	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Jaal/Jaal%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5635	SKIPPED	Hawas Episode 2 Dreams Films	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Hawas/Hawas%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3264	SKIPPED	Maid For Each Other	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bulbul%20Play/Single/Maid%20For%20Each%20Other.mp4
 3265	UPLOADED	Dagabaaz Episode 2
 3266	UPLOADED	Dagabaaz Episode 1
 3268	UPLOADED	Dagabaaz Episode 4
@@ -5294,3 +5293,4 @@
 2245	UPLOADED	Svayamvar 2025 Hulchul Hindi XXX Web Series Episode 2	https://bindasmood.com/svayamvar-2025-hulchul-hindi-xxx-web-series-episode-2	
 1285	UPLOADED	Mawlana Ki Masti BTS 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/mawlana-ki-masti-bts-2025-moodx-hindi-xxx-web-series-episode-2	
 347	UPLOADED	Ladkiyon Ne Badla Boyfriend 2026 Hindi Uncut XXX Video	https://bindasmood.com/ladkiyon-ne-badla-boyfriend-2026-hindi-uncut-xxx-video	
+3264	UPLOADED	Desi Wife 2024 Hothit Movies Originals Hindi Uncut XXX Video	https://bindasmood.com/desi-wife-2024-hothit-movies-originals-hindi-uncut-xxx-video	
