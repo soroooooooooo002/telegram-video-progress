@@ -3416,7 +3416,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5242	SKIPPED	Gharelu Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gharelu%20Pyaar/Gharelu%20Pyaar%20E2.mp4
 5243	SKIPPED	Gharelu Pyaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gharelu%20Pyaar/Gharelu%20Pyaar%20E4.mp4
 5244	SKIPPED	Gharelu Pyaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gharelu%20Pyaar/Gharelu%20Pyaar%20E3.mp4
 5245	SKIPPED	Courtship Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Courtship/Courtship%20E1.mp4
@@ -5274,3 +5273,4 @@
 3253	UPLOADED	Raseeli Chut 2024 Hothit Movies Hindi Uncut XXX Video	https://bindasmood.com/raseeli-chut-2024-hothit-movies-hindi-uncut-xxx-video	
 2236	UPLOADED	Sarkaaye Lo Khatiya 2025 Ullu Hindi Sex Web Series Ep 3	https://bindasmood.com/sarkaaye-lo-khatiya-2025-ullu-hindi-sex-web-series-ep-3	
 4239	UPLOADED	Jungal Me Mangal 3 2024 Fugi Originals Hindi XXX Video	https://bindasmood.com/jungal-me-mangal-3-2024-fugi-originals-hindi-xxx-video	
+5242	UPLOADED	Lady Hunter 2 2023 Wow Entertainment XXX Web Series Episode 4	https://bindasmood.com/lady-hunter-2-2023-wow-entertainment-xxx-web-series-episode-4	
