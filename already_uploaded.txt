@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1275	UPLOADED	Damdar Ladoo Episode 4
 1276	UPLOADED	Damdar Ladoo Episode 3
 1277	UPLOADED	Damdar Ladoo Episode 2
 1314	UPLOADED	London Dreams Episode 1
@@ -5273,3 +5272,4 @@
 5240	UPLOADED	The Game 2023 Kangan App Hindi Hot Sex Short Film	https://bindasmood.com/the-game-2023-kangan-app-hindi-hot-sex-short-film	
 337	UPLOADED	Hot Indian Tejaswini 2026 Hindi Uncut XXX Video	https://bindasmood.com/hot-indian-tejaswini-2026-hindi-uncut-xxx-video	
 2235	UPLOADED	Sarkaaye Lo Khatiya 2025 Ullu Hindi XXX Web Series Ep 2	https://bindasmood.com/sarkaaye-lo-khatiya-2025-ullu-hindi-xxx-web-series-ep-2	
+1275	UPLOADED	Oyo Hotel 2025 Hindi Uncut XXX Video	https://bindasmood.com/oyo-hotel-2025-hindi-uncut-xxx-video	
