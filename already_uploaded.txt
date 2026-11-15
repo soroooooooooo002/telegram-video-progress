@@ -3346,7 +3346,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5268	SKIPPED	Chhupi Nazar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E3.mp4
 5269	SKIPPED	Chhupi Nazar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E4.mp4
 5270	SKIPPED	Bubblepur Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E1.mp4
 5271	SKIPPED	Bubblepur Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bubblepur/Bubblepur%20E2.mp4
@@ -5318,3 +5317,4 @@
 2257	UPLOADED	Tere Mere Beech Mein 2025 Ullu Hindi XXX Web Series Ep 4	https://bindasmood.com/tere-mere-beech-mein-2025-ullu-hindi-xxx-web-series-ep-4	
 3279	UPLOADED	Nirasha 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/nirasha-2024-fugi-app-originals-hindi-uncut-xxx-video	
 4262	UPLOADED	De De Pyar De 2024 Digi Movieplex Hindi XXX Web Series Ep 5	https://bindasmood.com/de-de-pyar-de-2024-digi-movieplex-hindi-xxx-web-series-ep-5	
+5268	UPLOADED	Avesham 2023 Yessma Malayalam XXX Web Series Episode 2	https://bindasmood.com/avesham-2023-yessma-malayalam-xxx-web-series-episode-2	
