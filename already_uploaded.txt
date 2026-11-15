@@ -3471,7 +3471,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5222	SKIPPED	Jal Bin Machali Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jal%20Bin%20Machali/Jal%20Bin%20Machali%20E4.mp4
 5223	SKIPPED	Humraaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E1.mp4
 5224	SKIPPED	Humraaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E2.mp4
 5225	SKIPPED	Humraaz Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humraaz/Humraaz%20E3.mp4
@@ -5247,3 +5246,4 @@
 5221	UPLOADED	Waah Mausi 2023 Neonx Originals Hindi Uncut XXX Video	https://bindasmood.com/waah-mausi-2023-neonx-originals-hindi-uncut-xxx-video	
 4223	UPLOADED	Maya Sutra 2024 Moodx Vip Hindi XXX Web Series Episode 1	https://bindasmood.com/maya-sutra-2024-moodx-vip-hindi-xxx-web-series-episode-1	
 3229	UPLOADED	Yogini 2024 Hitprime Hindi XXX Web Series Episode 4	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-4	
+5222	UPLOADED	Kaamwali 2023 Primeshots Hindi XXX Web Series Episode 3	https://bindasmood.com/kaamwali-2023-primeshots-hindi-xxx-web-series-episode-3	
