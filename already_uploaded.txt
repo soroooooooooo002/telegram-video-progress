@@ -3486,7 +3486,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5217	SKIPPED	Jassi Kingg Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jassi%20Kingg/Jassi%20Kingg%20E5.mp4
 5218	SKIPPED	Jal Bin Machali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jal%20Bin%20Machali/Jal%20Bin%20Machali%20E1.mp4
 5219	SKIPPED	Jassi Kingg Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jassi%20Kingg/Jassi%20Kingg%20E6.mp4
 5220	SKIPPED	Jal Bin Machali Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Jal%20Bin%20Machali/Jal%20Bin%20Machali%20E2.mp4
@@ -5240,3 +5239,4 @@
 2214	UPLOADED	Biwi Ka Khat 2025 Ullu Hindi XXX Web Series Episode 3	https://bindasmood.com/biwi-ka-khat-2025-ullu-hindi-xxx-web-series-episode-3	
 1257	UPLOADED	Aadhi Gharwali 2025 Ullu Hindi XXX Web Series Episode 7	https://bindasmood.com/aadhi-gharwali-2025-ullu-hindi-xxx-web-series-episode-7	
 3222	UPLOADED	Mere Samne Wali Khidki 2024 Bull App Hindi XXX Web Series Ep 1	https://bindasmood.com/mere-samne-wali-khidki-2024-bull-app-hindi-xxx-web-series-ep-1	
+5217	UPLOADED	Hotel Scandal 2023 Showx Originals Hindi Hot Sex Video	https://bindasmood.com/hotel-scandal-2023-showx-originals-hindi-hot-sex-video	
