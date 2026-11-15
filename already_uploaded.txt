@@ -2229,7 +2229,6 @@
 3898	SKIPPED	Kache Rishtey Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Kache%20Rishtey/Kache%20Rishtey%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3912	SKIPPED	Daakhila Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Daakhila/Daakhila%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3913	SKIPPED	Daakhila Episode 6	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Daakhila/Daakhila%20Episode%206.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1290	UPLOADED	Haseena Maan Jayegi Episode 1
 1291	SKIPPED	Ghar Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Hulchul/Ghar/Ghar%20E4.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3918	SKIPPED	Couple Party Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 1292	UPLOADED	Gore Gore Gaal Episode 2
@@ -5302,3 +5301,4 @@
 351	UPLOADED	Casting Director 2026 Hindi Uncut XXX Video	https://bindasmood.com/casting-director-2026-hindi-uncut-xxx-video	
 3270	UPLOADED	Robotina 2024 Aahaflix Hindi XXX Web Series Episode 4	https://bindasmood.com/robotina-2024-aahaflix-hindi-xxx-web-series-episode-4	
 4255	UPLOADED	Night Party 2024 Jalva Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/night-party-2024-jalva-originals-hindi-xxx-web-series-ep-3	
+1290	UPLOADED	Aadhi Gharwali 2025 Ullu Hindi XXX Web Series Episode 1	https://bindasmood.com/aadhi-gharwali-2025-ullu-hindi-xxx-web-series-episode-1	
