@@ -2230,7 +2230,6 @@
 3891	SKIPPED	Len Den Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3892	UPLOADED	Len Den Episode 3
 3893	UPLOADED	Len Den Episode 8
-1283	UPLOADED	Pati Patni Aur Woh
 1284	UPLOADED	Haseena Maan Jayegi Episode 3
 1285	SKIPPED	KOKKH	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/KOKKH.mp4
 1286	SKIPPED	Mithi Chatani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Mithi%20Chatani.mp4
@@ -5289,3 +5288,4 @@
 344	UPLOADED	Vellarikka BTS 2026 BabluTv Malayalam Hot XXX Video	https://bindasmood.com/vellarikka-bts-2026-bablutv-malayalam-hot-xxx-video	
 4246	UPLOADED	Devar Ji 2024 Ullu Originals Hindi XXX Web Series Episode 8	https://bindasmood.com/devar-ji-2024-ullu-originals-hindi-xxx-web-series-episode-8	
 5250	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 4	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-4	
+1283	UPLOADED	Beautiful 2 2025 Feni App Originals Malayalam Uncut XXX Video	https://bindasmood.com/beautiful-2-2025-feni-app-originals-malayalam-uncut-xxx-video	
