@@ -2229,7 +2229,6 @@
 3918	SKIPPED	Couple Party Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3899	UPLOADED	Kache Rishtey Episode 3
 3922	SKIPPED	Couple Party Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1294	SKIPPED	Khel Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E2.mp4
 3926	SKIPPED	Chitthi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E2.mp4
 1295	UPLOADED	Besharam Episode 5
 3900	UPLOADED	Kache Rishtey Episode 1
@@ -5310,3 +5309,4 @@
 3273	UPLOADED	Dilruba 2024 Hotx Vip Originals Hindi Hot XXX Video	https://bindasmood.com/dilruba-2024-hotx-vip-originals-hindi-hot-xxx-video	
 4258	UPLOADED	Anant Vasna 2024 Bull App Hindi XXX Web Series Episode 1	https://bindasmood.com/anant-vasna-2024-bull-app-hindi-xxx-web-series-episode-1	
 2253	UPLOADED	Raasleela 2025 Bull App Hindi XXX Web Series Episode 2	https://bindasmood.com/raasleela-2025-bull-app-hindi-xxx-web-series-episode-2	
+1294	UPLOADED	Haseen Raatein 2025 Saathi Hindi Uncut XXX Web Series Ep 1	https://bindasmood.com/haseen-raatein-2025-saathi-hindi-uncut-xxx-web-series-ep-1	
