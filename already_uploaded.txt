@@ -3309,7 +3309,6 @@
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
 5465	SKIPPED	Aarzoo Episode 3	Cannot send requests while disconnected
-5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
 5281	SKIPPED	BehruPriya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E2.mp4
 5282	SKIPPED	BehruPriya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E3.mp4
@@ -5338,3 +5337,4 @@
 2269	UPLOADED	Kurukku 2025 Boomex Malayalam Uncut XXX Video	https://bindasmood.com/kurukku-2025-boomex-malayalam-uncut-xxx-video	
 4276	UPLOADED	Flat No 108 2024 Cineprime Hindi Adult Short Film	https://bindasmood.com/flat-no-108-2024-cineprime-hindi-adult-short-film	
 3292	UPLOADED	Prem Game 2024 Habbit Movies Hindi XXX Web Series Ep 2	https://bindasmood.com/prem-game-2024-habbit-movies-hindi-xxx-web-series-ep-2	
+5279	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 3	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-3	
