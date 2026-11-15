@@ -3365,7 +3365,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5261	SKIPPED	Chull New Item Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20New%20Item/Chull%20New%20Item%20E2.mp4
 5262	SKIPPED	Chull Loveria Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E1.mp4
 5263	SKIPPED	Chull Loveria Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E2.mp4
 5264	SKIPPED	Chull Dhulai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E1.mp4
@@ -5305,3 +5304,4 @@
 1291	UPLOADED	Horny Wife 2025 Hindi Uncut XXX Video	https://bindasmood.com/horny-wife-2025-hindi-uncut-xxx-video	
 2251	UPLOADED	Honey Bunny 2025 Navarasa Malayalam Hot XXX Video	https://bindasmood.com/honey-bunny-2025-navarasa-malayalam-hot-xxx-video	
 1292	UPLOADED	Bathroom Gangbang 2025 Hindi Uncut XXX Video	https://bindasmood.com/bathroom-gangbang-2025-hindi-uncut-xxx-video	
+5261	UPLOADED	Buddha Pyaar 2023 Hunters Originals Hindi XXX Web Series Ep 9	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-9	
