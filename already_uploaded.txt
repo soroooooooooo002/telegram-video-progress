@@ -2267,7 +2267,6 @@
 1383	UPLOADED	Happy Ending Episode 1
 1384	UPLOADED	Happy Ending Episode 3
 3921	UPLOADED	Couple Party Episode 4
-4285	SKIPPED	Takk Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%201.mp4
 4286	SKIPPED	Takk Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Takk%20Episode/Takk%20Episode%202.mp4
 4287	SKIPPED	Sweet Lie Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4288	SKIPPED	Sweet Lie Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5353,3 +5352,4 @@
 2278	UPLOADED	Sehri Bahurani 2025 Hulchul Hindi XXX Web Series Episode 4	https://bindasmood.com/sehri-bahurani-2025-hulchul-hindi-xxx-web-series-episode-4	
 1316	UPLOADED	Phere 2025 Dyzreplay Hindi XXX Web Series Episode 5	https://bindasmood.com/phere-2025-dyzreplay-hindi-xxx-web-series-episode-5	
 3303	UPLOADED	Bhabhi Ke Deewane 2024 Bull App Hindi XXX Web Series Episode 4	https://bindasmood.com/bhabhi-ke-deewane-2024-bull-app-hindi-xxx-web-series-episode-4	
+4285	UPLOADED	Rat Ka Cinema 2024 Rangmah Cinema Hindi XXX Web Series Ep 2	https://bindasmood.com/rat-ka-cinema-2024-rangmah-cinema-hindi-xxx-web-series-ep-2	
