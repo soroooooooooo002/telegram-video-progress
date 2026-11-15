@@ -2220,7 +2220,6 @@
 3904	SKIPPED	Jabran Episode 4 Big Shots	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Jabran/Jabran%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3936	SKIPPED	VideoBaaz Episode 5	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3905	UPLOADED	Jabran Episode 5 Big Shots
-1306	UPLOADED	Stranger Episode 2
 3906	UPLOADED	Jabran Episode 1 Big Shots
 1307	UPLOADED	Flat Screen Episode 4
 3907	UPLOADED	Jabran Episode 6 Big Shots
@@ -5336,3 +5335,4 @@
 4274	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-5	
 3290	UPLOADED	Famous Ki Keemat 2024 Atrangii Originals Hindi XXX Short Film	https://bindasmood.com/famous-ki-keemat-2024-atrangii-originals-hindi-xxx-short-film	
 5277	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 1	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-1	
+1306	UPLOADED	Imaan Dol Jayega 2025 9RedMovies Hindi XXX Web Series Epsiode 10	https://bindasmood.com/imaan-dol-jayega-2025-9redmovies-hindi-xxx-web-series-epsiode-10	
