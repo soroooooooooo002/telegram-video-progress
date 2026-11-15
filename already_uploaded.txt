@@ -3397,7 +3397,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5249	SKIPPED	Clash Of Swack Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Clash%20Of%20Swackk/Clash%20Of%20Swackk%20E1.mp4
 5250	SKIPPED	ChutzPah Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E1.mp4
 5251	SKIPPED	Clash Of Swack Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Clash%20Of%20Swackk/Clash%20Of%20Swackk%20E2.mp4
 5252	SKIPPED	ChutzPah Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E3.mp4
@@ -5287,3 +5286,4 @@
 2242	UPLOADED	Rangeen Kahaniyan 23 2025 Altt App Hindi XXX Web Series Ep 3	https://bindasmood.com/rangeen-kahaniyan-23-2025-altt-app-hindi-xxx-web-series-ep-3	
 343	UPLOADED	Hunter 2026 Moodx Vip Hindi Uncut XXX Video	https://bindasmood.com/hunter-2026-moodx-vip-hindi-uncut-xxx-video	
 1282	UPLOADED	Shahana 4 2025 Xtreme Shoots Hindi XXX Video	https://bindasmood.com/shahana-4-2025-xtreme-shoots-hindi-xxx-video	
+5249	UPLOADED	Betaab Ishq Part 2 2023 Ullu Hindi XXX Web Series Episode 7	https://bindasmood.com/betaab-ishq-part-2-2023-ullu-hindi-xxx-web-series-episode-7	
