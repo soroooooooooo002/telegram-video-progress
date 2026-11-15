@@ -3428,7 +3428,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5236	SKIPPED	Golden Silver Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E3.mp4
 5237	SKIPPED	Golden Silver Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E2.mp4
 5238	SKIPPED	Golden Silver Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E4.mp4
 5239	SKIPPED	Golden Silver Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E6.mp4
@@ -5267,3 +5266,4 @@
 5235	UPLOADED	Sweety Bula Rahi Hai 2023 Woow Hindi XXX Web Series Ep 2	https://bindasmood.com/sweety-bula-rahi-hai-2023-woow-hindi-xxx-web-series-ep-2	
 3249	UPLOADED	Bholi Sajni 2024 Digi Movieplex Hindi XXX Web Series Ep 3	https://bindasmood.com/bholi-sajni-2024-digi-movieplex-hindi-xxx-web-series-ep-3	
 4234	UPLOADED	Khaat 2024 Hunters Originals Hindi XXX Web Series Episode 4	https://bindasmood.com/khaat-2024-hunters-originals-hindi-xxx-web-series-episode-4	
+5236	UPLOADED	Sweety Bula Rahi Hai 2023 Woow Hindi XXX Web Series Ep 3	https://bindasmood.com/sweety-bula-rahi-hai-2023-woow-hindi-xxx-web-series-ep-3	
