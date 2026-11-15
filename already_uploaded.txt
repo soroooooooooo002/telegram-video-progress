@@ -2222,7 +2222,6 @@
 3922	SKIPPED	Couple Party Episode 8	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3926	SKIPPED	Chitthi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Big%20Shots%2FChitthi%2FChitthi%20E2.mp4
 3900	UPLOADED	Kache Rishtey Episode 1
-1300	SKIPPED	Kiraedaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%202.mp4
 1301	SKIPPED	Kiraedaar Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%203.mp4
 1302	SKIPPED	Kiraedaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dzyreplay/Kiraedaar/Kiraedaar%20Episode%204.mp4
 3901	UPLOADED	Jabran Episode 9 Big Shots
@@ -5323,3 +5322,4 @@
 361	UPLOADED	Gaon Ke Mukhiya 2026 Hindi Uncut XXX Video	https://bindasmood.com/gaon-ke-mukhiya-2026-hindi-uncut-xxx-video	
 3282	UPLOADED	Yogini 2024 Hitprime Hindi XXX Web Series Episode 1	https://bindasmood.com/yogini-2024-hitprime-hindi-xxx-web-series-episode-1	
 2260	UPLOADED	Model X 2 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/model-x-2-2025-neonx-vip-hindi-uncut-xxx-video	
+1300	UPLOADED	Sasurji 2025 Goddesmahi Hindi XXX Video	https://bindasmood.com/sasurji-2025-goddesmahi-hindi-xxx-video	
