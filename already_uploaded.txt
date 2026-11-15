@@ -2230,7 +2230,6 @@
 3891	SKIPPED	Len Den Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3892	UPLOADED	Len Den Episode 3
 3893	UPLOADED	Len Den Episode 8
-1284	UPLOADED	Haseena Maan Jayegi Episode 3
 1285	SKIPPED	KOKKH	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/KOKKH.mp4
 1286	SKIPPED	Mithi Chatani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Mithi%20Chatani.mp4
 1287	SKIPPED	Sapna Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Sapna/Sapna%20E4.mp4
@@ -5290,3 +5289,4 @@
 345	UPLOADED	Promotion Ke Liye 2026 Hindi Uncut XXX Video	https://bindasmood.com/promotion-ke-liye-2026-hindi-uncut-xxx-video	
 5251	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 5	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-5	
 4247	UPLOADED	Fruit Chart 2024 Chuski App Originals Hindi Uncut XXX Video	https://bindasmood.com/fruit-chart-2024-chuski-app-originals-hindi-uncut-xxx-video	
+1284	UPLOADED	Palkaran Payyan 2025 Nmx Series Malayalam XXX Web Series Ep 2	https://bindasmood.com/palkaran-payyan-2025-nmx-series-malayalam-xxx-web-series-ep-2	
