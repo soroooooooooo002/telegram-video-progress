@@ -3315,7 +3315,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5277	SKIPPED	Blind Kotha Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Blind%20Kotha/Blind%20Kotha%20E2.mp4
 5465	SKIPPED	Aarzoo Episode 3	Cannot send requests while disconnected
 5279	SKIPPED	Bewafaii Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E2.mp4
 5280	SKIPPED	BehruPriya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/BehruPriya/BehruPriya%20E1.mp4
@@ -5336,3 +5335,4 @@
 2268	UPLOADED	Sparsham 2025 Ibamovies Malayalam XXX Web Series Episode 4	https://bindasmood.com/sparsham-2025-ibamovies-malayalam-xxx-web-series-episode-4	
 4274	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-5	
 3290	UPLOADED	Famous Ki Keemat 2024 Atrangii Originals Hindi XXX Short Film	https://bindasmood.com/famous-ki-keemat-2024-atrangii-originals-hindi-xxx-short-film	
+5277	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 1	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-1	
