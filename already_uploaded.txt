@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1274	UPLOADED	Damdar Ladoo Episode 5
 1275	UPLOADED	Damdar Ladoo Episode 4
 1276	UPLOADED	Damdar Ladoo Episode 3
 1277	UPLOADED	Damdar Ladoo Episode 2
@@ -5271,3 +5270,4 @@
 3252	UPLOADED	Love Attraction 2024 Hothit Movies Hindi Uncut XXX Video	https://bindasmood.com/love-attraction-2024-hothit-movies-hindi-uncut-xxx-video	
 5239	UPLOADED	Sanki Painter 2023 Cineprime Hindi XXX Web Series Episode 1	https://bindasmood.com/sanki-painter-2023-cineprime-hindi-xxx-web-series-episode-1	
 2234	UPLOADED	Sarkaaye Lo Khatiya 2025 Ullu Hindi XXX Web Series Ep 1	https://bindasmood.com/sarkaaye-lo-khatiya-2025-ullu-hindi-xxx-web-series-ep-1	
+1274	UPLOADED	Promoter Gift 2025 Hindi Uncut XXX Video	https://bindasmood.com/promoter-gift-2025-hindi-uncut-xxx-video	
