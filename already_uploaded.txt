@@ -3277,7 +3277,6 @@
 3979	UPLOADED	Honey Trap Episode 1
 1473	UPLOADED	Dekho Magar Pyar Se Episode 5
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
-5228	SKIPPED	Humara Pyaar Chamatkar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Humara%20Pyaar%20Chamatkar/Humara%20Pyaar%20Chamatkar%20E2.mp4
 5278	SKIPPED	Bewafaii Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E1.mp4
 3981	UPLOADED	Honey Trap Episode 3
 1476	UPLOADED	Mere Angane Mein Episode 3
@@ -5255,3 +5254,4 @@
 3237	UPLOADED	Koi Jaye To Le Aaye 2024 Atrangii Hindi XXX Web Series Ep 7	https://bindasmood.com/koi-jaye-to-le-aaye-2024-atrangii-hindi-xxx-web-series-ep-7	
 1265	UPLOADED	Blackmail Rukshar 2025 Hindi Uncut XXX Video	https://bindasmood.com/blackmail-rukshar-2025-hindi-uncut-xxx-video	
 4227	UPLOADED	Chehraa 2024 Ullu Originals Hindi XXX Web Series Episode 5	https://bindasmood.com/chehraa-2024-ullu-originals-hindi-xxx-web-series-episode-5	
+5228	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 7	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-7	
