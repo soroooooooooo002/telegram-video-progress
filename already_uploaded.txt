@@ -3279,7 +3279,6 @@
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
 5465	SKIPPED	Aarzoo Episode 3	Cannot send requests while disconnected
-5292	SKIPPED	Aao Kare Gutur Gu Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E2.mp4
 5293	SKIPPED	Aao Kare Gutur Gu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E3.mp4
 5294	SKIPPED	Aao Kare Gutur Gu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Aao%20Kare%20Gutur%20Gu/Aao%20Kare%20Gutur%20Gu%20E4.mp4
 5466	SKIPPED	Aarzoo Episode 1	Cannot send requests while disconnected
@@ -5353,3 +5352,4 @@
 3303	UPLOADED	Bhabhi Ke Deewane 2024 Bull App Hindi XXX Web Series Episode 4	https://bindasmood.com/bhabhi-ke-deewane-2024-bull-app-hindi-xxx-web-series-episode-4	
 4285	UPLOADED	Rat Ka Cinema 2024 Rangmah Cinema Hindi XXX Web Series Ep 2	https://bindasmood.com/rat-ka-cinema-2024-rangmah-cinema-hindi-xxx-web-series-ep-2	
 4286	UPLOADED	Rangin Sapne 2024 Kundi App Hindi XXX Web Series Episode 1	https://bindasmood.com/rangin-sapne-2024-kundi-app-hindi-xxx-web-series-episode-1	
+5292	UPLOADED	Dhokha 2023 Dunki Originals Hindi XXX Web Series Episode 3	https://bindasmood.com/dhokha-2023-dunki-originals-hindi-xxx-web-series-episode-3	
