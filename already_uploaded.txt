@@ -3362,7 +3362,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5262	SKIPPED	Chull Loveria Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E1.mp4
 5263	SKIPPED	Chull Loveria Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Loveria/Chull%20Loveria%20E2.mp4
 5264	SKIPPED	Chull Dhulai Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Dhulai/Chull%20Dhulai%20E1.mp4
 5265	SKIPPED	Chhupi Nazar Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chhupi%20Nazar/Chhupi%20Nazar%20E1.mp4
@@ -5309,3 +5308,4 @@
 3272	UPLOADED	Night Lover 2024 Showhit Originals Hindi Uncut XXX Video	https://bindasmood.com/night-lover-2024-showhit-originals-hindi-uncut-xxx-video	
 354	UPLOADED	Desi Bhabhi Threesome Sex 2026 Hindi Uncut XXX Video	https://bindasmood.com/desi-bhabhi-threesome-sex-2026-hindi-uncut-xxx-video	
 355	FAILED	URL item 355	https://bindasmood.com/big-ass-cute-desi-bhabhi-2026-niksindian-uncut-xxx-video	All video sources failed: 404 Client Error: Not Found for url: https://bindasmood.com/s%20Ass%20and%20Fucks.mp4
+5262	UPLOADED	Bhookh 2023 Triflicks Hindi Uncut XXX Web Series Episode 4	https://bindasmood.com/bhookh-2023-triflicks-hindi-uncut-xxx-web-series-episode-4	
