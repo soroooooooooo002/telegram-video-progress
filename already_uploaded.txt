@@ -2293,7 +2293,6 @@
 1382	UPLOADED	Happy Ending Episode 2
 1383	UPLOADED	Happy Ending Episode 1
 1384	UPLOADED	Happy Ending Episode 3
-4273	SKIPPED	Tere Jaisa Yaar Kaha Episode 1	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4274	SKIPPED	Teekhi Chutney Episode 4	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4275	SKIPPED	Teekhi Chutney Episode 3	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 4276	SKIPPED	Teekhi Chutney Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5335,3 +5334,4 @@
 366	UPLOADED	Mona Darling BTS 2026 Moodx Hindi XXX Web Series Episode 4	https://bindasmood.com/mona-darling-bts-2026-moodx-hindi-xxx-web-series-episode-4	
 3289	UPLOADED	Koi Jaye To Le Aaye 2024 Atrangii Hindi XXX Web Series Ep 5	https://bindasmood.com/koi-jaye-to-le-aaye-2024-atrangii-hindi-xxx-web-series-ep-5	
 2267	UPLOADED	Adla Badli 2025 Teflix Hindi XXX Web Series Episode 5	https://bindasmood.com/adla-badli-2025-teflix-hindi-xxx-web-series-episode-5	
+4273	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-4	
