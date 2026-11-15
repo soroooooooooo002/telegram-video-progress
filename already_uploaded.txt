@@ -2229,7 +2229,6 @@
 3891	SKIPPED	Len Den Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Big%20Shots/Len%20Den/Len%20Den%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3892	UPLOADED	Len Den Episode 3
 3893	UPLOADED	Len Den Episode 8
-1285	SKIPPED	KOKKH	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/KOKKH.mp4
 1286	SKIPPED	Mithi Chatani	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Mithi%20Chatani.mp4
 1287	SKIPPED	Sapna Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Sapna/Sapna%20E4.mp4
 1288	UPLOADED	Bade Achhe Lagte Hai Episode 2
@@ -5293,3 +5292,4 @@
 5254	UPLOADED	Kaamwali 2023 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/kaamwali-2023-primeshots-hindi-xxx-web-series-episode-1	
 4249	UPLOADED	Bali Ka Bakra 2024 Atrangii Originals Hindi XXX Short Film	https://bindasmood.com/bali-ka-bakra-2024-atrangii-originals-hindi-xxx-short-film	
 2245	UPLOADED	Svayamvar 2025 Hulchul Hindi XXX Web Series Episode 2	https://bindasmood.com/svayamvar-2025-hulchul-hindi-xxx-web-series-episode-2	
+1285	UPLOADED	Mawlana Ki Masti BTS 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/mawlana-ki-masti-bts-2025-moodx-hindi-xxx-web-series-episode-2	
