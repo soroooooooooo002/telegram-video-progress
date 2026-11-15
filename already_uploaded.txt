@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1268	UPLOADED	Kajri Episode 5
 1269	SKIPPED	Kajri Episode 4	Download request failed: ('Connection broken: IncompleteRead(73825941 bytes read, 162194318 more expected)', IncompleteRead(73825941 bytes read, 162194318 more expected))
 1270	UPLOADED	Kajri Episode 3
 1271	UPLOADED	Kajri Episode 2
@@ -5261,3 +5260,4 @@
 2228	UPLOADED	Rajani Ke Kand 2025 Teflix Hindi XXX Web Series Episode 2	https://bindasmood.com/rajani-ke-kand-2025-teflix-hindi-xxx-web-series-episode-2	
 3242	UPLOADED	Bai No 1 2024 Chillx App Hindi XXX Web Series Episode 3	https://bindasmood.com/bai-no-1-2024-chillx-app-hindi-xxx-web-series-episode-3	
 4230	UPLOADED	Vidhwa 2024 Hotshots Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/vidhwa-2024-hotshots-originals-hindi-xxx-web-series-ep-3	
+1268	UPLOADED	Garbhdaan 2025 Kahaniplay Hindi Uncut XXX Web Series Ep 4	https://bindasmood.com/garbhdaan-2025-kahaniplay-hindi-uncut-xxx-web-series-ep-4	
