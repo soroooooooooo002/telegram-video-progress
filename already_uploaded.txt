@@ -3135,7 +3135,6 @@
 3979	UPLOADED	Honey Trap Episode 1
 1473	UPLOADED	Dekho Magar Pyar Se Episode 5
 1474	UPLOADED	Dekho Magar Pyar Se Episode 7
-5278	SKIPPED	Bewafaii Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Bewafaii/Bewafaii%20E1.mp4
 3981	UPLOADED	Honey Trap Episode 3
 1476	UPLOADED	Mere Angane Mein Episode 3
 5295	SKIPPED	Sasur Ki Dulhan Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
@@ -5337,3 +5336,4 @@
 367	UPLOADED	Shaadi Ki Raat 2026 Hindi Uncut XXX Video	https://bindasmood.com/shaadi-ki-raat-2026-hindi-uncut-xxx-video	
 4275	UPLOADED	Jabran 2024 Bigshots Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/jabran-2024-bigshots-originals-hindi-xxx-web-series-ep-6	
 3291	UPLOADED	Prem Game 2024 Habbit Movies Hindi XXX Web Series Ep 1	https://bindasmood.com/prem-game-2024-habbit-movies-hindi-xxx-web-series-ep-1	
+5278	UPLOADED	Ulanghan 2023 Besharams Hindi XXX Web Series Episode 2	https://bindasmood.com/ulanghan-2023-besharams-hindi-xxx-web-series-episode-2	
