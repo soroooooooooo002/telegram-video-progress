@@ -3439,7 +3439,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5232	SKIPPED	Hum Aapke Fan Hai Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Hum%20Aapke%20Fan%20Hai/Hum%20Aapke%20Fan%20Hai%20E2.mp4
 5233	SKIPPED	Gulab Jamun Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamun%20E1.mp4
 5234	SKIPPED	Gulab Jamun Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Gulab%20Jamun/Gulab%20Jamunn%20E2.mp4
 5235	SKIPPED	Golden Silver Episode1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E1.mp4
@@ -5264,3 +5263,4 @@
 2230	UPLOADED	Travel Agency 2025 Boomex Malayalam XXX Web Series Ep 1	https://bindasmood.com/travel-agency-2025-boomex-malayalam-xxx-web-series-ep-1	
 1269	UPLOADED	Haseen Raatein 2025 Saathi Hindi Uncut XXX Web Series Ep 2	https://bindasmood.com/haseen-raatein-2025-saathi-hindi-uncut-xxx-web-series-ep-2	
 333	UPLOADED	Girlfriend Ke Saath Hardcore Sex 2026 Hindi Uncut XXX Video	https://bindasmood.com/girlfriend-ke-saath-hardcore-sex-2026-hindi-uncut-xxx-video	
+5232	UPLOADED	Honey Trap Squad 2023 Altbalaji Hindi Adult Web Series Ep 2	https://bindasmood.com/honey-trap-squad-2023-altbalaji-hindi-adult-web-series-ep-2	
