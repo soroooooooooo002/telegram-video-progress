@@ -1131,7 +1131,6 @@
 5625	UPLOADED	Paappi Gudda Episode 2
 5626	UPLOADED	Paappi Gudda Episode 1
 790	UPLOADED	Kulta Episode 6
-3248	UPLOADED	L Lag Gaye Episode 6
 5627	UPLOADED	Paap Episode 2
 5628	SKIPPED	Paap Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Paap/Paap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3249	UPLOADED	Shudh Shakahari Episode 1
@@ -5267,3 +5266,4 @@
 3247	UPLOADED	Qaatil Haseena 2024 Altt App Hindi XXX Web Series Ep 4	https://bindasmood.com/qaatil-haseena-2024-altt-app-hindi-xxx-web-series-ep-4	
 1272	UPLOADED	Romantic Wife Neha 2025 Hindi Uncut XXX Video	https://bindasmood.com/romantic-wife-neha-2025-hindi-uncut-xxx-video	
 2232	UPLOADED	Nazayaz Rishtey 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/nazayaz-rishtey-2025-moodx-hindi-xxx-web-series-episode-2	
+3248	UPLOADED	Couples Leaked Deleted Scenes 2024 Navarasa Hot XXX Video	https://bindasmood.com/couples-leaked-deleted-scenes-2024-navarasa-hot-xxx-video	
