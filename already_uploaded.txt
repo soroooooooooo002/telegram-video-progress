@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1263	UPLOADED	Shararati Saas Episode 5
 1264	UPLOADED	Shararati Saas Episode 4
 1265	UPLOADED	Shararati Saas Episode 3
 1266	UPLOADED	Shararati Saas Episode 2
@@ -5252,3 +5251,4 @@
 2222	UPLOADED	Raasleela 2025 Bull App Hindi XXX Web Series Episode 3	https://bindasmood.com/raasleela-2025-bull-app-hindi-xxx-web-series-episode-3	
 3234	UPLOADED	Prem 2020 2024 Habbit Movies Hindi XXX Web Series Ep 3	https://bindasmood.com/prem-2020-2024-habbit-movies-hindi-xxx-web-series-ep-3	
 4225	UPLOADED	Bet 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/bet-2024-fugi-app-originals-hindi-uncut-xxx-video	
+1263	UPLOADED	Kand Wali Return BTS 2025 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/kand-wali-return-bts-2025-moodx-hindi-xxx-web-series-episode-1	
