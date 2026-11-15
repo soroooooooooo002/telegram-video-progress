@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1321	UPLOADED	Daddy Cool Episode 6
 1322	UPLOADED	Naa Tum Jaano Naa Hum Episode 5
 1323	UPLOADED	Daddy Cool Episode 4
 1325	UPLOADED	Naa Tum Jaano Naa Hum Episode 6
@@ -5358,3 +5357,4 @@
 2280	UPLOADED	Sehri Bahurani 2025 Hulchul Hindi XXX Web Series Episode 6	https://bindasmood.com/sehri-bahurani-2025-hulchul-hindi-xxx-web-series-episode-6	
 3307	UPLOADED	B Se Blause 2024 Hitprime Hindi XXX Web Series Episode 3	https://bindasmood.com/b-se-blause-2024-hitprime-hindi-xxx-web-series-episode-3	
 5295	UPLOADED	Noukar 2023 Moodx Originals Hindi XXX Web Series Episode 3	https://bindasmood.com/noukar-2023-moodx-originals-hindi-xxx-web-series-episode-3	
+1321	UPLOADED	Angry Boyfriend 2025 Hindi Uncut XXX Video	https://bindasmood.com/angry-boyfriend-2025-hindi-uncut-xxx-video	
