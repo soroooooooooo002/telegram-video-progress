@@ -1132,7 +1132,6 @@
 790	UPLOADED	Kulta Episode 6
 5627	UPLOADED	Paap Episode 2
 5628	SKIPPED	Paap Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Paap/Paap%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-3249	UPLOADED	Shudh Shakahari Episode 1
 3250	SKIPPED	Shudh Shakahari Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /9Red%20Movies/Shudh%20Shakahari/Shudh%20Shakahari%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5629	UPLOADED	Kaminey Episode 2
 5630	SKIPPED	Kaminey Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Kaminey/Kaminey%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
@@ -5267,3 +5266,4 @@
 3248	UPLOADED	Couples Leaked Deleted Scenes 2024 Navarasa Hot XXX Video	https://bindasmood.com/couples-leaked-deleted-scenes-2024-navarasa-hot-xxx-video	
 4233	UPLOADED	Marry Maid 2024 Show Hit Originals Hindi Uncut XXX Video	https://bindasmood.com/marry-maid-2024-show-hit-originals-hindi-uncut-xxx-video	
 5235	UPLOADED	Sweety Bula Rahi Hai 2023 Woow Hindi XXX Web Series Ep 2	https://bindasmood.com/sweety-bula-rahi-hai-2023-woow-hindi-xxx-web-series-ep-2	
+3249	UPLOADED	Bholi Sajni 2024 Digi Movieplex Hindi XXX Web Series Ep 3	https://bindasmood.com/bholi-sajni-2024-digi-movieplex-hindi-xxx-web-series-ep-3	
