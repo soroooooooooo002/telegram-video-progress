@@ -3430,7 +3430,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5235	SKIPPED	Golden Silver Episode1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E1.mp4
 5236	SKIPPED	Golden Silver Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E3.mp4
 5237	SKIPPED	Golden Silver Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E2.mp4
 5238	SKIPPED	Golden Silver Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Golden%20Silverr/Golden%20Silverr%20E4.mp4
@@ -5267,3 +5266,4 @@
 2232	UPLOADED	Nazayaz Rishtey 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/nazayaz-rishtey-2025-moodx-hindi-xxx-web-series-episode-2	
 3248	UPLOADED	Couples Leaked Deleted Scenes 2024 Navarasa Hot XXX Video	https://bindasmood.com/couples-leaked-deleted-scenes-2024-navarasa-hot-xxx-video	
 4233	UPLOADED	Marry Maid 2024 Show Hit Originals Hindi Uncut XXX Video	https://bindasmood.com/marry-maid-2024-show-hit-originals-hindi-uncut-xxx-video	
+5235	UPLOADED	Sweety Bula Rahi Hai 2023 Woow Hindi XXX Web Series Ep 2	https://bindasmood.com/sweety-bula-rahi-hai-2023-woow-hindi-xxx-web-series-ep-2	
