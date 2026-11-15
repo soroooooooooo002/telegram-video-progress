@@ -3386,7 +3386,6 @@
 5459	SKIPPED	Psycho Saiyaan Episode 2	Cannot send requests while disconnected
 1510	UPLOADED	Kaanta Laga Episode 7
 5460	SKIPPED	Psycho Saiyaan Episode 1	Cannot send requests while disconnected
-5255	SKIPPED	ChutzPah Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/ChutzPah/ChutzPah%20E6.mp4
 5256	SKIPPED	Chull Room Service Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Room%20Service/Chull%20Room%20Service%20E1.mp4
 5257	SKIPPED	Chull Room Service Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Room%20Service/Chull%20Room%20Service%20E2.mp4
 5258	SKIPPED	Chull Paani Chalka Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Kooku/Chull%20Paani%20Chalka/Chull%20Paani%20Chalka%20E1.mp4
@@ -5294,3 +5293,4 @@
 1285	UPLOADED	Mawlana Ki Masti BTS 2025 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/mawlana-ki-masti-bts-2025-moodx-hindi-xxx-web-series-episode-2	
 347	UPLOADED	Ladkiyon Ne Badla Boyfriend 2026 Hindi Uncut XXX Video	https://bindasmood.com/ladkiyon-ne-badla-boyfriend-2026-hindi-uncut-xxx-video	
 3264	UPLOADED	Desi Wife 2024 Hothit Movies Originals Hindi Uncut XXX Video	https://bindasmood.com/desi-wife-2024-hothit-movies-originals-hindi-uncut-xxx-video	
+5255	UPLOADED	Closure 2023 Hotx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/closure-2023-hotx-vip-originals-hindi-uncut-xxx-video	
