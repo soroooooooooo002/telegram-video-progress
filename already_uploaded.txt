@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1276	UPLOADED	Damdar Ladoo Episode 3
 1277	UPLOADED	Damdar Ladoo Episode 2
 1314	UPLOADED	London Dreams Episode 1
 1315	SKIPPED	Jawaani Jaaneman Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Feel/Jawaani%20Jaaneman%20D1/Jawaani%20Jaaneman%20Episode%202.mp4
@@ -5274,3 +5273,4 @@
 4239	UPLOADED	Jungal Me Mangal 3 2024 Fugi Originals Hindi XXX Video	https://bindasmood.com/jungal-me-mangal-3-2024-fugi-originals-hindi-xxx-video	
 5242	UPLOADED	Lady Hunter 2 2023 Wow Entertainment XXX Web Series Episode 4	https://bindasmood.com/lady-hunter-2-2023-wow-entertainment-xxx-web-series-episode-4	
 3254	UPLOADED	Horny Wife 2024 Fanslove Hindi Desi XXX Video	https://bindasmood.com/horny-wife-2024-fanslove-hindi-desi-xxx-video	
+1276	UPLOADED	Romantic Couple 2025 Hindi Uncut XXX Video	https://bindasmood.com/romantic-couple-2025-hindi-uncut-xxx-video	
