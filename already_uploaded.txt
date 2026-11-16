@@ -3373,7 +3373,6 @@
 5601	SKIPPED	Best Friend Feelit	Cannot send requests while disconnected
 1528	UPLOADED	Dil To Baccha Hai Episode 3
 5602	SKIPPED	Sali Puri Gharwali	Cannot send requests while disconnected
-5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
 5603	SKIPPED	Girlfriend Exchange	Cannot send requests while disconnected
 5604	SKIPPED	Divorce	Cannot send requests while disconnected
 1529	UPLOADED	Ek Baar Aur Episode 6
@@ -5387,3 +5386,4 @@
 4300	UPLOADED	Kammini 2024 Navarasa Malayalam XXX Web Series Episode 2	https://bindasmood.com/kammini-2024-navarasa-malayalam-xxx-web-series-episode-2	
 1335	UPLOADED	Yamma Yamma 2025 Ullu Hindi XXX Web Series Episode 8	https://bindasmood.com/yamma-yamma-2025-ullu-hindi-xxx-web-series-episode-8	
 2296	UPLOADED	Chadar Badli 2025 Bull App Hindi XXX Web Series Episode 5	https://bindasmood.com/chadar-badli-2025-bull-app-hindi-xxx-web-series-episode-5	
+5313	UPLOADED	Diary 2023 Primeshots Hindi XXX Web Series Episode 2	https://bindasmood.com/diary-2023-primeshots-hindi-xxx-web-series-episode-2	
