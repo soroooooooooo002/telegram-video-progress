@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1331	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 6
 1336	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 2
 1356	UPLOADED	Dil Pe Bojh Episode 5
 1357	UPLOADED	Bholi Sajni Episode 4
@@ -5382,3 +5381,4 @@
 3322	UPLOADED	Samjhota 2024 Hulchul Originals Hindi XXX Web Series Episode 3	https://bindasmood.com/samjhota-2024-hulchul-originals-hindi-xxx-web-series-episode-3	
 5310	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 2	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-2	
 4298	UPLOADED	Honey 2024 Adda TV Originals Hindi Uncut XXX Video	https://bindasmood.com/honey-2024-adda-tv-originals-hindi-uncut-xxx-video	
+1331	UPLOADED	Do Not Disturb 2025 Moodx Hindi XXX Web Series Episode 3	https://bindasmood.com/do-not-disturb-2025-moodx-hindi-xxx-web-series-episode-3	
