@@ -2182,7 +2182,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
 1337	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 1
 1338	UPLOADED	Daddy Cool Episode 3
 1339	UPLOADED	Daddy Cool Episode 2
@@ -5386,3 +5385,4 @@
 2295	UPLOADED	Chadar Badli 2025 Bull App Hindi XXX Web Series Episode 6	https://bindasmood.com/chadar-badli-2025-bull-app-hindi-xxx-web-series-episode-6	
 5312	UPLOADED	Desi Housewife Pays Rent by Selling Her Pussy Niksindian XXX	https://bindasmood.com/desi-housewife-pays-rent-by-selling-her-pussy-niksindian-xxx	
 4300	UPLOADED	Kammini 2024 Navarasa Malayalam XXX Web Series Episode 2	https://bindasmood.com/kammini-2024-navarasa-malayalam-xxx-web-series-episode-2	
+1335	UPLOADED	Yamma Yamma 2025 Ullu Hindi XXX Web Series Episode 8	https://bindasmood.com/yamma-yamma-2025-ullu-hindi-xxx-web-series-episode-8	
