@@ -2179,7 +2179,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1340	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 4
 1341	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 5
 1342	UPLOADED	Do Din ka Mehmaan Episode 5
 1343	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 6
@@ -5395,3 +5394,4 @@
 2301	FAILED	URL item 2301	https://bindasmood.com/rangeen-kahaniyan-21-2025-altt-app-hindi-xxx-web-series-ep-4	All video sources failed: ('Connection broken: IncompleteRead(11337286 bytes read, 5439930 more expected)', IncompleteRead(11337286 bytes read, 5439930 more expected))
 5320	FAILED	URL item 5320	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-1	All video sources failed: ('Connection broken: IncompleteRead(10550854 bytes read, 6226362 more expected)', IncompleteRead(10550854 bytes read, 6226362 more expected))
 1339	UPLOADED	Holi 2025 Kahaniplay Hindi Uncut XXX Web Series Episode 7	https://bindasmood.com/holi-2025-kahaniplay-hindi-uncut-xxx-web-series-episode-7	
+1340	FAILED	URL item 1340	https://bindasmood.com/shaadi-ke-baad-2025-hindi-uncut-xxx-video	All video sources failed: ('Connection broken: IncompleteRead(15302216 bytes read, 1475000 more expected)', IncompleteRead(15302216 bytes read, 1475000 more expected))
