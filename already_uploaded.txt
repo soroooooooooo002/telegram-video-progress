@@ -3384,7 +3384,6 @@
 5601	SKIPPED	Best Friend Feelit	Cannot send requests while disconnected
 1528	UPLOADED	Dil To Baccha Hai Episode 3
 5602	SKIPPED	Sali Puri Gharwali	Cannot send requests while disconnected
-5310	UPLOADED	Damaadji Lage Raho Episode 1
 5311	SKIPPED	Aakhri Raat Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E3.mp4
 5313	SKIPPED	Aakhri Raat Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Aakhri%20Raat/Aakhri%20Raat%20E1.mp4
 5603	SKIPPED	Girlfriend Exchange	Cannot send requests while disconnected
@@ -5382,3 +5381,4 @@
 2292	UPLOADED	Dulhe Raja 2025 9RedMovies Hindi XXX Web Series Epsiode 5	https://bindasmood.com/dulhe-raja-2025-9redmovies-hindi-xxx-web-series-epsiode-5	
 5309	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 1	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-1	
 3322	UPLOADED	Samjhota 2024 Hulchul Originals Hindi XXX Web Series Episode 3	https://bindasmood.com/samjhota-2024-hulchul-originals-hindi-xxx-web-series-episode-3	
+5310	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 2	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-2	
