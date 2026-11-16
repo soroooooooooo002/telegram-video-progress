@@ -3043,7 +3043,6 @@
 1498	UPLOADED	Nurse Episode 6
 1500	UPLOADED	Payal Episode 3
 1501	UPLOADED	Payal Episode 2
-5365	SKIPPED	Buddha Pyaar Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E7.mp4
 5367	SKIPPED	Buddha Pyaar Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E4.mp4
 5368	SKIPPED	Buddha Pyaar Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E5.mp4
 5369	SKIPPED	Buddha Pyaar Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Buddha%20Pyaar/Buddha%20Pyaar%20E2.mp4
@@ -5415,3 +5414,4 @@
 5362	UPLOADED	Step Brother Fuck Sucharita 2023 Sexfantasy Hindi XXX Video	https://bindasmood.com/step-brother-fuck-sucharita-2023-sexfantasy-hindi-xxx-video	
 5363	UPLOADED	Sheela X 2 2023 Moodx Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/sheela-x-2-2023-moodx-originals-hindi-xxx-web-series-ep-2	
 5364	UPLOADED	Doodh Wali 2023 Hunters Originals Hindi XXX Web Series Ep 7	https://bindasmood.com/doodh-wali-2023-hunters-originals-hindi-xxx-web-series-ep-7	
+5365	UPLOADED	Doodh Wali 2023 Hunters Originals Hindi XXX Web Series Ep 8	https://bindasmood.com/doodh-wali-2023-hunters-originals-hindi-xxx-web-series-ep-8	
