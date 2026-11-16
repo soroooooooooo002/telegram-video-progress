@@ -3387,7 +3387,6 @@
 1540	UPLOADED	Tauba Tauba Episode 1
 1541	UPLOADED	Tauba Tauba Episode 2
 5618	SKIPPED	Saazish Episode 2	Cannot send requests while disconnected
-5322	UPLOADED	Anokhi Episode 3
 1542	UPLOADED	Tapan Episode 3
 5619	SKIPPED	Rangeen Baatein S2 Episode 1	Cannot send requests while disconnected
 5620	SKIPPED	Rangeen Baatein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%202.mp4
@@ -5397,3 +5396,4 @@
 4305	UPLOADED	Chull 2024 Bull App Hindi XXX Web Series Episode 1	https://bindasmood.com/chull-2024-bull-app-hindi-xxx-web-series-episode-1	
 1341	UPLOADED	Sexy Desi Bahu 2025 Fanslove Hindi Desi XXX Video	https://bindasmood.com/sexy-desi-bahu-2025-fanslove-hindi-desi-xxx-video	
 3327	UPLOADED	Vanila Flavour 2024 Meetx Originals Hindi Uncut XXX Video	https://bindasmood.com/vanila-flavour-2024-meetx-originals-hindi-uncut-xxx-video	
+5322	UPLOADED	Buddha Pyaar 2023 Hunters Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-3	
