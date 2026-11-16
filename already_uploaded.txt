@@ -3388,7 +3388,6 @@
 1539	UPLOADED	Tauba Tauba Episode 4
 5617	SKIPPED	Saazish Episode 1	Cannot send requests while disconnected
 1540	UPLOADED	Tauba Tauba Episode 1
-5321	UPLOADED	Anokhi Episode 4
 1541	UPLOADED	Tauba Tauba Episode 2
 5618	SKIPPED	Saazish Episode 2	Cannot send requests while disconnected
 5322	UPLOADED	Anokhi Episode 3
@@ -5395,3 +5394,4 @@
 1339	UPLOADED	Holi 2025 Kahaniplay Hindi Uncut XXX Web Series Episode 7	https://bindasmood.com/holi-2025-kahaniplay-hindi-uncut-xxx-web-series-episode-7	
 1340	FAILED	URL item 1340	https://bindasmood.com/shaadi-ke-baad-2025-hindi-uncut-xxx-video	All video sources failed: ('Connection broken: IncompleteRead(15302216 bytes read, 1475000 more expected)', IncompleteRead(15302216 bytes read, 1475000 more expected))
 4304	UPLOADED	Housewife 2024 Fugi App Originals Hindi Uncut XXX Video	https://bindasmood.com/housewife-2024-fugi-app-originals-hindi-uncut-xxx-video	
+5321	UPLOADED	Buddha Pyaar 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-2	
