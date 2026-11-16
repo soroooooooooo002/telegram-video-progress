@@ -3379,7 +3379,6 @@
 5619	SKIPPED	Rangeen Baatein S2 Episode 1	Cannot send requests while disconnected
 5620	SKIPPED	Rangeen Baatein Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%202.mp4
 1543	UPLOADED	Tapan Episode 4
-5327	SKIPPED	Malik Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E2.mp4
 5329	SKIPPED	Malik Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E3.mp4
 5330	SKIPPED	Malik Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E1.mp4
 1545	UPLOADED	Tapan Episode 2
@@ -5404,3 +5403,4 @@
 2306	UPLOADED	Rangeen Raat 2025 Meetx Hindi Uncut XXX Video	https://bindasmood.com/rangeen-raat-2025-meetx-hindi-uncut-xxx-video	
 5326	UPLOADED	Ex Girlfriend 2023 Mojflix Hindi Uncut XXX Short Film	https://bindasmood.com/ex-girlfriend-2023-mojflix-hindi-uncut-xxx-short-film	
 395	UPLOADED	Rasakadali 2026 Sigma Series Malayalam Hot XXX Video	https://bindasmood.com/rasakadali-2026-sigma-series-malayalam-hot-xxx-video	
+5327	UPLOADED	Self Satisfaction 2023 Dunki Originals Hindi XXX Short Film	https://bindasmood.com/self-satisfaction-2023-dunki-originals-hindi-xxx-short-film	
