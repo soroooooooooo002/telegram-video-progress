@@ -3363,7 +3363,6 @@
 5573	SKIPPED	Rangeen Tailor Episode 1	Cannot send requests while disconnected
 1521	UPLOADED	Kaanta Laga Episode 1
 5574	SKIPPED	Mr Chourasiya Episode 2	Cannot send requests while disconnected
-5304	UPLOADED	Ladla Dever Episode 1
 5575	SKIPPED	Mr Chourasiya Episode 4	Cannot send requests while disconnected
 1522	UPLOADED	Dil To Baccha Hai Episode 5
 5576	SKIPPED	Mr Chourasiya Episode 3	Cannot send requests while disconnected
@@ -5371,3 +5370,4 @@
 3315	UPLOADED	Dhokhebaaz 2024 Soltalkies Hindi XXX Web Series Episode 5	https://bindasmood.com/dhokhebaaz-2024-soltalkies-hindi-xxx-web-series-episode-5	
 2285	UPLOADED	Adla Badli 2025 Teflix Hindi XXX Web Series Episode 1	https://bindasmood.com/adla-badli-2025-teflix-hindi-xxx-web-series-episode-1	
 3316	UPLOADED	Dhokhebaaz 2024 Soltalkies Hindi XXX Web Series Episode 6	https://bindasmood.com/dhokhebaaz-2024-soltalkies-hindi-xxx-web-series-episode-6	
+5304	UPLOADED	Betaab Ishq 2023 Ullu Hindi XXX Web Series Episode 3	https://bindasmood.com/betaab-ishq-2023-ullu-hindi-xxx-web-series-episode-3	
