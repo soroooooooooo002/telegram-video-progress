@@ -3044,7 +3044,6 @@
 1498	UPLOADED	Nurse Episode 6
 1500	UPLOADED	Payal Episode 3
 1501	UPLOADED	Payal Episode 2
-5347	SKIPPED	Yaddasht Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E5.mp4
 5348	SKIPPED	Yaddasht Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E6.mp4
 5349	SKIPPED	Yaddasht Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E2.mp4
 5350	SKIPPED	Yaddasht Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Yaddasht/Yaddasht%20E3.mp4
@@ -5415,3 +5414,4 @@
 5344	UPLOADED	Guru Dakshina 2023 Besharams Hindi XXX Web Series Ep 7	https://bindasmood.com/guru-dakshina-2023-besharams-hindi-xxx-web-series-ep-7	
 5345	UPLOADED	Guru Dakshina 2023 Besharams Hindi XXX Web Series Ep 8	https://bindasmood.com/guru-dakshina-2023-besharams-hindi-xxx-web-series-ep-8	
 5346	UPLOADED	Guru Dakshina 2023 Besharams Hindi XXX Web Series Ep 9	https://bindasmood.com/guru-dakshina-2023-besharams-hindi-xxx-web-series-ep-9	
+5347	UPLOADED	Vashikaran 2023 Woow Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/vashikaran-2023-woow-originals-hindi-xxx-web-series-ep-1	
