@@ -962,7 +962,6 @@
 712	UPLOADED	Sapnon Ki Raani Episode 2
 2936	UPLOADED	Sonia Ke Kisse Episode 2
 2937	UPLOADED	Sonia Ke Kisse Episode 1
-5324	UPLOADED	Anokhi Episode 1
 5325	SKIPPED	Diploma In Suhagrat Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Diploma%20in%20Suhagrat/Diploma%20in%20Suhagrat%20E2.mp4
 5328	SKIPPED	Malik Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jalva/Malik/Malik%20E4.mp4
 2938	UPLOADED	Japani Malish Episode 6
@@ -5400,3 +5399,4 @@
 5323	UPLOADED	Buddha Pyaar 2023 Hunters Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-4	
 4307	UPLOADED	Atript 2024 Bull App Hindi XXX Web Series Episode 1	https://bindasmood.com/atript-2024-bull-app-hindi-xxx-web-series-episode-1	
 2304	UPLOADED	Rangeen Kahaniyan 21 2025 Altt App Hindi XXX Web Series Ep 1	https://bindasmood.com/rangeen-kahaniyan-21-2025-altt-app-hindi-xxx-web-series-ep-1	
+5324	UPLOADED	Diary 2023 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/diary-2023-primeshots-hindi-xxx-web-series-episode-1	
