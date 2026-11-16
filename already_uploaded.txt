@@ -3377,7 +3377,6 @@
 5606	SKIPPED	The Painter Episode 3	Cannot send requests while disconnected
 1532	UPLOADED	Ek Baar Aur Episode 1
 5607	SKIPPED	The Painter Episode 1	Cannot send requests while disconnected
-5316	UPLOADED	Gharwali Baharwali Episode 5
 5608	SKIPPED	The Painter Episode 2	Cannot send requests while disconnected
 1533	UPLOADED	Ek Baar Aur Episode 3
 5609	SKIPPED	Shadyantra S3 Episode 2	Cannot send requests while disconnected
@@ -5391,3 +5390,4 @@
 1337	UPLOADED	Yamma Yamma 2025 Ullu Hindi XXX Web Series Episode 6	https://bindasmood.com/yamma-yamma-2025-ullu-hindi-xxx-web-series-episode-6	
 4302	UPLOADED	Shades of Lust 2024 Hotx Originals Hindi Uncut XXX Video	https://bindasmood.com/shades-of-lust-2024-hotx-originals-hindi-uncut-xxx-video	
 2298	UPLOADED	Tere Mere Beech Mein 2025 Ullu Hindi XXX Web Series Ep 3	https://bindasmood.com/tere-mere-beech-mein-2025-ullu-hindi-xxx-web-series-ep-3	
+5316	UPLOADED	Dhokha 2023 Dunki Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/dhokha-2023-dunki-originals-hindi-xxx-web-series-episode-2	
