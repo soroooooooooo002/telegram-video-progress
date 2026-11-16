@@ -2183,7 +2183,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1334	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 5
 1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
 1337	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 1
 1338	UPLOADED	Daddy Cool Episode 3
@@ -5385,3 +5384,4 @@
 2294	UPLOADED	Ras Ki Malai 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/ras-ki-malai-2025-neonx-vip-hindi-uncut-xxx-video	
 1333	UPLOADED	Haveli Ki Dulhan 2025 Jugnu App Hindi XXX Web Series Episode 6	https://bindasmood.com/haveli-ki-dulhan-2025-jugnu-app-hindi-xxx-web-series-episode-6	
 4299	UPLOADED	Spicy Wife 2024 Neonx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/spicy-wife-2024-neonx-vip-originals-hindi-uncut-xxx-video	
+1334	UPLOADED	Haveli Ki Dulhan 2025 Jugnu App Hindi XXX Web Series Episode 5	https://bindasmood.com/haveli-ki-dulhan-2025-jugnu-app-hindi-xxx-web-series-episode-5	
