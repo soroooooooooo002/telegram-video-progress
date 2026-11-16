@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1328	UPLOADED	Naa Tum Jaano Naa Hum Episode 1
 1329	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 9
 1330	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 8
 1331	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 6
@@ -5378,3 +5377,4 @@
 2289	UPLOADED	Dulhe Raja 2025 9RedMovies Hindi XXX Web Series Epsiode 2	https://bindasmood.com/dulhe-raja-2025-9redmovies-hindi-xxx-web-series-epsiode-2	
 5307	UPLOADED	Nehlee Par Dehla 2023 Voovi Hindi XXX Web Series Episode 2	https://bindasmood.com/nehlee-par-dehla-2023-voovi-hindi-xxx-web-series-episode-2	
 386	UPLOADED	Blogging Karte Karte Sex 2026 Hindi Uncut XXX Video	https://bindasmood.com/blogging-karte-karte-sex-2026-hindi-uncut-xxx-video	
+1328	UPLOADED	Maid for Each Other 2025 Bulbulplay Hindi XXX Short Film	https://bindasmood.com/maid-for-each-other-2025-bulbulplay-hindi-xxx-short-film	
