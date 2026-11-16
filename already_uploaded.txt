@@ -3387,7 +3387,6 @@
 5614	SKIPPED	Sambandh Episode 1	Cannot send requests while disconnected
 5615	SKIPPED	Shadyantra Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Dreams%20Films/Shadyantra/Shadyantra%20Episode%202.mp4
 1538	UPLOADED	Shaukiya Episode 3
-5320	UPLOADED	Gharwali Baharwali Episode 1
 5616	SKIPPED	Sambandh Episode 2	Cannot send requests while disconnected
 1539	UPLOADED	Tauba Tauba Episode 4
 5617	SKIPPED	Saazish Episode 1	Cannot send requests while disconnected
@@ -5395,3 +5394,4 @@
 5319	UPLOADED	Green Fuck 2023 Triflicks Originals Hindi Uncut XXX Video	https://bindasmood.com/green-fuck-2023-triflicks-originals-hindi-uncut-xxx-video	
 2300	UPLOADED	Tere Mere Beech Mein 2025 Ullu Hindi XXX Web Series Ep 1	https://bindasmood.com/tere-mere-beech-mein-2025-ullu-hindi-xxx-web-series-ep-1	
 2301	FAILED	URL item 2301	https://bindasmood.com/rangeen-kahaniyan-21-2025-altt-app-hindi-xxx-web-series-ep-4	All video sources failed: ('Connection broken: IncompleteRead(11337286 bytes read, 5439930 more expected)', IncompleteRead(11337286 bytes read, 5439930 more expected))
+5320	FAILED	URL item 5320	https://bindasmood.com/buddha-pyaar-2023-hunters-originals-hindi-xxx-web-series-ep-1	All video sources failed: ('Connection broken: IncompleteRead(10550854 bytes read, 6226362 more expected)', IncompleteRead(10550854 bytes read, 6226362 more expected))
