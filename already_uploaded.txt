@@ -3041,7 +3041,6 @@
 1498	UPLOADED	Nurse Episode 6
 1500	UPLOADED	Payal Episode 3
 1501	UPLOADED	Payal Episode 2
-5390	SKIPPED	Sahara Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Sahara/Sahara%20E1.mp4
 5391	SKIPPED	Jalan Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E4.mp4
 5392	SKIPPED	Jalan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E5.mp4
 5393	SKIPPED	Jalan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E3.mp4
@@ -5415,3 +5414,4 @@
 5387	UPLOADED	Akalmand Junglee 2023 Besharams Hindi XXX Web Series Ep 8	https://bindasmood.com/akalmand-junglee-2023-besharams-hindi-xxx-web-series-ep-8	
 5388	UPLOADED	Deal 2023 Primeshots Hindi XXX Web Series Episode 2	https://bindasmood.com/deal-2023-primeshots-hindi-xxx-web-series-episode-2	
 5389	UPLOADED	Capsule 2023 Ox9 App Hindi XXX Web Series Episode 1	https://bindasmood.com/capsule-2023-ox9-app-hindi-xxx-web-series-episode-1	
+5390	UPLOADED	Capsule 2023 Ox9 App Hindi XXX Web Series Episode 2	https://bindasmood.com/capsule-2023-ox9-app-hindi-xxx-web-series-episode-2	
