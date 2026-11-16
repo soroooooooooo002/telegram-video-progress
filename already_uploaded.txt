@@ -2184,7 +2184,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1332	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 7
 1333	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 4
 1334	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 5
 1335	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 3
@@ -5383,3 +5382,4 @@
 1331	UPLOADED	Do Not Disturb 2025 Moodx Hindi XXX Web Series Episode 3	https://bindasmood.com/do-not-disturb-2025-moodx-hindi-xxx-web-series-episode-3	
 2293	UPLOADED	Dulhe Raja 2025 9RedMovies Hindi XXX Web Series Epsiode 6	https://bindasmood.com/dulhe-raja-2025-9redmovies-hindi-xxx-web-series-epsiode-6	
 5311	UPLOADED	Shuddhikaran 2023 Primeplay Hindi XXX Web Series Episode 3	https://bindasmood.com/shuddhikaran-2023-primeplay-hindi-xxx-web-series-episode-3	
+1332	UPLOADED	Haveli Ki Dulhan 2025 Jugnu App Hindi XXX Web Series Episode 7	https://bindasmood.com/haveli-ki-dulhan-2025-jugnu-app-hindi-xxx-web-series-episode-7	
