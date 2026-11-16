@@ -3380,7 +3380,6 @@
 1534	UPLOADED	Kya Khoob Lagti Ho Episode 5
 5610	SKIPPED	Shadyantra S3 Episode 1	Cannot send requests while disconnected
 1535	UPLOADED	Kya Khoob Lagti Ho Episode 6
-5318	UPLOADED	Gharwali Baharwali Episode 3
 5611	SKIPPED	Shadyantra S2 Episode 2	Cannot send requests while disconnected
 1536	UPLOADED	Kya Khoob Lagti Ho Episode 4
 5319	UPLOADED	Gharwali Baharwali Episode 2
@@ -5393,3 +5392,4 @@
 4303	UPLOADED	Hungry Haseena 2024 Moodx Vip Hindi XXX Web Series Ep 2	https://bindasmood.com/hungry-haseena-2024-moodx-vip-hindi-xxx-web-series-ep-2	
 2299	UPLOADED	Tere Mere Beech Mein 2025 Ullu Hindi XXX Web Series Ep 2	https://bindasmood.com/tere-mere-beech-mein-2025-ullu-hindi-xxx-web-series-ep-2	
 3326	UPLOADED	Best Friends 2024 Meetx Originals Hindi Uncut XXX Video	https://bindasmood.com/best-friends-2024-meetx-originals-hindi-uncut-xxx-video	
+5318	UPLOADED	Lady Hunter 2023 Wow Entertainment XXX Web Series Episode 2	https://bindasmood.com/lady-hunter-2023-wow-entertainment-xxx-web-series-episode-2	
