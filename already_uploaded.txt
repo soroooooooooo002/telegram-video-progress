@@ -2176,7 +2176,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1343	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 6
 1344	UPLOADED	Do Din ka Mehmaan Episode 6
 1345	UPLOADED	Do Din ka Mehmaan Episode 7
 1346	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 3
@@ -5401,3 +5400,4 @@
 4308	UPLOADED	Atript 2024 Bull App Hindi XXX Web Series Episode 2	https://bindasmood.com/atript-2024-bull-app-hindi-xxx-web-series-episode-2	
 3328	UPLOADED	Friends 2024 Meetx Originals Hindi Uncut XXX Video	https://bindasmood.com/friends-2024-meetx-originals-hindi-uncut-xxx-video	
 2305	UPLOADED	Bindaas Life 2025 Neonx Vip Hindi Uncut XXX Video	https://bindasmood.com/bindaas-life-2025-neonx-vip-hindi-uncut-xxx-video	
+1343	UPLOADED	Virgin School Girl 2025 Bindastimes Hindi Uncut XXX Video	https://bindasmood.com/virgin-school-girl-2025-bindastimes-hindi-uncut-xxx-video	
