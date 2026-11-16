@@ -148,7 +148,6 @@
 3568	SKIPPED	Fantasy CinePrime Episode 1	Download request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 3569	SKIPPED	Mere Samne Wali Khidki Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bull/Mere%20Samne%20Wali%20Khidki/Mere%20Samne%20Wali%20Khidki%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 3570	SKIPPED	Imli Kuch Khatti Episode 4	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Bulbul%20Play/Imli%20Kuch%20Khatti/Imli%20Kuch%20Khatti%20Episode%204.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-1336	UPLOADED	Tu Meri Heer Main Tera Ranjha Episode 2
 1356	UPLOADED	Dil Pe Bojh Episode 5
 1357	UPLOADED	Bholi Sajni Episode 4
 1358	UPLOADED	Bholi Sajni Episode 3
@@ -5388,3 +5387,4 @@
 5313	UPLOADED	Diary 2023 Primeshots Hindi XXX Web Series Episode 2	https://bindasmood.com/diary-2023-primeshots-hindi-xxx-web-series-episode-2	
 3325	UPLOADED	Aashram Live 2024 Meetx Hindi Uncut XXX Web Series Episode 3	https://bindasmood.com/aashram-live-2024-meetx-hindi-uncut-xxx-web-series-episode-3	
 389	UPLOADED	Hot Sexy Nurse Anal Sex 2026 Niksindian Uncut XXX Video	https://bindasmood.com/hot-sexy-nurse-anal-sex-2026-niksindian-uncut-xxx-video	
+1336	UPLOADED	Yamma Yamma 2025 Ullu Hindi XXX Web Series Episode 7	https://bindasmood.com/yamma-yamma-2025-ullu-hindi-xxx-web-series-episode-7	
