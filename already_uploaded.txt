@@ -3041,7 +3041,6 @@
 1498	UPLOADED	Nurse Episode 6
 1500	UPLOADED	Payal Episode 3
 1501	UPLOADED	Payal Episode 2
-5392	SKIPPED	Jalan Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E5.mp4
 5393	SKIPPED	Jalan Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E3.mp4
 5394	SKIPPED	Jalan Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E1.mp4
 5395	SKIPPED	Jalan Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FJalan-C1%2FJalan%20E2.mp4
@@ -5415,3 +5414,4 @@
 5389	UPLOADED	Capsule 2023 Ox9 App Hindi XXX Web Series Episode 1	https://bindasmood.com/capsule-2023-ox9-app-hindi-xxx-web-series-episode-1	
 5390	UPLOADED	Capsule 2023 Ox9 App Hindi XXX Web Series Episode 2	https://bindasmood.com/capsule-2023-ox9-app-hindi-xxx-web-series-episode-2	
 5391	UPLOADED	Crimes and Confessions S2 2023 Altbalaji XXX Web Series Ep 17	https://bindasmood.com/crimes-and-confessions-s2-2023-altbalaji-xxx-web-series-ep-17	
+5392	UPLOADED	Aadhya Papam 2023 Boomex Malayalam XXX Web Series Episode 2	https://bindasmood.com/aadhya-papam-2023-boomex-malayalam-xxx-web-series-episode-2	
