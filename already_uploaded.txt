@@ -974,7 +974,6 @@
 2946	UPLOADED	Bold Is Gold Episode 1
 2947	UPLOADED	Aamras Episode 2
 2948	UPLOADED	Aamras Episode 1
-5397	SKIPPED	Hawas Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters%2FHawas-C1%2FHawas%20E7.mp4
 5427	SKIPPED	Khoda Hostel Nikla Ladka Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Khoda%20Hostel%20Nikla%20Ladka/Khoda%20Hostel%20Nikla%20Ladka%20E5.mp4
 2949	UPLOADED	Dulhe Raja Episode 6
 720	UPLOADED	Saiyaan Farebi Episode 1
@@ -5415,3 +5414,4 @@
 5394	UPLOADED	Bahu Ki Aashqui 2023 Ox9 App Hindi XXX Web Series Episode 2	https://bindasmood.com/bahu-ki-aashqui-2023-ox9-app-hindi-xxx-web-series-episode-2	
 5395	UPLOADED	Bade Acche Lagte Hai Wow Entertainment XXX Web Series Ep 1	https://bindasmood.com/bade-acche-lagte-hai-wow-entertainment-xxx-web-series-ep-1	
 5396	UPLOADED	Bade Acche Lagte Hai Wow Entertainment XXX Web Series Ep 2	https://bindasmood.com/bade-acche-lagte-hai-wow-entertainment-xxx-web-series-ep-2	
+5397	UPLOADED	Crimes and Confessions S2 2023 Altbalaji Web Series Ep 16	https://bindasmood.com/crimes-and-confessions-s2-2023-altbalaji-web-series-ep-16	
