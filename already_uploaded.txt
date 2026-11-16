@@ -2169,7 +2169,6 @@
 3965	SKIPPED	Rivaaz Episode 7	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
 3911	UPLOADED	Daakhila Episode 3
 3980	SKIPPED	Honey Trap Episode 2	The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by SaveBigFilePartRequest)
-1347	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 1
 1348	UPLOADED	Tu Haan Kar Ya Naa Kar Episode 2
 1349	UPLOADED	Jane Anjane Mein 6 Episode 5
 1350	UPLOADED	Do Din ka Mehmaan Episode 3
@@ -5408,3 +5407,4 @@
 3333	UPLOADED	Red Light 2024 Ullu Originals Hindi XXX Web Series Episode 6	https://bindasmood.com/red-light-2024-ullu-originals-hindi-xxx-web-series-episode-6	
 4313	UPLOADED	Tamboo Me Bamboo 2024 Jalva Hindi XXX Web Series Episode 1	https://bindasmood.com/tamboo-me-bamboo-2024-jalva-hindi-xxx-web-series-episode-1	
 397	UPLOADED	Student Ke Saath Hardcore Threesome 2026 Hindi Uncut XXX Video	https://bindasmood.com/student-ke-saath-hardcore-threesome-2026-hindi-uncut-xxx-video	
+1347	UPLOADED	Holi 2025 Kahaniplay Hindi Uncut XXX Web Series Episode 6	https://bindasmood.com/holi-2025-kahaniplay-hindi-uncut-xxx-web-series-episode-6	
