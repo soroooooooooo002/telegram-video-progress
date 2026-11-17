@@ -3044,7 +3044,6 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
 1514	UPLOADED	Aah Se Aaha Tak Episode 3
 1515	UPLOADED	Aah Se Aaha Tak Episode 1
-5536	SKIPPED	Waqt Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Waqt/Waqt%20E1.mp4
 5537	SKIPPED	Khel Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E8.mp4
 5538	SKIPPED	Khel Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E5.mp4
 5539	SKIPPED	Khel Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Khel/Khel%20E6.mp4
@@ -5415,3 +5414,4 @@
 5533	UPLOADED	Parivartan 2023 Primeplay Originals Hindi XXX Web Series Ep1	https://bindasmood.com/parivartan-2023-primeplay-originals-hindi-xxx-web-series-ep1	
 5534	UPLOADED	Parivartan 2023 Primeplay Originals Hindi XXX Web Series Ep2	https://bindasmood.com/parivartan-2023-primeplay-originals-hindi-xxx-web-series-ep2	
 5535	UPLOADED	Parivartan 2023 Primeplay Originals Hindi XXX Web Series Ep3	https://bindasmood.com/parivartan-2023-primeplay-originals-hindi-xxx-web-series-ep3	
+5536	UPLOADED	Parivartan 2023 Primeplay Originals Hindi XXX Web Series Ep4	https://bindasmood.com/parivartan-2023-primeplay-originals-hindi-xxx-web-series-ep4	
