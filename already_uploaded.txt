@@ -3052,7 +3052,6 @@
 1524	UPLOADED	Kaanta Laga
 1525	UPLOADED	Dil To Baccha Hai Episode 6
 1526	UPLOADED	Ek Baar Aur Episode 4
-5588	SKIPPED	Dhokha Foxx Prime Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Dhokha/Dhokha%20Episode%201.mp4
 5589	SKIPPED	Doctor Babu Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Doctor%20Babu/Doctor%20Babu%20Episode%204.mp4
 5590	SKIPPED	Doctor Babu Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Doctor%20Babu/Doctor%20Babu%20Episode%203.mp4
 5591	SKIPPED	Doctor Babu Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Doctor%20Babu/Doctor%20Babu%20Episode%202.mp4
@@ -5415,3 +5414,4 @@
 5585	UPLOADED	Pappadam 2023 Yessma Malayalam XXX Web Series Episode 1	https://bindasmood.com/pappadam-2023-yessma-malayalam-xxx-web-series-episode-1	
 5586	UPLOADED	Khilona 2023 Primeshots Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/khilona-2023-primeshots-originals-hindi-xxx-web-series-ep-3	
 5587	UPLOADED	Shaharwali Gaonwali 2023 Wow Entertainment XXX Web Series Ep1	https://bindasmood.com/shaharwali-gaonwali-2023-wow-entertainment-xxx-web-series-ep1	
+5588	UPLOADED	Shaharwali Gaonwali 2023 Wow Entertainment XXX Web Series Ep2	https://bindasmood.com/shaharwali-gaonwali-2023-wow-entertainment-xxx-web-series-ep2	
