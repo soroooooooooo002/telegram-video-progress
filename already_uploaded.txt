@@ -974,7 +974,6 @@
 2946	UPLOADED	Bold Is Gold Episode 1
 2947	UPLOADED	Aamras Episode 2
 2948	UPLOADED	Aamras Episode 1
-5427	SKIPPED	Khoda Hostel Nikla Ladka Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hunters/Khoda%20Hostel%20Nikla%20Ladka/Khoda%20Hostel%20Nikla%20Ladka%20E5.mp4
 2949	UPLOADED	Dulhe Raja Episode 6
 720	UPLOADED	Saiyaan Farebi Episode 1
 2950	UPLOADED	Dulhe Raja Episode 5
@@ -5415,3 +5414,4 @@
 5424	UPLOADED	Sex Addicted Husband 2023 Hindi Unrated XXX Video	https://bindasmood.com/sex-addicted-husband-2023-hindi-unrated-xxx-video	
 5425	UPLOADED	Maili Chader 2023 Wow Entertainment Hindi XXX Web Series Ep 3	https://bindasmood.com/maili-chader-2023-wow-entertainment-hindi-xxx-web-series-ep-3	
 5426	UPLOADED	Maili Chader 2023 Wow Entertainment Hindi XXX Web Series Ep 4	https://bindasmood.com/maili-chader-2023-wow-entertainment-hindi-xxx-web-series-ep-4	
+5427	UPLOADED	Pyaari Budhon Mein Fass Gyi Woow Channel XXX Web Series Ep 1	https://bindasmood.com/pyaari-budhon-mein-fass-gyi-woow-channel-xxx-web-series-ep-1	
