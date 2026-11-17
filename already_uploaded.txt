@@ -3044,7 +3044,6 @@
 1513	UPLOADED	Aah Se Aaha Tak Episode 2
 1514	UPLOADED	Aah Se Aaha Tak Episode 3
 1515	UPLOADED	Aah Se Aaha Tak Episode 1
-5488	SKIPPED	Sasura Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Sasura/Sasura%20E1.mp4
 5489	SKIPPED	Samjhota Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Samjhota/Samjhota%20E2.mp4
 5490	SKIPPED	Samjhota Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Samjhota/Samjhota%20E1.mp4
 5491	SKIPPED	Samjhota Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Hulchul/Samjhota/Samjhota%20E3.mp4
@@ -5415,3 +5414,4 @@
 5485	UPLOADED	Doodh Wali 2023 Hunters Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/doodh-wali-2023-hunters-originals-hindi-xxx-web-series-ep-1	
 5486	UPLOADED	Doodh Wali 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/doodh-wali-2023-hunters-originals-hindi-xxx-web-series-ep-2	
 5487	UPLOADED	Doodh Wali 2023 Hunters Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/doodh-wali-2023-hunters-originals-hindi-xxx-web-series-ep-3	
+5488	UPLOADED	Shaadi 2023 Primeshots Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/shaadi-2023-primeshots-originals-hindi-xxx-web-series-ep-1	
