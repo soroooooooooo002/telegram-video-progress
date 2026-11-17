@@ -3047,7 +3047,6 @@
 1517	UPLOADED	Aah Se Aaha Tak Episode 6
 1518	UPLOADED	Kaanta Laga Episode 3
 1519	UPLOADED	Kaanta Laga Episode 4
-5570	SKIPPED	Madam Jee Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E2.mp4
 5571	SKIPPED	Madam Jee Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/HitPrime/Madam%20Jee/Madam%20Jee%20E1.mp4
 5572	SKIPPED	Rangeen Tailor Episode 2	Cannot send requests while disconnected
 5573	SKIPPED	Rangeen Tailor Episode 1	Cannot send requests while disconnected
@@ -5415,3 +5414,4 @@
 5567	UPLOADED	Galat Sambandh 2023 Kundi App Hindi XXX Web Series Episode 2	https://bindasmood.com/galat-sambandh-2023-kundi-app-hindi-xxx-web-series-episode-2	
 5568	UPLOADED	Room Service 2023 Kundi App Hindi XXX Web Series Episode 1	https://bindasmood.com/room-service-2023-kundi-app-hindi-xxx-web-series-episode-1-2	
 5569	UPLOADED	Room Service 2023 Kundi App Hindi XXX Web Series Episode 2	https://bindasmood.com/room-service-2023-kundi-app-hindi-xxx-web-series-episode-2-2	
+5570	UPLOADED	Manmaniyan Part 2 2023 Ullu Hindi XXX Web Series Episode 4	https://bindasmood.com/manmaniyan-part-2-2023-ullu-hindi-xxx-web-series-episode-4	
