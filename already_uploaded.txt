@@ -1088,7 +1088,6 @@
 784	SKIPPED	Aaiyashi Episode 3	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%203.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 785	SKIPPED	Aaiyashi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Aaiyashi/Aaiyashi%20Episode%202.mp4
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
-5621	SKIPPED	Rangeen Baatein S2 Episode 2	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein%20S2/Rangeen%20Baatein%20S2%20Episode%202.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 5622	SKIPPED	Rangeen Baatein Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Dreams%20Films/Rangeen%20Baatein/Rangeen%20Baatein%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 787	UPLOADED	Suhaagraat Episode 3
 5624	UPLOADED	Pyaas Episode 2
@@ -5415,3 +5414,4 @@
 5618	UPLOADED	Show Girls 2023 Hotx Vip Originals Hindi Uncut Sex Video	https://bindasmood.com/show-girls-2023-hotx-vip-originals-hindi-uncut-sex-video	
 5619	UPLOADED	Ooyo Kand 2023 Moodx Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/ooyo-kand-2023-moodx-originals-hindi-xxx-web-series-ep-4	
 5620	UPLOADED	Devika 2023 Hunters Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/devika-2023-hunters-originals-hindi-xxx-web-series-ep-1	
+5621	UPLOADED	Devika 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/devika-2023-hunters-originals-hindi-xxx-web-series-ep-2	
