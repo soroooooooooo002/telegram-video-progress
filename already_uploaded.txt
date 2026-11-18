@@ -3058,7 +3058,6 @@
 1530	SKIPPED	Dil To Baccha Hai Episode 1	Failed to upload file part 267.
 1531	UPLOADED	Dil To Baccha Hai Episode 2
 1532	UPLOADED	Ek Baar Aur Episode 1
-5607	SKIPPED	The Painter Episode 1	Cannot send requests while disconnected
 5608	SKIPPED	The Painter Episode 2	Cannot send requests while disconnected
 1533	UPLOADED	Ek Baar Aur Episode 3
 5609	SKIPPED	Shadyantra S3 Episode 2	Cannot send requests while disconnected
@@ -5415,3 +5414,4 @@
 5604	UPLOADED	ilaaj 2023 Primeplay Originals Hindi XXX Web Series Ep 7	https://bindasmood.com/ilaaj-2023-primeplay-originals-hindi-xxx-web-series-ep-7	
 5605	UPLOADED	ilaaj 2023 Primeplay Originals Hindi XXX Web Series Ep 8	https://bindasmood.com/ilaaj-2023-primeplay-originals-hindi-xxx-web-series-ep-8	
 5606	UPLOADED	Khilona 2023 Primeshots Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/khilona-2023-primeshots-originals-hindi-xxx-web-series-ep-1	
+5607	UPLOADED	Munshi Ji 2023 Wow Entertainment Hindi XXX Web Series Ep 1	https://bindasmood.com/munshi-ji-2023-wow-entertainment-hindi-xxx-web-series-ep-1	
