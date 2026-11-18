@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5705	SKIPPED	Chhatri Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Chhatri/Chhatri%20E2.mp4
 5706	SKIPPED	Bhabhi Ke Deewane Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Bhabhi%20Ke%20Deewane/Bhabhi%20Ke%20Deewane%20E3.mp4
 5707	SKIPPED	Chhatri Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Chhatri/Chhatri%20E1.mp4
 5708	SKIPPED	Bhabhi Ke Deewane Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Bhabhi%20Ke%20Deewane/Bhabhi%20Ke%20Deewane%20E4.mp4
@@ -5415,3 +5414,4 @@
 5702	UPLOADED	Jara Dhire Dhire 2023 Digi Movieplex XXX Web Series Ep 3	https://bindasmood.com/jara-dhire-dhire-2023-digi-movieplex-xxx-web-series-ep-3	
 5703	UPLOADED	Jara Dhire Dhire 2023 Digi Movieplex XXX Web Series Ep 4	https://bindasmood.com/jara-dhire-dhire-2023-digi-movieplex-xxx-web-series-ep-4	
 5704	UPLOADED	Aap Beeti 2023 Rangeen Hindi XXX Web Series Episode 2	https://bindasmood.com/aap-beeti-2023-rangeen-hindi-xxx-web-series-episode-2	
+5705	UPLOADED	Ratri Kawach 2023 Hunt Cinema Hindi XXX Web Series Ep 5	https://bindasmood.com/ratri-kawach-2023-hunt-cinema-hindi-xxx-web-series-ep-5	
