@@ -1111,7 +1111,6 @@
 3337	UPLOADED	Sachchi Saheli Episode 3
 811	UPLOADED	Rangeela Episode 1
 3338	UPLOADED	Sachchi Saheli Episode 4
-5663	UPLOADED	Chattri
 812	UPLOADED	Do Ankhein Chaar Haath Episode 7
 3339	UPLOADED	Saart Episode 1
 5664	UPLOADED	Black Magic
@@ -5415,3 +5414,4 @@
 5660	UPLOADED	Dirty Film 2023 Boom Movies Hindi XXX Short Film	https://bindasmood.com/dirty-film-2023-boom-movies-hindi-xxx-short-film	
 5661	UPLOADED	Maya Ki Pathshala 2023 Kundi App Hindi XXX Web Series Ep 1	https://bindasmood.com/maya-ki-pathshala-2023-kundi-app-hindi-xxx-web-series-ep-1	
 5662	UPLOADED	Maya Ki Pathshala 2023 Kundi App Hindi XXX Web Series Ep 2	https://bindasmood.com/maya-ki-pathshala-2023-kundi-app-hindi-xxx-web-series-ep-2	
+5663	UPLOADED	Kuwari Dulhan 2023 Kundi App Hindi XXX Web Series Episode 1	https://bindasmood.com/kuwari-dulhan-2023-kundi-app-hindi-xxx-web-series-episode-1	
