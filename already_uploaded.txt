@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5751	SKIPPED	Muniya 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Muniya%202.mp4
 5752	SKIPPED	Na Jaane Kya Hua	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Na%20Jaane%20Kya%20Hua.mp4
 5753	SKIPPED	Mohini The Heroine	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Mohini%20The%20Heroine.mp4
 5754	SKIPPED	Mohabbat Ki Jhoothi Dastaan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Mohabbat%20Ki%20Jhoothi%20Dastaan.mp4
@@ -5415,3 +5414,4 @@
 5748	UPLOADED	Palang Tod Gaon Ki Garmi 3 2023 Ullu XXX Web Series Ep 8	https://bindasmood.com/palang-tod-gaon-ki-garmi-3-2023-ullu-xxx-web-series-ep-8	
 5749	UPLOADED	Amrapali 2023 Rabbit Movies Hindi XXX Web Series Episode 5	https://bindasmood.com/amrapali-2023-rabbit-movies-hindi-xxx-web-series-episode-5	
 5750	UPLOADED	Amrapali 2023 Rabbit Movies Hindi XXX Web Series Episode 6	https://bindasmood.com/amrapali-2023-rabbit-movies-hindi-xxx-web-series-episode-6	
+5751	UPLOADED	Malamaal 2023 Primeplay Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/malamaal-2023-primeplay-originals-hindi-xxx-web-series-ep-1	
