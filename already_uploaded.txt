@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5757	SKIPPED	Miss Anjali	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Miss%20Anjali.mp4
 5758	SKIPPED	Kasoor	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Kasoor.mp4
 5759	SKIPPED	Jism Pujari	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Jism%20Pujari.mp4
 5760	SKIPPED	Jism Aur Paisa	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Jism%20Aur%20Paisa.mp4
@@ -5415,3 +5414,4 @@
 5754	UPLOADED	Malamaal 2023 Primeplay Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/malamaal-2023-primeplay-originals-hindi-xxx-web-series-ep-4	
 5755	UPLOADED	Leather Currency 2023 Moodx Hindi XXX Web Series Episode 3	https://bindasmood.com/leather-currency-2023-moodx-hindi-xxx-web-series-episode-3	
 5756	UPLOADED	Birthday 2023 Navarasa Hindi XXX Web Series Episode 2	https://bindasmood.com/birthday-2023-navarasa-hindi-xxx-web-series-episode-2	
+5757	UPLOADED	Halala 2023 Showx Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/halala-2023-showx-originals-hindi-xxx-web-series-episode-1	
