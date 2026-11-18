@@ -3052,7 +3052,6 @@
 1524	UPLOADED	Kaanta Laga
 1525	UPLOADED	Dil To Baccha Hai Episode 6
 1526	UPLOADED	Ek Baar Aur Episode 4
-5594	SKIPPED	Waiter Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Waiter/Waiter%20Episode%201.mp4
 5595	SKIPPED	Waiter Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Foxx%20Prime/Waiter/Waiter%20Episode%202.mp4
 5596	SKIPPED	Ayesha Bath	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Filmy%20Murga/Ayesha%20Bath.mp4
 5597	SKIPPED	Pizza	Cannot send requests while disconnected
@@ -5415,3 +5414,4 @@
 5591	UPLOADED	Khilona 2023 Primeshots Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/khilona-2023-primeshots-originals-hindi-xxx-web-series-ep-2	
 5592	UPLOADED	Harami Zamindaar 2023 Moodx Hindi XXX Web Series Episode 2	https://bindasmood.com/harami-zamindaar-2023-moodx-hindi-xxx-web-series-episode-2	
 5593	UPLOADED	Harami Zamindaar 2023 Moodx Hindi XXX Web Series Episode 3	https://bindasmood.com/harami-zamindaar-2023-moodx-hindi-xxx-web-series-episode-3	
+5594	UPLOADED	Jaan Bujh Kar 2 2023 Voovi Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/jaan-bujh-kar-2-2023-voovi-originals-hindi-xxx-web-series-ep-1	
