@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5711	SKIPPED	Atript Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Atript/Atript%20E2.mp4
 5712	SKIPPED	Atript Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Atript/Atript%20E1.mp4
 5713	SKIPPED	Kaam Dand Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Kaam%20Dand/Kaam%20Dand%20E6.mp4
 5714	SKIPPED	Kaam Dand Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Bull/Kaam%20Dand/Kaam%20Dand%20E4.mp4
@@ -5415,3 +5414,4 @@
 5708	UPLOADED	Pulinchikka 2023 Yessma Malayalam XXX Web Series Episode 3	https://bindasmood.com/pulinchikka-2023-yessma-malayalam-xxx-web-series-episode-3	
 5709	UPLOADED	Aunty Ji 2023 Neonx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/aunty-ji-2023-neonx-vip-originals-hindi-uncut-xxx-video	
 5710	UPLOADED	Bhabhi Ka Jalwa 2023 Leo App Hindi XXX Short Film	https://bindasmood.com/bhabhi-ka-jalwa-2023-leo-app-hindi-xxx-short-film	
+5711	UPLOADED	Adla Badli 2023 Besharam Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/adla-badli-2023-besharam-originals-hindi-xxx-web-series-ep-1	
