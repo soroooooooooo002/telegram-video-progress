@@ -1113,7 +1113,6 @@
 3338	UPLOADED	Sachchi Saheli Episode 4
 812	UPLOADED	Do Ankhein Chaar Haath Episode 7
 3339	UPLOADED	Saart Episode 1
-5670	SKIPPED	Darwaza Mat Kholna Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Darwaza%20Mat%20Kholna/Darwaza%20Mat%20Kholna%20E2.mp4
 5671	SKIPPED	Dhanno Doodhwali Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Dhanno%20Doodhwali/Dhanno%20Doodhwali%20E1.mp4
 5672	SKIPPED	Darwaza Mat Kholna Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/Darwaza%20Mat%20Kholna/Darwaza%20Mat%20Kholna%20E1.mp4
 5673	SKIPPED	BDSM Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Cine%20Prime/BDSM/BDSM%20E2.mp4
@@ -5415,3 +5414,4 @@
 5667	UPLOADED	Manchale Dost 2023 Kundi App Hindi XXX Web Series Episode 1	https://bindasmood.com/manchale-dost-2023-kundi-app-hindi-xxx-web-series-episode-1	
 5668	UPLOADED	Manchale Dost 2023 Kundi App Hindi XXX Web Series Episode 2	https://bindasmood.com/manchale-dost-2023-kundi-app-hindi-xxx-web-series-episode-2	
 5669	UPLOADED	Kajal Bhabhi 2 2023 Raven Movies Hindi XXX Web Series Ep 1	https://bindasmood.com/kajal-bhabhi-2-2023-raven-movies-hindi-xxx-web-series-ep-1	
+5670	UPLOADED	Kajal Bhabhi 2 2023 Raven Movies Hindi XXX Web Series Ep 2	https://bindasmood.com/kajal-bhabhi-2-2023-raven-movies-hindi-xxx-web-series-ep-2	
