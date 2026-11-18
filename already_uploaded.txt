@@ -1089,7 +1089,6 @@
 785	SKIPPED	Aaiyashi Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Akku/Aaiyashi/Aaiyashi%20Episode%202.mp4
 786	SKIPPED	Aaiyashi Episode 1	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /Akku/Aaiyashi/Aaiyashi%20Episode%201.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 787	UPLOADED	Suhaagraat Episode 3
-5624	UPLOADED	Pyaas Episode 2
 788	UPLOADED	Suhaagraat Episode 2
 789	UPLOADED	Suhaagraat Episode 1
 5625	UPLOADED	Paappi Gudda Episode 2
@@ -5415,3 +5414,4 @@
 5621	UPLOADED	Devika 2023 Hunters Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/devika-2023-hunters-originals-hindi-xxx-web-series-ep-2	
 5622	UPLOADED	Devika 2023 Hunters Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/devika-2023-hunters-originals-hindi-xxx-web-series-ep-3	
 5623	UPLOADED	Complimentary Massage 2023 Wow Hindi XXX Web Series Ep 1	https://bindasmood.com/complimentary-massage-2023-wow-hindi-xxx-web-series-ep-1	
+5624	UPLOADED	Complimentary Massage 2023 Wow Hindi XXX Web Series Ep 2	https://bindasmood.com/complimentary-massage-2023-wow-hindi-xxx-web-series-ep-2	
