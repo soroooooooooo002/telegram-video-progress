@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5774	SKIPPED	Dukhdayi Saiyan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Dukhdayi%20Saiyan.mp4
 5775	SKIPPED	Dirty Film	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Dirty%20Film.mp4
 5776	SKIPPED	Dhandha	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Dhandha.mp4
 5777	SKIPPED	Deshi Murgi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Deshi%20Murgi.mp4
@@ -5415,3 +5414,4 @@
 5771	UPLOADED	Dream Girl 2023 Ullu Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/dream-girl-2023-ullu-originals-hindi-xxx-web-series-ep-5	
 5772	UPLOADED	Dream Girl 2023 Ullu Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/dream-girl-2023-ullu-originals-hindi-xxx-web-series-ep-6	
 5773	UPLOADED	Harami 2023 Primeshots Hindi XXX Web Series Episode 1	https://bindasmood.com/harami-2023-primeshots-hindi-xxx-web-series-episode-1	
+5774	UPLOADED	Dalal X 2023 Moodx Vip Hindi Uncut XXX Web Series Episode 3	https://bindasmood.com/dalal-x-2023-moodx-vip-hindi-uncut-xxx-web-series-episode-3	
