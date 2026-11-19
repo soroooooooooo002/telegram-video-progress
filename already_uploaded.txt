@@ -1137,7 +1137,6 @@
 3353	UPLOADED	Pyar Ki Tadap Episode 4
 3354	UPLOADED	Online Romance Episode 1
 823	UPLOADED	Feelings Episode 2
-5795	UPLOADED	Gol Gappa
 3355	UPLOADED	Online Romance Episode 2
 5796	UPLOADED	Gili Gili Appa
 3356	UPLOADED	Online Romance Episode 3
@@ -5415,3 +5414,4 @@
 5792	UPLOADED	Mere Sapno Ki Rani 2023 Wow Originals XXX Web Series Ep 1	https://bindasmood.com/mere-sapno-ki-rani-2023-wow-originals-xxx-web-series-ep-1	
 5793	UPLOADED	Mere Sapno Ki Rani 2023 Wow Originals XXX Web Series Ep 2	https://bindasmood.com/mere-sapno-ki-rani-2023-wow-originals-xxx-web-series-ep-2	
 5794	UPLOADED	Mere Sapno Ki Rani 2023 Wow Originals XXX Web Series Ep 3	https://bindasmood.com/mere-sapno-ki-rani-2023-wow-originals-xxx-web-series-ep-3	
+5795	UPLOADED	Do Haseena 2023 Wow Entertainment XXX Web Series Episode 1	https://bindasmood.com/do-haseena-2023-wow-entertainment-xxx-web-series-episode-1	
