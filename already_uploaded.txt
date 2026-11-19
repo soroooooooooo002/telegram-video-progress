@@ -1203,7 +1203,6 @@
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
 862	UPLOADED	Khilona Feel Episode 3
-5872	SKIPPED	Maalik Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E5.mp4
 5873	SKIPPED	Maalik Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E6.mp4
 5874	SKIPPED	Maalik Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E8.mp4
 5875	SKIPPED	Maalik Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Besharams/Maalik/Maalik%20E2.mp4
@@ -5415,3 +5414,4 @@
 5869	UPLOADED	Kelewali 2023 Xprime Originals Hindi Hot XXX Short Film	https://bindasmood.com/kelewali-2023-xprime-originals-hindi-hot-xxx-short-film	
 5870	UPLOADED	Ragging 2023 Kaddu Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/ragging-2023-kaddu-originals-hindi-xxx-web-series-ep-1	
 5871	UPLOADED	The Exchange Kaddu Originals Hindi Hot Web Series 2023 Ep 1	https://bindasmood.com/the-exchange-kaddu-originals-hindi-hot-web-series-2023-ep-1	
+5872	UPLOADED	The Exchange Kaddu Originals Hindi Hot Web Series 2023 Ep 2	https://bindasmood.com/the-exchange-kaddu-originals-hindi-hot-web-series-2023-ep-2	
