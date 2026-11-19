@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5777	SKIPPED	Deshi Murgi	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Deshi%20Murgi.mp4
 5778	SKIPPED	Chocolate	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Chocolate.mp4
 5779	SKIPPED	Chumeshwari	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Chumeshwari.mp4
 5780	SKIPPED	Chhup Chhup Ke	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Chhup%20Chhup%20Ke.mp4
@@ -5415,3 +5414,4 @@
 5774	UPLOADED	Dalal X 2023 Moodx Vip Hindi Uncut XXX Web Series Episode 3	https://bindasmood.com/dalal-x-2023-moodx-vip-hindi-uncut-xxx-web-series-episode-3	
 5775	UPLOADED	Chaska 2023 Hunters Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/chaska-2023-hunters-originals-hindi-xxx-web-series-ep-5	
 5776	UPLOADED	Chaska 2023 Hunters Originals Hindi XXX Web Series Ep 6	https://bindasmood.com/chaska-2023-hunters-originals-hindi-xxx-web-series-ep-6	
+5777	UPLOADED	Chaska 2023 Hunters Originals Hindi XXX Web Series Ep 7	https://bindasmood.com/chaska-2023-hunters-originals-hindi-xxx-web-series-ep-7	
