@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5786	SKIPPED	Aunty Ki Ghanti	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Aunty%20Ki%20Ghanti.mp4
 5787	SKIPPED	Bhoganiya Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%203%20%282022%29%20XSeries.IN.mp4
 5788	SKIPPED	Bhoganiya Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%201%20%282021%29%20XSeries.IN.mp4
 5789	SKIPPED	Bhoganiya Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Bhoganiya%20%282021%29/Bhoganiya%202%20%282021%29%20XSeries.IN.mp4
@@ -5415,3 +5414,4 @@
 5783	UPLOADED	Sainyaa Salman Season 2 Rabbit Movies XXX Web Series Ep 1	https://bindasmood.com/sainyaa-salman-season-2-rabbit-movies-xxx-web-series-ep-1	
 5784	UPLOADED	Sainyaa Salman Season 2 Rabbit Movies XXX Web Series Ep 2	https://bindasmood.com/sainyaa-salman-season-2-rabbit-movies-xxx-web-series-ep-2	
 5785	UPLOADED	Khalish 2023 Ullu Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/khalish-2023-ullu-originals-hindi-xxx-web-series-episode-1	
+5786	UPLOADED	Khalish 2023 Ullu Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/khalish-2023-ullu-originals-hindi-xxx-web-series-episode-2	
