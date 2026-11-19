@@ -1149,7 +1149,6 @@
 829	SKIPPED	Chatpati Sister Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%203.mp4
 830	SKIPPED	Chatpati Sister Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Jugnu%20Tv/Chatpati%20Sister/Chatpati%20Sister%20Episode%201.mp4
 3361	UPLOADED	Local Doctor Episode 1
-5805	UPLOADED	Maal Paani Sexy Sauda Episode 1
 831	UPLOADED	Dil Banjara Episode 2
 3362	UPLOADED	Local Doctor Episode 2
 5806	UPLOADED	Maal Paani Sexy Sauda Episode 3
@@ -5415,3 +5414,4 @@
 5802	UPLOADED	Taak Jhank 2023 Taak Cinema Hindi XXX Web Series Episode 2	https://bindasmood.com/taak-jhank-2023-taak-cinema-hindi-xxx-web-series-episode-2	
 5803	UPLOADED	Sudha Bhabhi 2023 Hotx Vip Originals Hindi Uncut XXX Video	https://bindasmood.com/sudha-bhabhi-2023-hotx-vip-originals-hindi-uncut-xxx-video	
 5804	UPLOADED	Mumbai Junction 2023 Hindi Unrated XXX Short Film	https://bindasmood.com/mumbai-junction-2023-hindi-unrated-xxx-short-film	
+5805	UPLOADED	Tuition Kand 2023 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/tuition-kand-2023-moodx-hindi-xxx-web-series-episode-1	
