@@ -1142,7 +1142,6 @@
 824	UPLOADED	Maashuqa Episode 2
 3357	UPLOADED	Online Romance Episode 4
 3358	UPLOADED	Mera Baap Teri Mausi Episode 2
-5802	UPLOADED	Maanglik Episode 1
 3359	UPLOADED	Mera Baap Teri Mausi Episode 1
 3360	UPLOADED	Mera Baap Teri Mausi Episode 3
 826	UPLOADED	Tadap Ek Duje Ke Liye Episode 2
@@ -5415,3 +5414,4 @@
 5799	UPLOADED	Malamaal 2023 Primeplay Originals Hindi XXX Web Series Ep 7	https://bindasmood.com/malamaal-2023-primeplay-originals-hindi-xxx-web-series-ep-7	
 5800	UPLOADED	Malamaal 2023 Primeplay Originals Hindi XXX Web Series Ep 8	https://bindasmood.com/malamaal-2023-primeplay-originals-hindi-xxx-web-series-ep-8	
 5801	UPLOADED	Taak Jhank 2023 Taak Cinema Hindi XXX Web Series Episode 1	https://bindasmood.com/taak-jhank-2023-taak-cinema-hindi-xxx-web-series-episode-1	
+5802	UPLOADED	Taak Jhank 2023 Taak Cinema Hindi XXX Web Series Episode 2	https://bindasmood.com/taak-jhank-2023-taak-cinema-hindi-xxx-web-series-episode-2	
