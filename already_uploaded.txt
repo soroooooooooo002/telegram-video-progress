@@ -1124,7 +1124,6 @@
 3345	UPLOADED	Rocket Episode 3
 3346	UPLOADED	Rocket Episode 4
 817	UPLOADED	Do Ankhein Chaar Haath Episode 2
-5768	SKIPPED	Gore Gore Gaal	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Gore%20Gore%20Gaal.mp4
 5769	SKIPPED	Garam Naram	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Garam%20Naram.mp4
 5770	SKIPPED	Geometry Box	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Geometry%20Box.mp4
 5771	SKIPPED	Fraud Saiyyan	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Boom%20Movies/Fraud%20Saiyyan.mp4
@@ -5415,3 +5414,4 @@
 5765	UPLOADED	Adla Badli 2023 Besharam Originals Hindi XXX Web Series Ep 5	https://bindasmood.com/adla-badli-2023-besharam-originals-hindi-xxx-web-series-ep-5	
 5766	UPLOADED	Doctor Babu 2023 Xprime Originals Hindi Uncut XXX Video	https://bindasmood.com/doctor-babu-2023-xprime-originals-hindi-uncut-xxx-video	
 5767	UPLOADED	Promotion 2023 Neonx Vip Originals Hindi XXX Short Film	https://bindasmood.com/promotion-2023-neonx-vip-originals-hindi-xxx-short-film	
+5768	UPLOADED	Sajani 2023 Kooku Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/sajani-2023-kooku-originals-hindi-xxx-web-series-episode-2	
