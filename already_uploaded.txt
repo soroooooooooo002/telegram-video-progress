@@ -1203,7 +1203,6 @@
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
 862	UPLOADED	Khilona Feel Episode 3
-5916	SKIPPED	Bloody Marry Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E2.mp4
 5917	SKIPPED	Bloody Marry Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bloody%20Marry/Bloody%20Marry%20E1.mp4
 5918	SKIPPED	Bikri Episode 7	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E7.mp4
 5919	SKIPPED	Bikri Episode 6	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E6.mp4
@@ -5415,3 +5414,4 @@
 5913	UPLOADED	Bunty Babli 2023 Digi Movieplex Hindi XXX Web Series Ep 2	https://bindasmood.com/bunty-babli-2023-digi-movieplex-hindi-xxx-web-series-ep-2	
 5914	UPLOADED	Ghonchu 2023 Prime Shots Hindi XXX Web Series Episode 3	https://bindasmood.com/ghonchu-2023-prime-shots-hindi-xxx-web-series-episode-3	
 5915	UPLOADED	Dhokha 2023 Dunki Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/dhokha-2023-dunki-originals-hindi-xxx-web-series-episode-1	
+5916	UPLOADED	Psycho Saiyyan 2023 Voovi Hindi XXX Web Series Episode 1	https://bindasmood.com/psycho-saiyyan-2023-voovi-hindi-xxx-web-series-episode-1	
