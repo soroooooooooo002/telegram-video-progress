@@ -1203,7 +1203,6 @@
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
 862	UPLOADED	Khilona Feel Episode 3
-5921	SKIPPED	Bikri Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E5.mp4
 5922	SKIPPED	Bikri Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E3.mp4
 5923	SKIPPED	Bikri Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E4.mp4
 5924	SKIPPED	Bikri Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Bikri/Bikri%20E1.mp4
@@ -5415,3 +5414,4 @@
 5918	UPLOADED	Mask Girl 2023 Xprime Originals Hindi XXX Short Film	https://bindasmood.com/mask-girl-2023-xprime-originals-hindi-xxx-short-film	
 5919	UPLOADED	Roopmati 2023 Rabbit Originals Hindi XXX Web Series Ep 3	https://bindasmood.com/roopmati-2023-rabbit-originals-hindi-xxx-web-series-ep-3	
 5920	UPLOADED	Roopmati 2023 Rabbit Originals Hindi XXX Web Series Ep 4	https://bindasmood.com/roopmati-2023-rabbit-originals-hindi-xxx-web-series-ep-4	
+5921	UPLOADED	Naajayaz Rishte 2023 Primeflix Hindi XXX Web Series Ep 1	https://bindasmood.com/naajayaz-rishte-2023-primeflix-hindi-xxx-web-series-ep-1	
