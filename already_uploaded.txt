@@ -1203,7 +1203,6 @@
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
 862	UPLOADED	Khilona Feel Episode 3
-5906	SKIPPED	Chatkara Episode 8	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E8.mp4
 5907	SKIPPED	Chatkara Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E3.mp4
 5908	SKIPPED	Chatkara Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E4.mp4
 5909	SKIPPED	Chatkara Episode 5	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Chatkara/Chatkara%20E5.mp4
@@ -5415,3 +5414,4 @@
 5903	UPLOADED	Secretary 2023 Ullu Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/secretary-2023-ullu-originals-hindi-xxx-web-series-ep-1	
 5904	UPLOADED	Secretary 2023 Ullu Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/secretary-2023-ullu-originals-hindi-xxx-web-series-ep-2	
 5905	UPLOADED	Ragging 2023 Kaddu Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/ragging-2023-kaddu-originals-hindi-xxx-web-series-ep-2	
+5906	UPLOADED	Rangeen Batein 2023 Dreams Films Hindi XXX Web Series Ep 2	https://bindasmood.com/rangeen-batein-2023-dreams-films-hindi-xxx-web-series-ep-2	
