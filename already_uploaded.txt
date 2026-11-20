@@ -1206,7 +1206,6 @@
 3384	UPLOADED	Dr Lily Episode 3
 864	UPLOADED	Khilona Feel Episode 1
 3385	UPLOADED	Dr Lily Episode 4
-5961	SKIPPED	Chaalbaaz Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Chaalbaaz/Chaalbaaz%20E2.mp4
 5962	SKIPPED	Chaalbaaz Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Chaalbaaz/Chaalbaaz%20E1.mp4
 5963	SKIPPED	Bawarchi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E4.mp4
 5964	SKIPPED	Bawarchi Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E3.mp4
@@ -5415,3 +5414,4 @@
 5958	UPLOADED	Bunty Babli 2023 Digi Movieplex Hindi XXX Web Series Ep 3	https://bindasmood.com/bunty-babli-2023-digi-movieplex-hindi-xxx-web-series-ep-3	
 5959	UPLOADED	Bunty Babli 2023 Digi Movieplex Hindi XXX Web Series Ep 4	https://bindasmood.com/bunty-babli-2023-digi-movieplex-hindi-xxx-web-series-ep-4	
 5960	UPLOADED	Badan 2023 Ullu Originals Hindi XXX Web Series Episode 1	https://bindasmood.com/badan-2023-ullu-originals-hindi-xxx-web-series-episode-1	
+5961	UPLOADED	Badan 2023 Ullu Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/badan-2023-ullu-originals-hindi-xxx-web-series-episode-2	
