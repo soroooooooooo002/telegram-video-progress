@@ -1203,7 +1203,6 @@
 3381	UPLOADED	Gandu Dhar Episode 3
 3382	UPLOADED	Dr Lily Episode 1
 862	UPLOADED	Khilona Feel Episode 3
-5930	SKIPPED	Triangle Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E1.mp4
 5931	SKIPPED	Triangle Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E2.mp4
 5932	SKIPPED	Triangle Episode 3	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E3.mp4
 5933	SKIPPED	Triangle Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Atrangii/Triangle/Triangle%20E4.mp4
@@ -5415,3 +5414,4 @@
 5927	UPLOADED	Sui 2023 Prime Shots Originals Hindi XXX Web Series Ep 1	https://bindasmood.com/sui-2023-prime-shots-originals-hindi-xxx-web-series-ep-1	
 5928	UPLOADED	Chull Loveria 2023 Kooku Hindi XXX Web Series Episode 1	https://bindasmood.com/chull-loveria-2023-kooku-hindi-xxx-web-series-episode-1	
 5929	UPLOADED	Sui 2023 Prime Shots Originals Hindi XXX Web Series Ep 2	https://bindasmood.com/sui-2023-prime-shots-originals-hindi-xxx-web-series-ep-2	
+5930	UPLOADED	Jawaani Janeman 2023 Surmovies Hindi XXX Web Series Ep 2	https://bindasmood.com/jawaani-janeman-2023-surmovies-hindi-xxx-web-series-ep-2	
