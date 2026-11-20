@@ -1205,7 +1205,6 @@
 3384	UPLOADED	Dr Lily Episode 3
 864	UPLOADED	Khilona Feel Episode 1
 3385	UPLOADED	Dr Lily Episode 4
-5968	SKIPPED	Adhuri	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Adhuri/Adhuri.mp4
 5969	UPLOADED	Tags » XMaza
 3386	UPLOADED	De De Pyar De Episode 1
 866	UPLOADED	Seva Episode 1
@@ -5415,3 +5414,4 @@
 5965	UPLOADED	Juaa 2023 Prime Play Hindi XXX Web Series Episode 2	https://bindasmood.com/juaa-2023-prime-play-hindi-xxx-web-series-episode-2	
 5966	UPLOADED	Juaa 2023 Prime Play Hindi XXX Web Series Episode 3	https://bindasmood.com/juaa-2023-prime-play-hindi-xxx-web-series-episode-3	
 5967	UPLOADED	Klpd 2023 Hotty Notty Originals Hindi Hot Short Film	https://bindasmood.com/klpd-2023-hotty-notty-originals-hindi-hot-short-film	
+5968	UPLOADED	Sasur Harami 2023 Moodx Hindi XXX Web Series Episode 1	https://bindasmood.com/sasur-harami-2023-moodx-hindi-xxx-web-series-episode-1	
