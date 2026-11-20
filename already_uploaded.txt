@@ -419,7 +419,6 @@
 920	SKIPPED	Tanmay Apartment Episode 5	Download request failed: HTTPSConnectionPool(host='video.maalcdn.com', port=443): Max retries exceeded with url: /AKKU/Tanmay%20Apartment/Tanmay%20Apartment%20Episode%205.mp4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
 4648	UPLOADED	Kavita Bhabhi 2 Episode 5
 4689	SKIPPED	Julie Episode 2	HTTP error 404: 404 Client Error: Not Found for url: https://cdn.pmaal.com/ULLU/Julie%20/Julie%20Episode%202.mp4
-5966	SKIPPED	Bawarchi Episode 1	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Aaha%20Flix/Bawarchi/Bawarchi%20E1.mp4
 4754	UPLOADED	Halala Episode 5
 3773	SKIPPED	Laachi Episode 4	HTTP error 404: 404 Client Error: Not Found for url: https://video.maalcdn.com/Rabbit/Laachi/Laachi%20Episode%204.mp4
 3780	UPLOADED	Patang Paseena Episode 5
@@ -5415,3 +5414,4 @@
 5963	UPLOADED	Badan 2023 Ullu Originals Hindi XXX Web Series Episode 4	https://bindasmood.com/badan-2023-ullu-originals-hindi-xxx-web-series-episode-4	
 5964	UPLOADED	Juaa 2023 Prime Play Hindi XXX Web Series Episode 1	https://bindasmood.com/juaa-2023-prime-play-hindi-xxx-web-series-episode-1	
 5965	UPLOADED	Juaa 2023 Prime Play Hindi XXX Web Series Episode 2	https://bindasmood.com/juaa-2023-prime-play-hindi-xxx-web-series-episode-2	
+5966	UPLOADED	Juaa 2023 Prime Play Hindi XXX Web Series Episode 3	https://bindasmood.com/juaa-2023-prime-play-hindi-xxx-web-series-episode-3	
