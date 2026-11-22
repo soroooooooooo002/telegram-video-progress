@@ -5843,3 +5843,4 @@
 6395	FAILED	URL item 6395	https://bindasmood.com/kulta-3-moodx-originals-hindi-uncut-xxx-web-series-ep-2	522 Server Error: <none> for url: https://bindasmood.com/kulta-3-moodx-originals-hindi-uncut-xxx-web-series-ep-2
 6396	FAILED	URL item 6396	https://bindasmood.com/gulabo-2022-voovi-originals-hindi-xxx-web-series-episode-1	522 Server Error: <none> for url: https://bindasmood.com/gulabo-2022-voovi-originals-hindi-xxx-web-series-episode-1
 6397	UPLOADED	Gulabo 2022 Voovi Originals Hindi XXX Web Series Episode 2	https://bindasmood.com/gulabo-2022-voovi-originals-hindi-xxx-web-series-episode-2	
+6398	UPLOADED	What the F!!! Season 2 2022 Kooku Hindi Sex Web Series Ep 1	https://bindasmood.com/what-the-f-season-2-2022-kooku-hindi-sex-web-series-ep-1	
