@@ -5829,3 +5829,4 @@
 6381	FAILED	URL item 6381	https://bindasmood.com/saart-2022-digi-movieplex-hindi-xxx-web-series-episode-3	525 Server Error: <none> for url: https://bindasmood.com/saart-2022-digi-movieplex-hindi-xxx-web-series-episode-3
 6382	FAILED	URL item 6382	https://bindasmood.com/saart-2022-digi-movieplex-hindi-xxx-web-series-episode-4	522 Server Error: <none> for url: https://bindasmood.com/saart-2022-digi-movieplex-hindi-xxx-web-series-episode-4
 6383	FAILED	URL item 6383	https://bindasmood.com/pyaasi-dulhan-2-2022-neonx-vip-originals-hindi-xxx-video	522 Server Error: <none> for url: https://bindasmood.com/pyaasi-dulhan-2-2022-neonx-vip-originals-hindi-xxx-video
+6384	UPLOADED	Moksh Primeflix Originals Hindi Hot Web Series 2022 Ep 2	https://bindasmood.com/moksh-primeflix-originals-hindi-hot-web-series-2022-ep-2	
