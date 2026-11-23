@@ -6088,3 +6088,4 @@
 6640	UPLOADED	Tere Jaisa Yaar Kaha 2023 Ullu Hindi XXX Web Series Ep 1	https://bindasmood.com/tere-jaisa-yaar-kaha-2023-ullu-hindi-xxx-web-series-ep-1	
 6641	FAILED	URL item 6641	https://bindasmood.com/begam-ka-kotha-2023-leo-app-hindi-xxx-web-series-episode-2	500 Server Error: Internal Server Error for url: https://bindasmood.com/begam-ka-kotha-2023-leo-app-hindi-xxx-web-series-episode-2
 6642	FAILED	URL item 6642	https://bindasmood.com/begam-ka-kotha-2023-leo-app-hindi-xxx-web-series-episode-3	500 Server Error: Internal Server Error for url: https://bindasmood.com/begam-ka-kotha-2023-leo-app-hindi-xxx-web-series-episode-3
+6643	FAILED	URL item 6643	https://bindasmood.com/begam-ka-kotha-2023-leo-app-hindi-xxx-web-series-episode-4	HTTPSConnectionPool(host='bindasmood.com', port=443): Read timed out. (read timeout=60)
