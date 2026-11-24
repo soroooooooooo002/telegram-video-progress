@@ -6189,3 +6189,4 @@
 6741	FAILED	URL item 6741	https://bindasmood.com/yarana-raven-movies-2022-hindi-porn-web-series-episode-1-2	522 Server Error: <none> for url: https://bindasmood.com/yarana-raven-movies-2022-hindi-porn-web-series-episode-1-2
 6742	FAILED	URL item 6742	https://bindasmood.com/yarana-raven-movies-2022-hindi-porn-web-series-episode-3-4	525 Server Error: <none> for url: https://bindasmood.com/yarana-raven-movies-2022-hindi-porn-web-series-episode-3-4
 6743	FAILED	URL item 6743	https://bindasmood.com/jism-2022-atrangi-originals-hindi-hot-web-series-episode-1	522 Server Error: <none> for url: https://bindasmood.com/jism-2022-atrangi-originals-hindi-hot-web-series-episode-1
+6744	UPLOADED	Jism 2022 Atrangi Originals Hindi Hot Web Series Episode 2	https://bindasmood.com/jism-2022-atrangi-originals-hindi-hot-web-series-episode-2	
