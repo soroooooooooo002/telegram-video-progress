@@ -6185,3 +6185,4 @@
 6737	FAILED	URL item 6737	https://bindasmood.com/bhaiya-ki-saali-2022-rabbit-movies-hindi-sex-web-series-ep1	525 Server Error: <none> for url: https://bindasmood.com/bhaiya-ki-saali-2022-rabbit-movies-hindi-sex-web-series-ep1
 6738	FAILED	URL item 6738	https://bindasmood.com/bhaiya-ki-saali-2022-rabbit-movies-hindi-sex-web-series-ep2	522 Server Error: <none> for url: https://bindasmood.com/bhaiya-ki-saali-2022-rabbit-movies-hindi-sex-web-series-ep2
 6739	FAILED	URL item 6739	https://bindasmood.com/kaala-till-2-hunt-originals-hindi-hot-web-series-2022-ep-1	522 Server Error: <none> for url: https://bindasmood.com/kaala-till-2-hunt-originals-hindi-hot-web-series-2022-ep-1
+6740	FAILED	URL item 6740	https://bindasmood.com/kaala-till-2-hunt-originals-hindi-hot-web-series-2022-ep-2	525 Server Error: <none> for url: https://bindasmood.com/kaala-till-2-hunt-originals-hindi-hot-web-series-2022-ep-2
