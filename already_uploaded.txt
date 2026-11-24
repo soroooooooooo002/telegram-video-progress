@@ -6127,3 +6127,4 @@
 6679	FAILED	URL item 6679	https://bindasmood.com/jalebi-3-2023-rabbit-movies-hindi-xxx-web-series-episode-5	500 Server Error: Internal Server Error for url: https://bindasmood.com/jalebi-3-2023-rabbit-movies-hindi-xxx-web-series-episode-5
 6680	FAILED	URL item 6680	https://bindasmood.com/jalebi-3-2023-rabbit-movies-hindi-xxx-web-series-episode-6	500 Server Error: Internal Server Error for url: https://bindasmood.com/jalebi-3-2023-rabbit-movies-hindi-xxx-web-series-episode-6
 6681	FAILED	URL item 6681	https://bindasmood.com/ohhh-baby-2-2023-neonx-originals-hindi-xxx-short-film	500 Server Error: Internal Server Error for url: https://bindasmood.com/ohhh-baby-2-2023-neonx-originals-hindi-xxx-short-film
+6682	FAILED	URL item 6682	https://bindasmood.com/plan-2023-mangotv-originals-hindi-xxx-web-series-ep-2	500 Server Error: Internal Server Error for url: https://bindasmood.com/plan-2023-mangotv-originals-hindi-xxx-web-series-ep-2
