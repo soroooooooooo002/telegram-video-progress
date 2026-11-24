@@ -6147,3 +6147,4 @@
 6699	FAILED	URL item 6699	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-1	500 Server Error: Internal Server Error for url: https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-1
 6700	UPLOADED	Gandii Baat Season 7 2023 Alt Balaji XXX Web Series Ep 2	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-2	
 6701	FAILED	URL item 6701	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-3	522 Server Error: <none> for url: https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-3
+6702	FAILED	URL item 6702	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-4	522 Server Error: <none> for url: https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-4
