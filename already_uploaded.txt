@@ -6198,3 +6198,4 @@
 6750	UPLOADED	The Hot Stone Yessma Series Malayalam Hot Web Series 2022 Ep1	https://bindasmood.com/the-hot-stone-yessma-series-malayalam-hot-web-series-2022-ep1	
 6751	FAILED	URL item 6751	https://bindasmood.com/akeli-ladki-halkut-originals-2022-hindi-porn-short-film	522 Server Error: <none> for url: https://bindasmood.com/akeli-ladki-halkut-originals-2022-hindi-porn-short-film
 6752	FAILED	URL item 6752	https://bindasmood.com/nayaan-sukh-2-goodflix-movies-2022-hindi-hot-web-series-ep1	522 Server Error: <none> for url: https://bindasmood.com/nayaan-sukh-2-goodflix-movies-2022-hindi-hot-web-series-ep1
+6753	FAILED	URL item 6753	https://bindasmood.com/nayaan-sukh-2-goodflix-movies-2022-hindi-hot-web-series-ep2	522 Server Error: <none> for url: https://bindasmood.com/nayaan-sukh-2-goodflix-movies-2022-hindi-hot-web-series-ep2
