@@ -6164,3 +6164,4 @@
 6716	FAILED	URL item 6716	https://bindasmood.com/khidki-2023-ullu-originals-hindi-xxx-web-series-episode-6	522 Server Error: <none> for url: https://bindasmood.com/khidki-2023-ullu-originals-hindi-xxx-web-series-episode-6
 6717	FAILED	URL item 6717	https://bindasmood.com/kitab-ka-raaz-2023-voovi-originals-hindi-xxx-web-series-ep-6	522 Server Error: <none> for url: https://bindasmood.com/kitab-ka-raaz-2023-voovi-originals-hindi-xxx-web-series-ep-6
 6718	FAILED	URL item 6718	https://bindasmood.com/kaand-2023-kaddu-originals-hindi-xxx-web-series-episode-1	522 Server Error: <none> for url: https://bindasmood.com/kaand-2023-kaddu-originals-hindi-xxx-web-series-episode-1
+6719	FAILED	URL item 6719	https://bindasmood.com/kaand-2023-kaddu-originals-hindi-xxx-web-series-episode-2	522 Server Error: <none> for url: https://bindasmood.com/kaand-2023-kaddu-originals-hindi-xxx-web-series-episode-2
