@@ -6146,3 +6146,4 @@
 6698	FAILED	Thirichadi a Valentine Revenge Ep 1 Babbullu Web Series 2023	https://bindasmood.com/thirichadi-a-valentine-revenge-ep-1-babbullu-web-series-2023	Request was unsuccessful 6 time(s)
 6699	FAILED	URL item 6699	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-1	500 Server Error: Internal Server Error for url: https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-1
 6700	UPLOADED	Gandii Baat Season 7 2023 Alt Balaji XXX Web Series Ep 2	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-2	
+6701	FAILED	URL item 6701	https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-3	522 Server Error: <none> for url: https://bindasmood.com/gandii-baat-season-7-2023-alt-balaji-xxx-web-series-ep-3
